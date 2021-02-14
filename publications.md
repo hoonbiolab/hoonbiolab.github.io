@@ -5,13 +5,6 @@ title: Publications
 
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=foxOEo4AAAAJ&hl=en) and [ORCiD](https://orcid.org/0000-0003-4244-6126).
 
-## Work in Progress
-
-- Yanfen Zhu1, Amit D. Gujar, [...], __Hoon Kim__, Ana DeCarvalho, Roel G.W. Verhaak, Chia-Lin Wei, "Extrachromosomal DNA Function as Mobile Enhancers and Global Transcriptional Amplifiers in Cancer"
-
-- Laila M. Poisson, __Hoon Kim__(co-1<sup>st</sup> author), [...], Roel G.W. Verhaak, Ana C. deCarvalho, "A multiple model-system approach to studying therapeutic response in glioblastoma"
-
-
 ## Published
 
 - __Hoon Kim__, Nam Nguyen, Kristen Turner, [...], Sihan Wu, Jihe Liu, Sandeep Namburi, Howard Chang, Paul Mischel, Vineet Bafna, Roel Verhaak. "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers." ___Nature Genetics___, 2020 Aug.
