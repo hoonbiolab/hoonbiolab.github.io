@@ -40,7 +40,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 - Zheng S, Cherniack AD, Cancer Genome Atlas Research Network, Verhaak RG. "Comprehensive Pan-Genomic Characterization of Adrenocortical Carcinoma." ___Cancer Cell___, 2016 May.
 
 
-- Cancer Genome Atlas Research Network (__Hoon Kim__ included). "Comprehensive, Integrative Genomic Analysis of Diffuse Lower Grade Gliomas." ___New England Journal of Medicine___, 2015 Jun.
+- Cancer Genome Atlas Research Network. "Comprehensive, Integrative Genomic Analysis of Diffuse Lower Grade Gliomas." ___New England Journal of Medicine___, 2015 Jun.
 
 
 - __Hoon Kim__, Verhaak RG. "Transcriptional mimicry by tumor-associated stroma." ___Nature Genetics___, 2015 Apr.
