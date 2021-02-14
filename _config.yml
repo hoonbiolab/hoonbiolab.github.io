@@ -7,7 +7,7 @@ plugins:
 #  - jekyll-include-cache
 #  - jekyll-redirect-from
 #  - jekyll-mentions
-  - jekyll-twitter-plugin
+#  - jekyll-twitter-plugin
 
 title: Hoon Lab at Pharmacy, SKKU
 author: Hoon Kim
