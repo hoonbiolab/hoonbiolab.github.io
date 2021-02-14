@@ -23,7 +23,7 @@ A major cause of cancer treatment failure is the development of therapy resistan
 * Tumor microenvironment
 * [Biomedical data analysis system to fight diseases]({{site.url}}/glass)
 * Machine learning applications in understanding diseases
-* Neurodegenerative disease (expected)
+* Neurodegenerative disease
 
 
 ---
