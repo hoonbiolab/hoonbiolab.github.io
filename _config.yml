@@ -76,7 +76,7 @@ defaults:
       show-share: false
       show-subscribe: false
       support_promo_box: false
-      after-content: [share-section.html, purpleads.html, scroll-box.html]
+      after-content: [purpleads.html]
   -
     scope:
       path: "notblog"
@@ -88,7 +88,7 @@ defaults:
       show-share: false
       show-subscribe: false
       support_promo_box: false
-      after-content: [share-section.html, purpleads.html, scroll-box.html]
+      after-content: [purpleads.html]
   -
     scope:
       path: "pages"
@@ -100,7 +100,7 @@ defaults:
       path: ""
     values:
       layout: "page"
-      before-content: [support_promo_box.html, carbonads.html]
+      #before-content: [support_promo_box.html, carbonads.html]
       footer-extra: footer-subscribe.html
 
 exclude:

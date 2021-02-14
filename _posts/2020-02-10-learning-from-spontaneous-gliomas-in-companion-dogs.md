@@ -13,13 +13,13 @@ tags:
   - s_amin
   - papers
 date: "2020-02-10"
-comments: true
-show_meta: true
+comments: false
+show_meta: false
 published: true
 modified: "2020-02-19 11:54"
-sitemap: true
+#sitemap: true
 doi: "10.1016/j.ccell.2020.01.004"
-imagefeature: "media/paw_foot_print_thumb.jpg"
+#imagefeature: "media/paw_foot_print_thumb.jpg"
 ---
 
 Our paper focusing on comparative oncology of cross-species gliomas is out today in *Cancer Cell*. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. <!--more--> We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved mutational processes. We also queried age-related impact on development of glioma in canines vs. human pediatric and adult patients of glioma to show if canine gliomas resemble more of human pediatric or adult gliomas.

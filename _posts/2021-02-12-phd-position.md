@@ -14,10 +14,10 @@ tags:
   - comparative_oncology
 categories:
   - positions
+comments: false
+show_meta: false
 published: true
 date: 2021-02-12
-show_meta: true
-comments: true
 postjob: false
 noindex: true
 ---

@@ -14,10 +14,10 @@ tags:
   - comparative_oncology
 categories:
   - positions
+comments: false
+show_meta: false
 published: true
 date: 2021-02-14
-show_meta: true
-comments: true
 postjob: false
 noindex: true
 ---
@@ -46,5 +46,4 @@ Innovation in health care has been fueled by the access to large amounts of biom
 - Outstanding writing and communication skills, with an ability to work both independently and within collaborative teams productively.
 - Research intern positions are available until they join the academic program (starting 2021 Fall semester).
 
-
-<i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please \[contact Hoon]({{ site.url }}/contact/).
+<i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please \[contact Hoon]({{ site.url }}/about).
