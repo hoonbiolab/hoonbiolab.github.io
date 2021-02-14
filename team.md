@@ -85,11 +85,3 @@ css:
   {% endfor %}
 </div></div>
 </div>
-
-<script>
-$(function() {
-  $( "#accordion" ).accordion({
-      heightStyle: "content"
-  });
-});
-</script>
