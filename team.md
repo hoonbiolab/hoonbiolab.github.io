@@ -1,0 +1,90 @@
+---
+layout: page
+title:  "Team"
+#subtitle: Verhaak Lab
+meta_title: "Lab Members - Hoon Lab"
+meta_description: "Current lab members"
+#teaser: ""
+categories:
+    - people
+tags:
+    - team
+    - staff
+permalink: "/team/"
+comments: false
+show_meta: false
+bigimg: "/images/publpics/jax_grp2.jpg"
+menu: accordion
+css:
+  - /assets/css/imagehover.css
+  - /assets/css/custom_home.css
+---
+
+# TEAM HOON
+{:.text-center}
+
+### Principal Investigator
+
+<div class="row"><div class="col-sm-12">
+<div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H-small2.jpg" alt="Hoon Kim" />
+    <div class="go-top">
+        Hoon Kim, PhD
+        <p>Associate Professor</p>
+        <span class="social-icons"><a href="{{ site.url }}/about"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a><a href="https://twitter.com/{{ site.owner.twitter }}"  class="social-icons" target="_blank" title="Follow @wisekh6"> <i class="fa fa-twitter"></i></a><a href="{{ site.url }}/contact"  class="social-icons" title="Contact"> <i class="fa fa-envelope"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/about">Hoon Kim, PhD</a></div>
+</div>
+</div></div>
+
+
+### Students, Interns
+
+<div class="row">
+<div class="col-sm-4"><div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Heesuk Chung" />
+    <div class="go-top">
+        <p>Research Assistant, 03/21</p>
+        <p>Extrachromosomal DNA in brain tumor</p>
+        <span class="social-icons"><a href="{{ site.url }}/people/hs_chung/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/people/hs_chung">Heesuk Chung, BS</a></div>
+</div></div>
+
+<div class="col-sm-4"><div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Dacheng Zhao" />
+    <div class="go-top">
+        <p>Graduate Student, UConn 08/20</p>
+        <p>TBD</p>
+        <span class="social-icons"><a href="{{ site.url }}/people/d_zhao/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/people/d_zhao">Dacheng Zhao</a></div>
+
+
+<!-- Open Positions, if any, will populate here -->
+
+<div class="row">
+<div id="accordion col-sm-12"><hr class="small"></div>
+<div id="accordion col-sm-12">
+<div id="accordion">
+  {% assign counter = 1 %}
+  {% for post in site.categories.positions limit:5 %}
+  {% if post.postjob == true %}
+  <h4><i class="iconfont"></i> {% if post.date %}<time class="icon-calendar pr20" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time> {% endif %}{{ post.title }}</h4>
+    <div>
+      {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% elsif post.excerpt %}{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}
+      <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+    </div>
+  {% endif %}
+  {% assign counter=counter | plus:1 %}
+  {% endfor %}
+</div></div>
+</div>
+
+<script>
+$(function() {
+  $( "#accordion" ).accordion({
+      heightStyle: "content"
+  });
+});
+</script>

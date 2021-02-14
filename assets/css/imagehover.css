@@ -1,0 +1,51 @@
+/*----- Bootstrap image hover by http://miketricking.github.io/dist/ -----*/
+/*http://tympanus.net/codrops/2014/06/19/ideas-for-subtle-hover-effects/*/
+
+/*http://www.webtutorialplus.com/css-hover-effects/*/
+/* Common division block */
+.holder
+{
+    border: 6px solid #FFFFFF;
+    float: left;
+    margin: 20px;
+    position: relative;    
+    overflow: hidden;
+    box-shadow: 0px 0px 5px #333333;
+    -webkit-transition: 0.5s Ease;
+    -moz-transition: 0.5s Ease;
+    -o-transition: 0.5s Ease;
+    transition: 0.5s Ease;    
+}
+
+/* Smooth Caption */
+
+.go-top
+{
+    background-color: rgba(0,0,0,0.5);
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 0px;
+    top: 600px;
+    width: auto;
+    text-align:center;  
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;   
+    transition: 0.5s Ease;
+}
+.smooth:hover > .go-top
+{   
+    top:0px;   
+}
+/*headshot onHover Info*/
+.go-top p
+{
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 10px 0 0 10px;
+}
+
+.social-icons {
+  color: #FFFFFF !important;
+}
+/*## END ##*/
