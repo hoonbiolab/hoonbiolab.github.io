@@ -41,6 +41,20 @@ We have a current opening for MS/PhD positions!
 * Machine learning applications in understanding diseases
 * Neurodegenerative disease (expected)
 
+### Selected recent papers (2018~)
+
+* "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers.", Nature Genetics, 2020 Aug.
+
+* "MGMT genomic rearrangements contribute to chemotherapy resistance in gliomas.", Nature Communications, 2020 Aug.
+
+* "Comparative molecular life history of spontaneous canine and human glioma", Cancer Cell, 2020 Feb.
+
+* "Longitudinal Molecular Trajectories of Diffuse Glioma in Adults", Nature, 2019 Nov.
+
+* "Circular extrachromosomal DNA promotes accessible chromatin and high oncogene expression.", Nature, 2019 Nov.
+
+* "Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma.", Nature Genetics, 2018 Apr.
+
 ### Description
 
 **"Our lab is all about big data."**

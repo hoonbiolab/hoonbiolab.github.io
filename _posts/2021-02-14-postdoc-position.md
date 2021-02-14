@@ -36,7 +36,7 @@ We have a current opening for a post-doctoral position!
 
 **"Our lab is all about big data."**
 
-Innovation in health care has been fueled by the access to large amounts of biomolecular data, fast computing capacity, and advances in profiling technologies and molecular tools. A major goal of our lab research is, by integrating the quantitative sciences with biomedical research, to enhance our understanding, diagnosis, and treatment of human diseases, and eventually promote improved human health. We look for a postdoctoral scientist that is interested in understanding diseases and its genetic underpinnings in order to make these findings clinically relevant. He/She has the opportunity to leverage big biomolecular data (i.e., genomics, imaging) obtained from patients with an extremely sophisticated computational infrastructure and biomolecular techniques.
+Innovation in health care has been fueled by the access to large amounts of biomolecular data, fast computing capacity, and advances in profiling technologies and molecular tools. A major goal of our lab research is, by integrating the quantitative sciences with biomedical research, to enhance our understanding, diagnosis, and treatment of human diseases, and eventually promote improved human health. We look for a postdoctoral scientist that is interested in understanding diseases and its genetic underpinnings in order to make these findings clinically relevant. She/He has the opportunity to leverage big biomolecular data (i.e., genomics, imaging) obtained from patients with an extremely sophisticated computational infrastructure and biomolecular techniques.
 
 ### Qualifications
 
