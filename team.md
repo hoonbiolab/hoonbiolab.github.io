@@ -27,7 +27,7 @@ css:
 
 <div class="row"><div class="col-sm-12">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H-small2.jpg" alt="Hoon Kim" />
+    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
     <div class="go-top">
         Hoon Kim, PhD
         <p>Associate Professor</p>

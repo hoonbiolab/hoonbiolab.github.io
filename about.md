@@ -26,7 +26,7 @@ css:
 <!-- Avoid edit from here... -->
 <div class="row text-center">
 <div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H-small2.jpg" alt="Hoon Kim" />
+    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
 </div></div>
 </div>
 
@@ -37,7 +37,7 @@ The Hoon Lab started in 2021 in the [School of Pharmacy](https://skb.skku.edu/en
 
 ### Previously
 
-Before joining the faculty of SKKU, he was a senior research scientist at [**The Jackson Laboratory For Genomic Medicine (JAX)**](https://www.jax.org/personalized-medicine/the-jackson-laboratory-for-genomic-medicine), Farmington, CT. At JAX, he participated in multiple projects including Pan-Cancer analysis of extrachromosomal DNAs, and the effects of extrachromosomal DNAs in glioma evolution, and  was the founding member of Glioma Longitudinal AnalySiS (GLASS).
+Before joining the faculty of SKKU, he was a senior research scientist at [**The Jackson Laboratory For Genomic Medicine (JAX)**](https://www.jax.org/personalized-medicine/the-jackson-laboratory-for-genomic-medicine), Farmington, CT. At JAX, he participated in multiple projects including Pan-Cancer analysis of extrachromosomal DNAs, and the effects of extrachromosomal DNAs in glioma evolution. He was  the founding member of Glioma Longitudinal AnalySiS ([GLASS](https://www.glass-consortium.org/)).
 
 
 ### Before that
@@ -45,4 +45,4 @@ Before joining the faculty of SKKU, he was a senior research scientist at [**The
 In 2011, Hoon worked with Dr. Roel Verhaak in the [Department of Bioinformatics and Computational Biology](http://bioinformatics.mdanderson.org) as postdoc and later in the [Department of Genomic Medicine](http://www.mdanderson.org/education-and-research/departments-programs-and-labs/departments-and-divisions/genomic-medicine/index.html) as research faculty at the [**MD Anderson Cancer Center**](http://www.mdanderson.org), in Houston, Texas. 
 
 ### Even before that
-Hoon received his doctoral degree for his thesis titled "Selection of Disease-Associated Gene Sets", working with Dr. Dimitris Anastassiou at the [**Columbia University**](https://www.columbia.edu/) in New York, USA. Prior to completing his PhD, Hoon earned his MSc in Electrical Engineering-Systems from [**University of Michigan**](https://umich.edu/), Ann Arbor, and BS degrees in Electrical Engineering and Life Science from Korea University, Seoul.
+Hoon received his doctoral degree for his thesis titled "Selection of Disease-Associated Gene Sets", working with [Dr. Dimitris Anastassiou](https://www.ee.columbia.edu/~anastas/) at the [**Columbia University**](https://www.columbia.edu/) in New York, USA. Prior to completing his PhD, Hoon earned his MSc in Electrical Engineering-Systems from [**University of Michigan**](https://umich.edu/), Ann Arbor, and BS degrees in Electrical Engineering and Life Science from Korea University, Seoul.
