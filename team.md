@@ -38,10 +38,10 @@ css:
 </div></div>
 
 
-### Students, Interns
+### Students
 
-<div class="row">
-<div class="col-sm-4"><div class="holder smooth">
+<div class="row"><div class="col-sm-4">
+<div class="holder smooth">
     <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Hee-suk Chung" />
     <div class="go-top">
         <p>Research Assistant, 03/21</p>
@@ -50,8 +50,12 @@ css:
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/hs_chung">Heesuk Chung, BS</a></div>
 </div></div>
+</div>
 
-<div class="col-sm-4"><div class="holder smooth">
+### Interns
+
+<div class="row"><div class="col-sm-4">
+<div class="holder smooth">
     <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Jun-yong Ko" />
     <div class="go-top">
         <p>Junior, SKKU</p>
@@ -59,7 +63,8 @@ css:
         <span class="social-icons"><a href="{{ site.url }}/people/jy_ko/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Jun-yong Ko</a></div>
-
+</div></div>
+</div>
 
 <!-- Open Positions, if any, will populate here -->
 
