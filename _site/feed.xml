@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Hoon Lab at Pharmacy, SKKU</title>
+    
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/hiring.png&quot; height=&quot;20px&quot;&gt; Join Team Hoon - We have MS/PhD positions open!</title>
+        <description>
+          Hiring !!! - 
+          We have a current opening for MS/PhD positions! Hiring Areas Computational Biology / Bioinformatics / Machine Learning or related Cell biology / Immunology or related (we will teach computing) Research area Tumor evolution Extrachromosomal oncogenes Genomics Mutational processes Tumor microenvironment Biomedical data analysis system Machine learning applications in understanding diseases...
+        </description>
+        <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/phd-position/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/phd-position/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Pan-Cancer analysis of extrachromosomal DNA amplification</title>
+        <description>
+          Nature genetics - 
+          Follow up to our previous work on extra-chrmosomal DNA (ecDNA) amplifications in glioblastoma, Hoon Kim led the pan-cancer analysis of ecDNA amplifications in 3,212 tumor and 1,810 normal samples across 29 cancer types. Read more about our work at Nature Genetics and in the press release. Kim, H., Nguyen, N....
+        </description>
+        <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/pancancer-ecdna-survival/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/pancancer-ecdna-survival/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Learning from spontaneous gliomas in companion dogs</title>
+        <description>
+          Cancer Cell - 
+          Our paper focusing on comparative oncology of cross-species gliomas is out today in Cancer Cell. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved...
+        </description>
+        <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/learning-from-spontaneous-gliomas-in-companion-dogs/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/learning-from-spontaneous-gliomas-in-companion-dogs/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Glioma evolution over time characterized</title>
+        <description>
+          Nature - 
+          Floris Barthel, Kevin Johnson are the lead authors on a new study on longitudinal analysis of glioma in adult patients, with contributions from many lab members. This is a first seminal study that leverages the GLASS Data Resource and the first publication in collaboration with the GLASS Consortium. We identified...
+        </description>
+        <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/glioma-evolution-over-time-characterized/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/glioma-evolution-over-time-characterized/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Circular ecDNA promotes accessible chromatin and high oncogene expression</title>
+        <description>
+          Nature - 
+          
+  deCarvalho AC, Kim H, Poisson LM, Winn ME, Mueller C, Cherba D, et al. Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma. Nat Genet 2018. PMID: 29686388
+
+
+        </description>
+        <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/ecdna_wu/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/ecdna_wu/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/resource.png&quot; height=&quot;20px&quot;&gt; GLASS Data Resource released</title>
+        <description>
+          Resource - 
+          The mission of the Glioma Longitudinal Analysis (GLASS) Consortium is to create a longitudinal molecular reference data set that can be used to characterize and understand the processes that drive glioma evolution and therapy resistance. Towards that goal, the first GLASS Data Resource was released today, consisting of multiple time-point...
+        </description>
+        <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/glass-data-resource-released/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/glass-data-resource-released/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Announcing Glioma Longitudinal AnalySiS (GLASS) Consortium</title>
+        <description>
+          Neuro-oncology - 
+          The Glioma Longitudinal AnalySiS (GLASS) Consortium announces itself to the world in Neuro-Oncology, with Roel as corresponding author.
+
+
+  GLASS Consortium. Glioma Through the Looking GLASS: Molecular Evolution of Diffuse Gliomas and the Glioma Longitudinal AnalySiS Consortium. Neuro Oncol 2018. PMID: 29432615
+
+
+        </description>
+        <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/glass-white-paper/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/glass-white-paper/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; extrachromosomal DNA amplification in GBM</title>
+        <description>
+          Nature Genetics - 
+          A formative publication for the Verhaak lab, our first publication fully focused on extrachromosomal DNA amplification, with co-first author Hoon, proudly published in Nature Genetics. deCarvalho AC, Kim H, Poisson LM, Winn ME, Mueller C, Cherba D, et al. Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic...
+        </description>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/ecdna_gbm/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/ecdna_gbm/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Next chapter of the Expression Subtypes of Glioblastoma</title>
+        <description>
+          Cancer Cell - 
+          Qianghu build the next chapter of the “expression subtypes of glioblastoma” saga, building on Roel’s GBM subtypes postdoc paper and appropriately published in Cancer Cell. Wang Q, Hu B, Hu X, Kim H, Squatrito M, Scarpace L, et al. Tumor Evolution of Glioma-Intrinsic Gene Expression Subtypes Associates with Immunological Changes...
+        </description>
+        <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/expr_subtypes2/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/expr_subtypes2/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; TCGA Low Grade Glioma Paper</title>
+        <description>
+          New England Journal of Medicine - 
+          The TCGA lower grade glioma paper was published in the New England Journal today with critical contributions from our lab. Roel was cited on NBC news! MD Anderson News Release TCGA Network. Comprehensive, Integrative Genomic Analysis of Diffuse Lower-Grade Gliomas. N Engl J Med. 2015. PMID: 26061751, Full text article...
+        </description>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/paper_tcga_lgg_nejm/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/paper_tcga_lgg_nejm/</guid>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Tumor evolution in glioblastoma</title>
+        <description>
+          Genome Research - 
+          Hoon and Siyuan are co-first authors of our Genome Research publication on tumor evolution in glioblastoma. Congratulations!
+
+
+  Kim H, Zheng S, …, Verhaak RG. Whole-genome and multisector exome sequencing of primary and post-treatment glioblastoma reveals patterns of tumor evolution. Genome Res. 2015. PMID: 25650244 Full text article
+
+
+        </description>
+        <pubDate>Tue, 03 Feb 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/paper_gbm_evolution_genomeres/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/paper_gbm_evolution_genomeres/</guid>
+      </item>
+    
+  </channel>
+</rss>

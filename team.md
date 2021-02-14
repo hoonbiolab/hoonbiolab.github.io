@@ -42,7 +42,7 @@ css:
 
 <div class="row">
 <div class="col-sm-4"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Heesuk Chung" />
+    <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Hee-suk Chung" />
     <div class="go-top">
         <p>Research Assistant, 03/21</p>
         <p>Extrachromosomal DNA in brain tumor</p>
@@ -52,13 +52,13 @@ css:
 </div></div>
 
 <div class="col-sm-4"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Dacheng Zhao" />
+    <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Jun-yong Ko" />
     <div class="go-top">
-        <p>Graduate Student, UConn 08/20</p>
+        <p>Junior, SKKU</p>
         <p>TBD</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/d_zhao/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+        <span class="social-icons"><a href="{{ site.url }}/people/jy_ko/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/d_zhao">Dacheng Zhao</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Jun-yong Ko</a></div>
 
 
 <!-- Open Positions, if any, will populate here -->
