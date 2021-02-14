@@ -44,6 +44,5 @@ Innovation in health care has been fueled by the access to large amounts of biom
 - Prior research experience in one of the following areas will be preferred: cancer, quantitative biology, CRISPR/Cas9 (epi)genome editing.
 - Track record of productivity supported by first-author publications in peer-reviewed journals.
 - Outstanding writing and communication skills, with an ability to work both independently and within collaborative teams productively.
-- Research intern positions are available until they join the academic program (starting 2021 Fall semester).
 
 <i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please \[contact Hoon]({{ site.url }}/about).

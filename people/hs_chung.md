@@ -15,7 +15,6 @@ css:
   - /assets/css/imagehover.css
   - /css/custom_home.css
 ---
-{% include improve_content.html %}
 
 <div class="row">
 <div class="col"><div class="holder smooth">
