@@ -5,7 +5,7 @@ description: "Contact Hoon Lab at School of Pharmacy, Sungkyunkwan University, S
 sidebar: right
 permalink: "/contact/"
 comments: false
-show_meta: false
+show_meta: true
 #bigimg: "/images/publpics/jax_bdg1.jpg"
 menu: accordion
 ---
