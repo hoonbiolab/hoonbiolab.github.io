@@ -45,4 +45,5 @@ Innovation in health care has been fueled by the access to large amounts of biom
 - Track record of productivity supported by first-author publications in peer-reviewed journals.
 - Outstanding writing and communication skills, with an ability to work both independently and within collaborative teams productively.
 
-<i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please \[contact Hoon]({{ site.url }}/about).
+<!---<i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please \[contact Hoon]({{ site.url }}/about).--->
+<i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please contact Hoon <wisekh6@gmail.com>.
