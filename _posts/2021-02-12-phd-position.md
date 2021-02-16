@@ -67,4 +67,5 @@ Innovation in health care has been fueled by the access to large amounts of biom
 - Research intern positions are available until they join the academic program (starting 2021 Fall semester).
 - If you are interested in the above positions, email “Hoon Kim” (wisekh6@gmail.com) with your CV. Additional documents (statement of purpose, academic certificate) required for joing the academic program will be requested later.
 
-<i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please \[contact Hoon]({{ site.url }}/contact/).
+<!---<i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please \[contact Hoon]({{ site.url }}/about).--->
+<i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please contact Hoon <wisekh6@gmail.com>.
