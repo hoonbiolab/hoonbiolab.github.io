@@ -56,7 +56,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/blank-person.png" alt="Jun-yong Ko" />
+    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Jun-yong Ko" />
     <div class="go-top">
         <p>Junior, SKKU</p>
         <p>TBD</p>
