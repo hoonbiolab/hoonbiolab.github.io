@@ -2,7 +2,7 @@
 layout: post
 title: <img src="/assets/img/paper.png" height="20px"> Pan-Cancer analysis of extrachromosomal DNA amplification
 subtitle: "Nature genetics"
-thumbnail-img: "/assets/img/ecdna_glioma_evolution_low.png"
+thumbnail-img: "/assets/img/pancan_aa_freq.png"
 categories: publication
 tags:
   - ecDNA
