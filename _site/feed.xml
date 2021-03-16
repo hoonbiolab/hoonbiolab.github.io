@@ -10,25 +10,19 @@
     
     
       <item>
-        <title>&lt;img src=&quot;/assets/img/hiring.png&quot; height=&quot;20px&quot;&gt; Join Team Hoon - We have a postdoc position open!</title>
+        <title>&lt;img src=&quot;/assets/img/grant.png&quot; height=&quot;20px&quot;&gt; NIH/NCI R21 grant application score was posted (top 3 %) !!!</title>
         <description>
-          Hiring !!! - 
-          We have a current opening for a post-doctoral position! Research area Tumor evolution Extrachromosomal oncogenes Single-cell (DNA/RNA/ATAC) sequencing Description “Our lab is all about big data.” Innovation in health care has been fueled by the access to large amounts of biomolecular data, fast computing capacity, and advances in profiling technologies...
+          NIH/NCI Grant - 
+          
+
+Hoon’s NIH/NCI R21 grant application about extrachromosomal DNA received the top 3 % with impact score 24. It is the most likely to be within the funding line !!!
+
+ For questions regarding available training opportunities, please [contact Hoon](http://localhost:4000/about).
+
         </description>
-        <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/postdoc-position/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/postdoc-position/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/hiring.png&quot; height=&quot;20px&quot;&gt; Join Team Hoon - We have MS/PhD positions open!</title>
-        <description>
-          Hiring !!! - 
-          We have a current opening for MS/PhD positions! Hiring Areas Computational Biology / Bioinformatics / Machine Learning or related Cell biology / Immunology or related (we will teach computing) Research area Tumor evolution Extrachromosomal oncogenes Genomics Mutational processes Tumor microenvironment Biomedical data analysis system Machine learning applications in understanding diseases...
-        </description>
-        <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/phd-position/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/phd-position/</guid>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/NIH_R21/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/NIH_R21/</guid>
       </item>
     
       <item>

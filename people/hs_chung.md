@@ -18,7 +18,7 @@ css:
 
 <div class="row">
 <div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/hs_chung.png" alt="Heesuk Jung" />
+    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Jung" />
 </div></div>
 </div>
 
