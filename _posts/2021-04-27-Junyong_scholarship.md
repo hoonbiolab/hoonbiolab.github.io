@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <img src="/assets/img/scholarship.png" height="20px"> Jun-yong was awarded National Scholarship !!!
+title: <img src="/assets/img/scholarship.png" height="50px"> Jun-yong was awarded National Scholarship !!!
 subtitle: "National Academic Excellence Scholarship (Science and Engineering)"
 thumbnail-img: "/assets/img/papers/202104-junyong_scholarship.png"
 categories: scholarship
