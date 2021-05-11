@@ -27,7 +27,7 @@ Biochemistry, Bioinformatics, Computational Science, Cancer Immunology, Immunoth
 
 ### Education and Experience
 
-**Calvin University**
+**Calvin University, Grand Rapids MI.**
 - BS, Biochemistry, 09/2013 ~ 05/2019
 
 
