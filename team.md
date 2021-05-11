@@ -52,6 +52,19 @@ css:
 </div></div>
 </div>
 
+<div class="row"><div class="col-sm-4">
+<div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seung-Hyun Kang" />
+    <div class="go-top">
+        <p>Research Assistant, 05/21</p>
+        <p>Extrachromosomal DNA in brain tumor</p>
+        <span class="social-icons"><a href="{{ site.url }}/people/sk_kang/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">SeungHyun Kang, BS</a></div>
+</div></div>
+</div>
+
+
 ### Interns
 
 <div class="row"><div class="col-sm-4">
