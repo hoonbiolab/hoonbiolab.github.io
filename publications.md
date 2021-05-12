@@ -7,10 +7,13 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## Published
 
-- Johnson K, Anderson K, [...], __Hoon Kim__, Estecio MRH, Tang M, Navin N, Maurya R, Ngan CY, Verburg N, Witt Hamer PC, Bulsara K, Samuels ML, Das S, Robson P, Verhaak RG. "Single-cell multimodal glioma analyses reveal epigenetic regulators of cellular plasticity and environmental stress response", Accepted for publication by ___Nature Genetics___, 2021.
+- Johnson K\textbf{\textsuperscript{*}}, Anderson K\textbf{\textsuperscript{*}}, [...], __Hoon Kim__, Estecio MRH, Tang M, Navin N, Maurya R, Ngan CY, Verburg N, Witt Hamer PC, Bulsara K, Samuels ML, Das S, Robson P, Verhaak RG. "Single-cell multimodal glioma analyses reveal epigenetic regulators of cellular plasticity and environmental stress response", Accepted for publication by ___Nature Genetics___, 2021.
 
 
-- Yanfen Zhu, Amit D. Gujar, Chee-Hong Wong, [...], __Hoon Kim__, [...], Roel G.W. Verhaak, Chia-Lin Wei. "Oncogenic Extrachromosomal DNA Functions as Mobile Enhancers to Globally Amplify Chromosomal Transcription.",___Cancer Cell___, 2021 April.
+- Yanfen Zhu\textbf{\textsuperscript{*}}, Amit D. Gujar, Chee-Hong Wong, [...], __Hoon Kim__, [...], Roel G.W. Verhaak, Chia-Lin Wei. "Oncogenic Extrachromosomal DNA Functions as Mobile Enhancers to Globally Amplify Chromosomal Transcription.",___Cancer Cell___, 2021 April.
+
+
+- Yi E\textbf{\textsuperscript{*}}, Gujar A\textbf{\textsuperscript{*}}, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", ___bioRxiv___, 2020 Oct.
 
 
 - __Hoon Kim__, Nam Nguyen, Kristen Turner, [...], Sihan Wu, Jihe Liu, Sandeep Namburi, Howard Chang, Paul Mischel, Vineet Bafna, Roel Verhaak. "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers." ___Nature Genetics___, 2020 Aug.
@@ -83,9 +86,6 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 
 - __Hoon Kim__, Watkinson J, Varadan V, Anastassiou D. "Multi-cancer computational analysis reveals invasion-associated variant of desmoplastic reaction involving INHBA, THBS2 and COL11A1." ___BMC Med Genomics___, 2010 Nov.
-
-
-- Yi E, Gujar A, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", ___bioRxiv___, 2010 Oct.
 
 
 
