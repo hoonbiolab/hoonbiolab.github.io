@@ -20,7 +20,7 @@ noindex: true
 
 **Today, We Celebrated Our First Teacher's Day**
 
-<img src="/assets/img/cakecut.gif">
+<img src="/assets/img/cakecut.gif" height="480px" width="360px">
 
 Happy Teacher's Day, we had 1st teacher's day celebration with Prof. Kim. 
 
