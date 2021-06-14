@@ -57,10 +57,22 @@ css:
     <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seung-Hyun Kang" />
     <div class="go-top">
         <p>Research Assistant, 05/21</p>
-        <p>Extrachromosomal DNA in brain tumor</p>
+        <p>Extrachromosomal DNA in Gastric Cancer</p>
         <span class="social-icons"><a href="{{ site.url }}/people/sk_kang/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/sk_kang">SeungHyun Kang, BS</a></div>
+</div></div>
+</div>
+
+<div class="row"><div class="col-sm-4">
+<div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="So-Yeon Kim" />
+    <div class="go-top">
+        <p>Research Assistant, 07/01</p>
+        <p>Cancer Genomics</p>
+        <span class="social-icons"><a href="{{ site.url }}/people/sy_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">SoYeon Kim, BS</a></div>
 </div></div>
 </div>
 
