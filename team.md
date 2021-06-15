@@ -94,13 +94,16 @@ css:
 <div class="holder smooth">
     <img src="{{ site.url }}/assets/img/people/yj_nam.jpeg" alt="Yoon-joo Nam" />
     <div class="go-top">
-        <p>Senior, Habat Natioanl University</p>
+        <p>Senior</p>
+        <p>HanBat National University</p>
         <p>TBD</p>
         <span class="social-icons"><a href="{{ site.url }}/people/yj_nam/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/yj_nam">Yoon-joo Nam</a></div>
 </div></div>
 </div>
+
+
 
 <!-- Open Positions, if any, will populate here -->
 
