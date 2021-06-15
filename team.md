@@ -92,10 +92,10 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpeg" alt="Yoon-joo Nam" />
+    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoon-joo Nam" />
     <div class="go-top">
         <p>Senior</p>
-        <p>HanBat National University</p>
+        <p>HanBat University</p>
         <p>TBD</p>
         <span class="social-icons"><a href="{{ site.url }}/people/yj_nam/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
