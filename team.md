@@ -98,7 +98,7 @@ css:
         <p>TBD</p>
         <span class="social-icons"><a href="{{ site.url }}/people/yj_nam/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Yoon-joo Nam</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/yj_nam">Yoon-joo Nam</a></div>
 </div></div>
 </div>
 
