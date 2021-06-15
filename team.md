@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Team"
-#subtitle: Verhaak Lab
+#subtitle: Hoon Lab
 meta_title: "Lab Members - Hoon Lab"
 meta_description: "Current lab members"
 #teaser: ""
@@ -60,19 +60,19 @@ css:
         <p>Extrachromosomal DNA in Gastric Cancer</p>
         <span class="social-icons"><a href="{{ site.url }}/people/sk_kang/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">SeungHyun Kang, BS</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">Seunghyun Kang, BS</a></div>
 </div></div>
 </div>
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="So-Yeon Kim" />
+    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="So-yeon Kim" />
     <div class="go-top">
         <p>Research Assistant, 07/01</p>
         <p>Cancer Genomics</p>
         <span class="social-icons"><a href="{{ site.url }}/people/sy_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">SoYeon Kim, BS</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">Soyeon Kim, BS</a></div>
 </div></div>
 </div>
 
@@ -88,6 +88,17 @@ css:
         <span class="social-icons"><a href="{{ site.url }}/people/jy_ko/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Jun-yong Ko</a></div>
+</div></div>
+
+<div class="row"><div class="col-sm-4">
+<div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/yj_nam.jpeg" alt="Yoon-joo Nam" />
+    <div class="go-top">
+        <p>Senior, Habat Natioanl University</p>
+        <p>TBD</p>
+        <span class="social-icons"><a href="{{ site.url }}/people/yj_nam/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Yoon-joo Nam</a></div>
 </div></div>
 </div>
 

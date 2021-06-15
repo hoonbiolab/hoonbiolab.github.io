@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'About SoYeon Kim'
-permalink: /people/sy_kim/
+title: 'About SeungHyun Kang'
+permalink: /people/sk_kang/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-01'
+date: '2021-05-10'
 show_meta: true
 comments: true
 mathjax: true
@@ -18,17 +18,17 @@ css:
 
 <div class="row">
 <div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="SoYeon Kim" />
+    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="SeungHyun Kang" />
 </div></div>
 </div>
 
 ### Research Interest
-Bioinformatics, Computer Science, Cancer Genomics
+Biochemistry, Bioinformatics, Computational Science, Cancer Immunology, Immunotherapy, Drug Discovery
 
 ### Education and Experience
 
-**University of California, San Diego CA.**
-- BS, Biology with Specialization in Bioinformatics &amp; Computer Science Minor, 09/2018 ~ 06/2021
+**Calvin University, Grand Rapids MI.**
+- BS, Biochemistry, 09/2013 ~ 05/2019
 
 
 
