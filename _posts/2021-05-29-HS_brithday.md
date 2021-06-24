@@ -2,7 +2,7 @@
 layout: post
 title: <img src="/assets/img/events.png" height="40px"> We celebrated Heesuk's Birthday during KSBMB international Conference !!
 subtitle: "Happy Birthday!!"
-thumbnail-img: "/assets/img/papers/"
+thumbnail-img: "/assets/img/papers/hs_birthday.png"
 categories: Events
 tags:
   - Events
@@ -20,7 +20,7 @@ noindex: true
 
 **We celebrated Heesuk's BirthDay during KSBMB international Conference !!**
 
-<img src="/assets/img/" height="480px" width="360px">
+<img src="/assets/img/hs_birthday.png" height="480px" width="360px">
 
 Happy birthday Heesuk!! He is our 1st member of Computational Biomedicen Lab.  
 
