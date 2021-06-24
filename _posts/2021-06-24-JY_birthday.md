@@ -26,6 +26,6 @@ Happy birthday Junyong!! he is our 1st undergraduate intern!!
 
 We are so happy that you are one of lab members!! We love you <3. 
 
-To get to know about heesuk, click [here](https://hoonbiolab.github.io/people/jy_ko/) and find out.   
+To get to know about Junyong, click [here](https://hoonbiolab.github.io/people/jy_ko/) and find out.   
 
 <i class="fa fa-question-circle"></i> For questions regarding available training opportunities, please \[contact Hoon]({{ site.url }}/about).
