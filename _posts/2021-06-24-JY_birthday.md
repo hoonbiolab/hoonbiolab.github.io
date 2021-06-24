@@ -20,7 +20,7 @@ noindex: true
 
 **We celebrated JunYong's Birthday in our lab!!**
 
-<img src="/assets/img/cakecut.gif" height="480px" width="360px">
+<img src="/assets/img/jy_birthday.png" height="480px" width="360px">
 
 Happy birthday Junyong!! he is our 1st undergraduate intern!! 
 

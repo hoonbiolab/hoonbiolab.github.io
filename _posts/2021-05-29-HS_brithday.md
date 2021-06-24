@@ -20,7 +20,7 @@ noindex: true
 
 **We celebrated Heesuk's BirthDay during KSBMB international Conference !!**
 
-<img src="/assets/img/cakecut.gif" height="480px" width="360px">
+<img src="/assets/img/" height="480px" width="360px">
 
 Happy birthday Heesuk!! He is our 1st member of Computational Biomedicen Lab.  
 
