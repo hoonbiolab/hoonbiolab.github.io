@@ -22,7 +22,7 @@ noindex: true
 
 <img src="/assets/img/hs_birthday.png" height="480px" width="360px">
 
-Happy birthday Heesuk!! He is our 1st member of Computational Biomedicen Lab.  
+Happy birthday Heesuk!! He is our 1st member of Computational Biomedicine Lab.  
 
 We are so happy that you are one of lab members!! We love you <3. 
 
