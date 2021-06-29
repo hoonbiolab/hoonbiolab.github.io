@@ -89,6 +89,7 @@ css:
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Jun-yong Ko</a></div>
 </div></div>
+</div>
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
@@ -115,6 +116,7 @@ css:
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/ys_kim">Yeonsik Kim</a></div>
 </div></div>
+</div>
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
