@@ -48,7 +48,7 @@ css:
         <p>Extrachromosomal DNA in brain tumor</p>
         <span class="social-icons"><a href="{{ site.url }}/people/hs_chung/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/hs_chung">Heesuk Chung, BS</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/hs_chung">Hee-suk Chung, BS</a></div>
 </div></div>
 </div>
 
@@ -60,7 +60,7 @@ css:
         <p>Extrachromosomal DNA in Gastric Cancer</p>
         <span class="social-icons"><a href="{{ site.url }}/people/sk_kang/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">Seunghyun Kang, BS</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">Seung-hyun Kang, BS</a></div>
 </div></div>
 </div>
 
@@ -72,7 +72,7 @@ css:
         <p>Cancer Genomics</p>
         <span class="social-icons"><a href="{{ site.url }}/people/sy_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">Soyeon Kim, BS</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">So-yeon Kim, BS</a></div>
 </div></div>
 </div>
 
