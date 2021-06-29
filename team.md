@@ -109,7 +109,7 @@ css:
     <img src="{{ site.url }}/assets/img/people/blank_person.png" alt="Yeonsik Kim" />
     <div class="go-top">
         <p>Will be updated soon</p>
-        <p>will be updated soon</p>
+        <p>-</p>
         <span class="social-icons"><a href="{{ site.url }}/people/ys_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/ys_kim">Yeonsik Kim</a></div>
@@ -120,7 +120,7 @@ css:
     <img src="{{ site.url }}/assets/img/people/blank_person.png" alt="Youngjin Moon" />
     <div class="go-top">
         <p>Will be updated soon</p>
-        <p>will be updated soon</p>
+        <p>-</p>
         <span class="social-icons"><a href="{{ site.url }}/people/yj_moon/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/yj_moon">Youngjin Moon</a></div>
