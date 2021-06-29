@@ -102,7 +102,8 @@ css:
 </div></div>
 </div>
 
-### Staff
+
+### Staffs
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">

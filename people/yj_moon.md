@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'About Yoonjoo Nam'
+title: 'About Youngjin Moon'
 permalink: /people/yj_moon/
 tags:
   - page
