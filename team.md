@@ -103,6 +103,17 @@ css:
 </div></div>
 </div>
 
+<div class="row"><div class="col-sm-4">
+<div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/ec_Yeo.jpeg" alt="Eunchae yeo" />
+    <div class="go-top">
+        <p>Korea University</p>
+        <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
+        <span class="social-icons"><a href="{{ site.url }}/people/ec_Yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/people/ec_Yeo">Eun-chae yeo</a></div>
+</div></div>
+</div>
 
 ### Staffs
 
