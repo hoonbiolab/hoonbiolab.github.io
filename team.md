@@ -121,7 +121,7 @@ css:
     <div class="go-top">
         <p>Ghent University, Global Campus</p>
         <p>Immunology, Bioinformatics, Cancer genomics</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/jw_Shon"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+        <span class="social-icons"><a href="{{ site.url }}/people/jw_shon"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/jw_shon">Ji-won Shon</a></div>
 </div></div>
