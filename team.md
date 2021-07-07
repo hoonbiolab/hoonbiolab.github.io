@@ -76,6 +76,18 @@ css:
 </div></div>
 </div>
 
+<div class="row"><div class="col-sm-4">
+<div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho_Joe" />
+    <div class="go-top">
+        <p>Research Assistant, 04/01</p>
+        <p>CStem cell research, Bioinformatics</p>
+        <span class="social-icons"><a href="{{ site.url }}/people/dh_joe/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/people/dh_joe">Daeho Joe, BS</a></div>
+</div></div>
+</div>
+
  
 ### Interns
 
