@@ -22,7 +22,7 @@ css:
 </div></div>
 </div>
 
-### primarily advised by Professor Jaecheol Lee
+### Primarily advised by Professor Jaecheol Lee
 
 ### Research Interest
 Stem cell research, Bioinformatics

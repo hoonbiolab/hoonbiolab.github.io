@@ -81,7 +81,7 @@ css:
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho_Joe" />
     <div class="go-top">
         <p>Research Assistant, 04/01</p>
-        <p>CStem cell research, Bioinformatics</p>
+        <p>Stem cell research, Bioinformatics</p>
         <span class="social-icons"><a href="{{ site.url }}/people/dh_joe/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/dh_joe">Daeho Joe, BS</a></div>
