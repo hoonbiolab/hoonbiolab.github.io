@@ -22,7 +22,7 @@ css:
 </div></div>
 </div>
 
-**Exected join in lab at 2021/10/1**
+**Expected join in lab at 2021/10/1**
 
 ### Research Interest
 Immunology, Bioinformatics, Cancer genomics
