@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 'About Jiwon Shon'
-permalink: /people/jw_yeo/
+permalink: /people/jw_shon/
 tags:
   - page
 categories: people
 published: true
-date: 'Expected Aug.'
+date: '2021-10-1'
 show_meta: true
 comments: true
 mathjax: true
@@ -22,6 +22,7 @@ css:
 </div></div>
 </div>
 
+**Exected join in lab at 2021/10/1**
 
 ### Research Interest
 Immunology, Bioinformatics, Cancer genomics
@@ -30,5 +31,6 @@ Immunology, Bioinformatics, Cancer genomics
 
 **Ghent University, Global Campus**
 - Molecular Biotechnology, 09/2017 ~ current
+
 
 
