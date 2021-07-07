@@ -111,7 +111,7 @@ css:
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
         <span class="social-icons"><a href="{{ site.url }}/people/ec_yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-   <div class="phototag"><a href="{{ site.url }}/people/ec_yeo">Eunchae Yeo</a></div>
+   <div class="phototag"><a href="{{ site.url }}/people/ec_yeo">Eunchae Yeo, BS</a></div>
 </div></div>
 </div>
 
