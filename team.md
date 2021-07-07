@@ -42,7 +42,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Hee-suk Chung" />
+    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" />
     <div class="go-top">
         <p>Research Assistant, 03/21</p>
         <p>Extrachromosomal DNA in brain tumor</p>
@@ -54,7 +54,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seung-Hyun Kang" />
+    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="SeungHyun Kang" />
     <div class="go-top">
         <p>Research Assistant, 05/21</p>
         <p>Extrachromosomal DNA in Gastric Cancer</p>
@@ -66,7 +66,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="So-yeon Kim" />
+    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" />
     <div class="go-top">
         <p>Research Assistant, 07/01</p>
         <p>Cancer Genomics</p>
@@ -81,7 +81,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Jun-yong Ko" />
+    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" />
     <div class="go-top">
         <p>Junior, SKKU</p>
         <p>TBD</p>
@@ -93,7 +93,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoon-joo Nam" />
+    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" />
     <div class="go-top">
         <p>Senior,HanBat University</p>
         <p>TBD</p>
@@ -105,7 +105,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eun-chae Yeo" />
+    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" />
     <div class="go-top">
         <p>BS, Korea University</p>
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
@@ -117,7 +117,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Ji-won Shon" />
+    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" />
     <div class="go-top">
         <p>Ghent University, Global Campus</p>
         <p>Immunology, Bioinformatics, Cancer genomics</p>
