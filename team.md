@@ -48,7 +48,7 @@ css:
         <p>Extrachromosomal DNA in brain tumor</p>
         <span class="social-icons"><a href="{{ site.url }}/people/hs_chung/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/hs_chung">Hee-suk Chung, BS</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/hs_chung">Heesuk Chung, BS</a></div>
 </div></div>
 </div>
 
@@ -60,7 +60,7 @@ css:
         <p>Extrachromosomal DNA in Gastric Cancer</p>
         <span class="social-icons"><a href="{{ site.url }}/people/sk_kang/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">Seung-hyun Kang, BS</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/sk_kang">Seunghyun Kang, BS</a></div>
 </div></div>
 </div>
 
@@ -72,7 +72,7 @@ css:
         <p>Cancer Genomics</p>
         <span class="social-icons"><a href="{{ site.url }}/people/sy_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">So-yeon Kim, BS</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/sy_kim">Soyeon Kim, BS</a></div>
 </div></div>
 </div>
 
@@ -87,7 +87,7 @@ css:
         <p>TBD</p>
         <span class="social-icons"><a href="{{ site.url }}/people/jy_ko/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Jun-yong Ko</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/jy_ko">Junyong Ko</a></div>
 </div></div>
 </div>
 
@@ -99,7 +99,7 @@ css:
         <p>TBD</p>
         <span class="social-icons"><a href="{{ site.url }}/people/yj_nam/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/yj_nam">Yoon-joo Nam</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/yj_nam">Yoonjoo Nam</a></div>
 </div></div>
 </div>
 
@@ -111,7 +111,7 @@ css:
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
         <span class="social-icons"><a href="{{ site.url }}/people/ec_yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-   <div class="phototag"><a href="{{ site.url }}/people/ec_yeo">Eun-chae Yeo</a></div>
+   <div class="phototag"><a href="{{ site.url }}/people/ec_yeo">Eunchae Yeo</a></div>
 </div></div>
 </div>
 
@@ -123,7 +123,7 @@ css:
         <p>Immunology, Bioinformatics, Cancer genomics</p>
         <span class="social-icons"><a href="{{ site.url }}/people/jw_shon"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/jw_shon">Ji-won Shon</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/jw_shon">Jiwon Shon</a></div>
 </div></div>
 </div>
 
