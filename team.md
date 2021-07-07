@@ -164,7 +164,7 @@ css:
   {% assign counter = 1 %}
   {% for post in site.categories.positions limit:5 %}
   {% if post.postjob == true %}
-  <h4><i class="iconfont"></i> {% if post.date %}<time class="icon-calendar pr20" datetime="{{ post.date | date: "%Y-%m-%d" }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time> {% endif %}{{ post.title }}</h4>
+  <h4><i class="iconfont"></i> {% if post.date %}<time class="icon-calendar pr20" datetime='{{ post.date | date: "%Y-%m-%d" }}' itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time> {% endif %}{{ post.title }}</h4>
     <div>
       {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | escape }}{% elsif post.excerpt %}{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% endif %}
       <a href="{{ site.url }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
