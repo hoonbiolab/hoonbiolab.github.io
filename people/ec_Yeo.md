@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'About Eunchae Yeo'
-permalink: /people/ec_Yeo/
+permalink: /people/ec_yeo/
 tags:
   - page
 categories: people
