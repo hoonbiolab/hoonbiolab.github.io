@@ -105,15 +105,28 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ec_Yeo.jpeg" alt="Eunchae yeo" />
+    <img src="{{ site.url }}/assets/img/people/ec_yeo.jpeg" alt="Eunchae Yeo" />
     <div class="go-top">
         <p>Korea University</p>
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/ec_Yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+        <span class="social-icons"><a href="{{ site.url }}/people/ec_yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
-    <div class="phototag"><a href="{{ site.url }}/people/ec_Yeo">Eun-chae yeo</a></div>
+    <div class="phototag"><a href="{{ site.url }}/people/ec_yeo">Eun-chae Yeo</a></div>
 </div></div>
 </div>
+
+<div class="row"><div class="col-sm-4">
+<div class="holder smooth">
+    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Ji-won Shon" />
+    <div class="go-top">
+        <p>Ghent University, Global Campus</p>
+        <p>Immunology, Bioinformatics, Cancer genomics</p>
+        <span class="social-icons"><a href="{{ site.url }}/people/ec_Yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+    </div>
+    <div class="phototag"><a href="{{ site.url }}/people/jw_shon">Ji-won Shon</a></div>
+</div></div>
+</div>
+
 
 ### Staffs
 

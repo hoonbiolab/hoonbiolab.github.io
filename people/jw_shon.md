@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'About Eunchae Yeo'
-permalink: /people/ec_Yeo/
+title: 'About Jiwon shon'
+permalink: /people/jw_yeo/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-12'
+date: 'Expected Aug.'
 show_meta: true
 comments: true
 mathjax: true
@@ -18,15 +18,16 @@ css:
 
 <div class="row">
 <div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.jpeg" alt="Eunchae Yeo" />
+    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" />
 </div></div>
 </div>
 
 ### Research Interest
-Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery
+Immunology, Bioinformatics, Cancer genomics
 
 ### Education and Experience
 
-**Korea University**
-- BS, Biomedical Engineering, 03/2011 ~ 08/2020
+**Ghent University, Global Campus**
+- Molecular Biotechnology, 09/2017 ~ current
+
 
