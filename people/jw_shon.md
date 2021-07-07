@@ -12,8 +12,8 @@ comments: true
 mathjax: true
 noindex: false
 css: 
-    - /assets/css/imagehover.css
-    - /css/custom_home.css
+  - /assets/css/imagehover.css
+  - /css/custom_home.css
 ---
 
 <div class="row">
@@ -21,6 +21,7 @@ css:
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" />
 </div></div>
 </div>
+
 
 ### Research Interest
 Immunology, Bioinformatics, Cancer genomics

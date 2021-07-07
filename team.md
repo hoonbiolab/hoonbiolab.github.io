@@ -107,7 +107,7 @@ css:
 <div class="holder smooth">
     <img src="{{ site.url }}/assets/img/people/ec_yeo.jpeg" alt="Eun-chae Yeo" />
     <div class="go-top">
-        <p>Korea University</p>
+        <p>BS, Korea University</p>
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
         <span class="social-icons"><a href="{{ site.url }}/people/ec_yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
