@@ -105,7 +105,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.jpeg" alt="Eun-chae Yeo" />
+    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eun-chae Yeo" />
     <div class="go-top">
         <p>BS, Korea University</p>
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
