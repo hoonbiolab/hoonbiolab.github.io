@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'About Jiwon shon'
+title: 'About Jiwon Shon'
 permalink: /people/jw_yeo/
 tags:
   - page

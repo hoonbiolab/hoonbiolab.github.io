@@ -105,7 +105,7 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.jpeg" alt="Eunchae Yeo" />
+    <img src="{{ site.url }}/assets/img/people/ec_yeo.jpeg" alt="Eun-chae Yeo" />
     <div class="go-top">
         <p>Korea University</p>
         <p>Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery</p>
@@ -121,7 +121,7 @@ css:
     <div class="go-top">
         <p>Ghent University, Global Campus</p>
         <p>Immunology, Bioinformatics, Cancer genomics</p>
-        <span class="social-icons"><a href="{{ site.url }}/people/ec_Yeo"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
+        <span class="social-icons"><a href="{{ site.url }}/people/jw_Shon"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/jw_shon">Ji-won Shon</a></div>
 </div></div>
