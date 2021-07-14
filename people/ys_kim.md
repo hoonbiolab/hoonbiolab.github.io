@@ -11,20 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
+css: 
   - /assets/css/imagehover.css
   - /css/custom_home.css
 ---
 
-<iv class="row">
+<div class="row">
 <div class="col"><div class="holder smooth">
     <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" />
 </div></div>
-</div>   
-
+</div>
 
 ### Education and Experience
 
-**Korea Polytechnic University**
+**Korea Polutechnic University**
 - BS, Computer Engineering, 02/2008 ~ 02/2016
 
