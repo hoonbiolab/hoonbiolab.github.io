@@ -16,17 +16,22 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
+<iv class="row">
 <div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/blank_person.png" alt="Yeonsik Kim" />
+    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" />
 </div></div>
 </div>
 
-
 ### Education and Experience
 
-**Will be updated soon**
+**Korea Polytechnic University**
+- BS, Computer Engineering, 02/2008 ~ 02/2016
 
+**Associate Research Engineer 04/2016 ~ current**
+
+
+### Experienced in programming
+languages (C, Java)
 
 
 

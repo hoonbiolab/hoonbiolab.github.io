@@ -144,10 +144,10 @@ css:
 
 <div class="row"><div class="col-sm-4">
 <div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/blank_person.png" alt="Yeonsik Kim" />
+    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" />
     <div class="go-top">
-        <p>Will be updated soon</p>
-        <p>-</p>
+        <p>Korea Polytechnic University</p>
+        <p>languages(C, Java)</p>
         <span class="social-icons"><a href="{{ site.url }}/people/ys_kim/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/ys_kim">Yeonsik Kim</a></div>
