@@ -25,7 +25,7 @@ css:
 
 ### Education and Experience
 
-**Korea Polutechnic University**
+**Korea Polytechnic University**
 - BS, Computer Engineering, 02/2008 ~ 02/2016
 
 **Associate Research Engineer**
