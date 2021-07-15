@@ -158,8 +158,8 @@ css:
 <div class="holder smooth">
     <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" />
     <div class="go-top">
+        <p>Jeonbuk National University</p>
         <p>languqges(C, C++)</p>
-        <p>-</p>
         <span class="social-icons"><a href="{{ site.url }}/people/yj_moon/"  class="social-icons" target="_blank" title="About"> <i class="fa fa-user"></i></a></span>
     </div>
     <div class="phototag"><a href="{{ site.url }}/people/yj_moon">Youngjin Moon</a></div>
