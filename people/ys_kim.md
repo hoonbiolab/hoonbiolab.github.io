@@ -6,7 +6,7 @@ tags:
   - page
 categories: people
 published: true
-date: '2021-07-12'
+date: '2021-07-06'
 show_meta: true
 comments: true
 mathjax: true
