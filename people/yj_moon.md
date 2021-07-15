@@ -25,8 +25,11 @@ css:
 
 ### Education and Experience
 
-**Will be updated soon**
+**Jeonbuk National University**
+- BS, Electric Engineering &amp; Computer Science Minor, 02/2011 ~ 07/2017
 
+**Junior Engineer**
+- 11/2017 ~ current
 
-
-
+### Experienced in programming
+languages (C, C++) 
