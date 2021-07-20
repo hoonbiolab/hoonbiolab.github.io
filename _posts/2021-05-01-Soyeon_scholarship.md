@@ -19,5 +19,5 @@ noindex: true
 <hr>
 **Congratulations, Soyeon, for awarded the prestigious "Graduate scholarship student in the second semester of 2021" !!!**
 
-<img src="/assets/img/soyeon_scholarship.png" height="2156px" width="503px">
+<img src="/assets/img/soyeon_scholarship.png" height="503px" width="2156px">
 
