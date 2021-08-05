@@ -23,7 +23,7 @@ css:
 </div>
 
 ### Research Interest
-Biochemistry, Bioinformatics, Computational Science, Cancer Immunology, Immunotherapy, Drug Discovery
+Biochemistry, Bioinformatics, Cancer Immunology, Immunotherapy, Drug Discovery
 
 ### Education and Experience
 
