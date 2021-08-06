@@ -23,7 +23,7 @@ css:
 </div>
 
 ### Research Interest
-Biochemistry, Bioinformatics, Computational Science
+Biochemistry, Bioinformatics, Biomedical data science, Glioblastoma genomics/proteomics
 
 ### Education and Experience
 
