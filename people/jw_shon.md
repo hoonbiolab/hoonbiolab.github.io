@@ -16,18 +16,30 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" />
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Jiwon Shon
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/jw_shon.png" width="480px" height="568px" alt="Jiwon Shon" />
 </div>
 
-**Expected join in lab at 2021/10/1**
+### **Expected join in lab at 2021/10/1**
 
-### Research Interest
+### **Research Interest**
 Immunology, Bioinformatics, Cancer genomics
 
-### Education and Experience
+### **Education and Experience**
 
 **Ghent University, Global Campus**
 - Molecular Biotechnology, 09/2017 ~ current

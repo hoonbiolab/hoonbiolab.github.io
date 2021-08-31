@@ -16,18 +16,30 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" />
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Daeho Joe
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/dh_joe.png" width="480px" height="568px" alt="Daeho Joe" />
 </div>
 
-### Primarily advised by Professor Jaecheol Lee
+### **Primarily advised by Professor Jaecheol Lee**
 
-### Research Interest
+### **Research Interest**
 Stem cell research, Bioinformatics
 
-### Education and Experience
+### **Education and Experience**
 
 **Yonsei University**
 - BS, Biomedical Laboratory Science, 03/2016 ~ 02/2020

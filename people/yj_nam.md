@@ -16,14 +16,26 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.jpg" alt="Yoonjoo Nam" />
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Yoonjoo Nam
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
 </div>
 
 
-### Education and Experience
+### **Education and Experience**
 
 **Hanbat National University**
 - Chemical and biological engineering, 03/2018 ~ Current

@@ -1,198 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    
     <title>Hoon Lab at Pharmacy, SKKU</title>
-    
-    
+    <description>The Stanford Research Computing Center offers resources for compute, storage, and office hours for user support.
+</description>
     <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Aug 2021 17:18:55 +0900</pubDate>
+    <lastBuildDate>Tue, 17 Aug 2021 17:18:55 +0900</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>&lt;img src=&quot;/assets/img/events.png&quot; height=&quot;40px&quot;&gt; We celebrated 1st Teacher's Day in our Lab !!</title>
+        <title>About Amit Gujar, PhD</title>
         <description>
-          Happy Teacher's Day - 
-          
+&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-sm-12&quot;&gt;
+			&lt;p style=&quot;margin-top: 3px;&quot;&gt;Is this page about you, and has any missing/incorrect information? You can start editing this page on GitHub.&lt;/p&gt;
+			&lt;a class=&quot;fa fa-pencil-square-o&quot; href=&quot;/_posts/2019-06-28-hello-world.md&quot;&gt; Create Pull Request&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 
-Today, We Celebrated Our First Teacher’s Day
+&lt;h3 id=&quot;education-and-experience&quot;&gt;Education and Experience:&lt;/h3&gt;
 
+&lt;p&gt;Postdoctoral Training:&lt;/p&gt;
 
+&lt;p&gt;Washington University School of Medicine&lt;/p&gt;
 
-Happy Teacher’s Day, we had 1st teacher’s day celebration with Prof. Kim.
+&lt;p&gt;Postdoctoral Research Associate&lt;/p&gt;
 
- For questions regarding available training opportunities, please [contact Hoon](http://localhost:4000/about).
+&lt;p&gt;2012-2017&lt;/p&gt;
 
-        </description>
-        <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/Teachers_day/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Teachers_day/</guid>
+&lt;p&gt;Laboratory of Dr. Albert Kim&lt;/p&gt;
+
+&lt;p&gt;University of Louisiana at Monroe&lt;/p&gt;
+
+&lt;p&gt;PhD, Neuroscience&lt;/p&gt;
+
+&lt;p&gt;2008-2012&lt;/p&gt;
+
+&lt;p&gt;Adv: Karen P. Briski&lt;/p&gt;
+
+&lt;p&gt;Shivaji University, India&lt;/p&gt;
+
+&lt;p&gt;B. Pharm&lt;/p&gt;
+
+&lt;p&gt;2002-2006&lt;/p&gt;
+
+&lt;p&gt;The Jackson Laboratory for Genomic Medicine&lt;/p&gt;
+
+&lt;p&gt;Research Scientist&lt;/p&gt;
+
+&lt;p&gt;2017-Present&lt;/p&gt;
+
+&lt;p&gt;Laboratory of Dr. Roel Verhaak&lt;/p&gt;
+
+&lt;p&gt;University of Louisiana at Monroe&lt;/p&gt;
+
+&lt;p&gt;Teaching Assistant&lt;/p&gt;
+
+&lt;p&gt;2008-2012&lt;/p&gt;
+
+&lt;p&gt;Mediorals Labs Pvt. Ltd.&lt;/p&gt;
+
+&lt;p&gt;Quality Control Analyst&lt;/p&gt;
+
+&lt;p&gt;2007-2008&lt;/p&gt;
+
+&lt;p&gt;Prior to joining the Verhaak lab, Dr. Gujar performed his postdoctoral work in Kim laboratory at the Washington University School of Medicine, where he studied the role and mechanisms of abnormal signaling in brain tumor, glioblastoma. Previously, Dr. Gujar obtained his PhD from the University of Louisiana at Monroe after completing B. Pharm from India. His PhD thesis work examined the coordination between two key brain gluco-sensing areas in counter-regulatory responses to insulin-induced hypoglycemia.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Nov 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/2019/hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/hello-world/</guid>
+        
+        <category>page</category>
+        
+        
+        <category>people</category>
+        
       </item>
     
       <item>
-        <title>&lt;img src=&quot;/assets/img/scholarship.png&quot; height=&quot;35px&quot;&gt; Jun-yong was awarded National Scholarship !!!</title>
-        <description>
-          National Academic Excellence Scholarship (Science and Engineering) - 
-          
+        <title>Welcome to MkDocs Jekyll</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-Congratulations, Jun-yong, for awarded the prestigious “National Academic Excellence Scholarship (Science and Engineering)” !!!
+&lt;!--more--&gt;
 
- For questions regarding available training opportunities, please [contact Hoon](http://localhost:4000/about).
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-        </description>
-        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/Junyong_scholarship/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Junyong_scholarship/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Extrachromosomal DNA functions as mobile enhancers !!!</title>
-        <description>
-          Cancer Cell - 
-          Congratulations, Yanfen &amp;amp; Amit !!! Zhu et al. report the chromatin connectivity networks of circular and extrachromosomal DNA elements (ecDNA) in cancer, revealing that ecDNAs can function as mobile super-enhancers, which drives genome-wide transcriptional amplification, including that of oncogenes. These findings support an expanded role for ecDNA in trans-regulating chromosomal...
-        </description>
-        <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/Yanfen_ecdna/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/Yanfen_ecdna/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/grant.png&quot; height=&quot;20px&quot;&gt; NIH/NCI R21 grant application score was posted (top 3 %) !!!</title>
-        <description>
-          NIH/NCI Grant - 
-          
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-Hoon’s NIH/NCI R21 grant application about extrachromosomal DNA received the top 3 % with impact score 24. It is the most likely to be within the funding line !!!
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
- For questions regarding available training opportunities, please [contact Hoon](http://localhost:4000/about).
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
-        </description>
-        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/NIH_R21/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/NIH_R21/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Pan-Cancer analysis of extrachromosomal DNA amplification</title>
-        <description>
-          Nature genetics - 
-          Follow up to our previous work on extra-chrmosomal DNA (ecDNA) amplifications in glioblastoma, Hoon Kim led the pan-cancer analysis of ecDNA amplifications in 3,212 tumor and 1,810 normal samples across 29 cancer types. Read more about our work at Nature Genetics and in the press release. Kim, H., Nguyen, N....
-        </description>
-        <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/pancancer-ecdna-survival/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/pancancer-ecdna-survival/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Learning from spontaneous gliomas in companion dogs</title>
-        <description>
-          Cancer Cell - 
-          Our paper focusing on comparative oncology of cross-species gliomas is out today in Cancer Cell. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved...
-        </description>
-        <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/learning-from-spontaneous-gliomas-in-companion-dogs/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/learning-from-spontaneous-gliomas-in-companion-dogs/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Glioma evolution over time characterized</title>
-        <description>
-          Nature - 
-          Floris Barthel, Kevin Johnson are the lead authors on a new study on longitudinal analysis of glioma in adult patients, with contributions from many lab members. This is a first seminal study that leverages the GLASS Data Resource and the first publication in collaboration with the GLASS Consortium. We identified...
-        </description>
-        <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/glioma-evolution-over-time-characterized/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/glioma-evolution-over-time-characterized/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Circular ecDNA promotes accessible chromatin and high oncogene expression</title>
-        <description>
-          Nature - 
-          
-  deCarvalho AC, Kim H, Poisson LM, Winn ME, Mueller C, Cherba D, et al. Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma. Nat Genet 2018. PMID: 29686388
-
-
-        </description>
-        <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/ecdna_wu/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/ecdna_wu/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/resource.png&quot; height=&quot;20px&quot;&gt; GLASS Data Resource released</title>
-        <description>
-          Resource - 
-          The mission of the Glioma Longitudinal Analysis (GLASS) Consortium is to create a longitudinal molecular reference data set that can be used to characterize and understand the processes that drive glioma evolution and therapy resistance. Towards that goal, the first GLASS Data Resource was released today, consisting of multiple time-point...
-        </description>
-        <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/glass-data-resource-released/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/glass-data-resource-released/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Announcing Glioma Longitudinal AnalySiS (GLASS) Consortium</title>
-        <description>
-          Neuro-oncology - 
-          The Glioma Longitudinal AnalySiS (GLASS) Consortium announces itself to the world in Neuro-Oncology, with Roel as corresponding author.
-
-
-  GLASS Consortium. Glioma Through the Looking GLASS: Molecular Evolution of Diffuse Gliomas and the Glioma Longitudinal AnalySiS Consortium. Neuro Oncol 2018. PMID: 29432615
-
-
-        </description>
-        <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/glass-white-paper/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/glass-white-paper/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; extrachromosomal DNA amplification in GBM</title>
-        <description>
-          Nature Genetics - 
-          A formative publication for the Verhaak lab, our first publication fully focused on extrachromosomal DNA amplification, with co-first author Hoon, proudly published in Nature Genetics. deCarvalho AC, Kim H, Poisson LM, Winn ME, Mueller C, Cherba D, et al. Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic...
-        </description>
-        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/ecdna_gbm/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/ecdna_gbm/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Next chapter of the Expression Subtypes of Glioblastoma</title>
-        <description>
-          Cancer Cell - 
-          Qianghu build the next chapter of the “expression subtypes of glioblastoma” saga, building on Roel’s GBM subtypes postdoc paper and appropriately published in Cancer Cell. Wang Q, Hu B, Hu X, Kim H, Squatrito M, Scarpace L, et al. Tumor Evolution of Glioma-Intrinsic Gene Expression Subtypes Associates with Immunological Changes...
-        </description>
-        <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/expr_subtypes2/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/expr_subtypes2/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; TCGA Low Grade Glioma Paper</title>
-        <description>
-          New England Journal of Medicine - 
-          The TCGA lower grade glioma paper was published in the New England Journal today with critical contributions from our lab. Roel was cited on NBC news! MD Anderson News Release TCGA Network. Comprehensive, Integrative Genomic Analysis of Diffuse Lower-Grade Gliomas. N Engl J Med. 2015. PMID: 26061751, Full text article...
-        </description>
-        <pubDate>Thu, 11 Jun 2015 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/paper_tcga_lgg_nejm/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/paper_tcga_lgg_nejm/</guid>
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Tumor evolution in glioblastoma</title>
-        <description>
-          Genome Research - 
-          Hoon and Siyuan are co-first authors of our Genome Research publication on tumor evolution in glioblastoma. Congratulations!
-
-
-  Kim H, Zheng S, …, Verhaak RG. Whole-genome and multisector exome sequencing of primary and post-treatment glioblastoma reveals patterns of tumor evolution. Genome Res. 2015. PMID: 25650244 Full text article
-
-
-        </description>
-        <pubDate>Tue, 03 Feb 2015 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/paper_gbm_evolution_genomeres/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/paper_gbm_evolution_genomeres/</guid>
+</description>
+        <pubDate>Fri, 28 Jun 2019 19:52:21 +0900</pubDate>
+        <link>http://localhost:4000/2019/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/welcome/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
       </item>
     
   </channel>

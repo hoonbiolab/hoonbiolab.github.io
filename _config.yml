@@ -1,116 +1,73 @@
-remote_theme: daattali/beautiful-jekyll
-plugins:
-  - github-pages
-  - jekyll-gist
-#  - jekyll-feed
-#  - jekyll-paginate
-#  - jekyll-sitemap
-#  - jekyll-include-cache
-#  - jekyll-redirect-from
-#  - jekyll-mentions
-  - jekyll-twitter-plugin
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
 title: Hoon Lab at Pharmacy, SKKU
-author: Hoon Kim
+email: research-computing-support@stanford.edu
+author: Hoon Lab
+description: > # this means to ignore newlines until "baseurl:"
+  The Stanford Research Computing Center offers resources for compute, storage,
+  and office hours for user support.
+
+# DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# This is mostly for testing
+url: "https://hoonlab6.github.io" # the base hostname & protocol for your site
 
 
-navbar-links:
-  Team: "team"
-  Research: "research"
-  Publication: "publications"
-  Contact: "contact"
 
-#avatar: "/assets/img/KakaoTalk_Photo_2019-04-01-23-00-12.jpeg"
+# Image and (square) dimension for logo (don't start with /)
+# If commented, will use material hat theme
+# logo: "assets/img/logo/SRCC-square-red.png"
+logo_width: 20
+logo_pixels: 20
+color: grey # primary color for header, buttons
 
-social-network-links:
-  email: "wisekh6@gmail.com"
-  #facebook: wisekh6
-  github: hoonbiolab
-  twitter: wisekh6
-  #linkedin: "pub/dean-attali/8/946/143"
-  #stackoverflow: "users/3943160/daattali"
-  #calendly: "attalitech/meeting"
-  #youtube: "c/daattali?sub_confirmation=1"
-  #patreon: DeanAttali
+# Build settings
+markdown: kramdown
+accentColor: "grey" # purple, green, etc.
+themeColor: "grey" # purple, green, blue, orange, purple, grey
+fixedNav: true # true or false
 
-#share-links-active:
-#  twitter: true
-#  facebook: true
-#  linkedin: true
+permalink: /:year/:title/
+markdown: kramdown
+exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 
-excerpt_length: 50
-feed_show_excerpt: false
-feed_show_tags: false
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path
 
-keywords: "Cancer, Tumor evolution, Bioinformatics, Extrachromosomal DNA, Machine learning"
-
-link-col: "#404040"
-
-mobile-theme-col: "#0085A1"
-
-site-css: "/assets/css/custom-styles.css"
-site-js: "/assets/js/custom-script.js"
-
-timezone: "Korea/Seoul"
-permalink: /blog/:title/
-paginate: 10
-paginate_path: "/page:num/"
-
-#disqus: "deanattali-site"
-#google_analytics: "UA-59820529-1"
-#fb_app_id: "536330676521989"
-
-#url-pretty: "❤ Support"
-#url-canonical: https://github.com/sponsors/daattali
-
+# Defaults
 defaults:
+  - scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: page
   -
     scope:
       path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "posts"
       type: "posts"
     values:
       layout: "post"
-      carbonads: false
-      comments: false
-      social-share: false
-      show-share: false
-      show-subscribe: false
-      support_promo_box: false
-      after-content: [purpleads.html]
-  -
-    scope:
-      path: "notblog"
-    values:
-      layout: "post"
-      carbonads: false
-      comments: false
-      social-share: false
-      show-share: false
-      show-subscribe: false
-      support_promo_box: false
-      after-content: [purpleads.html]
-  -
-    scope:
-      path: "pages"
-    values:
-      layout: "page"
-      comments: true
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-      #before-content: [support_promo_box.html, carbonads.html]
-      footer-extra: footer-subscribe.html
-
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - docs/
-  - files/java/Scrabble/*
-
-# 2fc73a3a967e97599c9763d05e564189d5

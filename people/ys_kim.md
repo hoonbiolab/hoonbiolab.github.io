@@ -16,14 +16,26 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" />
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Yeonsik Kim
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/ys_kim.png" width="480px" height="568px" alt="Yeonsik Kim" />
 </div>
 
 
-### Education and Experience
+### **Education and Experience**
 
 **Korea Polytechnic University**
 - BS, Computer Engineering, 02/2008 ~ 02/2016
@@ -31,5 +43,5 @@ css:
 **Associate Research Engineer**
 - 04/2016 ~ current
 
-### Experienced in programming
+### **xperienced in programming**
 languages (C, Java) 

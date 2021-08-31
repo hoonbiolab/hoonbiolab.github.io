@@ -16,16 +16,29 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Jung" />
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Heesuk Chung
 </div></div>
+
+
+<div class="center">
+<img src="{{ site.url }}/assets/img/people/hs_jung.jpg" width="480px" height="568px" alt="Heesuk Jung" />
 </div>
 
-### Research Interest
+
+### **Research Interest**
 Biochemistry, Bioinformatics, Biomedical data science, Glioblastoma genomics/proteomics
 
-### Education and Experience
+### **Education and Experience**
 
 **Seoul National University**
 - Master program in Science & Education, 07/2019 ~ 02/2021

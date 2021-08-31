@@ -13,7 +13,7 @@ comments: true
 mathjax: true
 noindex: false
 ---
-{% include improve_content.html %}
+
 
 ### Education and Experience:
 

@@ -1,0 +1,16 @@
+---
+layout: null
+excluded_in_search: true
+permalink: /data.json
+---
+{
+{% for doc in site.data.metadata %}{% if added %},{% endif %}{% assign added = false %}
+	"{{ doc.title | slugify }}": {
+		"id": "{{ doc.title | slugify }}",
+		"title": "{{ doc.title }}",
+		"url": "{{ doc.url }}",
+		"icon": "{{ doc.icon }}",
+		"logo": "{{ doc.logo }}",
+		"description": {{ doc.description | strip_html | replace_regex: "[\s/\n]+"," " | strip | jsonify }}
+	}{% assign added = true %}{% endfor %}
+}

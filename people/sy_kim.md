@@ -16,16 +16,28 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.jpg" alt="Soyeon Kim" />
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Soyeon Kim
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/sy_kim.png" width="480px" height="568px" alt="Soyeon Kim" />
 </div>
 
-### Research Interest
+### **Research Interest**
 Cancer Genomics
 
-### Education and Experience
+### **Education and Experience**
 
 **University of California, San Diego.**
 - BS, Biology with Specialization in Bioinformatics &amp; Computer Science Minor, 09/2016 ~ 06/2021

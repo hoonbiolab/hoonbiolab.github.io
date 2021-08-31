@@ -16,14 +16,26 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" />
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Junyong Ko
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/jy_ko.png" width="480px" height="568px" alt="Junyong Ko" />
 </div>
 
 
-### Education and Experience
+### **Education and Experience**
 
 **Sungkyunkwan University**
 - Electronic and Electrical Engineering, 03/2019 ~ Current

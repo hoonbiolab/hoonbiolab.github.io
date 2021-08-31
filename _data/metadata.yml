@@ -1,0 +1,37 @@
+Photo:
+  - title: Google Photo
+    url: https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3
+    description: If you want to see our lab photo, click below
+    icon: https://ifh.cc/g/nuWHSS.png
+    logo: https://ifh.cc/g/nuWHSS.png
+resources:
+  - title: Sherlock
+    url: https://www.sherlock.stanford.edu/docs/overview/introduction/
+    description: Sherlock is a shared compute cluster available for use by all Stanford faculty and their research teams for sponsored or departmental faculty research.
+    icon: https://raw.githubusercontent.com/stanford-rc/logos/master/sherlock/sherlock-icon.png
+    logo: https://raw.githubusercontent.com/stanford-rc/logos/master/sherlock/sherlock.png
+  - title: SCG Genomics Cluster
+    url: https://login.scg.stanford.edu/
+    description: The Genetics Bioinformatics Service Center offers a range of high-throughput computational resources, currently used by over 150 faculty members and 600 researchers in genetics and other related disciplines.
+    icon: https://raw.githubusercontent.com/stanford-rc/logos/master/scg/scg-icon.png
+    logo: https://raw.githubusercontent.com/stanford-rc/logos/master/scg/scg.png
+  - title: Nero
+    url: https://nero-docs.stanford.edu
+    description: Nero is a new highly-secure, fully-integrated research data platform to enable cross-disciplinary collaboration, with capabilities to easily develop and share data models.
+    icon: https://raw.githubusercontent.com/stanford-rc/logos/master/nero/nero-hat-red-icon-gray.png
+    logo: https://raw.githubusercontent.com/stanford-rc/logos/master/nero/nero-red-hat-gray.png
+  - title: Farmshare
+    description: Farmshare is a compute environment available to students, faculty and staff with fully sponsored SunetIDs. It is suitable for coursework-related and miscellaneous computational tasks.
+    url: https://stanford-rc.github.io/docs-farmshare/
+    icon: https://raw.githubusercontent.com/stanford-rc/logos/master/farmshare/farmshare-reds-icon.png
+    logo: https://raw.githubusercontent.com/stanford-rc/logos/master/farmshare/farmshare-red-pot.png
+  - title: Oak Storage
+    url: https://stanford-rc.github.io/docs-oak/
+    description: Oak is a High Performance Computing (HPC) storage system available to research groups and projects at Stanford. It is available for use by all Stanford University and affiliated research projects and groups.
+    icon: https://raw.githubusercontent.com/stanford-rc/logos/master/oak/oak-icon.png
+    logo: https://raw.githubusercontent.com/stanford-rc/logos/master/oak/oak.png
+  - title: XStream
+    url: http://xstream.stanford.edu/
+    description: XStream is a computational cluster supported by a NSF Major Research Instrumentation grant awarded to Stanford principal investigator (PI) Todd Martinez (Chemistry/PULSE Institute) and co-PIs.
+    icon: https://raw.githubusercontent.com/stanford-rc/logos/master/xstream/xstream-icon.png
+    logo: https://raw.githubusercontent.com/stanford-rc/logos/master/xstream/xstream.png

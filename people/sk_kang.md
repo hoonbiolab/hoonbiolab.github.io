@@ -16,16 +16,28 @@ css:
   - /css/custom_home.css
 ---
 
-<div class="row">
-<div class="col"><div class="holder smooth">
-    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="SeungHyun Kang" />
+<style>
+.center{
+  text-align: center;
+}
+</style>  
+
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Seunghyun Kang
 </div></div>
+
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" width="480px" height="568px" alt="SeungHyun Kang" />
 </div>
 
-### Research Interest
+### **Research Interest**
 Biochemistry, Bioinformatics, Cancer Immunology, Immunotherapy, Drug Discovery
 
-### Education and Experience
+### **Education and Experience**
 
 **Calvin University, Grand Rapids MI.**
 - BS, Biochemistry, 09/2013 ~ 05/2019
