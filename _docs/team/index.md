@@ -241,7 +241,7 @@ Interns
     <img src="{{ site.url }}/assets/img/people/yj_nam.png" alt="Yoonjoo Nam" width="100%"></div>
     <div class="container">
          <h4><b>Yoonjoo Nam</b></h4> 
-    <p>Senior, HanBat University
+    <p>Senior, Hanbat University
        nyj990613@gmail.com</p>
      <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>

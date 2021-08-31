@@ -43,5 +43,5 @@ Yeonsik Kim
 **Associate Research Engineer**
 - 04/2016 ~ current
 
-### **xperienced in programming**
+### **Experienced in programming**
 languages (C, Java) 
