@@ -65,7 +65,7 @@ img {vertical-align: middle;
   to {opacity: 1}
 }
 /* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 600px) {
   .text {font-size: 11px}
 }
 .center{
