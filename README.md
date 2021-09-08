@@ -1,6 +1,6 @@
-# hoonlab6.github.io
+# hoonbiolab.github.io
 
 visit
 ```
-hoonlab6.github.io
+hoonbiolab.github.io
 ```

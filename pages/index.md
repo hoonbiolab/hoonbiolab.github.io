@@ -41,7 +41,7 @@ img {vertical-align: middle;
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #bbb;/Users/nam-yunju/hoonlab6.github.io/_data/metadata.yml
+  background-color: #bbb;/Users/nam-yunju/hoonbiolab.github.io/_data/metadata.yml
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
