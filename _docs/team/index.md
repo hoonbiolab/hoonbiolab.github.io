@@ -110,7 +110,7 @@ img {
 }
 /* Responsive columns */
 @media only screen and (max-width: 600px) {
-  .text {font-size: 11px}
+  .text {font-size: 8px}
 }
 </style>
 
