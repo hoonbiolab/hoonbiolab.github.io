@@ -105,15 +105,16 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
   <div class="numbertext">4 / 4</div>
   <img src="{{site.url}}/assets/img/slideshow/photo4.png" style="width:100%">
 </div>
-
-
 </div>
+
+
 <br>
 
 <div style="text-align:center">
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
+   <span class="dot"></span> 
 </div>
 
 <script>
