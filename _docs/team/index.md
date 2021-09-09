@@ -230,8 +230,8 @@ Interns
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" width="100%"></div>
     <div class="container">
          <h4><b>Junyong Ko</b></h4> 
-    <p>Junior, SKKU 
-       junyongi1@g.skku.edu</p>
+    <p>Junior, SKKU</p> 
+    <p>junyongi1@g.skku.edu</p>
      <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
