@@ -13,21 +13,21 @@ css:
   transition: 0.3s;
   width: 70%;
   border-radius: 5px;
-  height: 505px;
+  height: 470px;
 }
 .card2 {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 35%;
   border-radius: 5px;
-    height: 505px;
+    height: 470px;
 }
 .card3 {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 38%;
   border-radius: 5px;
-    height: 525px;
+    height: 540px;
 }
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
