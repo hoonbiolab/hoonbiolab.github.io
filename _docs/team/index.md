@@ -109,8 +109,10 @@ img {
   }
 }
 /* Responsive columns */
-@media only screen and (max-width: 500px) {
-  .text {font-size: 8px}
+@media 
+  (max-device-width: 218px)
+  and (max-device-height: 281px) { 
+
 }
 </style>
 
