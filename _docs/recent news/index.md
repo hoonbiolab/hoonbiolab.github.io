@@ -175,14 +175,16 @@ title: "Recent News"
 </div></div>
 
 
+<h2><button class="button">Lab Event</button> We celebrated Youngjin's wedding!!</h2>
+<p>Congratulations on your wedding, Youngjin! We hope you have a happy day~♥️ <i class="far fa-newspaper"></i> </p>
+<p><div style="font-style: italic">Posted on Sep 17, 2021</div></p>
+<img id="myImg" src="/assets/img/wedding.png" style="width:100%;max-width:300px">
 
 <h2><button class="button">Lab Event</button> We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
    We are so happy that you are one of lab members!! We love you <3.</p>
    <p><div style="font-style: italic">Posted on June 23, 2021</div></p>
 <img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
-
-
 
 <h2><button class="button">Lab Event</button> We celebrated Heesuk's BirthDay during KSBMB international Conference!!</h2>
 <p>Happy birthday Heesuk!! He is our 1st member of Computational Biomedicine Lab.
