@@ -176,7 +176,7 @@ title: "Recent News"
 
 
 <h2><button class="button">Lab Event</button> We celebrated Youngjin's wedding!!</h2>
-<p>Congratulations on your wedding, Youngjin! We hope you have a happy day~♥️ <i class="far fa-newspaper"></i> </p>
+<p>Congratulations on your wedding, Youngjin! We hope you have a happy day~<i class="fad fa-rings-wedding"></i> </p>
 <p><div style="font-style: italic">Posted on Sep 17, 2021</div></p>
 <img id="myImg" src="/assets/img/wedding.png" style="width:100%;max-width:300px">
 
