@@ -1,11 +1,11 @@
 # hoonbiolab.github.io
 
 ## Visit
-hoonbiolab.github.io
+https://hoonbiolab.github.io/
 
 
 ## To edit 
-_docs < team, research, publication, recent news, contact < each index.md
+_docs << team, research, publication, recent news, contact << each index.md
 
 
 ## Add Icon
