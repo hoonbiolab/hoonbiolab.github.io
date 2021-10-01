@@ -174,6 +174,14 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button2">Paper</button> Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response</h2>
+<p>
+Glioma intratumoral heterogeneity enables adaptation to challenging microenvironments and contributes to therapeutic resistance. We integrated 914 single-cell DNA methylomes, 55,284 single-cell transcriptomes and bulk multi-omic profiles across 11 adult IDH mutant or IDH wild-type gliomas to delineate sources of intratumoral heterogeneity. We showed that local DNA methylation disorder is associated with cell–cell DNA methylation differences, is elevated in more aggressive tumors, links with transcriptional disruption and is altered during the environmental stress response. Glioma cells under in vitro hypoxic and irradiation stress increased local DNA methylation disorder and shifted cell states. We identified a positive association between genetic and epigenetic instability that was supported in bulk longitudinally collected DNA methylation data. Increased DNA methylation disorder associated with accelerated disease progression and recurrently selected DNA methylation changes were enriched for environmental stress response pathways. Our work identified an epigenetically facilitated adaptive stress response process and highlights the importance of epigenetic heterogeneity in shaping therapeutic outcomes.</p>
+
+>Kevin C. Johnson, Hoon Kim, Paul Robson & Roel G. W. Verhaak, et al. nature genetics 30 September 2021. [Full text article](https://www.nature.com/articles/s41588-021-00926-8#citeas)
+
+<p><div style="font-style: italic">Posted on October 1, 2021</div></p>
+<img id="myImg" src="/assets/img/papers/9.30_nature genetics.png" style="width:100%;max-width:300px">
 
 <h2><button class="button">Lab Event</button> We celebrated Youngjin's wedding!!</h2>
 <p>Congratulations on your wedding, Youngjin! We hope you have a happy day~ <i class="far fa-kiss-wink-heart"></i> </p>
