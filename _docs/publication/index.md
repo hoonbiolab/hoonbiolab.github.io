@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
-- Kevin C. Johnson<b>*</b>, Paul Robson & Roel G. W. Verhaak<b>*</b>,Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, __Hoon Kim__, Marcos R. H. Estecio, Dacheng Zhao, Ming Tang, Nicholas E. Navin, Rahul Maurya, Chew Yee Ngan, Niels Verburg, Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das.  "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response", __Nature Genetics__, 2021 September.
+- Kevin C. Johnson<b>*</b>, Paul Robson & Roel G. W. Verhaak<b>*</b>,Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, __Hoon Kim__, Marcos R. H. Estecio, [...], Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das.  "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response", __Nature Genetics__, 2021 September.
 
 - Johnson K<b>*</b>, Anderson K<b>*</b>, [...], __Hoon Kim__, Estecio MRH, Tang M, Navin N, Maurya R, Ngan CY, Verburg N, Witt Hamer PC, Bulsara K, Samuels ML, Das S, Robson P, Verhaak RG. "Single-cell multimodal glioma analyses reveal epigenetic regulators of cellular plasticity and environmental stress response", Accepted for publication by ___Nature Genetics___, 2021.
 
