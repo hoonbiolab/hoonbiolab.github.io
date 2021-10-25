@@ -215,7 +215,7 @@ Students
     <p><button>Read more</button></p>
     </a>
     </div>
-  </div>
+    </div>
   </div>
   <div class="column">
   <div class="card"><div class="img">
@@ -225,7 +225,8 @@ Students
     <p>Senior, SKKU</p>
      <a href="{{ site.url }}/people/jh_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-        </div>
+    </a>
+    </div>
     </div>
     </div>
   </div>
