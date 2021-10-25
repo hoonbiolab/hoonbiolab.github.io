@@ -52,6 +52,7 @@ Biochemistry, Bioinformatics, Biomedical data science, Glioblastoma genomics/pro
 - BS, Chemistry, 09/2016 ~ 08/2019
 - BS, Business & Economics, 03/2012 ~ 08/2019
 
-### <i class="fa fa-paper-plane"></i> hadgie@g.skku.edu
+### **Contact**
+<i class="fa fa-paper-plane"></i> hadgie@g.skku.edu
 
 
