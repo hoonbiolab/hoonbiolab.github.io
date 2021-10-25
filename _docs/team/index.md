@@ -212,7 +212,7 @@ Students
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
-    <p>Research Assistant</p>
+    <p>Research Assisantt</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -223,7 +223,7 @@ Students
     <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
     <div class="container">
          <h4><b>Junghyun Kim</b></h4> 
-    <p>BS, SKKU</p>
+    <p>Senior, SKKU</p>
      <a href="{{ site.url }}/people/jh_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
         </div>
