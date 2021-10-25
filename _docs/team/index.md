@@ -152,8 +152,7 @@ Students
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%">
   <div class="container">
     <h4><b>Heesuk Chung, BS</b></h4> 
-    <p>Research Assistant
-       hadgie@g.skku.edu</p>
+    <p>Research Assistant</p>
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -208,7 +207,7 @@ Students
 
 <p></p>
 
-<div class="card2"><div class="img">
+<div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
@@ -217,6 +216,18 @@ Students
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
+    </div>
+  </div>
+  </div>
+  <div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
+    <div class="container">
+         <h4><b>Junghyun Kim</b></h4> 
+    <p>BS, SKKU</p>
+     <a href="{{ site.url }}/people/jh_kim" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+        </div>
+    </div>
     </div>
   </div>
 
@@ -286,18 +297,7 @@ Interns
    </div>
 </div>
 
-   <p></p>
 
-<div class="card2"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
-    <div class="container">
-         <h4><b>Junghyun Kim</b></h4> 
-    <p>BS, SKKU</p>
-     <a href="{{ site.url }}/people/jh_kim" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
-   </div>
-  </div>
 
 
 
