@@ -288,7 +288,7 @@ Interns
 
    <p></p>
 
-<div class="card"><div class="img">
+<div class="card2"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
     <div class="container">
          <h4><b>Junghyun Kim</b></h4> 
