@@ -205,6 +205,7 @@ Students
 <p></p>
 
 <div class="row">
+<div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
@@ -216,6 +217,7 @@ Students
     </div>
   </div>
   </div>
+  <div class="column">
   <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
     <div class="container">
