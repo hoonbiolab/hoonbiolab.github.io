@@ -284,7 +284,7 @@ Interns
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" width="100%"></div>
     <div class="container">
            <h4><b>Jiwon Shon</b></h4> 
-        <p>BS, Ghent University, Global Campus</p>
+        <p>BS, Ghent University</p>
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
