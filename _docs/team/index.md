@@ -164,8 +164,7 @@ Students
   <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang" width="100%">
   <div class="container">
     <h4><b>Seunghyun Kang, BS</b></h4> 
-    <p>Research Assistant
-       steve941101@gmail.com</p> 
+    <p>Research Assistant</p> 
     <a href="{{ site.url }}/people/sk_kang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -182,8 +181,7 @@ Students
     <img src="{{ site.url }}/assets/img/people/sy_kim.png" alt="Soyeon Kim" width="100%"></div>
     <div class="container">
      <h4><b>Soyeon Kim, BS</b></h4> 
-    <p>Research Assistant
-       sok006@ucsd.edu</p>
+    <p>Research Assistant</p>
     <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -195,8 +193,7 @@ Students
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" width="100%"></div>
     <div class="container">
          <h4><b>Daeho Joe, BS</b></h4> 
-    <p>Research Assistant
-       daeho1027@g.skku.edu</p>
+    <p>Research Assistant</p>
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
