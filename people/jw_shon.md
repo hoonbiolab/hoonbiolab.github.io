@@ -22,6 +22,11 @@ css:
 }
 </style>  
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -42,6 +47,9 @@ Immunology, Bioinformatics, Cancer genomics
 
 **Ghent University, Global Campus**
 - Molecular Biotechnology, 09/2017 ~ current
+
+### **Contact**
+<i class="fa fa-paper-plane"></i> jwsohn92@gmail.com 
 
 
 
