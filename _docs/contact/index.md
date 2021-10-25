@@ -4,7 +4,7 @@ title: "Contact"
 
 ---
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1"><script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 
 <i class="fab fa-twitter"></i> Follow <a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">@wisekh6</a> for lab updates and information related to our research.
 
