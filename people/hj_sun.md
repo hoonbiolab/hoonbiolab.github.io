@@ -22,6 +22,10 @@ css:
 }
 </style>  
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -43,3 +47,5 @@ Regulatory Science, cancer genomic, bioinformatics
 - BS, Biology, 03/2017 ~ 02/2021
 - BS, History Education
 
+### **Contact**
+<i class="fa fa-paper-plane"></i> guswjd6522@g.skku.edu

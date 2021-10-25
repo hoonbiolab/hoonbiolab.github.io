@@ -212,8 +212,7 @@ Students
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, BS</b></h4> 
-    <p>Research Assistant 
-       guswjd6522@g.skku.edu</p>
+    <p>Research Assistant</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -244,8 +243,7 @@ Interns
     <img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko" width="100%"></div>
     <div class="container">
          <h4><b>Junyong Ko</b></h4> 
-    <p>Junior, SKKU 
-       junyongi1@g.skku.edu</p>
+    <p>Junior, SKKU</p>
      <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -257,8 +255,7 @@ Interns
     <img src="{{ site.url }}/assets/img/people/yj_nam.png" alt="Yoonjoo Nam" width="100%"></div>
     <div class="container">
          <h4><b>Yoonjoo Nam</b></h4> 
-    <p>Senior, Hanbat University
-       nyj990613@gmail.com</p>
+    <p>Senior, Hanbat University</p>
      <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -275,8 +272,7 @@ Interns
     <img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo" width="100%"></div>
      <div class="container">
           <h4><b>Eunchae Yeo</b></h4> 
-     <p>BS, Korea University
-        ecyeo93@gmail.com</p>
+     <p>BS, Korea University</p>
          <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -288,8 +284,7 @@ Interns
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" width="100%"></div>
     <div class="container">
            <h4><b>Jiwon Shon</b></h4> 
-        <p>BS, Ghent University,   
-           Global Campus</p>
+        <p>BS, Ghent University, Global Campus</p>
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
