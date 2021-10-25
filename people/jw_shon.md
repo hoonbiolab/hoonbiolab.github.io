@@ -46,7 +46,7 @@ Immunology, Bioinformatics, Cancer genomics
 ### **Education and Experience**
 
 **Ghent University, Global Campus**
-- Molecular Biotechnology, 09/2017 ~ current
+- Molecular Biotechnology, 09/2017 ~ 08/2022
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> jwsohn92@gmail.com 
