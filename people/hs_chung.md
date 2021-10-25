@@ -34,6 +34,11 @@ Heesuk Chung
 <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" width="480px" height="568px" alt="Heesuk Jung" />
 </div>
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
 
 ### **Research Interest**
 Biochemistry, Bioinformatics, Biomedical data science, Glioblastoma genomics/proteomics
@@ -47,5 +52,6 @@ Biochemistry, Bioinformatics, Biomedical data science, Glioblastoma genomics/pro
 - BS, Chemistry, 09/2016 ~ 08/2019
 - BS, Business & Economics, 03/2012 ~ 08/2019
 
+### <i class="fa fa-paper-plane"></i> hadgie@g.skku.edu
 
 
