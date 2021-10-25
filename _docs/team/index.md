@@ -281,21 +281,23 @@ Interns
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
+    </div>
+   </div>
 
    <p></p>
 
 <div class="card2"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
     <div class="container">
          <h4><b>Junghyun Kim</b></h4> 
     <p>BS, SKKU</p>
-     <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
+     <a href="{{ site.url }}/people/jh_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
    </div>
    </div>
   </div>
-</div>
+
 
 <p></p>
 
