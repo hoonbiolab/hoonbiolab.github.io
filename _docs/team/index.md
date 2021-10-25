@@ -283,10 +283,12 @@ Interns
    </a>
     </div>
    </div>
+   </div>
+</div>
 
    <p></p>
 
-<div class="card2"><div class="img">
+<div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
     <div class="container">
          <h4><b>Junghyun Kim</b></h4> 
@@ -295,8 +297,8 @@ Interns
     <p><button>Read more</button></p>
     </a>
    </div>
-   </div>
   </div>
+
 
 
 <p></p>
