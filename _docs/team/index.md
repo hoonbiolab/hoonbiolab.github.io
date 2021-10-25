@@ -207,6 +207,7 @@ Students
 
 <p></p>
 
+<div class="row">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
