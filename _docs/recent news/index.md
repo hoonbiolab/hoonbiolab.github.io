@@ -175,9 +175,14 @@ title: "Recent News"
 </div></div>
 
 <h2><button class="button">Lab Event</button> We celebrated Hyunjeong's birthday!!</h2>
-<p>Happy birthday hyunjeong!!</p>
+<p>Happy birthday hyunjeong!! We are so happy that you are one of lab members!! We love you~<3</p>
 <p><div style="font-style: italic">Posted on Nov 5, 2021</div></p>
 <img id="myImg" src="/assets/img/hj_bd.JPG" style="width:100%;max-width:300px">
+
+<h2><button class="button">Lab Event</button> We celebrated Daeho's birthday!!</h2>
+<p>Happy birthday Daeho!! We are so happy that you are one of lab members!! We love you~<3</p>
+<p><div style="font-style: italic">Posted on Oct 27, 2021</div></p>
+<img id="myImg" src="/assets/img/dh_bd.jpeg" style="width:100%;max-width:300px">
 
 <h2><button class="button2">Paper</button> Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response</h2>
 <p>
