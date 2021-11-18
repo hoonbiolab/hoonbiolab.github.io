@@ -21,7 +21,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 - __Hoon Kim__, Nam Nguyen, Kristen Turner, [...], Sihan Wu, Jihe Liu, Sandeep Namburi, Howard Chang, Paul Mischel, Vineet Bafna, Roel Verhaak. "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers." ___Nature Genetics___, 2020 Aug.
 
 
-- Oldrini Barbara, Nuria Vaquero-Siguero, Quanhua Mu, [...], __Hoon Kim__, [...],Tao Jiang,Jiguang Wang and Massimo Squatrito. "MGMT genomic rearrangements contribute to chemotherapy resistance in gliomas." ___Nature Communications___, 2020 Aug.
+- Oldrini Barbara, Nuria Vaquero-Siguero, Quanhua Mu, [...], __Hoon Kim__, [...],Tao Jiang,Jiguang Wang and Massimo Squatrito. "MGMT genomic rearrangements contribute to chemotherapy resice in gliomas." ___Nature Communications___, 2020 Aug.
 
 
 - Samir Amin, Kevin J Anderson, C Elizabeth Boudreau, Emmanuel Martinez-Ledesma, [...], __Hoon Kim__, [...], Roel G.W. Verhaak. "Comparative molecular life history of spontaneous canine and human glioma" ___Cancer Cell___, 2020 Feb.
