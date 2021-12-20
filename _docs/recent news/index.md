@@ -180,7 +180,7 @@ title: "Recent News"
 <img id="myImg" src="/assets/img/sh_bd.png" style="width:100%;max-width:300px">
 
 <h2><button class="button">Lab Event</button> We celebrated Hyunjeong's birthday!!</h2>
-<p>Happy birthday hyunjeong!! We are so happy that you are one of lab members!! We love you~<3</p>
+<p>Happy birthday hyunjeong, our lab's squarrel!<i class="far fa-squirrel"></i> We are so happy that you are one of lab members!! We love you~<3</p>
 <p><div style="font-style: italic">Posted on Nov 5, 2021</div></p>
 <img id="myImg" src="/assets/img/hj_bd.JPG" style="width:100%;max-width:300px">
 
