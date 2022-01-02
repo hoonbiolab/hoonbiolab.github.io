@@ -133,7 +133,7 @@ Principal Investigator
     <div class="container3">
         <h4><b>Hoon Kim, PhD</b></h4> 
         <p>Associate Professor</p>
-        <a href="{{ site.url }}/people/prof.kim" target="_blank" rel="noopener noreferrer">
+        <a href="{{ site.url }}/people/prof.kim/" target="_blank" rel="noopener noreferrer">
     <p><button class="center">Read more</button></p>
     </a>
   </div>
