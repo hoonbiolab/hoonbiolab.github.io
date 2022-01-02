@@ -40,7 +40,7 @@ Hoon Kim
 
 <!-- Avoid edit from here... -->
 <div class=center>
-    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" width="480px" height="568px" alt="Hoon Kim" />
+    <img src="{{ site.url }}/assets/img/people/Profile-184998_Kim_H.jpg" alt="Hoon Kim" />
 </div>
 
 <link
