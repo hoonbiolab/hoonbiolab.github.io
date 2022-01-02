@@ -3,7 +3,7 @@ layout: page
 title: About
 description: "About Hoon Kim, PhD"
 subtitle: Hoon Kim
-permalink: /people/prof.kim
+permalink: /people/prof.kim/
 tags:
   - about
   - hoon
