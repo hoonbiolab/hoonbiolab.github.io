@@ -35,7 +35,7 @@ Boyoon Kim
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/by_kim.png" width="480px" height="568px" alt="Boyoon Kim" />
+    <img src="{{ site.url }}/assets/img/people/by_kim.png" width="480px" height="560px" alt="Boyoon Kim" />
 </div>
 
 ### **Research Interest**
