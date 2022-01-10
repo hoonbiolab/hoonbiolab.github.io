@@ -139,6 +139,8 @@ Principal Investigator
   </div>
 </div>
 
+
+## photo-size -> W:H = 3:2
 <p></p>
 
 <div style="font-weight:600; font-size: 30px; color: #030303">
