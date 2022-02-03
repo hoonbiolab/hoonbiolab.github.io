@@ -189,19 +189,20 @@ Students
     </div>
     </div>
   </div>
+<div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon" width="100%"></div>
     <div class="container">
-         <h4><b>Daeho Joe, BS</b></h4> 
+         <h4><b>Dongjoo Yoon, BS</b></h4> 
     <p>Research Assistant</p>
-     <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
+     <a href="{{ site.url }}/people/dj_yoon" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
     </div>
     </div>
-    </div>
   </div>
+</div>
 
 <p></p>
 
@@ -255,11 +256,11 @@ Students
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/yj_nam" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
-      </a>
-    </div>
+    </a>
     </div>
     </div>
   </div>
+</div>
 
 <p></p>
 
@@ -284,24 +285,6 @@ Students
         <p>Research Assistant</p>
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
-   </a>
-    </div>
-   </div>
-   </div>
-</div>
-
-<p></p>
-
-</div>
-<div class="row">
-  <div class="column">
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon" width="100%"></div>
-    <div class="container">
-         <h4><b>Dongjoo Yoon, BS</b></h4> 
-    <p>Research Assistant</p>
-     <a href="{{ site.url }}/people/dj_yoon" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
    </a>
    </div>
    </div>
@@ -331,8 +314,24 @@ Interns
 <p></p>
 
 <div style="font-weight: 600; font-size: 30px; color: #030303">
-Staffs
+Former lab members 
 </div>
+
+  <div class="column">
+<div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" width="100%"></div>
+    <div class="container">
+         <h4><b>Daeho Joe, BS</b></h4> 
+    <p>Research Assistant</p>
+     <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+    </a>
+    </div>
+    </div>
+    </div>
+  </div>
+
+<p></p>
 
 <div class="row">
   <div class="column">
@@ -362,7 +361,6 @@ Staffs
    </div>
   </div>
 </div>
-
 
 
 
