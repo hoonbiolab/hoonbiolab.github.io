@@ -30,7 +30,7 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Hyunjeong Sun
+Dongjoo Yoon
 </div></div>
 
 
