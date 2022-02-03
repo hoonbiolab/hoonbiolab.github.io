@@ -316,8 +316,8 @@ Interns
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Former lab members 
 </div>
-
-  <div class="column">
+<div class="row">
+ <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" width="100%"></div>
     <div class="container">
@@ -325,11 +325,11 @@ Former lab members
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-    </a>
-    </div>
+  </a>
     </div>
     </div>
   </div>
+</div>
 
 <p></p>
 
@@ -347,7 +347,7 @@ Former lab members
    </div>
   </div>
 </div>
-  <div class="column">
+   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon" width="100%"></div>
     <div class="container">
@@ -356,13 +356,12 @@ Former lab members
            languages(C, C++)</p>
         <a href="{{ site.url }}/people/yj_moon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
-   </a>
-   </div>
-   </div>
+  </a>
+    </div>
+    </div>
   </div>
 </div>
 
 <p></p>
-
 
 
