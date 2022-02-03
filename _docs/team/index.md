@@ -230,10 +230,10 @@ Students
     </a>
     </div>
     </div>
-    </div>
   </div>
+</div>
 
-  <p></p>
+<p></p>
 
 <div class="row">
   <div class="column">
@@ -274,9 +274,9 @@ Students
          <a href="{{ site.url }}/people/ec_yeo" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
-   </div>
+    </div>
+    </div>
   </div>
-</div>
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon" width="100%"></div>
@@ -286,8 +286,8 @@ Students
          <a href="{{ site.url }}/people/jw_shon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
-   </div>
-   </div>
+    </div>
+    </div>
   </div>
 </div>
 
