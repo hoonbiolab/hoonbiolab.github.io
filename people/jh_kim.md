@@ -42,4 +42,4 @@ Genomics, Bioinformatics, Precision medicine, Translational research
 ### **Education and Experience**
 
 **Sungkyunkwan University**
-- Integrative Biotechnology, 03/2018 ~ current
+- Integrative Biotechnology, 03/2018 ~ 02/2022
