@@ -35,7 +35,7 @@ Dongjoo Yoon
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" width="480px" height="568px" alt="Dongjoo Yoon"/>
+    <img src="{{ site.url }}/assets/img/people/dj_yoon.png" width="480px" height="568px" alt="Dongjoo Yoon"/>
 </div>
 
 ### **Research Interest**

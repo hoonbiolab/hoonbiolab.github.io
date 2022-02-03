@@ -325,7 +325,7 @@ Former lab members
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-  </a>
+    </a>
     </div>
     </div>
   </div>
