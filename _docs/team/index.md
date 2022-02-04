@@ -152,7 +152,7 @@ Students
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%">
   <div class="container">
-    <h4><b>Heesuk Chung, BS</b></h4> 
+    <h4><b>Heesuk Chung, BS·BA</b></h4> 
     <p>Research Assistant</p>
     <a href="{{ site.url }}/people/hs_chung/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
@@ -194,7 +194,7 @@ Students
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon" width="100%"></div>
     <div class="container">
-         <h4><b>Dongjoo Yoon, BS</b></h4> 
+         <h4><b>Dongjoo Yoon, BA</b></h4> 
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/dj_yoon" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
@@ -211,7 +211,7 @@ Students
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
-         <h4><b>Hyunjeong Sun, BS</b></h4> 
+         <h4><b>Hyunjeong Sun, BS·BA</b></h4> 
     <p>Research Assisant</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>

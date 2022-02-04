@@ -44,7 +44,7 @@ Regulatory Science, bioinformatics, biomedical data science
 ### **Education and Experience**
 
 **Gachon University**
-- BS, Media Communication, 03/2015 ~ 02/2021
+- BA, Media Communication, 03/2015 ~ 02/2021
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> dongjooyoon@g.skku.edu

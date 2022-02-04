@@ -50,7 +50,7 @@ Biochemistry, Bioinformatics, Biomedical data science, Glioblastoma genomics/pro
 
 **Chung-Ang University**
 - BS, Chemistry, 09/2016 ~ 08/2019
-- BS, Business & Economics, 03/2012 ~ 08/2019
+- BA, Business & Economics, 03/2012 ~ 08/2019
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> hadgie@g.skku.edu

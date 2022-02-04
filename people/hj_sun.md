@@ -45,7 +45,7 @@ Regulatory Science, cancer genomic, bioinformatics
 
 **Jeonbuk National University**
 - BS, Biology, 03/2017 ~ 02/2021
-- BS, History Education
+- BA, History Education
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> guswjd6522@g.skku.edu
