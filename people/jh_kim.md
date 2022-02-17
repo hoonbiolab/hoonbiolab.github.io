@@ -34,8 +34,6 @@ Junghyun Kim
     <img src="{{ site.url }}/assets/img/people/jh_kim.png" width="480px" height="568px" alt="Junghyun Kim" />
 </div>
 
-### **Expected join in lab at 2021/11/1**
-
 ### **Research Interest**
 Genomics, Bioinformatics, Precision medicine, Translational research
 
