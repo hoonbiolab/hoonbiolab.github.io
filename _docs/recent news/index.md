@@ -174,6 +174,11 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button">Lab Event</button> We celebrated Yoonjoo,Junghyun's college graduation!!</h2>
+<p>Congratulations on your graduation, We hope you'll be happy in the future!<i class="far fa-grin-tongue-squint"></i> Our lab's 99s!! We love you guys~<3</p>
+<p><div style="font-style: italic">Posted on Feb 17, 2022</div></p>
+<img id="myImg" src="/assets/img/yj_cg.jpeg" style="width:100%;max-width:300px">
+
 <h2><button class="button">Lab Event</button> Happy Birthday, Steve <i class="fas fa-birthday-cake"></i></h2>
 <p>Happy birthday Steve!! We hope you go back to 18 Steve~<i class="far fa-smile-wink"></i> Once again, happy birthday to our singularity&docker expert! We love you<3</p>
 <p><div style="font-style: italic">Posted on Dec 9, 2021</div></p>
