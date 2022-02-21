@@ -151,7 +151,7 @@ Visiting Scientist
     <img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoon Ji Choi" width="100%"></div>
     <div class="container">
          <h4><b>Yoon Ji Choi, MD</b></h4> 
-    <p>Associate Professor, Division of Medical Oncology, Korea University College of Medicine</p>
+    <p>Associate Professor</p>
      <a href="{{ site.url }}/people/prof_choi/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
    </a>
