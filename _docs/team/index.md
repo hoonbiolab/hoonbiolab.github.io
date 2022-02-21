@@ -142,6 +142,28 @@ Principal Investigator
 
 <p></p>
 
+<div style="font-weight: 600; font-size: 30px; color: #030303">
+Visiting Scientist
+</div>
+<div class="row">
+  <div class="column">
+<div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoon Ji Choi" width="100%"></div>
+    <div class="container">
+         <h4><b>Yoon Ji Choi, MD</b></h4> 
+    <p>Associate Professor, Division of Medical Oncology, Korea University College of Medicine</p>
+     <a href="{{ site.url }}/people/prof_choi/" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+   </a>
+   </div>
+   </div>
+  </div>
+</div>
+
+
+
+<p></p>
+
 <div style="font-weight:600; font-size: 30px; color: #030303">
 Students
 </div>

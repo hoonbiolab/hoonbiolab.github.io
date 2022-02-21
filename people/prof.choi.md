@@ -1,0 +1,75 @@
+---
+layout: page
+title: About
+description: "About Yoon Ji Choi, MD"
+subtitle: Yoon Ji Choi
+permalink: /people/prof_choi/
+tags:
+ - page
+categories:
+  - people
+published: true
+date: '2022-03-02'
+show_meta: true
+comments: false
+mathjax: true
+noindex: false
+css:
+  - "/assets/css/imagehover.css"
+  - "/css/custom_home.css"
+---
+
+<style>
+.center{
+  text-align: center;
+}
+</style>
+
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
+<div class="center"><div style="font-weight: bold; font-size: 40px;">
+About
+</div></div>
+<div class="center"><div style="font-weight: bold; font-size: 32px;">
+Yoon Ji Choi
+</div></div>
+
+<div class="center">
+    <img src="{{ site.url }}/assets/img/people/prof_choi.png" width="480px" height="568px" alt="Yoon Ji Choi"/>
+</div>
+
+### **03/2022 ~ 02/2023**
+
+### **Educational Background** 
+2000-2006: M.D. Korea University College of Medicine, Seoul, Korea
+2008-2010: M.S. Internal Medicine, Korea University College of Medicine, Seoul, Korea
+2010-2015: Ph.D. Internal Medicine, Korea University College of Medicine, Seoul, Korea
+
+
+### **Professional Experience**
+2006-2007: Internship, Korea University Medical Center, Seoul, Korea
+2007-2011: Residency in Internal Medicine, Korea University Medical Center, Seoul, Korea
+2011-2012: Clinical Fellowship, Division of Medical Oncology, Korea University Anam Hospital
+2012-2013: Clinical Fellowship, Department of Oncology, Asan Medical Center
+2013-2016: Clinical Assistant Professor, Division of Medical Oncology, Korea University Anam Hospital
+2016-2020: Assistant Professor, Division of Medical Oncology, Korea University Anam Hospital
+2020-current: Associate Professor, Division of Medical Oncology, Korea University Anam Hospital
+
+
+### **Professional Organizations**
+Korean Society of Medical Oncology (KSMO)
+Korean Cancer Association (KCA)
+Korean Cancer Study Group (KCSG)
+Active member of Genitourinary Cancer & Lung Cancer Committee of KCSG
+American Society for Clinical Oncology (ASCO)
+American Association for Cancer Research (AACR)
+International Association for the Study of Lung Cancer (IASLC)
+
+### **Main Scientific Publications**
+<i class="Publications"></i></a> <a href="{{ site.url }}/files/main scientific publications_prof_choi.html")
+
+### **Contact**
+<i class="fa fa-paper-plane"></i> yj_choi@korea.ac.kr
