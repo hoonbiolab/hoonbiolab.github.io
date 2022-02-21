@@ -83,19 +83,19 @@ Yoon Ji Choi
 
 
 ### **Professional Organizations**
-Korean Society of Medical Oncology (KSMO) <br />
+- Korean Society of Medical Oncology (KSMO) <br />
 
-Korean Cancer Association (KCA) <br />
+- Korean Cancer Association (KCA) <br />
 
-Korean Cancer Study Group (KCSG) <br />
+- Korean Cancer Study Group (KCSG) <br />
 
-Active member of Genitourinary Cancer & Lung Cancer Committee of KCSG <br />
+- Active member of Genitourinary Cancer & Lung Cancer Committee of KCSG <br />
 
-American Society for Clinical Oncology (ASCO) <br />
+- American Society for Clinical Oncology (ASCO) <br />
 
-American Association for Cancer Research (AACR) <br />
+- American Association for Cancer Research (AACR) <br />
 
-International Association for the Study of Lung Cancer (IASLC) <br />
+- International Association for the Study of Lung Cancer (IASLC) <br />
 
 
 ### **Contact**
