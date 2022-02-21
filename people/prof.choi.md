@@ -87,7 +87,7 @@ International Association for the Study of Lung Cancer (IASLC) <br />
 
 
 ### **Main Scientific Publications**
-<i class="fa-solid fa-book-circle-arrow-up"></i></a> <<a href="main scientific publications_prof_choi.html#result">Go to result.</a>
+<i class="fa-solid fa-book-circle-arrow-up"></i></a> <a href="{{ site.url }}/files/Main Scientific Publication"
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> yj_choi@korea.ac.kr
