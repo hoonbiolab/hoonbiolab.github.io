@@ -43,7 +43,7 @@ Yoon Ji Choi
 
 ### **Division of Medical Oncology, Korea University College of Medicine**
 
-### **03/2022 ~ 02/2023**
+### **Join our labs : 03/2022 ~ 02/2023**
 
 ### **Educational Background** 
 2000-2006: M.D. Korea University College of Medicine, Seoul, Korea <br />
