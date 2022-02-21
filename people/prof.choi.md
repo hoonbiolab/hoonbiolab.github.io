@@ -48,7 +48,7 @@ Yoon Ji Choi
   />
 
 <div class=center>
-<a href="{{ site.url }}/files/YoonJiChoi_publications.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a>
+<span <a href="{{ site.url }}/files/YoonJiChoi_publications.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a></span></div>
 <!-- until here! -->
 
 <p></p>
