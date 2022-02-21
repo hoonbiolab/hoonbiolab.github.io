@@ -87,7 +87,7 @@ International Association for the Study of Lung Cancer (IASLC) <br />
 
 
 ### **Main Scientific Publications**
-<i class="fa-solid fa-book-circle-arrow-up"></i></a> <a href="{{ site.url }}/files/Main Scientific Publication"
+<i class="fa-solid fa-book-circle-arrow-up"></i></a> <a href="{{ site.url }}/files/YoonJiChoi_publications.pdf"
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> yj_choi@korea.ac.kr
