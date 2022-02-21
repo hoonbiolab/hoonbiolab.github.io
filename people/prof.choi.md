@@ -49,7 +49,6 @@ Yoon Ji Choi
 
 <div class=center>
 <a href="{{ site.url }}/files/YoonJiChoi_publications.pdf" class="social-icons" title="Publications"><i class="fa-solid fa-arrow-up-left-from-circle"></i></a></div>
-
 <!-- until here! -->
 
 <p></p>
