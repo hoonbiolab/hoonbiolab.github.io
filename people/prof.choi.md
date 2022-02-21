@@ -37,9 +37,21 @@ About
 Yoon Ji Choi
 </div></div>
 
+<!-- Avoid edit from here... -->
 <div class="center">
     <img src="{{ site.url }}/assets/img/people/prof_choi.png" width="480px" height="568px" alt="Yoon Ji Choi"/>
 </div>
+
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
+<div class=center>
+<a href="{{ site.url }}/files/YoonJiChoi_publications.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a>
+<!-- until here! -->
+
+<p></p>
 
 ### **Division of Medical Oncology, Korea University College of Medicine**
 
@@ -85,9 +97,6 @@ American Association for Cancer Research (AACR) <br />
 
 International Association for the Study of Lung Cancer (IASLC) <br />
 
-
-### **Main Scientific Publications**
-<a href="{{ site.url }}/files/YoonJiChoi_publications.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a>
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> yj_choi@korea.ac.kr
