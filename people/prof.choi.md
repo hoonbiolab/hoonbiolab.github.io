@@ -87,18 +87,7 @@ International Association for the Study of Lung Cancer (IASLC) <br />
 
 
 ### **Main Scientific Publications**
-<i class="fa-solid fa-arrow-up-left-from-circle"></i> 
-<!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Publications</title>
-</head>
-<body>
-    <iframe width="100%" height="600" src="{{ site.url }}/files/YoonJiChoi_publications.pdf"></iframe>
-</body>
-</html>
-Colored by Color Scripter
+<a href="https://smallpdf.com/kr/edit-pdf#open=file%3A%2F%2F%2FUsers%2Fseonhyeonjeong%2FDesktop%2Fhoonbiolab.github.io%2Ffiles%2FYoonJiChoi_publications.pdf" target="_blank"><img src="https://smallpdf.com/assets/img/open-with-smallpdf-ko.svg" border="0" width="200" height="40" alt="Smallpdf에서 열기"/></a>
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> yj_choi@korea.ac.kr
