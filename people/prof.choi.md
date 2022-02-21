@@ -41,7 +41,9 @@ Yoon Ji Choi
     <img src="{{ site.url }}/assets/img/people/prof_choi.png" width="480px" height="568px" alt="Yoon Ji Choi"/>
 </div>
 
-### **Division of Medical Oncology, Korea University College of Medicine, 03/2022 ~ 02/2023**
+### **Division of Medical Oncology, Korea University College of Medicine**
+
+### **03/2022 ~ 02/2023**
 
 ### **Educational Background** 
 2000-2006: M.D. Korea University College of Medicine, Seoul, Korea <br />
@@ -85,7 +87,7 @@ International Association for the Study of Lung Cancer (IASLC) <br />
 
 
 ### **Main Scientific Publications**
-<i class="fa-solid fa-book-circle-arrow-up"></i></a> <a href="{{ site.url }}/files/main scientific publications_prof_choi.html")
+<i class="fa-solid fa-book-circle-arrow-up"></i> </a> <a href="{{ site.url }}/files/main scientific publications_prof_choi.html"
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> yj_choi@korea.ac.kr
