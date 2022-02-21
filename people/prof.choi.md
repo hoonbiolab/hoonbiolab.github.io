@@ -44,44 +44,45 @@ Yoon Ji Choi
 ### **Division of Medical Oncology, Korea University College of Medicine, 03/2022 ~ 02/2023**
 
 ### **Educational Background** 
-2000-2006: M.D. Korea University College of Medicine, Seoul, Korea
-</div>
-2008-2010: M.S. Internal Medicine, Korea University College of Medicine, Seoul, Korea
-</div>
-2010-2015: Ph.D. Internal Medicine, Korea University College of Medicine, Seoul, Korea
-</div></div>
+2000-2006: M.D. Korea University College of Medicine, Seoul, Korea <br />
+
+2008-2010: M.S. Internal Medicine, Korea University College of Medicine, Seoul, Korea <br />
+
+2010-2015: Ph.D. Internal Medicine, Korea University College of Medicine, Seoul, Korea <br />
+
+
 
 ### **Professional Experience**
-2006-2007: Internship, Korea University Medical Center, Seoul, Korea
-</div>
-2007-2011: Residency in Internal Medicine, Korea University Medical Center, Seoul, Korea
-</div>
-2011-2012: Clinical Fellowship, Division of Medical Oncology, Korea University Anam Hospital
-</div>
-2012-2013: Clinical Fellowship, Department of Oncology, Asan Medical Center
-</div>
-2013-2016: Clinical Assistant Professor, Division of Medical Oncology, Korea University Anam Hospital
-</div>
-2016-2020: Assistant Professor, Division of Medical Oncology, Korea University Anam Hospital
-</div>
-2020-current: Associate Professor, Division of Medical Oncology, Korea University Anam Hospital
-</div></div>
+2006-2007: Internship, Korea University Medical Center, Seoul, Korea <br />
+
+2007-2011: Residency in Internal Medicine, Korea University Medical Center, Seoul, Korea <br />
+
+2011-2012: Clinical Fellowship, Division of Medical Oncology, Korea University Anam Hospital <br />
+
+2012-2013: Clinical Fellowship, Department of Oncology, Asan Medical Center <br />
+
+2013-2016: Clinical Assistant Professor, Division of Medical Oncology, Korea University Anam Hospital <br />
+
+2016-2020: Assistant Professor, Division of Medical Oncology, Korea University Anam Hospital <br />
+
+2020-current: Associate Professor, Division of Medical Oncology, Korea University Anam Hospital <br />
+
 
 ### **Professional Organizations**
-Korean Society of Medical Oncology (KSMO)
-</div>
-Korean Cancer Association (KCA)
-</div>
-Korean Cancer Study Group (KCSG)
-</div>
-Active member of Genitourinary Cancer & Lung Cancer Committee of KCSG
-</div>
-American Society for Clinical Oncology (ASCO)
-</div>
-American Association for Cancer Research (AACR)
-</div>
-International Association for the Study of Lung Cancer (IASLC)
-</div></div>
+Korean Society of Medical Oncology (KSMO) <br />
+
+Korean Cancer Association (KCA) <br />
+
+Korean Cancer Study Group (KCSG) <br />
+
+Active member of Genitourinary Cancer & Lung Cancer Committee of KCSG <br />
+
+American Society for Clinical Oncology (ASCO) <br />
+
+American Association for Cancer Research (AACR) <br />
+
+International Association for the Study of Lung Cancer (IASLC) <br />
+
 
 ### **Main Scientific Publications**
 <i class="fa-solid fa-book-circle-arrow-up"></i></a> <a href="{{ site.url }}/files/main scientific publications_prof_choi.html")
