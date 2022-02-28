@@ -169,7 +169,6 @@ Visiting Scientist
 Students
 </div>
 
-</div>
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
