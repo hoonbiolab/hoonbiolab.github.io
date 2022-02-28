@@ -50,6 +50,7 @@ Biology, Bioinformatics, Biomarker, Cancer
 
 **Seoul National University**
 - Master program in molecular medicine and biopharmaceutical science, 03/2010 ~ 02/2013
+
 **Hanyang University**
 - BS, Biology, 03/2003 ~ 02/2010
 
