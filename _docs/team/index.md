@@ -175,7 +175,7 @@ Students
     <img src="{{ site.url }}/assets/img/people/jh_jang.jpg" alt="Jaeho Jang" width="100%"></div>
     <div class="container">
          <h4><b>Jaeho Jang, MS</b></h4> 
-    <p>Research Assistant</p>
+    <p> </p>
      <a href="{{ site.url }}/people/jh_jang" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
    </a>
