@@ -81,8 +81,11 @@ img {vertical-align: middle;
 
 ### **Recruitment notice**
 About **Postdoctoral scientist** <br />
-If you're interested, <a href="https://www.dropbox.com/s/qjbyiwbwc9iv8ib/Postdoc_Search-20220224.pdf?dl=0">click here</a> <br />ㄴ
-<img id="myImg" src="/assets/img/popup.png" style="width:100%;max-width:300px">
+If you're interested, <a href="https://www.dropbox.com/s/qjbyiwbwc9iv8ib/Postdoc_Search-20220224.pdf?dl=0">click here</a> <br />
+</div>
+
+<img id="myImg" src="/assets/img/popup.png" style="width:100%">
+</div>
 
 ## Lab Photos
 If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
