@@ -80,8 +80,10 @@ img {vertical-align: middle;
 
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
-## **Recruitment notice**
+ <!-- solid style -->
+## <i class="fa-solid fa-square-envelope"></i>**Recruitment notice**
 About **Postdoctoral scientist**
+<!--brand icon-->
 <i class="fa-solid fa-phone-arrow-up-right"></i>If you're interested,<a href="https://www.dropbox.com/s/qjbyiwbwc9iv8ib/Postdoc_Search-20220224.pdf?dl=0">click here</a>
 
 ## Lab Photos
