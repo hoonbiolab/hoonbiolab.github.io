@@ -79,32 +79,12 @@ img {vertical-align: middle;
 
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
- <body>
-<img id="imgControll" name="imgControll" src="/assets/img/popup.png" width="150" height="100" onclick="fnImgPop(this.src)">
- </body>
-
-<script type="text/javascript">
-<!--
- function fnImgPop(url){
-  var img=new Image();
-  img.src=url;
-  var img_width=img.width;
-  var win_width=img.width+25;
-  var img_height=img.height;
-  var win=img.height+30;
-  var OpenWindow=window.open('','_blank', 'width='+img_width+', height='+img_height+', menubars=no, scrollbars=auto');
-  OpenWindow.document.write("<style>body{margin:0px;}</style><img src='"+url+"' width='"+win_width+"'>");
- }
-//-->
-</script>
-
-
 # **Recruitment notice**
 About **Postdoctoral scientist** <br />
 
 If you're interested, <a href="https://www.dropbox.com/s/qjbyiwbwc9iv8ib/Postdoc_Search-20220224.pdf?dl=0">click here</a> <br />
 
-<img id="myImg" src="/assets/img/popup.png" style="width:200%" height="100">
+<img id="myImg" src="/assets/img/popup.png" style="width:300%" 
 
 ## Lab Photos
 If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
