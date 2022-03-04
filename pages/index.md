@@ -75,12 +75,6 @@ img {vertical-align: middle;
 }
 </style>
 
-
- <body>
-<img id="popup" name="imgControll" src="{{site.url}}/assets/img/popup.png" width="150" height="100" onclick="fnImgPop(this.src)">
- </body>
-
-
 # **Welcome to Hoon Lab**
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
