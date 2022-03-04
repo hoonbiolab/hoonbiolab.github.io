@@ -84,7 +84,7 @@ img {vertical-align: middle;
 About **Postdoctoral scientist** <br />
 If you're interested, <a href="https://www.dropbox.com/s/qjbyiwbwc9iv8ib/Postdoc_Search-20220224.pdf?dl=0">click here</a> <br />
 
-<img src="{{site.url}}/assets/img/popup.png" width="400px" height="400px">
+<img src="{{site.url}}/assets/img/popup.png" width="580px" height="500px">
 
 
 ## Lab Photos
