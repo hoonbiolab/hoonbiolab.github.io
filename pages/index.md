@@ -75,14 +75,23 @@ img {vertical-align: middle;
 }
 </style>
 
+
+ <body>
+<img id="popup" name="imgControll" src="{{site.url}}/assets/img/popup.png" width="150" height="100" onclick="fnImgPop(this.src)">
+ </body>
+
+
 # **Welcome to Hoon Lab**
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 
-## **Recruitment notice**
+## **Hiring notice**
+
 About **Postdoctoral scientist** <br />
 If you're interested, <a href="https://www.dropbox.com/s/qjbyiwbwc9iv8ib/Postdoc_Search-20220224.pdf?dl=0">click here</a> <br />
-<img src="{{site.url}}/assets/img/popup.png" style="width:200%">
+
+<img src="{{site.url}}/assets/img/popup.png" width="240px" height="180px">
+
 
 ## Lab Photos
 If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
@@ -144,7 +153,8 @@ function showSlides() {
 </script>
 
 
-<hr>
+<hr> 
+
 
 <link
     rel="stylesheet"
