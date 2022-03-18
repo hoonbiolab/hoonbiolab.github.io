@@ -174,6 +174,11 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button">Lab Event</button> We celebrated Dongjoo's birthday!!</h2>
+<p>Happy birthday Dongjoo~!! We are so happy that you are one of lab members!! We love you~<3</p>
+<p><div style="font-style: italic">Posted on Mar 14, 2022</div></p>
+<img id="myImg" src="/assets/img/dj_bd.jpeg" style="width:100%;max-width:300px">
+
 <h2><button class="button">Lab Event</button> We celebrated Yoonjoo,Junghyun's college graduation!!</h2>
 <p>Congratulations on your graduation, We hope you'll be happy in the future!<i class="far fa-grin-tongue-squint"></i> Our lab's 99s!! We love you guys~<3</p>
 <p><div style="font-style: italic">Posted on Feb 17, 2022</div></p>
