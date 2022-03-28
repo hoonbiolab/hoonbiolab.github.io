@@ -91,7 +91,7 @@ If you're interested, <a href="https://www.dropbox.com/s/qjbyiwbwc9iv8ib/Postdoc
 About **Research Assistant** <br />
 If you're interested, <a href="https://www.dropbox.com/s/7957cr5joggdznd/Grad_Student.pdf?dl=0">click here</a> <br />
 
-<img src="Hiring_notice.png" style="width:100%">
+<img src="{{site.url}}/assets/img/Hiring_notice.png" style="width:100%">
 
 
 ## Lab Photos
