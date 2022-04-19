@@ -82,6 +82,15 @@ img {vertical-align: middle;
 # **Welcome to Hoon Lab**
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
+
+## **✓ Hiring notice**
+
+About **Research Assistant** <br />
+If you're interested, <a href="https://www.dropbox.com/s/mgwiz4tpbdxxd44/Grad_Student-20220419.pdf?dl=1">click here</a> <br />
+
+<img src="{{site.url}}/assets/img/2022_CBM_student_hiring_notice.png" style="width:100%">
+
+
 ## Lab Photos
 If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
 
