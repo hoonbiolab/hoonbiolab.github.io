@@ -108,7 +108,7 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 5</div>
-  <img src="{{site.url}}/assets/img/slideshow/photo1.png" style="width:100%">
+  <img src="{{site.url}}/assets/img/slideshow/summer_CBM.jpeg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
