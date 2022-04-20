@@ -97,22 +97,27 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 4</div>
+  <div class="numbertext">1 / 5</div>
+  <img src="{{site.url}}/assets/img/slideshow/photo0.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 5</div>
   <img src="{{site.url}}/assets/img/slideshow/photo1.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 4</div>
+  <div class="numbertext">3 / 5</div>
   <img src="{{site.url}}/assets/img/slideshow/photo2.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 4</div>
+  <div class="numbertext">4 / 5</div>
   <img src="{{site.url}}/assets/img/slideshow/photo3.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 4</div>
+  <div class="numbertext">5 / 5</div>
   <img src="{{site.url}}/assets/img/slideshow/photo4.png" style="width:100%">
 </div>
 </div>
