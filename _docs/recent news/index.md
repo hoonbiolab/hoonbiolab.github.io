@@ -174,6 +174,17 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button3">Scholarship</button> Soyeon was awarded BVIC !!!</h2>
+<p>Congratulations, Soyeon, for awarded the “SKKU BIO-GLOBAL VALUE INNOVATIVE CREATOR (BVIC)” !!!</p>
+<p><div style="font-style: italic">Posted on April 27, 2022</div></p>
+<img id="myImg" src="/assets/img/sy_BVIC.png" style="width:100%;max-width:300px">
+
+<h2><button class="button3">Scholarship</button> JungHyun was awarded Graduate Scholarship !!!</h2>
+<p>Congratulations, JungHyun, for awarded the “Kwanjeong Educational Foundation” !!!</p>
+<p><div style="font-style: italic">Posted on April 19, 2022</div></p>
+<img id="myImg" src="/assets/img/jh_ scholarship.png" style="width:100%;max-width:300px">
+
+
 <h2><button class="button">Lab Event</button> We celebrated Eunchae's birthday!!</h2>
 <p>Happy birthday Eunchae~!! Our lab's Pokemon!!! ~ We are so happy that you are one of lab members!! We love you~<3</p>
 <p><div style="font-style: italic">Posted on Mar 31, 2022</div></p>
