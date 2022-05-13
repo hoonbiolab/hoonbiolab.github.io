@@ -174,6 +174,12 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button">Lab Event</button> We celebrated 2nd Teacher's Day in our Lab !!</h2>
+<p>Happy Teacher’s Day, we had 2nd teacher’s day celebration with Prof. Kim.</p>
+<p><div style="font-style: italic">Posted on May 13, 2022</div></p>
+<img id="myImg" src="/assets/img/220513_teachers_day.jpeg" style="width:100%;max-width:300px">
+<img id="myImg" src="/assets/img/220513_teachers_day_2.jpeg" style="width:100%;max-width:300px">
+
 <h2><button class="button3">Scholarship</button> Soyeon was awarded BVIC !!!</h2>
 <p>Congratulations, Soyeon, for awarded the “SKKU BIO-GLOBAL VALUE INNOVATIVE CREATOR (BVIC)” !!!</p>
 <p><div style="font-style: italic">Posted on April 27, 2022</div></p>
