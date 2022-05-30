@@ -176,7 +176,7 @@ title: "Recent News"
 
 <h2><button class="button">Lab Event</button> We celebrated Harold's birthday!!</h2>
 <p>Happy birthday Harold~!! Our lab's king king 🤴 !!! Please continue to be Our leader~~!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on Mar 31, 2022</div></p>
+<p><div style="font-style: italic">Posted on May 27, 2022</div></p>
 <img id="myImg" src="/assets/img/HS_BD.jpg" style="width:100%;max-width:300px">
 
 <h2><button class="button">Lab Event</button> We celebrated 2nd Teacher's Day in our Lab !!</h2>
