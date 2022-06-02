@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: "About Sang Hyun Kim, MD"
+description: "About Sang Hyun Kim, PhD"
 subtitle: Sang Hyun Kim
 permalink: /people/phd_Kim/
 tags:
