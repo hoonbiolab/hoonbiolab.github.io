@@ -29,23 +29,6 @@ css:
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
   />
-   <style>
-      p {
-        font-size: 20px;
-      }
-      .a {
-        text-indent: 2em;
-      }
-      .b {
-        text-indent: -2em;
-      }
-      .c {
-        text-indent: -2em;
-        margin-left: 2em;
-      }
-    </style>
-  </head>
-  <body>
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About
@@ -59,6 +42,7 @@ Sang Hyun Kim
 </div>
 
 <p></p>
+
 
 ### **Lab for Systems Biology, Dept. of Biomedical Science, CHA University, Korea**
 
