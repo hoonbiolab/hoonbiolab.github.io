@@ -43,7 +43,7 @@ Sang Hyun Kim
 
 <p></p>
 
-### ** Lab for Systems Biology, Dept. of Biomedical Science, CHA University, Korea**
+### **Lab for Systems Biology, Dept. of Biomedical Science, CHA University, Korea**
 
 
 ### **Educational Background** 
