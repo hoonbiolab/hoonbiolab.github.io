@@ -8,6 +8,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
+- Frederick S Varn, Kevin C Johnson, [...],__Hoon Kim__, [...], Roel GW Verhaak,The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions",__Cell__, 2022 June.
+
 - Frederick S Varn, Kevin C Johnson, [...], __Hoon Kim__, [...], Roel GW Verhaak, The GLASS Consortium. “Longitudinal analysis of diffuse glioma reveals cell state dynamics at recurrence associated with changes in genetics and the microenvironment.“, __bioRxiv__, 2021 May.
 
 - Kevin C. Johnson<b>*</b>, Paul Robson & Roel G. W. Verhaak<b>*</b>,Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, __Hoon Kim__, Marcos R. H. Estecio, [...], Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das.  "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response", __Nature Genetics__, 2021 September.

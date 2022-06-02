@@ -174,6 +174,14 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button2">Paper</button> "Glioma progression is shaped by genetic evolution and microenvironment interactions"</h2>
+
+Varn et al. Integrating longitudinal transcriptomic and genomic data from paired diffuse glioma samples with complementary single-cell RNA-seq and multiplex immunofluorescence datasets reveals recurrence-associated genetic and microenvironmental changes that are dependent on IDH mutation status. </p>
+<p><div style="font-style: italic">Posted on June 9, 2022</div></p>
+<img id="myImg" src="/assets/img/papers/2022-06-09-Frederick_GBM.png" style="width:100%;max-width:300px">
+
+>Verhaak, et al. Cell 9 June 2022. [Full text article](https://www.sciencedirect.com/science/article/pii/S0092867422005360?via%3Dihub)
+
 <h2><button class="button">Lab Event</button> We celebrated Harold's birthday!!</h2>
 <p>Happy birthday Harold~!! Our lab's king king 🤴 !!! Please continue to be Our leader~~!! We love you~<3</p>
 <p><div style="font-style: italic">Posted on May 27, 2022</div></p>
