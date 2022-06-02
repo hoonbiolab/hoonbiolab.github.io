@@ -170,7 +170,7 @@ Postdoctoral researcher
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Sang Hyun Kim" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/phd_kim.png" alt="Sang Hyun Kim" width="100%"></div>
     <div class="container">
          <h4><b>Sang Hyun Kim, PhD</b></h4> 
     <p>Associate Professor</p>

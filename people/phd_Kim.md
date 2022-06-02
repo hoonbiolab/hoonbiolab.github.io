@@ -37,27 +37,17 @@ About
 Sang Hyun Kim
 </div></div>
 
-<!-- Avoid edit from here... -->
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/(사진 추가)" width="480px" height="568px" alt="Sang Hyun Kim"/>
+    <img src="{{ site.url }}/assets/img/people/phd_kim.png" width="480px" height="568px" alt="Sang Hyun Kim"/>
 </div>
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-<div class=center>
-<a href="{{ site.url }}/files/YoonJiChoi_publications.pdf" class="social-icons" title="Curriculum Vitae"><i class="fa fa-graduation-cap cvmeta"></i></a></div>
-<!-- until here! -->
 
 <p></p>
 
 ### ** Lab for Systems Biology, Dept. of Biomedical Science, CHA University, Korea**
 
-### **Join our labs : expected to join on June 1st**
 
 ### **Educational Background** 
+
 KAIST Daejeon, South Korea <br />
 
 2001: B.S., Physics (Major) & Electrical engineering(Minor). <br />
@@ -68,6 +58,7 @@ KAIST Daejeon, South Korea <br />
 
 
 ### **Positions**
+
 2009 : KAIST, Dept. of Physics  Postdoc Fellow (Prof. Mahnwon Kim, Experimental Soft Matter Physics), Daejeon, Korea <br />
 
 2009 - 2012 : Weizmann Institute of Science, Dept. of Materials and Interfaces Postdoc Fellow (Prof. Michael Elbaum, Experimental Biophysics), Rehovot Israel <br />
@@ -80,27 +71,9 @@ KAIST Daejeon, South Korea <br />
 
 2019-Present : CHA University, Dept. of Biomedical Science Research Assistant Prof. (Prof. Sohyun Hwang, Bioinformatics), Sungnam, Korea   <br />
 
-### ** Research and Experimental Experience**
-
-**Cancer biology**
-Original draft preparation for the review of BRCA1 deficient associated tumor and G-quadruplex [1]  <br /> 
-
-**Assessment of drug response**
-New metric and method suggestion for drug response [2]  <br /> 
-
-**Mathematical modeling**
-Consider cell growth behavior for better preclinical drug response assessment [2] <br />  
-Nucleocytoplasmic transport [4, 5]  <br /> 
-
-**Programming language and Analysis tool**
-R [2] , ImageJ [4,5] <br />  
-
-**Data access experience**
-RNA-seq: GEO and ENA <br />   
-Drug response: Genomics of Drug Sensitivity in Cancer (GDSC), Cancer Therapeutics Response Portal (CTRP) <br />   
-TCGA RNA-seq data <br />  
 
 **Bioinformatics Course**
+
 - Computational genomics with R (https://compgenomr.github.io/book/) <br />  
 - Introduction to bioinformatics 2020 spring (Cha university) <br />  
 - KSBi-BIML 2020: 정석원(가천대) 황용득(수원대) Introduction to AI, ML, and DL <br />  
