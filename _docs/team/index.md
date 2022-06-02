@@ -173,7 +173,7 @@ Postdoctoral Researcher
     <img src="{{ site.url }}/assets/img/people/phd_kim.png" alt="Sang Hyun Kim" width="100%"></div>
     <div class="container">
          <h4><b>Sang Hyun Kim, PhD</b></h4> 
-    <p>Associate Professor</p>
+    <p>Research Associate Professor</p>
      <a href="{{ site.url }}/people/phd_Kim/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
    </a>
