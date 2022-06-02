@@ -175,8 +175,8 @@ title: "Recent News"
 </div></div>
 
 <h2><button class="button2">Paper</button> "Glioma progression is shaped by genetic evolution and microenvironment interactions"</h2>
-<p>
-Varn et al. Integrating longitudinal transcriptomic and genomic data from paired diffuse glioma samples with complementary single-cell RNA-seq and multiplex immunofluorescence datasets reveals recurrence-associated genetic and microenvironmental changes that are dependent on IDH mutation status.</p>
+
+Varn et al. Integrating longitudinal transcriptomic and genomic data from paired diffuse glioma samples with complementary single-cell RNA-seq and multiplex immunofluorescence datasets reveals recurrence-associated genetic and microenvironmental changes that are dependent on IDH mutation status.
 <p><div style="font-style: italic">Posted on June 9, 2022</div></p>
 <img id="myImg" src="/assets/img/papers/2022-06-09-Frederick_GBM.png" style="width:100%;max-width:300px">
 
