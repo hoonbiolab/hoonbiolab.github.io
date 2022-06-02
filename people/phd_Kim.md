@@ -29,6 +29,23 @@ css:
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
   />
+   <style>
+      p {
+        font-size: 20px;
+      }
+      .a {
+        text-indent: 2em;
+      }
+      .b {
+        text-indent: -2em;
+      }
+      .c {
+        text-indent: -2em;
+        margin-left: 2em;
+      }
+    </style>
+  </head>
+  <body>
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About
@@ -76,17 +93,11 @@ KAIST Daejeon, South Korea <br />
 
 - Computational genomics with R (https://compgenomr.github.io/book/) <br />  
 - Introduction to bioinformatics 2020 spring (Cha university) <br />  
-- KSBi-BIML 2020: 정석원(가천대) 황용득(수원대) Introduction to AI, ML, and DL <br />  
-                  이슬 (아주대) Interpretable ML in biomedical data analysis) <br />  
-- KSBi-BIML 2021: 정인경(KAIST) 3D Epigenome Data Analysis <br />  
-                  안준용(고려대) WGS Analyses to Understanding the Genetic Architecture of Human disorders <br /> 
-                  주영석(KAIST) Mutational Signatures in Cancer Genomes <br />  
-                  홍동완(카톨릭대) Cancer Genome Study in Big Data era <br /> 
-                  장혜식(서울대) Transcriptome Profiling by Nanopore Direct RNA Sequencing <br />  
-- 한국유전학회 통계유전학 워크샵 2021: 최선심(강원대) Introduction to Genetics <br />  
-- KSBi-BIML 2022: 박종은(KAIST) Human Cell Atlas and integrative data analysis using single-cell databases <br />  
-                  이제근(숭실대) Dimensionality Reduction <br />  
-                  이영석(KAIST) Bayesian interpretation in the context of large biological data collections <br /> 
+- KSBi-BIML 2020 <br />   
+- KSBi-BIML 2021 <br />  
+- 한국유전학회 통계유전학 워크샵 2021 <br />  
+- KSBi-BIML 2022 <br />   
+
 
 **Experiment- Microscopy** [4,5] <br /> 
 - Home-built Fluorescence Correlation Spectroscopy(FCS) <br />  
