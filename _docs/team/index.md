@@ -164,7 +164,7 @@ Visiting Scientist
 <p></p>
 
 <div style="font-weight: 600; font-size: 30px; color: #030303">
-Postdoctoral researcher
+Postdoctoral Researcher
 </div>
 
 <div class="row">
