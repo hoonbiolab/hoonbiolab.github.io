@@ -8,16 +8,15 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
-- Frederick S Varn, Kevin C Johnson, [...],__Hoon Kim__, [...], Roel GW Verhaak,The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions",__Cell__, 2022 June.
+- Frederick S Varn, Kevin C Johnson, [...],__Hoon Kim__, [...], Roel GW Verhaak,The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions",__bioRxiv__, 2022 June.
+
+- Yi E<b>*</b>, Gujar A<b>*</b>, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", __Cancer Discovery, 2021 Nov__.
 
 - Frederick S Varn, Kevin C Johnson, [...], __Hoon Kim__, [...], Roel GW Verhaak, The GLASS Consortium. “Longitudinal analysis of diffuse glioma reveals cell state dynamics at recurrence associated with changes in genetics and the microenvironment.“, __bioRxiv__, 2021 May.
 
 - Kevin C. Johnson<b>*</b>, Paul Robson & Roel G. W. Verhaak<b>*</b>,Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, __Hoon Kim__, Marcos R. H. Estecio, [...], Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das.  "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response", __Nature Genetics__, 2021 September.
 
 - Yanfen Zhu<b>*</b>, Amit D. Gujar, Chee-Hong Wong, [...], __Hoon Kim__, [...], Roel G.W. Verhaak, Chia-Lin Wei. "Oncogenic Extrachromosomal DNA Functions as Mobile Enhancers to Globally Amplify Chromosomal Transcription.",___Cancer Cell___, 2021 April.
-
-
-- Yi E<b>*</b>, Gujar A<b>*</b>, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", __Cancer Discovery, 2021 Nov__.
 
 
 - __Hoon Kim__, Nam Nguyen, Kristen Turner, [...], Sihan Wu, Jihe Liu, Sandeep Namburi, Howard Chang, Paul Mischel, Vineet Bafna, Roel Verhaak. "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers." ___Nature Genetics___, 2020 Aug.

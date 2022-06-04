@@ -44,9 +44,6 @@ Sang Hyun Kim
 <p></p>
 
 
-### **Lab for Systems Biology, Dept. of Biomedical Science, CHA University, Korea**
-
-
 ### **Educational Background** 
 
 KAIST Daejeon, South Korea <br />
