@@ -86,9 +86,9 @@ img {vertical-align: middle;
 ## **✓ Hiring notice**
 
 About **Research Assistant** <br />
-If you're interested, <a href="https://www.dropbox.com/s/sd6f6nstxgfw4dz/Grad_Student-20220501.pdf?dl=1">click here</a> <br />
+If you're interested, <a href="https://www.dropbox.com/s/juyr1y711e4uhc7/Grad_Student-20220609.pdf?dl=1">click here</a> <br />
 
-<img src="{{site.url}}/assets/img/2022_CBM_HRN.png" style="width:100%">
+<img src="{{site.url}}/assets/img/220609_CBM_HN.png" style="width:100%">
 
 
 ## Lab Photos
