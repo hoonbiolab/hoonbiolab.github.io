@@ -174,6 +174,13 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+
+<h2><button class="button">Lab Event</button> We celebrated YoonJoo's birthday!!</h2>
+<p>Happy birthday Yoon Joo~!! Our lab's all-rounder 😝 !! We love you~<3</p>
+<p><div style="font-style: italic">Posted on June 13, 2022</div></p>
+<img id="myImg" src="/assets/img/yj_bd.jpg" style="width:100%;max-width:300px">
+
+
 <h2><button class="button2">Paper</button> "Glioma progression is shaped by genetic evolution and microenvironment interactions"</h2>
 
 Varn et al. Integrating longitudinal transcriptomic and genomic data from paired diffuse glioma samples with complementary single-cell RNA-seq and multiplex immunofluorescence datasets reveals recurrence-associated genetic and microenvironmental changes that are dependent on IDH mutation status.
