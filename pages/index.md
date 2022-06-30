@@ -88,7 +88,7 @@ img {vertical-align: middle;
 About **Research Assistant** <br />
 If you're interested, <a href="https://www.dropbox.com/s/juyr1y711e4uhc7/Grad_Student-20220609.pdf?dl=1">click here</a> <br />
 
-<img src="{{site.url}}/assets/img/2022_CBM_HN_update.png" style="width:100%">
+<img src="{{site.url}}/assets/img/2022_CBM_HN_final.png" style="width:100%">
 
 
 ## Lab Photos
