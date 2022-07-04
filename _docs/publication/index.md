@@ -10,7 +10,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 - Frederick S Varn, Kevin C Johnson, […],__Hoon Kim__, […], Roel GW Verhaak,The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions",__Cell__, 2022 June.
 
-- Yi E<b>*</b>, Gujar A<b>*</b>, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.",__Cancer Discovery, 2021 Nov__.
+- Yi E<b>*</b>, Gujar A<b>*</b>, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.",__Cancer Discovery__,2022 Feb.
 
 - Kevin C. Johnson<b>*</b>, Paul Robson & Roel G. W. Verhaak<b>*</b>,Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, __Hoon Kim__, Marcos R. H. Estecio, [...], Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das.  "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response",__Nature Genetics__, 2021 September.
 
