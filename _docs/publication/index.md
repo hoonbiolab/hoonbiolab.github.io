@@ -8,31 +8,31 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
-- Frederick S Varn, Kevin C Johnson, […],__Hoon Kim__, […], Roel GW Verhaak,The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions",__Cell__, 2022 June.
+- Frederick S Varn, Kevin C Johnson, […],__Hoon Kim__, […], Roel GW Verhaak,The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions", __Cell__, 2022 June.
 
-- Yi E<b>*</b>, Gujar A<b>*</b>, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.",__Cancer Discovery__,2022 Feb.
+- Yi E<b>*</b>, Gujar A<b>*</b>, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", __Cancer Discovery__, 2022 Feb.
 
-- Kevin C. Johnson<b>*</b>, Paul Robson & Roel G. W. Verhaak<b>*</b>,Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, __Hoon Kim__, Marcos R. H. Estecio, [...], Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das.  "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response",__Nature Genetics__, 2021 September.
+- Kevin C. Johnson<b>*</b>, Paul Robson & Roel G. W. Verhaak<b>*</b>,Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, __Hoon Kim__, Marcos R. H. Estecio, [...], Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das.  "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response", __Nature Genetics__, 2021 September.
 
-- Yanfen Zhu<b>*</b>, Amit D. Gujar, Chee-Hong Wong, [...], __Hoon Kim__, [...], Roel G.W. Verhaak, Chia-Lin Wei. "Oncogenic Extrachromosomal DNA Functions as Mobile Enhancers to Globally Amplify Chromosomal Transcription.",__Cancer Cell__, 2021 April.
-
-
-- __Hoon Kim__, Nam Nguyen, Kristen Turner, [...], Sihan Wu, Jihe Liu, Sandeep Namburi, Howard Chang, Paul Mischel, Vineet Bafna, Roel Verhaak. "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers.",__Nature Genetics__, 2020 Aug.
+- Yanfen Zhu<b>*</b>, Amit D. Gujar, Chee-Hong Wong, [...], __Hoon Kim__, [...], Roel G.W. Verhaak, Chia-Lin Wei. "Oncogenic Extrachromosomal DNA Functions as Mobile Enhancers to Globally Amplify Chromosomal Transcription.", __Cancer Cell__, 2021 April.
 
 
-- Oldrini Barbara, Nuria Vaquero-Siguero, Quanhua Mu, [...], __Hoon Kim__, [...],Tao Jiang,Jiguang Wang and Massimo Squatrito. "MGMT genomic rearrangements contribute to chemotherapy resice in gliomas.",__Nature Communications__, 2020 Aug.
+- __Hoon Kim__, Nam Nguyen, Kristen Turner, [...], Sihan Wu, Jihe Liu, Sandeep Namburi, Howard Chang, Paul Mischel, Vineet Bafna, Roel Verhaak. "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers.", __Nature Genetics__, 2020 Aug.
 
 
-- Samir Amin, Kevin J Anderson, C Elizabeth Boudreau, Emmanuel Martinez-Ledesma, [...], __Hoon Kim__, [...], Roel G.W. Verhaak. "Comparative molecular life history of spontaneous canine and human glioma",__Cancer Cell__, 2020 Feb.
+- Oldrini Barbara, Nuria Vaquero-Siguero, Quanhua Mu, [...], __Hoon Kim__, [...],Tao Jiang,Jiguang Wang and Massimo Squatrito. "MGMT genomic rearrangements contribute to chemotherapy resice in gliomas.", __Nature Communications__, 2020 Aug.
 
 
-- Floris P. Barthel, Kevin C. Johnson, The Glioma Longitudinal Analysis Consortium. "Longi-tudinal Molecular Trajectories of Diffuse Glioma in Adults",__Nature__, 2019 Nov.
+- Samir Amin, Kevin J Anderson, C Elizabeth Boudreau, Emmanuel Martinez-Ledesma, [...], __Hoon Kim__, [...], Roel G.W. Verhaak. "Comparative molecular life history of spontaneous canine and human glioma", __Cancer Cell__, 2020 Feb.
 
 
-- Kristen M. Turner, Sihan Wu, [...], __Hoon Kim__, Julie Law, Roel Verhaak, Frank Furnari, Howard Chang, Bing Ren, Vineet Bafna, Paul Mischel. "Circular extrachromosomal DNA promotes accessible chromatin and high oncogene expression.",__Nature__, 2019 Nov.
+- Floris P. Barthel, Kevin C. Johnson, The Glioma Longitudinal Analysis Consortium. "Longi-tudinal Molecular Trajectories of Diffuse Glioma in Adults", __Nature__, 2019 Nov.
 
 
-- Ana deCarvalho, __Hoon Kim (co-1<sup>st</sup> author)__, Laila M. Poison, [...], Lynda Chin, Tom Mikkelsen, Roel G.W. Verhaak.  "Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma." ,__Nature Genetics__, 2018 Apr.
+- Kristen M. Turner, Sihan Wu, [...], __Hoon Kim__, Julie Law, Roel Verhaak, Frank Furnari, Howard Chang, Bing Ren, Vineet Bafna, Paul Mischel. "Circular extrachromosomal DNA promotes accessible chromatin and high oncogene expression.", __Nature__, 2019 Nov.
+
+
+- Ana deCarvalho, __Hoon Kim (co-1<sup>st</sup> author)__, Laila M. Poison, [...], Lynda Chin, Tom Mikkelsen, Roel G.W. Verhaak.  "Discordant inheritance of chromosomal and extrachromosomal DNA elements contributes to dynamic disease evolution in glioblastoma." , __Nature Genetics__, 2018 Apr.
 
 
 - The Glioma Longitudinal Analysis Consortium. "Glioma Through the Looking GLASS: the Glioma Longitudinal Analysis consortium, molecular evolution of diffuse gliomas", __Neuro Oncology__, 2018 Jun.
