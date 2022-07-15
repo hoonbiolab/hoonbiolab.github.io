@@ -174,6 +174,11 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button">Lab Event</button> We celebrated Jaeho's birthday!!</h2>
+<p>Happy birthday Jaeho!! We are so happy that you are one of lab members!! We love you~<3</p>
+<p><div style="font-style: italic">Posted on July 14, 2022</div></p>
+<img id="myImg" src="/assets/img/jh_bd.jpeg" style="width:100%;max-width:300px">
+
 <h2><button class="button">Lab Event</button> We celebrated Junyong's birthday!!</h2>
 <p>Happy birthday Jun Yong!! Our lab's very cute shy boy 😇 ~!! We love you~<3</p>
 <p><div style="font-style: italic">Posted on June 23, 2022</div></p>
