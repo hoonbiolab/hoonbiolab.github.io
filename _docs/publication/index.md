@@ -8,6 +8,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
+- Jens Luebeck, Alvin Wei Tian Ng, […],__Hoon Kim__, […], Howard Y. Chang, Paul S. Mischel. "Extrachromosomal DNA in the cancerous transformation of Barrett's esophagus", __bioRxiv__, 2022 July.
+
 - Frederick S Varn, Kevin C Johnson, […],__Hoon Kim__, […], Roel GW Verhaak,The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions", __Cell__, 2022 June.
 
 - Yi E<b>*</b>, Gujar A<b>*</b>, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", __Cancer Discovery__, 2022 Feb.
