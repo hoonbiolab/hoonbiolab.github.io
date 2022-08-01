@@ -88,7 +88,7 @@ img {vertical-align: middle;
 About **Postdoctoral Researcher** <br />
 If you're interested, <a href="https://www.dropbox.com/s/ovyxhqbjh71mjns/Postdoc-SKKU_CBM.pdf?dl=1">click here</a> <br />
 
-<img src="{{site.url}}/assets/img/CBM_PhD_HN.png" style="width:100%">
+<img src="{{site.url}}/assets/img/2022_CBM_HN_PD.png" style="width:100%">
 
 ## Lab Photos
 If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
