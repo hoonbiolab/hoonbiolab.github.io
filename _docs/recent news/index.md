@@ -174,6 +174,10 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button">Lab Event</button> Soyeon’s visiting JAX!!!</h2>
+<p>We hope you will learn well and come back!! Have a safe flight and all the best to your new journey!! We love you~<3</p>
+<p><div style="font-style: italic">Posted on August 19, 2022</div></p>
+
 <h2><button class="button">Lab Event</button> We celebrated Jaeho's birthday!!</h2>
 <p>Happy birthday Jaeho!! We are so happy that you are one of lab members!! We love you~<3</p>
 <p><div style="font-style: italic">Posted on July 14, 2022</div></p>
