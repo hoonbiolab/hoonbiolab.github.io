@@ -94,7 +94,7 @@ If you're interested, <a href="https://www.dropbox.com/s/ovyxhqbjh71mjns/Postdoc
 
 If you are interested, please apply a lot.
 
-<img src="{{site.url}}/assets/img/220829_CBM_HN.png" style="width:100%">
+<img src="{{site.url}}/assets/img/220830_CBM_HN.png" style="width:100%">
 
 ## Lab Photos
 If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
