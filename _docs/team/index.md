@@ -372,6 +372,23 @@ Interns
 
 <p></p>
 
+<div class="row">
+  <div class="column">
+<div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwa Yeon Lee" width="100%"></div>
+    <div class="container">
+         <h4><b>Hwayeon Lee</b></h4> 
+    <p>Junior, University of California, San Diego</p>
+     <a href="{{ site.url }}/people/hy_lee" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+   </a>
+   </div>
+   </div>
+  </div>
+</div>
+
+<p></p>
+
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Former lab members 
 </div>
