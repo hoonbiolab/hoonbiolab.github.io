@@ -364,14 +364,10 @@ Interns
     <p>Junior, SKKU</p>
      <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-   </a>
-   </div>
-   </div>
-  </div>
-</div>
-
-<p></p>
-
+    </a>
+    </div>
+    </div>
+  </div>  
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
