@@ -354,7 +354,6 @@ Students
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Interns
 </div>
-
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
@@ -368,7 +367,7 @@ Interns
     </div>
     </div>
   </div>
-  <div class="column">
+<div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwa Yeon Lee" width="100%"></div>
     <div class="container">
@@ -380,7 +379,7 @@ Interns
     </div>
     </div>
   </div>
-</div>
+  </div>
 
 <p></p>
 
