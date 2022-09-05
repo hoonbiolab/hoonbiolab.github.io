@@ -364,10 +364,10 @@ Interns
     <p>Junior, SKKU</p>
      <a href="{{ site.url }}/people/jy_ko" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-    </a>
+  </a>
     </div>
     </div>
-  </div>  
+  </div>
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
@@ -377,10 +377,11 @@ Interns
     <p>Junior, University of California, San Diego</p>
      <a href="{{ site.url }}/people/hy_lee" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-  </a>
+ </a>
     </div>
     </div>
-  </div> 
+  </div>
+</div>
 
 <p></p>
 
