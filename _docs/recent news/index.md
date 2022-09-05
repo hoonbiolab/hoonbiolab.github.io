@@ -177,7 +177,7 @@ title: "Recent News"
 <h2><button class="button">Grant</button> "2022년도 STEAM연구사업 미래유망융합기술파이오니어 과제 선정" </h2>
 <p>Our lab has been selected for 2022년도 STEAM연구사업 (미래유망융합기술파이오니어 : 과학난제 도전형)</p>
 <p><div style="font-style: italic">Posted on August 22, 2022</div></p>
-<img id="myImg" src="/assets/img/84797_80287_355.jpeg" style="width:100%;max-width:300px">
+<img id="myImg" src="/assets/img/84797_80287_355.jpeg" style="width:300%;max-width:500px">
 <img id="myImg" src="/assets/img/2022_STEAM.png" style="width:300%;max-width:500px">
 
 <h2><button class="button">Lab Event</button> Soyeon’s visiting JAX!!!</h2>
