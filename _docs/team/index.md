@@ -377,11 +377,10 @@ Interns
     <p>Junior, University of California, San Diego</p>
      <a href="{{ site.url }}/people/hy_lee" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-   </a>
-   </div>
-   </div>
-  </div>
-</div>
+  </a>
+    </div>
+    </div>
+  </div> 
 
 <p></p>
 
