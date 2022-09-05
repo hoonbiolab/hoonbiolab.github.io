@@ -368,7 +368,6 @@ Interns
     </div>
     </div>
   </div>
-<div class="row">
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwa Yeon Lee" width="100%"></div>
