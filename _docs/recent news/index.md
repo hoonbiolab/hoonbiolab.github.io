@@ -174,7 +174,7 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<h2><button class="button">Lab Event</button> We celebrated Jiwon's birthday!!</h2>
+<h2><button class="button">Lab Event</button> Happy Birthday, Jiwon!! </h2>
 <p>Happy birthday Jiwon!! Our lab's lovely quokka girl 😘 🥰 !! We love you~<3</p>
 <p><div style="font-style: italic">Posted on September 28, 2022</div></p>
 <img id="myImg" src="/assets/img/2022_Jw_bd.jpg" style="width:100%;max-width:300px">
