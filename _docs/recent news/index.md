@@ -175,7 +175,7 @@ title: "Recent News"
 </div></div>
 
 <h2><button class="button">Lab Event</button> Prof.Kim has been invited to the 43rd Frontier Scientists Workshop (“Future Trends in Genomic Mutation and Disease Research”)  </h2>
-<p>Future Trends in Genomic Mutation and Disease Research which will be held in San Diego, USA by the Korean Academy of Science and Technology (KAST) <3</p>
+<p>Future Trends in Genomic Mutation and Disease Research which will be held in San Diego, USA by the Korean Academy of Science and Technology (KAST) </p>
 <p><div style="font-style: italic">Posted on Oct 3, 2022</div></p>
 <img id="myImg" src="/assets/img/KAST.jpeg" style="width:300%;max-width:500px">
 
@@ -185,7 +185,7 @@ title: "Recent News"
 <img id="myImg" src="/assets/img/skku_smc.png" style="width:300%;max-width:500px">
 
 <h2><button class="button">Lab Event</button> Happy Birthday, Jiwon!! </h2>
-<p>Happy birthday Jiwon!! Our lab's lovely quokka girl 😘 🥰 !! We love you~<3</p>
+<p>Happy birthday Jiwon!! Our lab's lovely quokka girl 😘 🥰 !! We love you~ </p>
 <p><div style="font-style: italic">Posted on Sep 28, 2022</div></p>
 <img id="myImg" src="/assets/img/2022_Jw_bd.jpg" style="width:100%;max-width:300px">
 
