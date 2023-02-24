@@ -375,13 +375,12 @@ Interns
     <img src="{{ site.url }}/assets/img/people/sj_han.png" alt="Junyong Ko" width="100%"></div>
     <div class="container">
          <h4><b>Seungjae Han</b></h4> 
-    <p>Junior, Korea University</p>
-     <a href="{{ site.url }}/people/sj_han" target="_blank" rel="noopener noreferrer">
+        <p>Junior, Korea University</p>
+         <a href="{{ site.url }}/people/sj_han" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-</a>
+   </a>
     </div>
     </div>
-  </div>
 
 <p></p>
 <div style="font-weight: 600; font-size: 30px; color: #030303">
@@ -393,8 +392,8 @@ Former lab members
     <img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe" width="100%"></div>
     <div class="container">
          <h4><b>Daeho Joe, BS</b></h4> 
-    <p>Research Assistant</p>
-     <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
+        <p>Research Assistant</p>
+         <a href="{{ site.url }}/people/dh_joe" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
     </div>
@@ -409,14 +408,14 @@ Former lab members
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" width="100%"></div>
     <div class="container">
-    <h4><b>Yeonsik Kim</b></h4>
+         <h4><b>Yeonsik Kim</b></h4>
         <p>Korea Polytechnic University
            languages  (C, Java)</p>
-        <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
+         <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
    </div>
-  </div>
+   </div>
 </div>
    <div class="column">
 <div class="card"><div class="img">
@@ -460,5 +459,7 @@ Former lab members
     </div>
     </div>
   </div>
-  </div>
+</div>
+
+<p></p>
 
