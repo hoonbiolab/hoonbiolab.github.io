@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'About Eunchae Yeo'
-permalink: /people/ec_yeo/
+title: 'About Sepil An'
+permalink: /people/sp_an/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-12'
+date: '2023-02-23'
 show_meta: true
 comments: true
 mathjax: true
@@ -41,12 +41,13 @@ Eunchae Yeo
 
 
 ### **Research Interest**
-Biomedical Engineering, Neuroscience, Glioblastoma, Cancer genomics
+Cancer genomics, Bioinformatics, Drug discovery
 
 ### **Education and Experience**
 
-**Korea University**
-- BS, Biomedical Engineering, 03/2011 ~ 08/2020
+**Sungkyunkwan University**
+- School of Chemical Engineering, 03/2016 ~ 02/2019
+- BS, School of Pharmacy, 03/2019 ~ 02/2023
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> ecyeo@g.skku.edu
+<i class="fa fa-paper-plane"></i> sepil98@g.skku.edu

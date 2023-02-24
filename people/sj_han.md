@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'About Eunchae Yeo'
-permalink: /people/ec_yeo/
+title: 'About Seungjae Han'
+permalink: /people/sj_han/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-12'
+date: '2023-02-23'
 show_meta: true
 comments: true
 mathjax: true
@@ -31,7 +31,7 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Eunchae Yeo
+Seungjae Han
 </div></div>
 
 
@@ -41,12 +41,12 @@ Eunchae Yeo
 
 
 ### **Research Interest**
-Biomedical Engineering, Neuroscience, Glioblastoma, Cancer genomics
+Neuroscience, Immune Engineering, Computer programming
 
 ### **Education and Experience**
 
 **Korea University**
-- BS, Biomedical Engineering, 03/2011 ~ 08/2020
+- Division of Biotechnology, 03/2022 ~ Current
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> ecyeo@g.skku.edu
+<i class="fa fa-paper-plane"></i> jayhanbest@gmail.com
