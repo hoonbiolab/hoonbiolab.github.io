@@ -372,17 +372,19 @@ Interns
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/sj_han.png" alt="Junyong Ko" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/sj_han.jpeg" alt="Junyong Ko" width="100%"></div>
     <div class="container">
          <h4><b>Seungjae Han</b></h4> 
         <p>Junior, Korea University</p>
          <a href="{{ site.url }}/people/sj_han" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
    </a>
-    </div>
-    </div>
-
+   </div>
+   </div>
+  </div>
+</div>
 <p></p>
+
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Former lab members 
 </div>
