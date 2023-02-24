@@ -31,12 +31,12 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Eunchae Yeo
+Sepil An
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" width="480px" height="568px" alt="Eunchae Yeo" />
+    <img src="{{ site.url }}/assets/img/people/sp_an.png" width="480px" height="568px" alt="Sepil An" />
 </div>
 
 

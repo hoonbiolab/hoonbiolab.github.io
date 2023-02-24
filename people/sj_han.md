@@ -36,7 +36,7 @@ Seungjae Han
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" width="480px" height="568px" alt="Eunchae Yeo" />
+    <img src="{{ site.url }}/assets/img/people/sj_han.png" width="480px" height="568px" alt="Seungjae Han" />
 </div>
 
 
