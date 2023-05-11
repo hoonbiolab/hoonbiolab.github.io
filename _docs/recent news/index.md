@@ -174,6 +174,12 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button">Lab Event</button> Prof.Roel Verhaak visited Our Lab!!  </h2>
+<p>Thank you for visiting our lab </p>
+<p><div style="font-style: italic">Posted on May 10, 2023</div></p>
+<img id="myImg" src="/assets/img/RV_visit_1.jpg" style="width:300%;max-width:500px">
+<img id="myImg" src="/assets/img/RV_visit_2.jpg" style="width:300%;max-width:500px">
+
 <h2><button class="button">Lab Event</button> Prof.Kim has been invited to the 43rd Frontier Scientists Workshop (“Future Trends in Genomic Mutation and Disease Research”)  </h2>
 <p>Future Trends in Genomic Mutation and Disease Research which will be held in San Diego, USA by the Korean Academy of Science and Technology (KAST) </p>
 <p><div style="font-style: italic">Posted on Oct 3, 2022</div></p>
