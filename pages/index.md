@@ -87,7 +87,7 @@ img {vertical-align: middle;
 
 - If you're interested, <a href="https://www.dropbox.com/s/qvtybvevw1jm6w6/Grad_Student-20230312.docx?dl=0">click here</a> <br />
 
-<img src="{{site.url}}/assets/img/202303_CBM_HN.png" style="width:100%">
+<img src="{{site.url}}/assets/img/202306_hiring.png" style="width:100%">
 
 
 ## Lab Photos
