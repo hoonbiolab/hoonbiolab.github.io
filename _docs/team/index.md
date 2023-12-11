@@ -429,7 +429,7 @@ Former lab members
   </div>
 <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwa Yeon Lee" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwa Yeon Lee" width="80%"></div>
     <div class="container">
     <h4><b>Hwayeon Lee</b></h4> 
         <p>Junior, University of California, San Diego</p>
