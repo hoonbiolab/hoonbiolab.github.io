@@ -179,7 +179,7 @@ title: "Recent News"
 <p> We hope the days ahead of her new start will be filled with happiness. </p>
 <p><div style="font-style: italic">Posted on Jan 26, 2024</div></p>
 <img id="myImg" src="/assets/img/sy_cambridge.jpeg" style="width:300%;max-width:500px">
-<img id="myImg" src="/assets/img/sy_cambridge2.jpeg." style="width:300%;max-width:500px">
+<img id="myImg" src="/assets/img/sy_cambridge2.jpeg" style="width:300%;max-width:500px">
 
 <h2><button class="button">Lab Event</button> Prof.Siyuan Zheng (from U of Texas, San Antonio) visited Our Lab!! </h2>
 <p>Thank you for visiting our lab </p>
