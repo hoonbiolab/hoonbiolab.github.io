@@ -174,7 +174,7 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<h2><button class="button">Lab Event</button>  Soyeon has been officially accepted with a full scholarship into the Ph.D. program at the University of Cambridge, affiliated with the Sanger Institute!! </h2>
+<h2><button class="button">Lab Event</button>  Soyeon has been accepted with a full scholarship into the Ph.D. program at the University of Cambridge, affiliated with the Sanger Institute!! </h2>
 <p> This is indeed great news, taking into account the immense efforts she has put in. </p>
 <p> We hope the days ahead of her new start will be filled with happiness. </p>
 <p><div style="font-style: italic">Posted on Jan 26, 2024</div></p>
