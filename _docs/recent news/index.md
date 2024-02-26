@@ -177,7 +177,7 @@ title: "Recent News"
 <h2><button class="button3">Scholarship</button> Junghyun has been selected as a scholarship recipient by the JW이종호재단! </h2>
 <p>Congratulations to Junghyun for being awarded the Basic Research Scientist Residential Support from the JW Foundation in 2023!! We love you~ </p>
 <p><div style="font-style: italic">Posted on Feb 26, 2024</div></p>
-<img id="myImg" src="/assets/img/jw_JH.jpg" style="width:100%;max-width:300px">
+<img id="myImg" src="/assets/img/jw_JH.jpg" style="width:300%;max-width:500px">
 
 
 <h2><button class="button">Lab Event</button>  Soyeon has been accepted with a full scholarship into the Ph.D. program at the University of Cambridge, affiliated with Wellcome Sanger Institute!! </h2>
