@@ -174,6 +174,12 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button3">Scholarship</button> Junghyun has been selected as a scholarship recipient by the JW이종호재단! </h2>
+<p>Congratulations to Junghyun for being awarded the Basic Research Scientist Residential Support from the JW Foundation in 2023!! We love you~ </p>
+<p><div style="font-style: italic">Posted on Feb 26, 2024</div></p>
+<img id="myImg" src="/assets/img/jw_2023_기초과학자.jpeg" style="width:100%;max-width:300px">
+
+
 <h2><button class="button">Lab Event</button>  Soyeon has been accepted with a full scholarship into the Ph.D. program at the University of Cambridge, affiliated with Wellcome Sanger Institute!! </h2>
 <p> This is indeed great news, taking into account the immense efforts she has put in. </p>
 <p> We hope the days ahead of her new start will be filled with happiness. </p>
@@ -257,7 +263,7 @@ Varn et al. Integrating longitudinal transcriptomic and genomic data from paired
 <p><div style="font-style: italic">Posted on April 27, 2022</div></p>
 <img id="myImg" src="/assets/img/sy_BVIC.png" style="width:100%;max-width:300px">
 
-<h2><button class="button3">Scholarship</button> JungHyun was awarded Graduate Scholarship !!!</h2>
+<h2><button class="button3">Scholarship</button> Junghyun was awarded Graduate Scholarship !!!</h2>
 <p>Congratulations, JungHyun, for awarded the “Kwanjeong Educational Foundation” !!!</p>
 <p><div style="font-style: italic">Posted on April 19, 2022</div></p>
 <img id="myImg" src="/assets/img/jh_ scholarship.png" style="width:100%;max-width:300px">
