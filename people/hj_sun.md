@@ -47,5 +47,8 @@ Regulatory Science, cancer genomic, bioinformatics
 - BS, Biology, 03/2017 ~ 02/2021
 - BA, History Education
 
+**Sungkyunkwan University**
+- MS, Pharmacy, 09/2021 ~ 02/2024
+
 ### **Contact**
 <i class="fa fa-paper-plane"></i> guswjd6522@g.skku.edu
