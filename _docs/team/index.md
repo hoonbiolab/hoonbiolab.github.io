@@ -269,7 +269,7 @@ Students
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
     <div class="container">
-         <h4><b>Hyunjeong Sun, BS·BA</b></h4> 
+         <h4><b>Hyunjeong Sun, MS</b></h4> 
     <p>Research Assisant</p>
      <a href="{{ site.url }}/people/hj_sun" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
