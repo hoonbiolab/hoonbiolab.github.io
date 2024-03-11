@@ -149,9 +149,9 @@ Research Professor
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/phd_kim.png" alt="Sang Hyun Kim" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/phd_kim.png" alt="Sanghyun Kim" width="100%"></div>
     <div class="container">
-         <h4><b>Sang Hyun Kim, PhD</b></h4> 
+         <h4><b>Sanghyun Kim, PhD</b></h4> 
     <p>Research Associate Professor</p>
      <a href="{{ site.url }}/people/phd_Kim/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
@@ -267,7 +267,7 @@ Students
   <div class="row">
 <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyun Jeong Sun" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyunjeong Sun" width="100%"></div>
     <div class="container">
          <h4><b>Hyunjeong Sun, MS</b></h4> 
     <p>Research Assisant</p>
@@ -338,17 +338,18 @@ Students
 
 <p></p>
   <div class="column">
-  <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="HyeongJin Cho" width="100%"></div>
+<div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="Hyeongjin Cho" width="100%"></div>
     <div class="container">
-         <h4><b>HyeongJin Cho, BS</b></h4> 
+         <h4><b>Hyeongjin Cho, BS</b></h4> 
     <p>Research Assistant</p>
-     <a href="{{ site.url }}/people/hj_cho" target="_blank" rel="noopener noreferrer">
+     <a href="{{ site.url }}/people/hj_cho/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-      </a>
-    </div>
-    </div>
+   </a>
+   </div>
+   </div>
   </div>
+</div>
 
 <p></p>
 <div style="font-weight: 600; font-size: 30px; color: #030303">
