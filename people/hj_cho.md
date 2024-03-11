@@ -48,7 +48,7 @@ Cancer genomic, bioinformatics
 **Kyung Hee University**
 - School of Biology, 03/2017~02/2020
 
-**CHA Universityy**
+**CHA University**
 - Pharm.D, School of Pharmacy, 03/2020~02/2024
 
 ### **Contact**
