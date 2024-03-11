@@ -358,9 +358,9 @@ Former lab members
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoon Ji Choi" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoonji Choi" width="100%"></div>
     <div class="container">
-         <h4><b>Yoon Ji Choi, MD</b></h4> 
+         <h4><b>Yoonji Choi, MD</b></h4> 
     <p>Associate Professor</p>
      <a href="{{ site.url }}/people/prof_choi/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
