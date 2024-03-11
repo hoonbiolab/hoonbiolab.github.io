@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'About HyeongJin Cho'
+title: 'About Hyeongjin Cho'
 permalink: /people/hj_cho/
 tags:
   - page
@@ -36,7 +36,7 @@ HyeongJin Cho
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" width="480px" height="568px" alt="Sepil An" />
+    <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" width="480px" height="568px" alt="Hyeongjin Cho" />
 </div>
 
 
