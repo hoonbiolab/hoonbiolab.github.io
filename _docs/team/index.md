@@ -337,6 +337,18 @@ Students
 </div>
 
 <p></p>
+  <div class="column">
+  <div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="HyeongJin Cho" width="100%"></div>
+    <div class="container">
+         <h4><b>HyeongJin Cho, BS</b></h4> 
+    <p>Research Assistant</p>
+     <a href="{{ site.url }}/people/hj_cho" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+      </a>
+    </div>
+    </div>
+  </div>
 
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Former lab members
