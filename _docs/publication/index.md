@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
-- Jens Luebeck,Edwin Huang, […],__Soyeon Kim__, __Hoon Kim__, […], Jill Mesirov, Vineet Bafna. "AmpliconSuite: and end-to-end workflow for analyzing focal amplifications in cancer genomes", __Nature Method__, 2024 May.
+- Jens Luebeck,Edwin Huang, […],__Soyeon Kim__, __Hoon Kim__, […], Jill Mesirov, Vineet Bafna. "AmpliconSuite: and end-to-end workflow for analyzing focal amplifications in cancer genomes", __Biorxiv__, 2024 May.
 
 - Jens Luebeck, Alvin Wei Tian Ng, […],__Hoon Kim__, […], Howard Y. Chang, Paul S. Mischel. "Extrachromosomal DNA in the cancerous transformation of Barrett's esophagus", __Nature__, 2023 April.
 
