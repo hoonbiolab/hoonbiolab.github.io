@@ -31,7 +31,7 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-HyeongJin Cho
+JuEon Kim
 </div></div>
 
 
