@@ -324,7 +324,7 @@ Students
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Jaeho Jang" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Sepil An" width="100%"></div>
     <div class="container">
     <h4><b>Sepil An, BS</b></h4> 
         <p>Research Assistant</p>
@@ -344,6 +344,20 @@ Students
          <h4><b>Hyeongjin Cho, BS</b></h4> 
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/hj_cho/" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+   </a>
+   </div>
+   </div>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+<div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/je_kim.jpg" alt="Jueon Kim" width="100%"></div>
+    <div class="container">
+    <h4><b>Sepil An, BS</b></h4> 
+        <p>Research Assistant</p>
+        <a href="{{ site.url }}/people/sp_an" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
    </a>
    </div>
