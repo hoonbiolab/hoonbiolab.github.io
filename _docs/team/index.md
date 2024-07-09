@@ -324,7 +324,7 @@ Students
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Jaeho Jang" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Sepil An" width="100%"></div>
     <div class="container">
     <h4><b>Sepil An, BS</b></h4> 
         <p>Research Assistant</p>
