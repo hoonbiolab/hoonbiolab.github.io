@@ -345,11 +345,10 @@ Students
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/hj_cho/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-   </a>
-   </div>
-   </div>
+  </a>
+    </div>
+    </div>
   </div>
-</div>
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
