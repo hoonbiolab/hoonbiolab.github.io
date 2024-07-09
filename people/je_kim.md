@@ -36,7 +36,7 @@ JuEon Kim
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/je_kim.jpg" width="480px" height="568px" alt="JuEon Kim" />
+    <img src="{{ site.url }}/assets/img/people/je_kim.jpg" width="480px" height="568px" alt="Jueon Kim" />
 </div>
 
 
