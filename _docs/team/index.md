@@ -354,7 +354,7 @@ Students
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/je_kim.jpg" alt="Jueon Kim" width="100%"></div>
     <div class="container">
-    <h4><b>Jueon Kim, Undergraduate</b></h4> 
+    <h4><b>Jueon Kim, Senior</b></h4> 
         <p>Research Assistant</p>
         <a href="{{ site.url }}/people/je_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>

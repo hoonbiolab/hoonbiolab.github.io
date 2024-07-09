@@ -36,7 +36,7 @@ Sepil An
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/sp_an.png" width="480px" height="568px" alt="Sepil An" />
+    <img src="{{ site.url }}/assets/img/people/sp_an.jpg" width="480px" height="568px" alt="Sepil An" />
 </div>
 
 
