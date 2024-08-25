@@ -174,6 +174,18 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+
+<h2><button class="button">Lab Event</button> We celebrated Soyeon's master's degree graduation  </h2>
+<p> Congratulations on your graduation! We really appreciate your contribution to our lab and international ecDNA research community. Thank you!! We wish your happiness in your future!! </p>
+<p><div style="font-style: italic">Posted on Feb 26, 2024</div></p>
+<img id="myImg" src="/assets/img/soyeon_graduation.jpg" style="width:300%;max-width:500px">
+
+
+<h2><button class="button">Lab Event</button> Jueon has joined our lab as a research intern! </h2>
+<p> Welcome Jueon! </p>
+<p><div style="font-style: italic">Posted on Jul 1, 2024</div></p>
+
+
 <h2><button class="button3">Scholarship</button> Junghyun has been selected as a scholarship recipient by the JW이종호재단! </h2>
 <p>Congratulations to Junghyun for being awarded the Basic Research Scientist Residential Support from the JW Foundation in 2023!! We love you~ </p>
 <p><div style="font-style: italic">Posted on Feb 26, 2024</div></p>
@@ -184,7 +196,8 @@ title: "Recent News"
 <p> This is indeed great news, taking into account the immense efforts she has put in. </p>
 <p> We hope the days ahead of her new start will be filled with happiness. </p>
 <p><div style="font-style: italic">Posted on Jan 26, 2024</div></p>
-<img id="myImg" src="/assets/img/sanger.png" style="width:300%;max-width:500px">
+<img id="myImg" src="/as
+sets/img/sanger.png" style="width:300%;max-width:500px">
 <img id="myImg" src="/assets/img/sy_cambridge2.jpeg" style="width:300%;max-width:500px"> 
 
 <h2><button class="button">Lab Event</button> Prof.Siyuan Zheng (from U of Texas, San Antonio) visited Our Lab!! </h2>

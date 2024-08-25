@@ -41,7 +41,7 @@ HyeongJin Cho
 
 
 ### **Research Interest**
-Cancer genomic, bioinformatics
+Cancer genomics, Bioinformatics, Precision medicine
 
 ### **Education and Experience**
 
