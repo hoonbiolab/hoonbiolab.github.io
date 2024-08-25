@@ -177,7 +177,7 @@ title: "Recent News"
 
 <h2><button class="button">Lab Event</button> We celebrated Soyeon's master's degree graduation  </h2>
 <p> Congratulations on your graduation! We really appreciate your contribution to our lab and international ecDNA research community. Thank you!! We wish your happiness in your future!! </p>
-<p><div style="font-style: italic">Posted on Feb 26, 2024</div></p>
+<p><div style="font-style: italic">Posted on Aug 23, 2024</div></p>
 <img id="myImg" src="/assets/img/soyeon_graduation.jpg" style="width:300%;max-width:500px">
 
 
