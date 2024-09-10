@@ -114,6 +114,11 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
 </div>
 
 <div class="mySlides fade">
+  <div class="numbertext">5 / 6</div>
+  <img src="{{site.url}}/assets/img/slideshow/240830_lab.png" style="width:100%">
+</div>
+
+<div class="mySlides fade">
   <div class="numbertext">6 / 6</div>
   <img src="{{site.url}}/assets/img/slideshow/photo3.png" style="width:100%">
 </div>
