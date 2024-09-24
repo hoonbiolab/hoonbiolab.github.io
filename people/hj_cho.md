@@ -45,9 +45,6 @@ Cancer genomics, Bioinformatics, Precision medicine
 
 ### **Education and Experience**
 
-**Kyung Hee University**
-- School of Biology, 03/2017~02/2020
-
 **CHA University**
 - Pharm.D, School of Pharmacy, 03/2020~02/2024
 
