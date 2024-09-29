@@ -247,6 +247,7 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
+  ruby
   universal-darwin-18
   universal-darwin-20
 
@@ -254,7 +255,7 @@ DEPENDENCIES
   github-pages
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 2.7.0p0
 
 BUNDLED WITH
    2.2.25

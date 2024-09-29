@@ -2,107 +2,291 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hoon Lab at Pharmacy, SKKU</title>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Aug 2021 17:18:55 +0900</pubDate>
-    <lastBuildDate>Tue, 17 Aug 2021 17:18:55 +0900</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <description></description>
+    <link>https://hoonbiolab.github.io/</link>
+    <atom:link href="https://hoonbiolab.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 Sep 2024 11:38:05 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2024 11:38:05 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
     
       <item>
-        <title>About Amit Gujar, PhD</title>
-        <description>
-&lt;div class=&quot;row&quot;&gt;&lt;div class=&quot;col-sm-12&quot;&gt;
-			&lt;p style=&quot;margin-top: 3px;&quot;&gt;Is this page about you, and has any missing/incorrect information? You can start editing this page on GitHub.&lt;/p&gt;
-			&lt;a class=&quot;fa fa-pencil-square-o&quot; href=&quot;/_posts/2019-06-28-hello-world.md&quot;&gt; Create Pull Request&lt;/a&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
+        <title>&lt;img src=&quot;/assets/img/events.png&quot; height=&quot;40px&quot;&gt; We celebrated JunYong&apos;s Birthday in our lab!!</title>
+        <description>&lt;hr /&gt;
 
-&lt;h3 id=&quot;education-and-experience&quot;&gt;Education and Experience:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;We celebrated JunYong’s Birthday in our lab!!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Postdoctoral Training:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/jy_birthday.png&quot; height=&quot;480px&quot; width=&quot;360px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Washington University School of Medicine&lt;/p&gt;
+&lt;p&gt;Happy birthday Junyong!! he is our 1st undergraduate intern!!&lt;/p&gt;
 
-&lt;p&gt;Postdoctoral Research Associate&lt;/p&gt;
+&lt;p&gt;We are so happy that you are one of lab members!! We love you &amp;lt;3.&lt;/p&gt;
 
-&lt;p&gt;2012-2017&lt;/p&gt;
+&lt;p&gt;To get to know about Junyong, click &lt;a href=&quot;https://hoonbiolab.github.io/people/jy_ko/&quot;&gt;here&lt;/a&gt; and find out.&lt;/p&gt;
 
-&lt;p&gt;Laboratory of Dr. Albert Kim&lt;/p&gt;
-
-&lt;p&gt;University of Louisiana at Monroe&lt;/p&gt;
-
-&lt;p&gt;PhD, Neuroscience&lt;/p&gt;
-
-&lt;p&gt;2008-2012&lt;/p&gt;
-
-&lt;p&gt;Adv: Karen P. Briski&lt;/p&gt;
-
-&lt;p&gt;Shivaji University, India&lt;/p&gt;
-
-&lt;p&gt;B. Pharm&lt;/p&gt;
-
-&lt;p&gt;2002-2006&lt;/p&gt;
-
-&lt;p&gt;The Jackson Laboratory for Genomic Medicine&lt;/p&gt;
-
-&lt;p&gt;Research Scientist&lt;/p&gt;
-
-&lt;p&gt;2017-Present&lt;/p&gt;
-
-&lt;p&gt;Laboratory of Dr. Roel Verhaak&lt;/p&gt;
-
-&lt;p&gt;University of Louisiana at Monroe&lt;/p&gt;
-
-&lt;p&gt;Teaching Assistant&lt;/p&gt;
-
-&lt;p&gt;2008-2012&lt;/p&gt;
-
-&lt;p&gt;Mediorals Labs Pvt. Ltd.&lt;/p&gt;
-
-&lt;p&gt;Quality Control Analyst&lt;/p&gt;
-
-&lt;p&gt;2007-2008&lt;/p&gt;
-
-&lt;p&gt;Prior to joining the Verhaak lab, Dr. Gujar performed his postdoctoral work in Kim laboratory at the Washington University School of Medicine, where he studied the role and mechanisms of abnormal signaling in brain tumor, glioblastoma. Previously, Dr. Gujar obtained his PhD from the University of Louisiana at Monroe after completing B. Pharm from India. His PhD thesis work examined the coordination between two key brain gluco-sensing areas in counter-regulatory responses to insulin-induced hypoglycemia.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; For questions regarding available training opportunities, please [contact Hoon](https://hoonbiolab.github.io/about).&lt;/p&gt;
 </description>
-        <pubDate>Thu, 14 Nov 2019 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/2019/hello-world/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/hello-world/</guid>
+        <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2021/JY_birthday/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2021/JY_birthday/</guid>
         
-        <category>page</category>
+        <category>Events</category>
         
         
-        <category>people</category>
+        <category>Evetns</category>
         
       </item>
     
       <item>
-        <title>Welcome to MkDocs Jekyll</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>&lt;img src=&quot;/assets/img/events.png&quot; height=&quot;40px&quot;&gt; We celebrated Heesuk&apos;s Birthday during KSBMB international Conference !!</title>
+        <description>&lt;hr /&gt;
 
-&lt;!--more--&gt;
+&lt;p&gt;&lt;strong&gt;We celebrated Heesuk’s BirthDay during KSBMB international Conference !!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/hs_birthday.png&quot; height=&quot;480px&quot; width=&quot;360px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Happy birthday Heesuk!! He is our 1st member of Computational Biomedicine Lab.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;We are so happy that you are one of lab members!! We love you &amp;lt;3.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To get to know about heesuk, click &lt;a href=&quot;https://hoonbiolab.github.io/people/hs_chung/&quot;&gt;here&lt;/a&gt; and find out.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; For questions regarding available training opportunities, please [contact Hoon](https://hoonbiolab.github.io/about).&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2021/HS_brithday/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2021/HS_brithday/</guid>
+        
+        <category>Events</category>
+        
+        
+        <category>Evetns</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/events.png&quot; height=&quot;40px&quot;&gt; We celebrated 1st Teacher&apos;s Day in our Lab !!</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Today, We Celebrated Our First Teacher’s Day&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/cakecut.gif&quot; height=&quot;480px&quot; width=&quot;360px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Happy Teacher’s Day, we had 1st teacher’s day celebration with Prof. Kim.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; For questions regarding available training opportunities, please [contact Hoon](https://hoonbiolab.github.io/about).&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2021/Teachers_day/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2021/Teachers_day/</guid>
+        
+        <category>Events</category>
+        
+        
+        <category>Evetns</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/scholarship.png&quot; height=&quot;35px&quot;&gt; Soyeon was awarded Graduate Scholarship !!!</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Congratulations, Soyeon, for awarded the “Graduate scholarship student in the second semester of 2021” !!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/soyeon_scholarship.png&quot; height=&quot;117px&quot; width=&quot;503px&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 28 Jun 2019 19:52:21 +0900</pubDate>
-        <link>http://localhost:4000/2019/welcome/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/welcome/</guid>
+        <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2021/Soyeon_scholarship/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2021/Soyeon_scholarship/</guid>
+        
+        <category>scholarship</category>
         
         
-        <category>jekyll</category>
+        <category>positions</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/scholarship.png&quot; height=&quot;35px&quot;&gt; Jun-yong was awarded National Scholarship !!!</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Congratulations, Jun-yong, for awarded the prestigious “National Academic Excellence Scholarship (Science and Engineering)” !!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; For questions regarding available training opportunities, please [contact Hoon](https://hoonbiolab.github.io/about).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2021/Junyong_scholarship/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2021/Junyong_scholarship/</guid>
+        
+        <category>scholarship</category>
+        
+        <category>national</category>
+        
+        
+        <category>positions</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Extrachromosomal DNA functions as mobile enhancers !!!</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Congratulations, Yanfen &amp;amp; Amit !!!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zhu et al. report the chromatin connectivity networks of circular and extrachromosomal DNA elements (ecDNA) in cancer, revealing that ecDNAs can function as mobile super-enhancers, which drives genome-wide transcriptional amplification, including that of oncogenes. These findings support an expanded role for ecDNA in trans-regulating chromosomal genes in promoting tumor growth.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; For questions regarding available training opportunities, please [contact Hoon](https://hoonbiolab.github.io/about).&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2021/Yanfen_ecdna/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2021/Yanfen_ecdna/</guid>
+        
+        <category>publication</category>
+        
+        <category>ecdna</category>
+        
+        
+        <category>positions</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/grant.png&quot; height=&quot;20px&quot;&gt; NIH/NCI R21 grant application score was posted (top 3 %) !!!</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;Hoon’s NIH/NCI R21 grant application about extrachromosomal DNA received the top 3 % with impact score 24. It is the most likely to be within the funding line !!!&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; For questions regarding available training opportunities, please [contact Hoon](https://hoonbiolab.github.io/about).&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2021/NIH_R21/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2021/NIH_R21/</guid>
+        
+        <category>grant</category>
+        
+        <category>nih</category>
+        
+        <category>nci</category>
+        
+        <category>R21</category>
+        
+        
+        <category>positions</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Pan-Cancer analysis of extrachromosomal DNA amplification</title>
+        <description>&lt;p&gt;Follow up to &lt;a href=&quot;https://hoonbiolab.github.io/archive/2018-04-ecdna_gbm/&quot;&gt;our previous work&lt;/a&gt; on extra-chrmosomal DNA (ecDNA) amplifications in glioblastoma, &lt;a href=&quot;https://hoonbiolab.github.io/people/h_kim/&quot;&gt;Hoon Kim&lt;/a&gt; led the pan-cancer analysis of ecDNA amplifications in 3,212 tumor and 1,810 normal samples across 29 cancer types. Read more about our work at &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/32807987/&quot;&gt;&lt;em&gt;Nature Genetics&lt;/em&gt;&lt;/a&gt; and in &lt;a href=&quot;https://www.jax.org/news-and-insights/2020/august/extra-chromosomal-dna-and-cancer&quot;&gt;the press release&lt;/a&gt;.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Kim, H., Nguyen, N. P., Turner, K., Wu, S., Gujar, A. D., Luebeck, J., Liu, J., Deshpande, V., Rajkumar, U., Namburi, S., Amin, S. B., Yi, E., Menghi, F., Schulte, J. H., Henssen, A. G., Chang, H. Y., Beck, C. R., Mischel, P. S., Bafna, V., &amp;amp; Verhaak, R. Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers. &lt;em&gt;Nature Genetics&lt;/em&gt; 08/2020. &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/32807987/&quot;&gt;https://pubmed.ncbi.nlm.nih.gov/32807987/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2020/pancancer-ecdna-survival/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2020/pancancer-ecdna-survival/</guid>
+        
+        <category>ecDNA</category>
+        
+        <category>h_kim</category>
+        
+        <category>pancancer</category>
+        
+        <category>evolution</category>
+        
+        <category>TCGA</category>
+        
+        <category>ICGC</category>
+        
+        <category>news</category>
+        
+        <category>papers</category>
+        
+        
+        <category>publication</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Learning from spontaneous gliomas in companion dogs</title>
+        <description>&lt;p&gt;Our paper focusing on comparative oncology of cross-species gliomas is out today in &lt;em&gt;Cancer Cell&lt;/em&gt;. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. &lt;!--more--&gt; We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved mutational processes. We also queried age-related impact on development of glioma in canines vs. human pediatric and adult patients of glioma to show if canine gliomas resemble more of human pediatric or adult gliomas.&lt;/p&gt;
+
+&lt;p&gt;We performed genomic, epigenomic, and transcriptomic characterization of sporadic glioma in dogs (n=83), and compared those to available genomic profiling of patients of human pediatric and adult gliomas. Canine gliomas were marked by &lt;strong&gt;significantly lower somatic mutation burden&lt;/strong&gt; than human adult gliomas but similar to human pediatric gliomas. Despite lower somatic mutation burden, gliomas across canine and human pediatric and adult patients were marked by presence of recurrent, hot-spot, somatic mutations in known glioma drivers like PDGFRA, PIK3CA, and IDH1, suggesting &lt;strong&gt;convergent evolution of cross-species gliomas&lt;/strong&gt;. Overall, gliomas in dogs, despite their prevalence in adult dogs, &lt;strong&gt;resembled human pediatric gliomas by mutational burden and DNA methylation&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Comparative oncology of spontaneous cancer in companion dogs can yield not only insights into evolutionary origins of cancer but also provide strong rationale to conduct parallel clinical trials in immuno-competent companion dogs for potential benefits to both, humans and their best friend!&lt;/p&gt;
+
+&lt;p&gt;For more, please &lt;a href=&quot;https://authors.elsevier.com/a/1aYXc_YwcvlkVR&quot;&gt;read our paper here&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We also provide companion website, &lt;a href=&quot;https://canineglioma.verhaaklab.com&quot;&gt;https://canineglioma.verhaaklab.com&lt;/a&gt;, that hosts extended methods and code to generate figures.&lt;/p&gt;
+
+&lt;p&gt;Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-Ledesma, Emre Kocakavuk, Kevin C. Johnson, Floris P. Barthel, Frederick S. Varn, Cynthia Kassab, Xiaoyang Ling, Hoon Kim, Mary Barter, Ching C. Lau, Chew Yee Ngan, Margaret Chapman, Jennifer W. Koehler, James P. Long, Andrew D. Miller, C. Ryan Miller, Brian F. Porter, Daniel R. Rissi, Christina Mazcko, Amy K. LeBlanc, Peter J. Dickinson, Rebecca A. Packer, Amanda R. Taylor, John H. Rossmeisl Jr, Kevin D. Woolard, Amy B. Heimberger, Jonathan M. Levine, Roel G. W. Verhaak.&lt;/p&gt;
+
+&lt;p&gt;Comparative Molecular Life History of Spontaneous Canine and Human Gliomas.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cancer Cell&lt;/em&gt; 2020;37:243–57.e7. doi: &lt;a href=&quot;https://doi.org/10.1016/j.ccell.2020.01.004&quot;&gt;10.1016/j.ccell.2020.01.004&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Full text link is provided by the publisher and valid until March 31, 2020. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2020/learning-from-spontaneous-gliomas-in-companion-dogs/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2020/learning-from-spontaneous-gliomas-in-companion-dogs/</guid>
+        
+        <category>evolution</category>
+        
+        <category>comparative_oncology</category>
+        
+        <category>canine</category>
+        
+        <category>glioma</category>
+        
+        <category>LifeHistory</category>
+        
+        <category>s_amin</category>
+        
+        <category>papers</category>
+        
+        
+        <category>publication</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Glioma evolution over time characterized</title>
+        <description>&lt;p&gt;Floris Barthel, Kevin Johnson are the lead authors on a new study on longitudinal analysis of glioma in adult patients, with contributions from many lab members. This is a first seminal study that leverages the &lt;a href=&quot;https://www.glass-consortium.org/data-resource/&quot;&gt;GLASS Data Resource&lt;/a&gt; and the first publication in collaboration with the GLASS Consortium. We identified multiple types of evolution and/or treatment associated changes in the glioma genome over time. This seminal work was published in &lt;a href=&quot;https://www.nature.com/articles/s41586-019-1775-1&quot;&gt;&lt;em&gt;Nature&lt;/em&gt;&lt;/a&gt;.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Barthel FP, Johnson KC, Varn FS, Moskalik AD, Tanner G, Kocakavuk E, Anderson KJ, Abiola O, Aldape K, Alfaro KD, Alpar D, Amin SB, Ashley DM, Bandopadhayay P, Barnholtz-Sloan JS, Beroukhim R, Bock C, Brastianos PK, Brat DJ, Brodbelt AR, Bruns AF, Bulsara KR, Chakrabarty A, Chakravarti A, Chuang JH, Claus EB, Cochran EJ, Connelly J, Costello JF, Finocchiaro G, Fletcher MN, French PJ, Gan HK, Gilbert MR, Gould PV, Grimmer MR, Iavarone A, Ismail A, Jenkinson MD, Khasraw M, Kim H, Kouwenhoven MCM, LaViolette PS, Li M, Lichter P, Ligon KL, Lowman AK, Malta TM, Mazor T, McDonald KL, Molinaro AM, Nam DH, Nayyar N, Ng HK, Ngan CY, Niclou SP, Niers JM, Noushmehr H, Noorbakhsh J, Ormond DR, Park CK, Poisson LM, Rabadan R, Radlwimmer B, Rao G, Reifenberger G, Sa JK, Schuster M, Shaw BL, Short SC, Smitt PAS, Sloan AE, Smits M, Suzuki H, Tabatabai G, Van Meir EG, Watts C, Weller M, Wesseling P, Westerman BA, Widhalm G, Woehrer A, Yung WKA, Zadeh G, Huse JT, De Groot JF, Stead LF, Verhaak RGW; GLASS Consortium.&lt;/p&gt;
+
+&lt;p&gt;Longitudinal molecular trajectories of diffuse glioma in adults.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Nature&lt;/em&gt;. 2019 Dec;576(7785):112-120. doi: &lt;a href=&quot;https://doi.org/10.1038/s41586-019-1775-1&quot;&gt;10.1038/s41586-019-1775-1&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+        <link>https://hoonbiolab.github.io/2019/glioma-evolution-over-time-characterized/</link>
+        <guid isPermaLink="true">https://hoonbiolab.github.io/2019/glioma-evolution-over-time-characterized/</guid>
+        
+        <category>GLASS</category>
+        
+        <category>longitudinal_data</category>
+        
+        <category>evolution</category>
+        
+        <category>glioma</category>
+        
+        <category>f_barthel</category>
+        
+        <category>k_johnson</category>
+        
+        <category>consortium</category>
+        
+        <category>news</category>
+        
+        <category>publications</category>
+        
+        
+        <category>publication</category>
         
       </item>
     
