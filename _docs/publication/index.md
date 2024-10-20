@@ -8,9 +8,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
-- __Hoon Kim__<sup>#*</sup>,__Soyeon Kim__<sup>*</sup>, […], __Eunchae Yeo__, __Sepil An__, __Junyong Ko__, __Yoonjoo Nam__, __Seunghyun Kang__, __Heesuk Chung__, […], Roel G. W. Verhaak<sup>#</sup>. "Mapping extrachromosomal DNA amplifications during cancer progression", ***Nature Genetics***, 2024 Oct.
+- __Hoon Kim__<sup>#*</sup>, __Soyeon Kim__<sup>*</sup>, […], __Eunchae Yeo__, __Sepil An__, __Junyong Ko__, __Yoonjoo Nam__, __Seunghyun Kang__, __Heesuk Chung__, […], Roel G. W. Verhaak<sup>#</sup>. "Mapping extrachromosomal DNA amplifications during cancer progression", ***Nature Genetics***, 2024 Oct.
 
-- __Hoon Kim__<sup>#*</sup>,__Soyeon Kim__<sup>*</sup>, […], Roel GW Verhaak<sup>#</sup>. "test", ***Biorxiv***, 2024.
+- __Hoon Kim__<sup>#*</sup>, __Soyeon Kim__<sup>*</sup>, […], Roel GW Verhaak<sup>#</sup>. "test", ***Biorxiv***, 2024.
 
 - Jens Luebeck,Edwin Huang, […],__Soyeon Kim__, __Hoon Kim__, […], Jill Mesirov, Vineet Bafna. "AmpliconSuite: and end-to-end workflow for analyzing focal amplifications in cancer genomes", ***Biorxiv***, 2024 May.
 
