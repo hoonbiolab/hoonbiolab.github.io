@@ -174,6 +174,15 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<!-- The starting point -->
+
+<h2><button class="button">Paper</button> Mapping extrachromosomal DNA amplifications during cancer progression </h2>
+<p> Our paper ‘Mapping extrachromosomal DNA amplifications during cancer progression’ has been published on <i>Nature Genetics</i>! Hoon Kim and Soyeon Kim contributed as first authors, with Eunche Yeo, Sepil An, Junyong Ko, Yoonjoo Nam, Seunghyun Kang, and Heesuk Chung as co-authors.   We present a novel finding that ecDNAs provide tumors with competitive advantages during cancer progression and metastasis.</p>  
+
+>Kim, H., Kim, S., Wade, T. et al. Mapping extrachromosomal DNA amplifications during cancer progression. Nat Genet (2024). [Full text article](https://doi.org/10.1038/s41588-024-01949-7)
+<p><div style="font-style: italic">Posted on Oct 14, 2024</div></p>
+<img id="myImg" src="/assets/img/papers/10.14_NatGenet.png" style="width:300%;max-width:500px">
+
 
 <h2><button class="button">Lab Event</button> We celebrated Soyeon's master's degree graduation  </h2>
 <p> Congratulations on your graduation! We really appreciate your contribution to our lab and international ecDNA research community. Thank you!! We wish your happiness in your future!! </p>
