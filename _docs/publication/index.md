@@ -3,24 +3,24 @@ layout: page
 title: Publications
 ---
 
-
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=foxOEo4AAAAJ&hl=en) and [ORCiD](https://orcid.org/0000-0003-4244-6126).
 
 ## **Published**
 
-- __Hoon Kim__<sup>#\*</sup>, __Soyeon Kim__<sup>\*</sup>, […], __Eunchae Yeo__, __Sepil An__, __Junyong Ko__, __Yoonjoo Nam__, __Seunghyun Kang__, __Heesuk Chung__, […], Roel G. W. Verhaak<sup>#</sup>. "Mapping extrachromosomal DNA amplifications during cancer progression", ***Nature Genetics***, 2024 Oct.
+- **Hoon Kim**<sup>#*</sup>, **Soyeon Kim**<sup>*</sup>, et al., **Eunchae Yeo**, **Sepil An**, **Junyong Ko**, **Yoonjoo Nam**, **Seunghyun Kang**, **Heesuk Chung**, et al., Roel G. W. Verhaak<sup>#</sup>. "Mapping extrachromosomal DNA amplifications during cancer progression", *Nature Genetics*, October 2024.
 
-- Jens Luebeck,Edwin Huang, […],__Soyeon Kim__, __Hoon Kim__, […], Jill Mesirov, Vineet Bafna. "AmpliconSuite: and end-to-end workflow for analyzing focal amplifications in cancer genomes", ***Biorxiv***, 2024 May.
+- Jens Luebeck, Edwin Huang, et al., **Soyeon Kim**, **Hoon Kim**, et al., Jill Mesirov, Vineet Bafna. "AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes", *Biorxiv*, May 2024.
 
-- Jens Luebeck, Alvin Wei Tian Ng, […],__Hoon Kim__, […], Howard Y. Chang, Paul S. Mischel. "Extrachromosomal DNA in the cancerous transformation of Barrett's esophagus", ***Nature***, 2023 Apr.
+- Jens Luebeck, Alvin Wei Tian Ng, et al., **Hoon Kim**, et al., Howard Y. Chang, Paul S. Mischel. "Extrachromosomal DNA in the cancerous transformation of Barrett's esophagus", *Nature*, April 2023.
 
-- Frederick S Varn, Kevin C Johnson, […],__Hoon Kim__, […], Roel GW Verhaak,The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions", ***Cell***, 2022 Jun.
+- Frederick S Varn, Kevin C Johnson, et al., **Hoon Kim**, et al., Roel G.W. Verhaak, The GLASS Consortium. "Glioma progression is shaped by genetic evolution and microenvironment interactions", *Cell*, June 2022.
 
-- Yi E<sup>\*</sup>, Gujar A<sup>\*</sup>, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", ***Cancer Discovery***, 2022 Feb.
+- Yi E<sup>*</sup>, Gujar A<sup>*</sup>, Guthrie M, **Hoon Kim**, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak R.G.W. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", *Cancer Discovery*, February 2022.
 
-- Kevin C. Johnson<sup>\*</sup>, Paul Robson & Roel G. W. Verhaak<sup>\*</sup>,Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, __Hoon Kim__, Marcos R. H. Estecio, [...], Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das.  "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response", ***Nature Genetics***, 2021 September.
+- Kevin C. Johnson<sup>*</sup>, Paul Robson & Roel G.W. Verhaak<sup>*</sup>, Kevin J. Anderson, Elise T. Courtois, Amit D. Gujar, Floris P. Barthel, Frederick S. Varn, Diane Luo, Martine Seignon, Eunhee Yi, **Hoon Kim**, Marcos R.H. Estecio, et al., Philip C. de Witt Hamer, Ketan Bulsara, Michael L. Samuels, Sunit Das. "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response", *Nature Genetics*, September 2021.
 
-- Yanfen Zhu<sup>\*</sup>, Amit D. Gujar, Chee-Hong Wong, [...], __Hoon Kim__, [...], Roel G.W. Verhaak, Chia-Lin Wei. "Oncogenic Extrachromosomal DNA Functions as Mobile Enhancers to Globally Amplify Chromosomal Transcription.", ***Cancer Cell***, 2021 Apr.
+- Yanfen Zhu<sup>*</sup>, Amit D. Gujar, Chee-Hong Wong, et al., **Hoon Kim
+, [...], Roel G.W. Verhaak, Chia-Lin Wei. "Oncogenic Extrachromosomal DNA Functions as Mobile Enhancers to Globally Amplify Chromosomal Transcription.", ***Cancer Cell***, 2021 Apr.
 
 
 - __Hoon Kim__, Nam Nguyen, Kristen Turner, [...], Sihan Wu, Jihe Liu, Sandeep Namburi, Howard Chang, Paul Mischel, Vineet Bafna, Roel Verhaak. "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers.", ***Nature Genetics***, 2020 Aug.
