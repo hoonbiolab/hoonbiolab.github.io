@@ -1,0 +1,8 @@
+current directory: /opt/build/vendor/bundle/ruby/3.2.0/gems/ffi-1.15.0/ext/ffi_c
+/usr/bin/ruby extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+You might have to install separate package for the ruby development
+environment, ruby-dev or ruby-devel for example.
+
+extconf failed, exit code 1

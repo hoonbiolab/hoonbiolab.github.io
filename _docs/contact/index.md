@@ -23,7 +23,7 @@ Seobu-ro, Jangan-gu, Suwon-si
 Gyeonggi-do, South Korea, 16419
 
 
-<i class="fa fa-paper-plane"></i> <wisekh6@skku.edu>  
+<i class="fa fa-paper-plane"></i> <wisekh@skku.edu>  
 <i class="fab fa-twitter"></i><a href="https://twitter.com/intent/tweet?via={{ site.owner.twitter }}&amp;hashtags=website" target="_blank" title="Tweet Hoon Kim"> Tweet Hoon Kim</a>  
 
 ## **Administrative Support**

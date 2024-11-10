@@ -53,6 +53,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-# Analytics
-google_analytics: G-2NYHY1SN3S # your google analytics measurement ID (format: G-XXXXXXXXXX or UA-XXXXXXXXXX)
