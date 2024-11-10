@@ -174,7 +174,7 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<h2><button class="button3">Scholarship</button> Jueon has been awarded a full granduate scholarship from SKKU! </h2>
+<h2><button class="button3">Scholarship</button> Jueon has been awarded a full graduate scholarship from SKKU! </h2>
 <p>Congratulations!! </p>
 <p><div style="font-style: italic">Posted on 11 10, 2024</div></p>
 <img id="myImg" src="/assets/img/jueon_scholar.jpeg" style="width:300%;max-width:500px">
