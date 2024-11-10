@@ -185,6 +185,9 @@ title: "Recent News"
 <p> Welcome Jueon! </p>
 <p><div style="font-style: italic">Posted on Jul 1, 2024</div></p>
 
+<h2><button class="button3">Scholarship</button> Jueon has been awarded a full granduate scholarship from SKKU! </h2>
+<p>Congratulations!! </p>
+<p><div style="font-style: italic">Posted on 11 10, 2024</div></p>
 
 <h2><button class="button3">Scholarship</button> Junghyun has been selected as a scholarship recipient by the JW이종호재단! </h2>
 <p>Congratulations to Junghyun for being awarded the Basic Research Scientist Residential Support from the JW Foundation in 2023!! We love you~ </p>
