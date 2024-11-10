@@ -18,6 +18,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 - Yi E*, Gujar A*, Guthrie M, __Hoon Kim__, Johnson K, Amin S, Das S, Clow P, Cheng A, Verhaak RG. "Live-cell imaging shows uneven segregation of extrachromosomal DNA elements and transcriptionally active extrachromosomal DNA clusters in cancer.", __Cancer Discovery__, 2022 Feb.
 
+- Kevin C. Johnson<b>*</b>, Kevin J. Anderson, [...] , __Hoon Kim__, [...], Paul Robson, Roel G. W. Verhaak "Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response", __Nature Genetics__, 2021 September.
+  
 - Yanfen Zhu<b>*</b>, Amit D. Gujar, Chee-Hong Wong, [...], __Hoon Kim__, [...], Roel G.W. Verhaak, Chia-Lin Wei. "Oncogenic Extrachromosomal DNA Functions as Mobile Enhancers to Globally Amplify Chromosomal Transcription.", __Cancer Cell__, 2021 April.
 
 - __Hoon Kim__, Nam Nguyen, Kristen Turner, [...], Sihan Wu, Jihe Liu, Sandeep Namburi, Howard Chang, Paul Mischel, Vineet Bafna, Roel Verhaak. "Extrachromosomal DNA is associated with oncogene amplification and poor outcome across multiple cancers.", __Nature Genetics__, 2020 Aug.
