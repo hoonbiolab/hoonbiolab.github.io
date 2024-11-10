@@ -174,6 +174,9 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button3">Scholarship</button> Jueon has been awarded a full granduate scholarship from SKKU! </h2>
+<p>Congratulations!! </p>
+<p><div style="font-style: italic">Posted on 11 10, 2024</div></p>
 
 <h2><button class="button">Lab Event</button> We celebrated Soyeon's master's degree graduation  </h2>
 <p> Congratulations on your graduation! We really appreciate your contribution to our lab and international ecDNA research community. Thank you!! We wish your happiness in your future!! </p>
@@ -184,10 +187,6 @@ title: "Recent News"
 <h2><button class="button">Lab Event</button> Jueon has joined our lab as a research intern! </h2>
 <p> Welcome Jueon! </p>
 <p><div style="font-style: italic">Posted on Jul 1, 2024</div></p>
-
-<h2><button class="button3">Scholarship</button> Jueon has been awarded a full granduate scholarship from SKKU! </h2>
-<p>Congratulations!! </p>
-<p><div style="font-style: italic">Posted on 11 10, 2024</div></p>
 
 <h2><button class="button3">Scholarship</button> Junghyun has been selected as a scholarship recipient by the JW이종호재단! </h2>
 <p>Congratulations to Junghyun for being awarded the Basic Research Scientist Residential Support from the JW Foundation in 2023!! We love you~ </p>
