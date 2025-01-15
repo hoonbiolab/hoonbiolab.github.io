@@ -84,7 +84,6 @@ img {vertical-align: middle;
 
 If you would like to join our lab, <a href="{{ site.url }}/assets/img/20250115-CBM.png" style="font-size: 20px;">please click the link.</a>
 
-
 ## Lab Photos
 If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
 
