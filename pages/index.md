@@ -83,8 +83,8 @@ img {vertical-align: middle;
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <div class="center">
-    <a href="{{ site.url }}/assets/img/2025_CBM.png" target="_blank">
-        <img src="{{ site.url }}/assets/img/2025_CBM.png" width="480px" height="568px" alt="Boyoon Kim" />
+    <a href="{{ site.url }}/assets/img/job_icon.png" target="_blank">
+        <img src="{{ site.url }}/assets/img/2025_CBM.png" width="1440px" height="1200px" />
     </a>
 </div>
 
