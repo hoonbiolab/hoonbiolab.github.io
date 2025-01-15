@@ -83,8 +83,8 @@ img {vertical-align: middle;
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/2025_CBM.png" style="width:100%", target="_blank">
-        <a href= "https://hiring_notice">
+    <a href="{{ site.url }}/assets/img/2025_CBM.png" target="_blank">
+        <img src="{{ site.url }}/assets/img/job_icon.png" width="144px" height="144px">
     </a>
 </div>
 
