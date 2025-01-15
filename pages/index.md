@@ -84,7 +84,7 @@ img {vertical-align: middle;
 
 <div class="center">
     <a href="{{ site.url }}/assets/img/2025_CBM.png" target="_blank">
-        <img src="{{ site.url }}/assets/img/job_icon.png" style="width:100%">
+        <img src="{{ site.url }}/assets/img/job_icon.png" width="240px" height="240px" />
     </a>
 </div>
 
