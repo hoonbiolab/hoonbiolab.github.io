@@ -8,7 +8,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
-- __Hoon Kim__<sup>#*</sup>, __Soyeon Kim__<sup>*</sup>, Taylor Wade, __Eunchae Yeo__, […], __Sepil An__, __Junyong Ko__, __Yoonjoo Nam__, __Hwa Yeon Lee__, __Seunghyun Kang__, __Heesuk Chung__, […], Roel G. W. Verhaak<sup>#</sup>, "Mapping extrachromosomal DNA amplifications during cancer progression", __Nature Genetics__, 2024 November.
+- __Eun Seop Seo__<sup>*</sup>, […], __Sepil An__, […], __Hoon Kim__<sup>#</sup>, Ji-Yeon
+Kim<sup>#</sup>, "Spatial and genomic profiling of residual breast cancer", In press, 2025.
   
 - __Hoon Kim__<sup>#*</sup>, __Soyeon Kim__<sup>*</sup>, Taylor Wade, __Eunchae Yeo__, […], __Sepil An__, __Junyong Ko__, __Yoonjoo Nam__, __Hwa Yeon Lee__, __Seunghyun Kang__, __Heesuk Chung__, […], Roel G. W. Verhaak<sup>#</sup>, "Mapping extrachromosomal DNA amplifications during cancer progression", __Nature Genetics__, 2024 November.
 
