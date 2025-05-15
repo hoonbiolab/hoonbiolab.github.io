@@ -174,9 +174,14 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button3">Scholarship</button> Hyunjeong has been awarded a PhD candidate scholarship from SKKU! </h2>
+<p>Congratulations!! </p>
+<p><div style="font-style: italic">Posted on May 15, 2025</div></p>
+<img id="myImg" src="/assets/img/hyunjeong_scholarship_IMG_5080.jpg" style="width:300%;max-width:500px">
+
 <h2><button class="button3">Scholarship</button> Jueon has been awarded a full graduate scholarship from SKKU! </h2>
 <p>Congratulations!! </p>
-<p><div style="font-style: italic">Posted on 11 10, 2024</div></p>
+<p><div style="font-style: italic">Posted on Nov 10, 2024</div></p>
 <img id="myImg" src="/assets/img/jueon_scholar.jpeg" style="width:300%;max-width:500px">
 
 <h2><button class="button">Lab Event</button> We celebrated Soyeon's master's degree graduation  </h2>
