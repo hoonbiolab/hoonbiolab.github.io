@@ -376,7 +376,10 @@ Former lab members
     <img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoonji Choi" width="100%"></div>
     <div class="container">
          <h4><b>Yoonji Choi, MD</b></h4> 
-    <p>Associate Professor</p>
+    <p>
+        Associate Professor
+        Korea University College of Medicine
+    </p>
      <a href="{{ site.url }}/people/prof_choi/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
       </a>
