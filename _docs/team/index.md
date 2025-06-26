@@ -368,6 +368,8 @@ Students
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Former lab members
 </div>
+
+
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
@@ -381,14 +383,18 @@ Former lab members
     </div>
     </div>
   </div>
+  
   <div class="row">
-  <div class="column">
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" width="100%"></div>
+    <div class="column">
+      <div class="card"><div class="img">
+        <img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim" width="100%">
+      </div>
     <div class="container">
-    <h4><b>Yeonsik Kim</b></h4>
-        <p>Korea Polytechnic University
-           languages  (C, Java)</p>
+      <h4><b>Yeonsik Kim</b></h4>
+        <p>
+            Korea Polytechnic University
+            languages  (C, Java)
+        </p>
         <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
    </a>
@@ -396,6 +402,7 @@ Former lab members
    </div>
   </div>
 </div>
+
 
 <p></p>
 <div class="row">
@@ -412,6 +419,7 @@ Former lab members
     </div>
     </div>
   </div>
+  
 <div class="row">
  <div class="column">
 <div class="card"><div class="img">
@@ -427,6 +435,7 @@ Former lab members
   </div>
 </div>
 
+
 <p></p>
 <div class="row">
   <div class="column">
@@ -441,6 +450,7 @@ Former lab members
     </div>
     </div>
   </div>
+  
 <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwa Yeon Lee" width="100%"></div>
