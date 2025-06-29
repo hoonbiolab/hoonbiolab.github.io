@@ -176,7 +176,7 @@ title: "Recent News"
 
 
 <h2><button class="button">Lab Event</button> Prof.Kim has been invited to present "Longitudinal characterization of extrachromosomal dna amplifications in adult glioma cohort" at the 24th International Conference on Brain Tumor Research and Therapy (ICBTRT2025), Japan.  </h2>
-<p>This is an invitation-only event, and only six researchers from Korea were invited. </p>
+<p>This is an invitation-only event. </p>
 <p><div style="font-style: italic">Posted on June 23, 2025</div></p>
 <img id="myImg" src="/assets/img/ICBTRT2025-20250623.JPG" style="width:300%;max-width:500px">
 
