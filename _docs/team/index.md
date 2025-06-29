@@ -378,6 +378,7 @@ Former lab members
          <h4><b>Yoonji Choi, MD</b></h4> 
     <p>
         Associate Professor
+        <br>
         Korea University College of Medicine
     </p>
      <a href="{{ site.url }}/people/prof_choi/" target="_blank" rel="noopener noreferrer">
