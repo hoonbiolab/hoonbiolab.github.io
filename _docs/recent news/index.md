@@ -180,6 +180,9 @@ title: "Recent News"
 <p><div style="font-style: italic">Posted on June 23, 2025</div></p>
 <img id="myImg" src="/assets/img/ICBTRT2025-20250623.JPG" style="width:300%;max-width:500px">
 
+<h2><button class="button">Lab Event</button> Eunchae Yeo presented our ecDNA project results at the STEAM-Pioneer conference in Busan!!</h2>
+<p><div style="font-style: italic">Posted on June 20, 2025</div></p>
+<img id="myImg" src="/assets/img/20250623-EC-STEAM-IMG_8730.jpg" style="width:100%;max-width:300px">
 
 <h2><button class="button3">Scholarship</button> Hyunjeong has been awarded a PhD candidate scholarship from SKKU! </h2>
 <p>Congratulations!! </p>
