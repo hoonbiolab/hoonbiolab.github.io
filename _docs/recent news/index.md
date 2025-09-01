@@ -174,6 +174,15 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button3">Scholarship</button> Yoonjoo has been awarded 한국연구재단 박사과정 이공학 학술 연구 기반 구축 (R&D) 사업! </h2>
+<p>Congratulations!! </p>
+<p><div style="font-style: italic">Posted on Sep. 1, 2025</div></p>
+<img id="myImg" src="/assets/img/20250829-yoonjoo-scholarship.png" style="width:300%;max-width:500px">
+
+<h2><button class="button3">Scholarship</button> Jueon has been awarded 한국연구재단 석사과정생 연구 장려금 지원 사업! </h2>
+<p>Congratulations!! </p>
+<p><div style="font-style: italic">Posted on Sep. 1, 2025</div></p>
+<img id="myImg" src="/assets/img/20250829-jueon-scholarship.png" style="width:300%;max-width:500px">
 
 <h2><button class="button">Lab Event</button> Prof.Kim has been invited to present "Longitudinal characterization of extrachromosomal dna amplifications in adult glioma cohort" at the 24th International Conference on Brain Tumor Research and Therapy (ICBTRT2025), Japan.  </h2>
 <p>This is an invitation-only event. </p>
