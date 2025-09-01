@@ -46,8 +46,7 @@ Multiomics, Bioinformatics
 ### **Education and Experience**
 
 **Sungkyunkwan university **
-- BS, Integrative Biotechnology, 03/2022~
-- BS, Computer science and Engineering, 03/2023~
+- BS, Integrative Biotechnology & Bioinformatics , 02/2025
 
 ### **Contact**
 <i class="fa fa-paper-plane"></i> hellometto@g.skku.edu
