@@ -296,7 +296,7 @@ Students
   <div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/by_kim.png" alt="Boyoon Kim" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/by_kim.jpg" alt="Boyoon Kim" width="100%"></div>
     <div class="container">
      <h4><b>Boyoon Kim, BS</b></h4> 
     <p>Research Assistant</p>
