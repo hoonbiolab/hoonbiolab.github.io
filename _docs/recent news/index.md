@@ -203,6 +203,13 @@ title: "Recent News"
 <p><div style="font-style: italic">Posted on Nov 10, 2024</div></p>
 <img id="myImg" src="/assets/img/jueon_scholar.jpeg" style="width:300%;max-width:500px">
 
+<h2><button class="button2">Paper</button> "Mapping extrachromosomal DNA amplifications during cancer progression"</h2>
+Kim et al. Extrachromosomal DNA (ecDNA) confers fitness advantages during tumor progression and metastasis.
+<p><div style="font-style: italic">Posted on Nov 4, 2022</div></p>
+<img id="myImg" src="/assets/img/papers/20241014-natgenet.jpg" style="width:100%;max-width:300px">
+>Kim et al. Nature Genetics 14 October 2024. [Full text article](https://www.nature.com/articles/s41588-024-01949-7)
+
+
 <h2><button class="button">Lab Event</button> We celebrated Soyeon's master's degree graduation  </h2>
 <p> Congratulations on your graduation! We really appreciate your contribution to our lab and international ecDNA research community. Thank you!! We wish your happiness in your future!! </p>
 <p><div style="font-style: italic">Posted on Aug 23, 2024</div></p>
