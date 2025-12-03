@@ -183,55 +183,24 @@ function showSlides() {
 </div>
 </div> -->
 
-
+<!-- Updated 2025-12-03 -->
 <hr>
 
 ## 📰 Recent News
 
-{% assign news_pages = site.pages | where_exp: "p", "p.url contains '/docs/recent news'" %}
-<ul>
-  {% for page in news_pages limit:5 %}
-    <li>
-      <strong><a href="{{ page.url | relative_url }}">{{ page.title }}</a></strong><br>
-      {% if page.excerpt %}
-        <small>{{ page.excerpt | strip_html | truncate: 160 }}</small>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
+{% assign news_pages = site.pages | where_exp: "p", "p.url contains '/docs/recent news/'" | sort: 'date' | reverse %}
+{% for page in news_pages %}
+  <article style="margin-bottom: 40px;">
+    <h3><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h3>
 
-<p><a href="/docs/recent news/">See all news →</a></p>
+    {% if page.date %}
+      <p><small><em>{{ page.date | date: "%B %d, %Y" }}</em></small></p>
+    {% endif %}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <div style="margin-left: 1rem;">
+      {{ page.content }}
+    </div>
+    <hr>
+  </article>
+{% endfor %}
 
