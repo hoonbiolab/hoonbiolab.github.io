@@ -184,7 +184,23 @@ function showSlides() {
 </div> -->
 
 
+<hr>
 
+## 📰 Recent News
+
+{% assign news_pages = site.pages | where_exp: "p", "p.url contains '/docs/recent news'" %}
+<ul>
+  {% for page in news_pages limit:5 %}
+    <li>
+      <strong><a href="{{ page.url | relative_url }}">{{ page.title }}</a></strong><br>
+      {% if page.excerpt %}
+        <small>{{ page.excerpt | strip_html | truncate: 160 }}</small>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+<p><a href="/docs/recent news/">See all news →</a></p>
 
 
 
