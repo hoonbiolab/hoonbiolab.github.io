@@ -183,24 +183,25 @@ function showSlides() {
 </div>
 </div> -->
 
-<!-- Updated 2025-12-03 -->
 <hr>
 
+<!-- Updated 2025-12-04 -->
 ## 📰 Recent News
 
-{% assign news_pages = site.pages | where_exp: "p", "p.url contains '/docs/recent-news/'" | sort: 'date' | reverse %}
-{% for page in news_pages %}
-  <article style="margin-bottom: 40px;">
-    <h3><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h3>
+<!-- Embed the Recent News page safely -->
+<iframe
+  id="newsFrame"
+  src="{{ '/docs/recent%20news/' | relative_url }}"
+  style="width:100%; border:0; height:5000px;"
+  loading="lazy"
+  title="Recent News">
+</iframe>
 
-    {% if page.date %}
-      <p><small><em>{{ page.date | date: "%B %d, %Y" }}</em></small></p>
-    {% endif %}
-
-    <div style="margin-left: 1rem;">
-      {{ page.content }}
-    </div>
-    <hr>
-  </article>
-{% endfor %}
-
+<script>
+/* Adjust iframe height dynamically */
+window.addEventListener('message', function (e) {
+  if (!e.data || e.data.type !== 'newsHeight') return;
+  var f = document.getElementById('newsFrame');
+  if (f) f.style.height = (e.data.value + 50) + 'px';
+});
+</script>
