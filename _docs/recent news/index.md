@@ -562,3 +562,16 @@ span.onclick = function() {
 }
 
 </script>
+
+<script>
+function postHeight() {
+  var h = Math.max(
+    document.body.scrollHeight,
+    document.documentElement.scrollHeight
+  );
+  parent.postMessage({ type: 'newsHeight', value: h }, '*');
+}
+window.addEventListener('load', postHeight);
+window.addEventListener('resize', postHeight);
+</script>
+
