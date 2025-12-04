@@ -187,24 +187,3 @@ function showSlides() {
 </div> -->
 
 <hr>
-
-<!-- Updated 2025-12-04 -->
-## 📰 Recent News
-
-<!-- Embed the Recent News page safely -->
-<iframe
-  id="newsFrame"
-  src="{{ '/docs/recent%20news/' | relative_url }}"
-  style="width:100%; border:0; height:5000px;"
-  loading="lazy"
-  title="Recent News">
-</iframe>
-
-<script>
-/* Adjust iframe height dynamically */
-window.addEventListener('message', function (e) {
-  if (!e.data || e.data.type !== 'newsHeight') return;
-  var f = document.getElementById('newsFrame');
-  if (f) f.style.height = (e.data.value + 50) + 'px';
-});
-</script>
