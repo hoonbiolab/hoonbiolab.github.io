@@ -140,39 +140,27 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
 
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
+window.addEventListener("load", function () {
   let slideIndex = 0;
+  const slides = document.getElementsByClassName("mySlides");
+  const dots = document.getElementsByClassName("dot");
 
   function showSlides() {
-    const slides = document.getElementsByClassName("mySlides");
-    const dots = document.getElementsByClassName("dot");
-
-    // Safety: stop if no slides
-    if (slides.length === 0) return;
-
-    // Hide all slides
     for (let i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
-
-    // Advance index
     slideIndex = (slideIndex + 1 > slides.length) ? 1 : slideIndex + 1;
 
-    // Remove active from all dots
     for (let i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
     }
 
-    // Show one slide
     slides[slideIndex - 1].style.display = "block";
     if (dots[slideIndex - 1]) dots[slideIndex - 1].className += " active";
-
-    // Schedule next cycle
-    setTimeout(showSlides, 3000);
+    setTimeout(showSlides, 4000); // every 4 seconds
   }
 
-  // Start after full load
-  setTimeout(showSlides, 500);
+  showSlides(); // start after everything loaded
 });
 </script>
 
