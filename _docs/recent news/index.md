@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Recent News"
-permalink: /docs/recent news/
+permalink: /docs/recent-news/
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
