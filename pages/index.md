@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hoon Lab at Pharmacy, SKKU
 permalink: /
 ---
