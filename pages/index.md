@@ -40,7 +40,7 @@ img {vertical-align: middle;
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #bbb;
+  background-color: #bbb;/Users/nam-yunju/hoonbiolab.github.io/_data/metadata.yml
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
@@ -118,12 +118,12 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
+  <div class="numbertext">5 / 6</div>
   <img src="{{site.url}}/assets/img/slideshow/240830_lab.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
+  <div class="numbertext">6 / 6</div>
   <img src="{{site.url}}/assets/img/slideshow/photo3.png" style="width:100%">
 </div>
 </div>
@@ -135,12 +135,8 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
-  <span class="dot"></span>
-  <span class="dot"></span>
-  <span class="dot"></span>
-  <span class="dot"></span>
+   <span class="dot"></span> 
 </div>
-
 
 <script>
 /*It is linked with Lab photo*/
@@ -165,6 +161,7 @@ function showSlides() {
 }
 </script>
 
+
 <hr> 
 
 
@@ -186,4 +183,39 @@ function showSlides() {
 </div>
 </div> -->
 
-<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
