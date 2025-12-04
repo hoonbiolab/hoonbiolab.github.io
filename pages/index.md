@@ -93,37 +93,37 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 6</div>
+  <div class="numbertext">1 / 7</div>
   <img src="{{site.url}}/assets/img/slideshow/photo0.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 6</div>
+  <div class="numbertext">2 / 7</div>
   <img src="{{site.url}}/assets/img/slideshow/220817_before_sy_dinner.jpeg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 6</div>
+  <div class="numbertext">3 / 7</div>
   <img src="{{site.url}}/assets/img/slideshow/2022_new.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 6</div>
+  <div class="numbertext">4 / 7</div>
   <img src="{{site.url}}/assets/img/slideshow/summer_CBM.jpeg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 6</div>
+  <div class="numbertext">5 / 7</div>
   <img src="{{site.url}}/assets/img/slideshow/summer_water_CBM.jpeg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 6</div>
+  <div class="numbertext">6 / 7</div>
   <img src="{{site.url}}/assets/img/slideshow/240830_lab.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 6</div>
+  <div class="numbertext">7 / 7</div>
   <img src="{{site.url}}/assets/img/slideshow/photo3.png" style="width:100%">
 </div>
 </div>
