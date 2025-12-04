@@ -188,7 +188,7 @@ function showSlides() {
 
 ## 📰 Recent News
 
-{% assign news_pages = site.pages | where_exp: "p", "p.url contains '/docs/recent news/'" | sort: 'date' | reverse %}
+{% assign news_pages = site.pages | where_exp: "p", "p.url contains '/docs/recent-news/'" | sort: 'date' | reverse %}
 {% for page in news_pages %}
   <article style="margin-bottom: 40px;">
     <h3><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h3>
