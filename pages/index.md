@@ -138,31 +138,41 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
    <span class="dot"></span> 
 </div>
 
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  var slideIndex = 0;
-  showSlides();
+  let slideIndex = 0;
 
   function showSlides() {
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
+    const slides = document.getElementsByClassName("mySlides");
+    const dots = document.getElementsByClassName("dot");
 
-    if (!slides.length) return; // Safety check
+    // Safety: stop if no slides
+    if (slides.length === 0) return;
 
-    for (var i = 0; i < slides.length; i++) {
+    // Hide all slides
+    for (let i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
-    slideIndex++;
-    if (slideIndex > slides.length) { slideIndex = 1; }
 
-    for (var i = 0; i < dots.length; i++) {
+    // Advance index
+    slideIndex = (slideIndex + 1 > slides.length) ? 1 : slideIndex + 1;
+
+    // Remove active from all dots
+    for (let i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
     }
 
+    // Show one slide
     slides[slideIndex - 1].style.display = "block";
     if (dots[slideIndex - 1]) dots[slideIndex - 1].className += " active";
+
+    // Schedule next cycle
     setTimeout(showSlides, 3000);
   }
+
+  // Start after full load
+  setTimeout(showSlides, 500);
 });
 </script>
 
