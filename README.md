@@ -1,17 +1,6 @@
-# hoonbiolab.github.io
+# hoonlab6.github.io
 
-## Visit
-https://hoonbiolab.github.io/
-
-
-## To edit 
-_docs << team, research, publication, recent news, contact << each index.md
-
-
-## Add Icon
-Select an icon at https://fontawesome.com/, copy the link in the form of
+visit
 ```
-<i class="~~"></i> 
+hoonlab6.github.io
 ```
-and paste if where you want it.
-

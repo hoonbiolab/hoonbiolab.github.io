@@ -22,11 +22,6 @@ css:
 }
 </style>  
 
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -39,6 +34,7 @@ Jiwon Shon
     <img src="{{ site.url }}/assets/img/people/jw_shon.png" width="480px" height="568px" alt="Jiwon Shon" />
 </div>
 
+### **Expected join in lab at 2021/10/1**
 
 ### **Research Interest**
 Immunology, Bioinformatics, Cancer genomics
@@ -46,10 +42,7 @@ Immunology, Bioinformatics, Cancer genomics
 ### **Education and Experience**
 
 **Ghent University, Global Campus**
-- Molecular Biotechnology, 09/2017 ~ 08/2022
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> jwsohn92@gmail.com 
+- Molecular Biotechnology, 09/2017 ~ current
 
 
 

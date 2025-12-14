@@ -22,10 +22,6 @@ css:
 }
 </style>  
 
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -46,7 +42,6 @@ Cancer Genomics
 **University of California, San Diego.**
 - BS, Biology with Specialization in Bioinformatics &amp; Computer Science Minor, 09/2016 ~ 06/2021
 
-### **Contact**
-<i class="fa fa-paper-plane"></i> ksoyeona@gmail.com 
+
 
 

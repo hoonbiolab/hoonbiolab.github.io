@@ -4,6 +4,7 @@ title: Hoon Lab at Pharmacy, SKKU
 permalink: /
 ---
 
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
@@ -40,7 +41,7 @@ img {vertical-align: middle;
   height: 15px;
   width: 15px;
   margin: 0 2px;
-  background-color: #bbb;/Users/nam-yunju/hoonbiolab.github.io/_data/metadata.yml
+  background-color: #bbb;/Users/nam-yunju/hoonlab6.github.io/_data/metadata.yml
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
@@ -64,7 +65,7 @@ img {vertical-align: middle;
   to {opacity: 1}
 }
 /* On smaller screens, decrease text size */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
 .center{
@@ -73,69 +74,40 @@ img {vertical-align: middle;
 .outside{
   margin: 10px 80px 10px 80px;
 }
-.img {
-  max-width: 100%;
-  height: auto;
-}
 </style>
 
 # **Welcome to Hoon Lab**
+
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
-<p>If you would like to join our lab, please see the below:</p>
-<img src="{{ site.url }}/assets/img/2025_CBM-20250824.png" alt="Join our lab" style="width: auto; max-width: 100%; height: auto; font-size: 20px;">
 
-
-
-## Lab Photos
-If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
+## Lab Photo
+If you want to see more photo, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
-  <img src="{{site.url}}/assets/img/slideshow/photo0.jpg" style="width:100%">
+  <div class="numbertext">1 / 3</div>
+  <img src="{{site.url}}/assets/img/slideshow/photo1.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
-  <img src="{{site.url}}/assets/img/slideshow/220817_before_sy_dinner.jpeg" style="width:100%">
+  <div class="numbertext">2 / 3</div>
+  <img src="{{site.url}}/assets/img/slideshow/photo2.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
-  <img src="{{site.url}}/assets/img/slideshow/2022_new.jpg" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
-  <img src="{{site.url}}/assets/img/slideshow/summer_CBM.jpeg" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">5 / 7</div>
-  <img src="{{site.url}}/assets/img/slideshow/summer_water_CBM.jpeg" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
-  <img src="{{site.url}}/assets/img/slideshow/240830_lab.png" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
+  <div class="numbertext">3 / 3</div>
   <img src="{{site.url}}/assets/img/slideshow/photo3.png" style="width:100%">
 </div>
+
 </div>
-
-
 <br>
 
 <div style="text-align:center">
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
-   <span class="dot"></span> 
 </div>
 
 <script>
@@ -162,15 +134,14 @@ function showSlides() {
 </script>
 
 
-<hr> 
+<hr>
 
-
-<!-- <link
+<link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  /> -->
+  />
 
-<!-- <div class="outside">
+<div class="outside">
 <div class="col-sm-12"> <div class="center">
 <h2><i class="fab fa-twitter"></i> TWITTER</h2>
 </div></div>
@@ -181,9 +152,7 @@ function showSlides() {
 <a class="twitter-timeline" href="https://twitter.com/wisekh6?ref_src=twsrc%5Etfw"><h3>Tweets by wisekh6</h3></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
-</div> -->
-
-
+</div>
 
 
 

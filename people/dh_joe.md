@@ -22,10 +22,6 @@ css:
 }
 </style>  
 
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -47,6 +43,3 @@ Stem cell research, Bioinformatics
 
 **Yonsei University**
 - BS, Biomedical Laboratory Science, 03/2016 ~ 02/2020
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> daeho1027@g.skku.edu

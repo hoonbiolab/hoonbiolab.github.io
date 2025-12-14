@@ -4,12 +4,7 @@ title: "Contact"
 
 ---
 
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-Follow <i class="fab fa-twitter"></i><a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">wisekh6</a> for lab updates and information related to our research.
+<i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">@wisekh6</a> for lab updates and information related to our research.
 
 ## **Correspondence**
 
@@ -23,14 +18,14 @@ Seobu-ro, Jangan-gu, Suwon-si
 Gyeonggi-do, South Korea, 16419
 
 
-<i class="fa fa-paper-plane"></i> <wisekh@skku.edu>  
-<i class="fab fa-twitter"></i><a href="https://twitter.com/intent/tweet?via={{ site.owner.twitter }}&amp;hashtags=website" target="_blank" title="Tweet Hoon Kim"> Tweet Hoon Kim</a>  
+<i class="fa fa-phone"></i> +1-212-444-8121  
+<i class="fa fa-paper-plane"></i> <wisekh6@gmail.com>  
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/intent/tweet?via={{ site.owner.twitter }}&amp;hashtags=website" target="_blank" title="Tweet Hoon Kim">Tweet Hoon Kim</a>  
 
 ## **Administrative Support**
 
 
-<i class="fa fa-phone"></i> +82-031-290-7709 
-<p></p>
+<i class="fa fa-phone"></i> +82-031-290-7709
 <i class="fa fa-paper-plane"></i> <wisekh@skku.edu>
 
 

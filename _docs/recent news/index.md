@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: page
 title: "Recent News"
-permalink: /docs/recent news/
 ---
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -175,199 +174,15 @@ permalink: /docs/recent news/
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<h2><button class="button3">Scholarship</button> Yoonjoo has been awarded 한국연구재단 박사과정 이공학 학술 연구 기반 구축 (R&D) 사업! </h2>
-<p>Congratulations!! </p>
-<p><div style="font-style: italic">Posted on Sep. 1, 2025</div></p>
-<img id="myImg" src="/assets/img/20250829-yoonjoo-scholarship.png" style="width:300%;max-width:500px">
 
-<h2><button class="button3">Scholarship</button> Jueon has been awarded 한국연구재단 석사과정생 연구 장려금 지원 사업! </h2>
-<p>Congratulations!! </p>
-<p><div style="font-style: italic">Posted on Sep. 1, 2025</div></p>
-<img id="myImg" src="/assets/img/20250829-jueon-scholarship.png" style="width:300%;max-width:500px">
-
-<h2><button class="button">Lab Event</button> Prof.Kim has been invited to present "Longitudinal characterization of extrachromosomal dna amplifications in adult glioma cohort" at the 24th International Conference on Brain Tumor Research and Therapy (ICBTRT2025), Japan.  </h2>
-<p>This is an invitation-only event. </p>
-<p><div style="font-style: italic">Posted on June 23, 2025</div></p>
-<img id="myImg" src="/assets/img/ICBTRT2025-20250623.JPG" style="width:300%;max-width:500px">
-
-<h2><button class="button">Lab Event</button> Eunchae Yeo presented our ecDNA project results at the STEAM-Pioneer conference in Busan!!</h2>
-<p><div style="font-style: italic">Posted on June 20, 2025</div></p>
-<img id="myImg" src="/assets/img/20250623-EC-STEAM-IMG_8730.jpg" style="width:100%;max-width:300px">
-
-<h2><button class="button3">Scholarship</button> Hyunjeong has been awarded a PhD candidate scholarship from SKKU! </h2>
-<p>Congratulations!! </p>
-<p><div style="font-style: italic">Posted on May 15, 2025</div></p>
-<img id="myImg" src="/assets/img/hyunjeong_scholarship_IMG_5080.jpg" style="width:300%;max-width:500px">
-
-<h2><button class="button3">Scholarship</button> Jueon has been awarded a full graduate scholarship from SKKU! </h2>
-<p>Congratulations!! </p>
-<p><div style="font-style: italic">Posted on Nov 10, 2024</div></p>
-<img id="myImg" src="/assets/img/jueon_scholar.jpeg" style="width:300%;max-width:500px">
-
-<h2><button class="button2">Paper</button> "Mapping extrachromosomal DNA amplifications during cancer progression"</h2>
-Kim et al. Extrachromosomal DNA (ecDNA) confers fitness advantages during tumor progression and metastasis.
-<p><div style="font-style: italic">Posted on Nov 4, 2022</div></p>
-<img id="myImg" src="/assets/img/papers/20241014-natgenet.jpg" style="width:100%;max-width:300px">
->Kim et al. Nature Genetics 14 October 2024. [Full text article](https://www.nature.com/articles/s41588-024-01949-7)
-
-
-<h2><button class="button">Lab Event</button> We celebrated Soyeon's master's degree graduation  </h2>
-<p> Congratulations on your graduation! We really appreciate your contribution to our lab and international ecDNA research community. Thank you!! We wish your happiness in your future!! </p>
-<p><div style="font-style: italic">Posted on Aug 23, 2024</div></p>
-<img id="myImg" src="/assets/img/soyeon_graduation.jpg" style="width:300%;max-width:500px">
-
-
-<h2><button class="button">Lab Event</button> Jueon has joined our lab as a research intern! </h2>
-<p> Welcome Jueon! </p>
-<p><div style="font-style: italic">Posted on Jul 1, 2024</div></p>
-
-<h2><button class="button3">Scholarship</button> Junghyun has been selected as a scholarship recipient by the JW이종호재단! </h2>
-<p>Congratulations to Junghyun for being awarded the Basic Research Scientist Residential Support from the JW Foundation in 2023!! We love you~ </p>
-<p><div style="font-style: italic">Posted on Feb 26, 2024</div></p>
-<img id="myImg" src="/assets/img/240226_JW_JH.png" style="width:300%;max-width:500px">
-
-
-<h2><button class="button">Lab Event</button>  Soyeon has been accepted with a full scholarship into the Ph.D. program at the University of Cambridge, affiliated with Wellcome Sanger Institute!! </h2>
-<p> This is indeed great news, taking into account the immense efforts she has put in. </p>
-<p> We hope the days ahead of her new start will be filled with happiness. </p>
-<p><div style="font-style: italic">Posted on Jan 26, 2024</div></p>
-<img id="myImg" src="/as
-sets/img/sanger.png" style="width:300%;max-width:500px">
-<img id="myImg" src="/assets/img/sy_cambridge2.jpeg" style="width:300%;max-width:500px"> 
-
-<h2><button class="button">Lab Event</button> Prof.Siyuan Zheng (from U of Texas, San Antonio) visited Our Lab!! </h2>
-<p>Thank you for visiting our lab </p>
-<p><div style="font-style: italic">Posted on Oct 17, 2023</div></p>
-<img id="myImg" src="/assets/img/Siyuan_Zheng_visit.JPG" style="width:300%;max-width:500px">
-
-<h2><button class="button">Lab Event</button> Prof.Roel Verhaak visited Our Lab!!  </h2>
-<p>Thank you for visiting our lab </p>
-<p><div style="font-style: italic">Posted on May 10, 2023</div></p>
-<img id="myImg" src="/assets/img/RV_visit_1.jpg" style="width:300%;max-width:500px">
-<img id="myImg" src="/assets/img/RV_visit_2.jpg" style="width:300%;max-width:500px">
-
-<h2><button class="button">Lab Event</button> Prof.Kim has been invited to the 43rd Frontier Scientists Workshop (“Future Trends in Genomic Mutation and Disease Research”)  </h2>
-<p>Future Trends in Genomic Mutation and Disease Research which will be held in San Diego, USA by the Korean Academy of Science and Technology (KAST) </p>
-<p><div style="font-style: italic">Posted on Oct 3, 2022</div></p>
-<img id="myImg" src="/assets/img/KAST.jpeg" style="width:300%;max-width:500px">
-
-<h2><button class="button">Grant</button> "2022년도 SKKU-SMC 미래융합연구 과제 선정" </h2>
-<p>Our lab has been selected for 2022년도 SKKU-SMC 미래융합연구 </p>
-<p><div style="font-style: italic">Posted on Oct 3, 2022</div></p>
-<img id="myImg" src="/assets/img/skku_smc.png" style="width:300%;max-width:500px">
-
-<h2><button class="button">Lab Event</button> Happy Birthday, Jiwon!! </h2>
-<p>Happy birthday Jiwon!! Our lab's lovely quokka girl 😘 🥰 !! We love you~ </p>
-<p><div style="font-style: italic">Posted on Sep 28, 2022</div></p>
-<img id="myImg" src="/assets/img/2022_Jw_bd.jpg" style="width:100%;max-width:300px">
-
-<h2><button class="button">Grant</button> "2022년도 STEAM연구사업 미래유망융합기술파이오니어 과제 선정" </h2>
-<p>Our lab has been selected for 2022년도 STEAM연구사업 (미래유망융합기술파이오니어 : 과학난제 도전형)</p>
-<p><div style="font-style: italic">Posted on August 22, 2022</div></p>
-<img id="myImg" src="/assets/img/84797_80287_355.jpeg" style="width:300%;max-width:500px">
-<img id="myImg" src="/assets/img/2022_STEAM.png" style="width:300%;max-width:500px">
-
-<h2><button class="button">Lab Event</button> Soyeon’s visiting JAX!!!</h2>
-<p>We hope you will learn well and come back!! Have a safe flight and all the best to your new journey!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on August 19, 2022</div></p>
-
-<h2><button class="button">Lab Event</button> We celebrated Jaeho's birthday!!</h2>
-<p>Happy birthday Jaeho!! We are so happy that you are one of lab members!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on July 14, 2022</div></p>
-<img id="myImg" src="/assets/img/jh_bd.jpeg" style="width:100%;max-width:300px">
-
-<h2><button class="button">Lab Event</button> We celebrated Junyong's birthday!!</h2>
-<p>Happy birthday Jun Yong!! Our lab's very cute shy boy 😇 ~!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on June 23, 2022</div></p>
-<img id="myImg" src="/assets/img/jy_new_bd.png" style="width:100%;max-width:300px">
-
-<h2><button class="button">Lab Event</button> We celebrated YoonJoo's birthday!!</h2>
-<p>Happy birthday Yoon Joo~!! Our lab's all-rounder 😝 !! We love you~<3</p>
-<p><div style="font-style: italic">Posted on June 13, 2022</div></p>
-<img id="myImg" src="/assets/img/yj_bd.jpg" style="width:100%;max-width:300px">
-
-
-<h2><button class="button2">Paper</button> "Glioma progression is shaped by genetic evolution and microenvironment interactions"</h2>
-
-Varn et al. Integrating longitudinal transcriptomic and genomic data from paired diffuse glioma samples with complementary single-cell RNA-seq and multiplex immunofluorescence datasets reveals recurrence-associated genetic and microenvironmental changes that are dependent on IDH mutation status.
-<p><div style="font-style: italic">Posted on June 9, 2022</div></p>
-<img id="myImg" src="/assets/img/papers/2022-06-09-Frederick_GBM.png" style="width:100%;max-width:300px">
-
->Verhaak, et al. Cell 9 June 2022. [Full text article](https://www.sciencedirect.com/science/article/pii/S0092867422005360?via%3Dihub)
-
-<h2><button class="button">Lab Event</button> We celebrated Harold's birthday!!</h2>
-<p>Happy birthday Harold~!! Our lab's king king 🤴 !!! Please continue to be Our leader~~!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on May 27, 2022</div></p>
-<img id="myImg" src="/assets/img/HS_BD.jpg" style="width:100%;max-width:300px">
-
-<h2><button class="button">Lab Event</button> We celebrated 2nd Teacher's Day in our Lab !!</h2>
-<p>Happy Teacher’s Day, we had 2nd teacher’s day celebration with Prof. Kim.</p>
-<p><div style="font-style: italic">Posted on May 13, 2022</div></p>
-<img id="myImg" src="/assets/img/220513_teachers_day.jpeg" style="width:100%;max-width:300px">
-<img id="myImg" src="/assets/img/220513_teachers_day_2.jpeg" style="width:100%;max-width:300px">
-
-<h2><button class="button3">Scholarship</button> Soyeon was awarded BVIC !!!</h2>
-<p>Congratulations, Soyeon, for awarded the “SKKU BIO-GLOBAL VALUE INNOVATIVE CREATOR (BVIC)” !!!</p>
-<p><div style="font-style: italic">Posted on April 27, 2022</div></p>
-<img id="myImg" src="/assets/img/sy_BVIC.png" style="width:100%;max-width:300px">
-
-<h2><button class="button3">Scholarship</button> Junghyun was awarded Graduate Scholarship !!!</h2>
-<p>Congratulations, JungHyun, for awarded the “Kwanjeong Educational Foundation” !!!</p>
-<p><div style="font-style: italic">Posted on April 19, 2022</div></p>
-<img id="myImg" src="/assets/img/jh_ scholarship.png" style="width:100%;max-width:300px">
-
-
-<h2><button class="button">Lab Event</button> We celebrated Eunchae's birthday!!</h2>
-<p>Happy birthday Eunchae~!! Our lab's Pokemon!!! ~ We are so happy that you are one of lab members!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on Mar 31, 2022</div></p>
-<img id="myImg" src="/assets/img/ec_bd.JPG" style="width:100%;max-width:300px">
-
-<h2><button class="button">Lab Event</button> We celebrated Dongjoo's birthday!!</h2>
-<p>Happy birthday Dongjoo~!! We are so happy that you are one of lab members!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on Mar 14, 2022</div></p>
-<img id="myImg" src="/assets/img/dj_bd.jpeg" style="width:100%;max-width:300px">
-
-<h2><button class="button">Lab Event</button> We celebrated Yoonjoo,Junghyun's college graduation!!</h2>
-<p>Congratulations on your graduation, We hope you'll be happy in the future!<i class="far fa-grin-tongue-squint"></i> Our lab's 99s!! We love you guys~<3</p>
-<p><div style="font-style: italic">Posted on Feb 17, 2022</div></p>
-<img id="myImg" src="/assets/img/yj_cg.jpeg" style="width:100%;max-width:300px">
-<img id="myImg" src="/assets/img/jh_cg.jpeg" style="width:100%;max-width:300px">
-
-
-<h2><button class="button">Lab Event</button> Happy Birthday, Steve <i class="fas fa-birthday-cake"></i></h2>
-<p>Happy birthday Steve!! We hope you go back to 18 Steve~<i class="far fa-smile-wink"></i> Once again, happy birthday to our singularity&docker expert! We love you<3</p>
-<p><div style="font-style: italic">Posted on Dec 9, 2021</div></p>
-<img id="myImg" src="/assets/img/sh_bd.png" style="width:100%;max-width:300px">
-
-<h2><button class="button">Lab Event</button> We celebrated Hyunjeong's birthday!!</h2>
-<p>Happy birthday hyunjeong, our lab's squarrel!<i class="far fa-grin-tongue-squint"></i> We are so happy that you are one of lab members!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on Nov 5, 2021</div></p>
-<img id="myImg" src="/assets/img/hj_bd.JPG" style="width:100%;max-width:300px">
-
-<h2><button class="button">Lab Event</button> We celebrated Daeho's birthday!!</h2>
-<p>Happy birthday Daeho!! We are so happy that you are one of lab members!! We love you~<3</p>
-<p><div style="font-style: italic">Posted on Oct 27, 2021</div></p>
-<img id="myImg" src="/assets/img/dh_bd.jpeg" style="width:100%;max-width:300px">
-
-<h2><button class="button2">Paper</button> Single-cell multimodal glioma analyses identify epigenetic regulators of cellular plasticity and environmental stress response</h2>
-<p>
-Glioma intratumoral heterogeneity enables adaptation to challenging microenvironments and contributes to therapeutic resistance. We integrated 914 single-cell DNA methylomes, 55,284 single-cell transcriptomes and bulk multi-omic profiles across 11 adult IDH mutant or IDH wild-type gliomas to delineate sources of intratumoral heterogeneity. We showed that local DNA methylation disorder is associated with cell–cell DNA methylation differences, is elevated in more aggressive tumors, links with transcriptional disruption and is altered during the environmental stress response. Glioma cells under in vitro hypoxic and irradiation stress increased local DNA methylation disorder and shifted cell states. We identified a positive association between genetic and epigenetic instability that was supported in bulk longitudinally collected DNA methylation data. Increased DNA methylation disorder associated with accelerated disease progression and recurrently selected DNA methylation changes were enriched for environmental stress response pathways. Our work identified an epigenetically facilitated adaptive stress response process and highlights the importance of epigenetic heterogeneity in shaping therapeutic outcomes.</p>
-
->Kevin C. Johnson, Kevin J. Anderson, Hoon Kim, Paul Robson & Roel G. W. Verhaak, et al. nature genetics 30 September 2021. [Full text article](https://www.nature.com/articles/s41588-021-00926-8#citeas)
-
-<p><div style="font-style: italic">Posted on October 1, 2021</div></p>
-<img id="myImg" src="/assets/img/papers/9.30_nature genetics.png" style="width:100%;max-width:300px">
-
-<h2><button class="button">Lab Event</button> We celebrated Youngjin's wedding!!</h2>
-<p>Congratulations on your wedding, Youngjin! We hope you have a happy day~ <i class="far fa-kiss-wink-heart"></i> </p>
-<p><div style="font-style: italic">Posted on Sep 17, 2021</div></p>
-<img id="myImg" src="/assets/img/wedding.png" style="width:100%;max-width:300px">
 
 <h2><button class="button">Lab Event</button> We celebrated Junyong's Birthday in our lab!!</h2>
 <p>Happy birthday Junyong!! he is our 1st undergraduate intern!!
    We are so happy that you are one of lab members!! We love you <3.</p>
    <p><div style="font-style: italic">Posted on June 23, 2021</div></p>
 <img id="myImg" src="/assets/img/jy_birthday.png" style="width:100%;max-width:300px">
+
+
 
 <h2><button class="button">Lab Event</button> We celebrated Heesuk's BirthDay during KSBMB international Conference!!</h2>
 <p>Happy birthday Heesuk!! He is our 1st member of Computational Biomedicine Lab.
@@ -560,18 +375,4 @@ var span = document.getElementsByClassName("close")[0];
 span.onclick = function() { 
   modal.style.display = "none";
 }
-
-</script>
-
-<script>
-function postHeight() {
-  var h = Math.max(
-    document.body.scrollHeight,
-    document.documentElement.scrollHeight
-  );
-  parent.postMessage({ type: 'newsHeight', value: h }, '*');
-}
-window.addEventListener('load', postHeight);
-window.addEventListener('resize', postHeight);
-</script>
-
+</style>

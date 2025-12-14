@@ -22,11 +22,6 @@ css:
 }
 </style>  
 
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -43,10 +38,7 @@ Yoonjoo Nam
 ### **Education and Experience**
 
 **Hanbat National University**
-- Chemical and biological engineering, 03/2018 ~ 02/2022
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> nyj990613@gmail.com
+- Chemical and biological engineering, 03/2018 ~ Current
 
 
 
