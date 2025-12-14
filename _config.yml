@@ -15,17 +15,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hoon Lab at Pharmacy, SKKU
-email: research-computing-support@stanford.edu
+email: wisekh@skku.edu
 author: Hoon Lab
 description: > # this means to ignore newlines until "baseurl:"
-  The Stanford Research Computing Center offers resources for compute, storage,
-  and office hours for user support.
+  Hoon lab at SKKU
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://hoonlab6.github.io" # the base hostname & protocol for your site
+url: "https://hoonbiolab.github.io" # the base hostname & protocol for your site
 
 
 
