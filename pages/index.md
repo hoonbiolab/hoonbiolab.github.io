@@ -155,7 +155,23 @@ function showSlides() {
 }
 </script>
 
+<!-- <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  /> -->
 
+<!-- <div class="outside">
+<div class="col-sm-12"> <div class="center">
+<h2><i class="fab fa-twitter"></i> TWITTER</h2>
+</div></div>
+
+<div class="row">
+  <div class="col-sm-6">
+<a class="twitter-timeline" href="https://twitter.com/roelverhaak?ref_src=twsrc%5Etfw"><h3>Tweets by roelverhaak</h3></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/wisekh6?ref_src=twsrc%5Etfw"><h3>Tweets by wisekh6</h3></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+</div> -->
 
 
 
