@@ -1,17 +1,17 @@
 ---
 layout: page
-title: 'About Yoonjoo Nam'
-permalink: /people/yj_nam/
+title: 'About Jueon Kim'
+permalink: /people/je_kim/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-01'
+date: '2024-07-08'
 show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
+css: 
   - /assets/css/imagehover.css
   - /css/custom_home.css
 ---
@@ -31,23 +31,22 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Yoonjoo Nam
+JuEon Kim
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
+    <img src="{{ site.url }}/assets/img/people/je_kim.jpg" width="480px" height="568px" alt="Jueon Kim" />
 </div>
 
 
+### **Research Interest**
+Multiomics, Bioinformatics
+
 ### **Education and Experience**
 
-**Hanbat National University**
-- Chemical and biological engineering, 03/2018 ~ 02/2022
+**Sungkyunkwan university **
+- BS, Integrative Biotechnology & Bioinformatics , 02/2025
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> nyj990613@gmail.com
-
-
-
-
+<i class="fa fa-paper-plane"></i> hellometto@g.skku.edu

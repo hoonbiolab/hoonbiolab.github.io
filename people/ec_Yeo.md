@@ -22,6 +22,11 @@ css:
 }
 </style>  
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -36,10 +41,12 @@ Eunchae Yeo
 
 
 ### **Research Interest**
-Biomedical Engineering, Programmimg, Cancer targeting, Drug discovery
+Biomedical Engineering, Neuroscience, Glioblastoma, Cancer genomics
 
 ### **Education and Experience**
 
 **Korea University**
 - BS, Biomedical Engineering, 03/2011 ~ 08/2020
 
+### **Contact**
+<i class="fa fa-paper-plane"></i> ecyeo@g.skku.edu

@@ -1,17 +1,17 @@
 ---
 layout: page
-title: 'About Yoonjoo Nam'
-permalink: /people/yj_nam/
+title: 'About Seungjae Han'
+permalink: /people/sj_han/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-01'
+date: '2023-02-23'
 show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
+css: 
   - /assets/css/imagehover.css
   - /css/custom_home.css
 ---
@@ -31,23 +31,22 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Yoonjoo Nam
+Seungjae Han
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
+    <img src="{{ site.url }}/assets/img/people/sj_han.png" width="480px" height="568px" alt="Seungjae Han" />
 </div>
 
 
+### **Research Interest**
+Neuroscience, Immune Engineering, Computer programming
+
 ### **Education and Experience**
 
-**Hanbat National University**
-- Chemical and biological engineering, 03/2018 ~ 02/2022
+**Korea University**
+- Division of Biotechnology, 03/2022 ~ Current
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> nyj990613@gmail.com
-
-
-
-
+<i class="fa fa-paper-plane"></i> jayhanbest@gmail.com

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'About Yoonjoo Nam'
-permalink: /people/yj_nam/
+title: 'About Hwa Yeon Lee'
+permalink: /people/hy_lee/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-01'
+date: '2022-09-01'
 show_meta: true
 comments: true
 mathjax: true
@@ -27,27 +27,29 @@ css:
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
   />
 
-
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Yoonjoo Nam
+Hwa Yeon Lee
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
+    <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" width="480px" height="568px" alt="Hwa Yeon Lee" />
 </div>
 
+### **Research Interest**
+Precision medicine, Bioinformatics 
 
 ### **Education and Experience**
 
-**Hanbat National University**
-- Chemical and biological engineering, 03/2018 ~ 02/2022
+**University of California, San Diego.**
+- BS, Biology with Specialization in Bioinformatics, 09/2018 ~ 
+
+**Northeastern University.**
+- BS, in Pharmaceutical Sciences, 09/2016 ~ 05/2018
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> nyj990613@gmail.com
-
-
+<i class="fa fa-paper-plane"></i> hyl023@ucsd.edu
 
 

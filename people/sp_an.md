@@ -1,17 +1,17 @@
 ---
 layout: page
-title: 'About Yoonjoo Nam'
-permalink: /people/yj_nam/
+title: 'About Sepil An'
+permalink: /people/sp_an/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-01'
+date: '2023-02-23'
 show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
+css: 
   - /assets/css/imagehover.css
   - /css/custom_home.css
 ---
@@ -31,23 +31,23 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Yoonjoo Nam
+Sepil An
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
+    <img src="{{ site.url }}/assets/img/people/sp_an.jpg" width="480px" height="568px" alt="Sepil An" />
 </div>
 
 
+### **Research Interest**
+Cancer genomics, Bioinformatics, Drug discovery
+
 ### **Education and Experience**
 
-**Hanbat National University**
-- Chemical and biological engineering, 03/2018 ~ 02/2022
+**Sungkyunkwan University**
+- School of Chemical Engineering, 03/2016 ~ 02/2019
+- BS, School of Pharmacy, 03/2019 ~ 02/2023
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> nyj990613@gmail.com
-
-
-
-
+<i class="fa fa-paper-plane"></i> sepil98@g.skku.edu

@@ -22,6 +22,11 @@ css:
 }
 </style>  
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
+
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -41,6 +46,7 @@ Junyong Ko
 - Electronic and Electrical Engineering, 03/2019 ~ Current
 - Experienced in programming languages (*Python, R, C, C++*) and deep-learning modeling.
 
-
+### **Contact**
+<i class="fa fa-paper-plane"></i> junyongi1@g.skku.edu 
 
 

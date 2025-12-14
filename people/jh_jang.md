@@ -1,17 +1,17 @@
 ---
 layout: page
-title: 'About Yoonjoo Nam'
-permalink: /people/yj_nam/
+title: 'About Jaeho Jang'
+permalink: /people/jh_jang/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-01'
+date: '2022-03-02'
 show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
+css: 
   - /assets/css/imagehover.css
   - /css/custom_home.css
 ---
@@ -31,23 +31,31 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Yoonjoo Nam
+Jaeho Jang
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
+    <img src="{{ site.url }}/assets/img/people/jh_jang.jpg" width="480px" height="568px" alt="Jaeho Jang" />
 </div>
 
 
+### **Research Interest**
+Biology, Bioinformatics, Biomarker, Cancer
+
 ### **Education and Experience**
 
-**Hanbat National University**
-- Chemical and biological engineering, 03/2018 ~ 02/2022
+**JW Pharmaceutical**
+- Research Scientist, 01/2013 ~ current
+
+**Seoul National University**
+- Master program in molecular medicine and biopharmaceutical science, 03/2010 ~ 02/2013
+
+**Hanyang University**
+- BS, Biology, 03/2003 ~ 02/2010
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> nyj990613@gmail.com
-
+<i class="fa fa-paper-plane"></i> chamsae14@g.skku.edu
 
 
 

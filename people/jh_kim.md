@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'About Jiwon Shon'
-permalink: /people/jw_shon/
+title: 'About Junghyun Kim'
+permalink: /people/jh_kim/
 tags:
   - page
 categories: people
 published: true
-date: '2021-10-1'
+date: '2021-11-1'
 show_meta: true
 comments: true
 mathjax: true
@@ -22,34 +22,22 @@ css:
 }
 </style>  
 
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Jiwon Shon
+Junghyun Kim
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/jw_shon.png" width="480px" height="568px" alt="Jiwon Shon" />
+    <img src="{{ site.url }}/assets/img/people/jh_kim.png" width="480px" height="568px" alt="Junghyun Kim" />
 </div>
 
-
 ### **Research Interest**
-Immunology, Bioinformatics, Cancer genomics
+Genomics, Bioinformatics, Precision medicine, Translational research
 
 ### **Education and Experience**
 
-**Ghent University, Global Campus**
-- Molecular Biotechnology, 09/2017 ~ 08/2022
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> jwsohn92@gmail.com 
-
-
-
+**Sungkyunkwan University**
+- Integrative Biotechnology, 03/2018 ~ 02/2022

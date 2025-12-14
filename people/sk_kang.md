@@ -22,6 +22,10 @@ css:
 }
 </style>  
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
+  />
 
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
@@ -41,6 +45,9 @@ Biochemistry, Bioinformatics, Cancer Immunology, Immunotherapy, Drug Discovery
 
 **Calvin University, Grand Rapids MI.**
 - BS, Biochemistry, 09/2013 ~ 05/2019
+
+### **Contact**
+<i class="fa fa-paper-plane"></i> steve941101@gmail.com
 
 
 

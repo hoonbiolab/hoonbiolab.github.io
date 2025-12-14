@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 'About Yoonjoo Nam'
-permalink: /people/yj_nam/
+title: 'About Dongjoo Yoon'
+permalink: /people/dj_yoon/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-01'
+date: '2021-08-30'
 show_meta: true
 comments: true
 mathjax: true
@@ -27,27 +27,24 @@ css:
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
   />
 
-
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Yoonjoo Nam
+Dongjoo Yoon
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
+    <img src="{{ site.url }}/assets/img/people/dj_yoon.png" width="480px" height="568px" alt="Dongjoo Yoon"/>
 </div>
 
+### **Research Interest**
+Regulatory Science, bioinformatics, biomedical data science
 
 ### **Education and Experience**
 
-**Hanbat National University**
-- Chemical and biological engineering, 03/2018 ~ 02/2022
+**Gachon University**
+- BA, Media Communication, 03/2015 ~ 02/2021
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> nyj990613@gmail.com
-
-
-
-
+<i class="fa fa-paper-plane"></i> dongjooyoon@g.skku.edu

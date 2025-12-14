@@ -1,17 +1,17 @@
 ---
 layout: page
-title: 'About Yoonjoo Nam'
-permalink: /people/yj_nam/
+title: 'About Hyeongjin Cho'
+permalink: /people/hj_cho/
 tags:
   - page
 categories: people
 published: true
-date: '2021-07-01'
+date: '2024-03-04'
 show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
+css: 
   - /assets/css/imagehover.css
   - /css/custom_home.css
 ---
@@ -31,23 +31,22 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Yoonjoo Nam
+HyeongJin Cho
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_nam.png" width="480px" height="568px" alt="Yoonjoo Nam" />
+    <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" width="480px" height="568px" alt="Hyeongjin Cho" />
 </div>
 
 
+### **Research Interest**
+Cancer genomics, Bioinformatics, Precision medicine
+
 ### **Education and Experience**
 
-**Hanbat National University**
-- Chemical and biological engineering, 03/2018 ~ 02/2022
+**CHA University**
+- Pharm.D, School of Pharmacy, 03/2020~02/2024
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> nyj990613@gmail.com
-
-
-
-
+<i class="fa fa-paper-plane"></i> hyeong8984@g.skku.edu
