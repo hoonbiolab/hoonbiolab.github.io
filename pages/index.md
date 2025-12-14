@@ -80,24 +80,46 @@ img {vertical-align: middle;
 
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
+<p>If you would like to join our lab, please see the below:</p>
+<img src="{{ site.url }}/assets/img/2025_CBM-20250824.png" alt="Join our lab" style="width: auto; max-width: 100%; height: auto; font-size: 20px;">
 
-## Lab Photo
-If you want to see more photo, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
+## Lab Photos
+If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
 
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="{{site.url}}/assets/img/slideshow/photo1.png" style="width:100%">
+  <div class="numbertext">1 / 7</div>
+  <img src="{{site.url}}/assets/img/slideshow/photo0.jpg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="{{site.url}}/assets/img/slideshow/photo2.png" style="width:100%">
+  <div class="numbertext">2 / 7</div>
+  <img src="{{site.url}}/assets/img/slideshow/220817_before_sy_dinner.jpeg" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">3 / 7</div>
+  <img src="{{site.url}}/assets/img/slideshow/2022_new.jpg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 7</div>
+  <img src="{{site.url}}/assets/img/slideshow/summer_CBM.jpeg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 7</div>
+  <img src="{{site.url}}/assets/img/slideshow/summer_water_CBM.jpeg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">6 / 7</div>
+  <img src="{{site.url}}/assets/img/slideshow/240830_lab.png" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">7 / 7</div>
   <img src="{{site.url}}/assets/img/slideshow/photo3.png" style="width:100%">
 </div>
 
@@ -132,27 +154,6 @@ function showSlides() {
   setTimeout(showSlides, 3000); // Change image every 2 seconds
 }
 </script>
-
-
-<hr>
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-<div class="outside">
-<div class="col-sm-12"> <div class="center">
-<h2><i class="fab fa-twitter"></i> TWITTER</h2>
-</div></div>
-
-<div class="row">
-  <div class="col-sm-6">
-<a class="twitter-timeline" href="https://twitter.com/roelverhaak?ref_src=twsrc%5Etfw"><h3>Tweets by roelverhaak</h3></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a class="twitter-timeline" href="https://twitter.com/wisekh6?ref_src=twsrc%5Etfw"><h3>Tweets by wisekh6</h3></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-</div>
-</div>
 
 
 
