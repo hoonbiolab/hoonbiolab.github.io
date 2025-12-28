@@ -8,6 +8,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
+- __Seunghyun Kang__ <sup>*</sup>, […], Soyeon Kim, […], Sepil An, […], Hyeongjin Cho, [...], __Sanghyun Kim__ <sup>#</sup> ,[...], Hoon Kim <sup>#</sup>, "Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer", __Cancer Letters__,2026 Feb.
+  
 - Eun Seop Seo<sup>*</sup>, […], __Sepil An__, […], __Hoon Kim__<sup>#</sup>, […], Ji-Yeon Kim<sup>#</sup>, "Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype", __Cell Rep Med__,2025 May
   
 - __Hoon Kim__<sup>#</sup>, __Soyeon Kim__<sup>*</sup>, Taylor Wade, __Eunchae Yeo__, […], __Sepil An__, __Junyong Ko__, __Yoonjoo Nam__, __Hwa Yeon Lee__, __Seunghyun Kang__, __Heesuk Chung__, […], Roel G. W. Verhaak<sup>#</sup>, "Mapping extrachromosomal DNA amplifications during cancer progression", __Nature Genetics__, 2024 November.
