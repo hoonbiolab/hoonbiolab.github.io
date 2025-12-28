@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
-- __Seunghyun Kang__ <sup>*</sup>, […], Soyeon Kim, […], Sepil An, […], Hyeongjin Cho, [...], __Sanghyun Kim__ <sup>#</sup> ,[...], Hoon Kim <sup>#</sup>, "Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer", __Cancer Letters__,2026 Feb.
+- __Seunghyun Kang__ <sup>*</sup>, […], __Soyeon Kim__, […], __Sepil An__, […], __Hyeongjin Cho__, [...], __Sanghyun Kim__ <sup>#</sup> ,[...], Hoon Kim <sup>#</sup>, "Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer", __Cancer Letters__,2026 Feb.
   
 - Eun Seop Seo<sup>*</sup>, […], __Sepil An__, […], __Hoon Kim__<sup>#</sup>, […], Ji-Yeon Kim<sup>#</sup>, "Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype", __Cell Rep Med__,2025 May
   
