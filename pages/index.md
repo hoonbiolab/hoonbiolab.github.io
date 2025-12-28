@@ -81,7 +81,7 @@ img {vertical-align: middle;
 ### Our lab is Computational Biomedicine [@hoonbiolab](https://twitter.com/hoonbiolab).
 
 <p>If you would like to join our lab, please see the below:</p>
-<img src="{{ site.url }}/assets/img/2026_CBM-20251229.png" alt="Join our lab" style="width: auto; max-width: 100%; height: auto; font-size: 20px;">
+<img src="{{ site.url }}/assets/img/2026_CBM-20251229.jpg" alt="Join our lab" style="width: auto; max-width: 100%; height: auto; font-size: 20px;">
 
 ## Lab Photos
 If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1QipP5EpeeFRyzUYlB05eRdj0uSO-OLeG7xh4LmiYNmyp2ULNzuxmsR5TXkR3aWW_oKQ?key=WVVKUUhyZExyMndIcnVlNTBUekhjdDlkdThDcjJ3">click here</a>
