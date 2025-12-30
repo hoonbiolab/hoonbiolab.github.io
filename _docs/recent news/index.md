@@ -174,6 +174,10 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button">Lab Event</button> 김혜수 (인공지능융합전공 2학년), 정다영 (의학과 2학년), 전성현 (약학과 3학년) have joined our lab as research interns! </h2>
+<p> Welcome all! </p>
+<p><div style="font-style: italic">Posted on Dec 29, 2025</div></p>
+  
 <h2><button class="button2">Paper</button> "Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer"</h2>
 <p><div style="font-style: italic">Posted on Dec 28, 2025</div></p>
 <img id="myImg" src="/assets/img/papers/20251229-steve_paper.jpg" style="width:100%;max-width:300px">
