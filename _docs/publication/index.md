@@ -8,6 +8,8 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 
 ## **Published**
 
+- __Jung Won Park__<sup>*</sup>, Jiehoon Kwak, […], __Hoon Kim__, Young Seok Ju, __Seok-Gu Kang__<sup>#</sup> , Jeong Ho Lee<sup>#</sup>, "IDH-mutant gliomas arise fromglial progenitor cells harboring theinitial driver mutation", __Science__, 2026 Jan.
+  
 - __Seunghyun Kang__<sup>*</sup>, […], __Soyeon Kim__, […], __Sepil An__, […], __Hyeongjin Cho__, [...], __Sanghyun Kim__<sup>#</sup> ,[...], Hoon Kim<sup>#</sup>, "Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer", __Cancer Letters__, 2026 Feb.
   
 - Eun Seop Seo<sup>*</sup>, […], __Sepil An__, […], __Hoon Kim__<sup>#</sup>, […], Ji-Yeon Kim<sup>#</sup>, "Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype", __Cell Rep Med__,2025 May
