@@ -134,49 +134,48 @@ Principal Investigator
         <h4><b>Hoon Kim, PhD</b></h4> 
         <p>Associate Professor</p>
         <a href="{{ site.url }}/people/prof.kim/" target="_blank" rel="noopener noreferrer">
-    <p><button class="center">Read more</button></p>
-    </a>
-  </div>
+        <p><button class="center">Read more</button></p>
+        </a>
+    </div>
 </div>
 
 
 <p></p>
-
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Research Professor
 </div>
 
 <div class="row">
   <div class="column">
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/phd_kim.png" alt="Sanghyun Kim" width="100%"></div>
-    <div class="container">
+    <div class="card"><div class="img">
+      <img src="{{ site.url }}/assets/img/people/phd_kim.png" alt="Sanghyun Kim" width="100%"></div>
+        <div class="container">
          <h4><b>Sanghyun Kim, PhD</b></h4> 
-    <p>Research Associate Professor</p>
-     <a href="{{ site.url }}/people/phd_Kim/" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-   </a>
-   </div>
-   </div>
+          <p>Research Professor</p>
+           <a href="{{ site.url }}/people/phd_Kim/" target="_blank" rel="noopener noreferrer">
+            <p><button>Read more</button></p>
+           </a>
+       </div>
+     </div>
   </div>
 </div>
 
-<p></p>
 
+<p></p>
 <div style="font-weight:600; font-size: 30px; color: #030303">
 Students
 </div>
 
 <div class="row">
   <div class="column">
-<div class="card"><div class="img">
+    <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jh_jang.jpg" alt="Jaeho Jang" width="100%"></div>
     <div class="container">
          <h4><b>Jaeho Jang, MS</b></h4> 
     <p> </p>
-     <a href="{{ site.url }}/people/jh_jang" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-    </a>
+       <a href="{{ site.url }}/people/jh_jang" target="_blank" rel="noopener noreferrer">
+      <p><button>Read more</button></p>
+      </a>
     </div>
     </div>
   </div>
