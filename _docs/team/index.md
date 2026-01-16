@@ -323,11 +323,11 @@ Students
 <div class="row">
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Sepil An" width="100%"></div>
+    <img src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim" width="100%"></div>
     <div class="container">
-    <h4><b>Sepil An, BS</b></h4> 
-        <p>Research Assistant</p>
-        <a href="{{ site.url }}/people/sp_an" target="_blank" rel="noopener noreferrer">
+    <h4><b>Hyesoo Kim</b></h4> 
+        <p>Undergraduate Intern</p>
+        <a href="{{ site.url }}/people/hyesoo_kim" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
    </a>
    </div>
