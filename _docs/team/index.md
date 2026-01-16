@@ -363,6 +363,8 @@ Students
   </div>
 </div>
 
+
+
 <p></p>
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Former lab members
@@ -478,6 +480,20 @@ Former lab members
         <p>Junior, Korea University</p>
         <a href="{{ site.url }}/people/sj_han" target="_blank" rel="noopener noreferrer">
       <p><button>Read more</button></p>
+   </a>
+   </div>
+   </div>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+<div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Sepil An" width="100%"></div>
+    <div class="container">
+    <h4><b>Sepil An, BS</b></h4> 
+        <p>Research Assistant</p>
+        <a href="{{ site.url }}/people/sp_an" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
    </a>
    </div>
    </div>
