@@ -287,7 +287,7 @@ Students
 </div>
 
 <p></p>
-<div class="row">
+  <div class="row">
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon" width="100%"></div>
@@ -300,7 +300,6 @@ Students
     </div>
     </div>
   </div>
-  <div class="row">
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/by_kim.jpg" alt="Boyoon Kim" width="100%"></div>
@@ -316,6 +315,7 @@ Students
 </div>
 
 <p></p>
+<div class="row">
   <div class="column">
   <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
@@ -328,7 +328,6 @@ Students
     </div>
     </div>
   </div>
-<div class="row">
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim" width="100%"></div>
@@ -344,6 +343,7 @@ Students
 </div>
 
 <p></p>
+<div class="row">
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="Hyeongjin Cho" width="100%"></div>
@@ -356,7 +356,6 @@ Students
     </div>
     </div>
   </div>
-<div class="row">
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/je_kim.jpg" alt="Jueon Kim" width="100%"></div>
