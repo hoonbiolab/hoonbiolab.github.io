@@ -167,6 +167,7 @@ Students
 </div>
 
 <div class="row">
+  
   <div class="column">
     <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jh_jang.jpg" alt="Jaeho Jang" width="100%"></div>
@@ -179,7 +180,7 @@ Students
     </div>
     </div>
   </div>
-<div class="row">
+
   <div class="column">
 <div class="card">
   <img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung" width="100%">
@@ -192,7 +193,9 @@ Students
    </div>
    </div>
   </div>
+  
 </div>
+
 
 
 <p></p>
