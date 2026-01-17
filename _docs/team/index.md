@@ -479,6 +479,7 @@ Former lab members
 
 <p></p>
 <div class="row">
+  
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/sj_han.jpeg" alt="Seungjae Han" width="100%"></div>
@@ -491,8 +492,7 @@ Former lab members
    </div>
    </div>
   </div>
-</div>
-<div class="row">
+
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Sepil An" width="100%"></div>
@@ -505,7 +505,9 @@ Former lab members
    </div>
    </div>
   </div>
+  
 </div>
+
 
 <p></p>
 
