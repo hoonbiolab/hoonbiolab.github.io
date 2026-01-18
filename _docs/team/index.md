@@ -365,7 +365,7 @@ Students
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="Hyeongjin Cho" width="100%"></div>
     <div class="container">
-         <h4><b>Hyeongjin Cho, BS</b></h4> 
+         <h4><b>Hyeongjin Cho, PharmD</b></h4> 
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/hj_cho/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
