@@ -130,6 +130,10 @@ If you want to see more photos, <a href="https://photos.google.com/u/0/share/AF1
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
 </div>
 
 <script>
