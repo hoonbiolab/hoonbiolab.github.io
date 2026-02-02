@@ -174,6 +174,19 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button3">Award</button> Prof. Kim has been honored with the [재발 암 및 전이 암에서 대규모 ecDNA 발견]!</h2>
+<p>Congratulations on this prestigious achievement!!</p>
+<p><div style="font-style: italic">Posted on Feb 2, 2026</div></p>
+
+<div class="row">
+  <div class="column">
+    <img id="myImg" src="/assets/img/award_2026_1.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img id="myImg" src="/assets/img/award_2026_2.jpg" style="width:100%">
+  </div>
+</div>
+
 <h2><button class="button">Lab Event</button> 김혜수 (인공지능융합전공 2학년), 정다영 (의학과 2학년), 전성현 (약학과 3학년) have joined our lab as research interns! </h2>
 <p> Welcome all! </p>
 <p><div style="font-style: italic">Posted on Dec 29, 2025</div></p>
