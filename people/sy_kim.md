@@ -44,7 +44,7 @@ Cancer Genomics
 ### **Education and Experience**
 
 **Wellcome Sanger Institute**
-- Ph.D. Student, 02/2025 ~ Present
+- Ph.D. Student, 09/2024 ~ Present
 
 **Sungkyunkwan University**
 - M.S. in Science, 03/2022 ~ 08/2024

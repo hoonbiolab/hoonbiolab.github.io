@@ -174,9 +174,17 @@ title: "Recent News"
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button2">Paper</button> "Origins and impact of extrachromosomal DNA"</h2>
+<p>
+This study elucidates the mechanisms of ecDNA formation via chromothripsis and its role in driving oncogene amplification and tumor evolution. It highlights ecDNA as a primary driver of genetic heterogeneity and a critical factor in poor clinical outcomes.
+</p>
+<p><div style="font-style: italic">Posted on Feb 2, 2026</div></p>
+<img id="myImg" src="/assets/img/papers/2026_science_ecdna.jpg" style="width:100%;max-width:300px">
+>Kim et al. Science. 2026. [Full text article](https://www.science.org/doi/10.1126/science.adt0559)
+
 <h2><button class="button3">Award</button> Prof. Kim has been honored with the [재발 암 및 전이 암에서 대규모 ecDNA 발견]!</h2>
 <p>Congratulations on this prestigious achievement!!</p>
-<p><div style="font-style: italic">Posted on Feb 2, 2026</div></p>
+<p><div style="font-style: italic">Posted on Jen 30, 2026</div></p>
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="/assets/img/2026_award.jpg" style="width: 100%; max-width: 450px; border-radius: 5px;">
   <img src="/assets/img/award_2026_1.jpg" style="width: 100%; max-width: 450px; border-radius: 5px;">
