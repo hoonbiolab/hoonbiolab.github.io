@@ -179,7 +179,7 @@ title: "Recent News"
 <p><div style="font-style: italic">Posted on Feb 2, 2026</div></p>
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img src="/assets/img/2026_award.jpg" style="width: 100%; max-width: 450px; border-radius: 5px;">
-  <img src="/assets/img/award_2026_2.jpg" style="width: 100%; max-width: 450px; border-radius: 5px;">
+  <img src="/assets/img/award_2026_1.jpg" style="width: 100%; max-width: 450px; border-radius: 5px;">
 </div>
 
 
