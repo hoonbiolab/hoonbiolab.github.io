@@ -43,10 +43,14 @@ Cancer Genomics
 
 ### **Education and Experience**
 
+**Wellcome Sanger Institute**
+- Ph.D. Student, 02/2025 ~ Present
+
+**Sungkyunkwan University**
+- M.S. in Science, 03/2022 ~ 08/2024
+
 **University of California, San Diego.**
 - BS, Biology with Specialization in Bioinformatics &amp; Computer Science Minor, 09/2016 ~ 06/2021
 
 ### **Contact**
-<i class="fa fa-paper-plane"></i> ksoyeona@gmail.com 
-
-
+<i class="fa fa-paper-plane"></i> ksoyeona@gmail.com

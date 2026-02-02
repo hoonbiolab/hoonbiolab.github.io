@@ -213,19 +213,7 @@ Students
     </div>
     </div>
   </div>
-  
-  <div class="column">
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/sy_kim.png" alt="Soyeon Kim" width="100%"></div>
-    <div class="container">
-     <h4><b>Soyeon Kim, BS</b></h4> 
-    <p>Research Assistant</p>
-    <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-   </a>
-   </div>
-   </div>
-  </div>
+
   
 </div>
 
@@ -389,7 +377,34 @@ Students
   
 </div>
 
+<p></p>
+<div style="font-weight: 600; font-size: 30px; color: #030303">
+Alumni
+</div>
 
+<div class="row">
+  <div class="column">
+    <div class="card"><div class="img">
+      <img src="{{ site.url }}/assets/img/people/sy_kim.png" alt="Soyeon Kim" width="100%"></div>
+      <div class="container">
+        <h4><b>Soyeon Kim, MS</b></h4> 
+        <p>
+            Ph.D. Student
+            <br>
+            Wellcome Sanger Institute
+        </p>
+        <a href="{{ site.url }}/people/sy_kim" target="_blank" rel="noopener noreferrer">
+        <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p></p>
+<div style="font-weight: 600; font-size: 30px; color: #030303">
+Former lab members
+</div>
 
 <p></p>
 <div style="font-weight: 600; font-size: 30px; color: #030303">
