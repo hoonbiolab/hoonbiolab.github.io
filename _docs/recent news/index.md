@@ -180,12 +180,13 @@ title: "Recent News"
 
 <div class="row">
   <div class="column">
-    <img id="myImg" src="/assets/img/award_2026_1.jpg" style="width:100%">
+    <img id="myImg" src="/assets/img/award_2026.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img id="myImg" src="/assets/img/award_2026_2.jpg" style="width:100%">
+    <img id="myImg" src="/assets/img/award_2026_1.jpg" style="width:100%">
   </div>
 </div>
+
 
 <h2><button class="button">Lab Event</button> 김혜수 (인공지능융합전공 2학년), 정다영 (의학과 2학년), 전성현 (약학과 3학년) have joined our lab as research interns! </h2>
 <p> Welcome all! </p>
