@@ -342,19 +342,35 @@ Students
 <p></p>
 <div class="row">
   <div class="column">
-<div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/je_kim.jpg" alt="Jueon Kim" width="100%"></div>
-    <div class="container">
-    <h4><b>Jueon Kim, BS</b></h4> 
+    <div class="card">
+      <div class="img">
+        <img src="{{ site.url }}/assets/img/people/je_kim.jpg" alt="Jueon Kim" width="100%">
+      </div>
+      <div class="container">
+        <h4><b>Jueon Kim, BS</b></h4> 
         <p>Research Assistant</p>
         <a href="{{ site.url }}/people/je_kim" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-   </a>
-   </div>
-   </div>
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <div class="img">
+        <img src="{{ site.url }}/assets/img/people/jk_jang.png" alt="Jongkyu Jang" width="100%">
+      </div>
+      <div class="container">
+        <h4><b>Jongkyu Jang</b></h4> 
+        <p>M.S. Candidate</p>
+        <a href="{{ site.url }}/people/jk_jang/" target="_blank" rel="noopener noreferrer">
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
   </div>
 </div>
-
 
 <p></p>
 <div style="font-weight: 600; font-size: 30px; color: #030303">
