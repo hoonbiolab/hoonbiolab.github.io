@@ -195,7 +195,7 @@ title: "Recent News"
 <h2><button class="button2">Paper</button> "Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer"</h2>
 <p><div style="font-style: italic">Posted on Dec 28, 2025</div></p>
 <img id="myImg" src="/assets/img/papers/20251229-steve_paper.jpg" style="width:100%;max-width:300px">
->Kang et al. Cancer Letters. [Full text article]([https://www.nature.com/articles/s41588-024-01949-7](https://www.sciencedirect.com/science/article/pii/S0304383525007864))
+>Kang et al. Cancer Letters. [Full text article](https://www.sciencedirect.com/science/article/pii/S0304383525007864)
 
 
 <h2><button class="button3">Scholarship</button> Yoonjoo has been awarded 한국연구재단 박사과정 이공학 학술 연구 기반 구축 (R&D) 사업! </h2>
