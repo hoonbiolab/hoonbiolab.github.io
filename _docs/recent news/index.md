@@ -177,14 +177,9 @@ title: "Recent News"
 <h2><button class="button3">Award</button> Prof. Kim has been honored with the [재발 암 및 전이 암에서 대규모 ecDNA 발견]!</h2>
 <p>Congratulations on this prestigious achievement!!</p>
 <p><div style="font-style: italic">Posted on Feb 2, 2026</div></p>
-
-<div class="row">
-  <div class="column">
-    <img id="myImg" src="/assets/img/award_2026.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img id="myImg" src="/assets/img/award_2026_1.jpg" style="width:100%">
-  </div>
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="/assets/img/2026_award.jpg" style="width: 100%; max-width: 450px; border-radius: 5px;">
+  <img src="/assets/img/award_2026_2.jpg" style="width: 100%; max-width: 450px; border-radius: 5px;">
 </div>
 
 
