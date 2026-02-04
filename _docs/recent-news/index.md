@@ -175,13 +175,17 @@ permalink: /docs/recent-news/
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<h2><button class="button2">Paper</button> "Origins and impact of extrachromosomal DNA"</h2>
+<h2><button class="button2">Paper</button> IDH-mutant gliomas arise from glial progenitor cells harboring the initial driver mutation</h2>
+
 <p>
-This study elucidates the mechanisms of ecDNA formation via chromothripsis and its role in driving oncogene amplification and tumor evolution. It highlights ecDNA as a primary driver of genetic heterogeneity and a critical factor in poor clinical outcomes.
+Our lab has been honored to announce that our research has been published in <b>Science</b>. This study identified glial progenitor cells (GPCs) as the cell of origin in IDH-mutant gliomas, providing crucial insights into how these tumors first develop from the initial driver mutation. We thank all our lab members and collaborators for their dedication to this achievement.
 </p>
+
 <p><div style="font-style: italic">Posted on Feb 2, 2026</div></p>
 <img id="myImg" src="/assets/img/papers/2026_science_ecdna.jpg" style="width:100%;max-width:300px">
->Kim et al. Science. 2026. [Full text article](https://www.science.org/doi/10.1126/science.adt0559)
+
+>Park et al. Science. 2026. [Full text article](https://www.science.org/doi/10.1126/science.adt0559)
+
 
 <h2><button class="button3">Award</button> Prof. Kim has been honored with the [재발 암 및 전이 암에서 대규모 ecDNA 발견]!</h2>
 <p>Congratulations on this prestigious achievement!!</p>
