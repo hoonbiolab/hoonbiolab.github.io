@@ -178,7 +178,7 @@ permalink: /docs/recent-news/
 <h2><button class="button2">Paper</button> IDH-mutant gliomas arise from glial progenitor cells harboring the initial driver mutation</h2>
 
 <p>
-Our lab has been honored to announce that our research has been published in <b>Science</b>. This study identified glial progenitor cells (GPCs) as the cell of origin in IDH-mutant gliomas, providing crucial insights into how these tumors first develop from the initial driver mutation. We thank all our lab members and collaborators for their dedication to this achievement.
+This study identified glial progenitor cells (GPCs) as the cell of origin in IDH-mutant gliomas, providing crucial insights into how these tumors first develop from the initial driver mutation. We thank all our lab members and collaborators for their dedication to this achievement.
 </p>
 
 <p><div style="font-style: italic">Posted on Feb 2, 2026</div></p>
@@ -187,7 +187,7 @@ Our lab has been honored to announce that our research has been published in <b>
 >Park et al. Science. 2026. [Full text article](https://www.science.org/doi/10.1126/science.adt0559)
 
 
-<h2><button class="button3">Award</button> Prof. Kim has been honored with the [재발 암 및 전이 암에서 대규모 ecDNA 발견]!</h2>
+<h2><button class="button3">Award</button> Our lab has been honored with the [재발 암 및 전이 암에서 대규모 ecDNA 발견]!</h2>
 <p>Congratulations on this prestigious achievement!!</p>
 <p><div style="font-style: italic">Posted on Jen 30, 2026</div></p>
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
