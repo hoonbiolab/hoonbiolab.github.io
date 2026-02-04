@@ -27,7 +27,7 @@ css:
   border-radius: 5px;
 }
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 166px 0 rgba(0,0,0,0.2);
 }
 img {
   border-radius: 5px 5px 0 0;
@@ -269,22 +269,6 @@ Students
 
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon" width="100%"></div>
-    <div class="container">
-         <h4><b>Dongjoo Yoon, BA</b></h4> 
-    <p>Research Assistant</p>
-     <a href="{{ site.url }}/people/dj_yoon" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-       </a>
-    </div>
-    </div>
-  </div>
-</div>
-
-<p></p>
-<div class="row">
-  <div class="column">
-<div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/by_kim.jpg" alt="Boyoon Kim" width="100%"></div>
     <div class="container">
      <h4><b>Boyoon Kim, BS</b></h4> 
@@ -295,7 +279,10 @@ Students
    </div>
    </div>
   </div>
+</div>
 
+<p></p>
+<div class="row">
   <div class="column">
   <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim" width="100%"></div>
@@ -308,10 +295,7 @@ Students
     </div>
     </div>
   </div>
-</div>
 
-<p></p>
-<div class="row">
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim" width="100%"></div>
@@ -324,12 +308,15 @@ Students
    </div>
    </div>
   </div>
+</div>
 
+<p></p>
+<div class="row">
   <div class="column">
 <div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="Hyeongjin Cho" width="100%"></div>
     <div class="container">
-         <h4><b>Hyeongjin Cho, PharmD</b></h4> 
+         <h4><b>Hyeongjin Cho, Pharm.D.</b></h4> 
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/hj_cho/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
@@ -337,10 +324,7 @@ Students
     </div>
     </div>
   </div>
-</div>
 
-<p></p>
-<div class="row">
   <div class="column">
     <div class="card">
       <div class="img">
@@ -355,14 +339,17 @@ Students
       </div>
     </div>
   </div>
+</div>
 
+<p></p>
+<div class="row">
   <div class="column">
     <div class="card">
       <div class="img">
         <img src="{{ site.url }}/assets/img/people/jk_jang.png" alt="Jongkyu Jang" width="100%">
       </div>
       <div class="container">
-        <h4><b>Jongkyu Jang</b></h4> 
+        <h4><b>Jongkyu Jang, Pharm. D.</b></h4> 
         <p>M.S. Candidate</p>
         <a href="{{ site.url }}/people/jk_jang/" target="_blank" rel="noopener noreferrer">
           <p><button>Read more</button></p>
@@ -429,6 +416,7 @@ Former lab members
       <h4><b>Yeonsik Kim</b></h4>
         <p>
             Korea Polytechnic University
+            <br>
             languages  (C, Java)
         </p>
         <a href="{{ site.url }}/people/ys_kim" target="_blank" rel="noopener noreferrer">
@@ -450,7 +438,8 @@ Former lab members
     <div class="container">
     <h4><b>Youngjin Moon</b></h4>
         <p>Jeonbuk National University
-           languages(C, C++)</p>
+            <br>
+            languages(C, C++)</p>
         <a href="{{ site.url }}/people/yj_moon" target="_blank" rel="noopener noreferrer">
    <p><button>Read more</button></p>
       </a>
@@ -494,7 +483,7 @@ Former lab members
     <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwa Yeon Lee" width="100%"></div>
     <div class="container">
     <h4><b>Hwayeon Lee</b></h4> 
-        <p>Junior, University of California, San Diego</p>
+        <p>Junior, UCSD</p>
         <a href="{{ site.url }}/people/hy_lee" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
     </a>
@@ -532,9 +521,22 @@ Former lab members
    </div>
    </div>
   </div>
-  
 </div>
 
+<p></p>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <div class="img"><img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon" width="100%"></div>
+      <div class="container">
+        <h4><b>Dongjoo Yoon, BA</b></h4> 
+        <p>Research Assistant</p>
+        <a href="{{ site.url }}/people/dj_yoon" target="_blank" rel="noopener noreferrer">
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <p></p>
-
