@@ -175,7 +175,7 @@ permalink: /docs/recent-news/
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<h2><button class="button2">Paper</button> IDH-mutant gliomas arise from glial progenitor cells harboring the initial driver mutation</h2>
+<h2><button class="button2">Paper</button> "IDH-mutant gliomas arise from glial progenitor cells harboring the initial driver mutation" </h2>
 
 <p>
 This study identified glial progenitor cells (GPCs) as the cell of origin in IDH-mutant gliomas, providing crucial insights into how these tumors first develop from the initial driver mutation. We thank all our lab members and collaborators for their dedication to this achievement.
