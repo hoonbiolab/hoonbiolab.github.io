@@ -187,7 +187,7 @@ This study identified glial progenitor cells (GPCs) as the cell of origin in IDH
 >Park et al. Science. 2026. [Full text article](https://www.science.org/doi/10.1126/science.adt0559)
 
 
-<h2><button class="button3">Award</button> Our lab has been honored with the [재발 암 및 전이 암에서 대규모 ecDNA 발견]!</h2>
+<h2><button class="button3">Award</button> Our lab work, 재발 암 및 전이 암에서 대규모 ecDNA 발견, has been honored with 2025년도 국가연구개발 우수성과 100선 (상위 0.1% 수준의 핵심 과학기술 성과) !</h2>
 <p>Congratulations on this prestigious achievement!!</p>
 <p><div style="font-style: italic">Posted on Jen 30, 2026</div></p>
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
