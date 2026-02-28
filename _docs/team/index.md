@@ -537,6 +537,19 @@ Former lab members
       </div>
     </div>
   </div>
+
+   <div class="column">
+<div class="card"><div class="img">
+    <img src="{{ site.url }}/assets/img/people/dy_jeong.jpg" alt="Dayoung Jeong" width="100%"></div>
+    <div class="container">
+    <h4><b>Sepil An, BS</b></h4> 
+        <p>Research Assistant</p>
+        <a href="{{ site.url }}/people/dy_jeong" target="_blank" rel="noopener noreferrer">
+    <p><button>Read more</button></p>
+   </a>
+   </div>
+   </div>
+  </div>
 </div>
 
 <p></p>
