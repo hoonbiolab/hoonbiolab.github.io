@@ -31,12 +31,12 @@ css:
 <div class="center"><div style="font-weight: bold; font-size: 40px;">
 About</div></div>
 <div class="center"><div style="font-weight: bold; font-size: 32px;">
-Seungjae Han
+Dayoung Jeong
 </div></div>
 
 
 <div class="center">
-    <img src="{{ site.url }}/assets/img/people/dy_jeong.png" width="480px" height="568px" alt="dy_jeong" />
+    <img src="{{ site.url }}/assets/img/people/dy_jeong.jpg" width="480px" height="568px" alt="dy_jeong" />
 </div>
 
 
