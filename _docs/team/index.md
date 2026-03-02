@@ -551,3 +551,19 @@ Former lab members
    </div>
   </div>
 </div>
+
+<p></p>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <div class="img"><img src="{{ site.url }}/assets/img/people/blank_person.png" alt="Seonghyun Jeon" width="100%"></div>
+      <div class="container">
+        <h4><b>Seonghyun Jeon</b></h4> 
+        <p>Undergraduate Intern</p>
+        <a href="{{ site.url }}/people/Seonghyun_Jeon" target="_blank" rel="noopener noreferrer">
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
