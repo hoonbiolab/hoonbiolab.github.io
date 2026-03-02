@@ -175,7 +175,7 @@ permalink: /docs/recent-news/
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<h2><button class="button4">Lab Event</button> Celebration for the Science Paper by Seunghyun and Sanghyun!</h2>
+<h2><button class="button">Lab Event</button> Celebration for the Science Paper by Seunghyun and Sanghyun!</h2>
 
 <p>
 We gathered to celebrate the remarkable achievement of <b>Seunghyun Kang</b> and <b>Sanghyun Kim, PhD</b>, whose dedication led to our latest publication in <b>Science</b>. It was a joyful moment for the entire lab to honor their hard work and this significant milestone. Congratulations to Seunghyun and Sanghyun!
@@ -184,7 +184,7 @@ We gathered to celebrate the remarkable achievement of <b>Seunghyun Kang</b> and
 <p><div style="font-style: italic">Posted on Feb 27, 2026</div></p>
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="/assets/img/events/2026_science_party.jpg" style="width: 100%; max-width: 600px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  <img src="/assets/img/2026_science_party.jpg" style="width: 100%; max-width: 600px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </div>
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
