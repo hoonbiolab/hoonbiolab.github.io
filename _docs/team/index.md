@@ -560,7 +560,7 @@ Former lab members
       <div class="container">
         <h4><b>Seonghyun Jeon</b></h4> 
         <p>Undergraduate Intern</p>
-        <a href="{{ site.url }}/people/Sunghyun_Jeon" target="_blank" rel="noopener noreferrer">
+        <a href="{{ site.url }}/people/jsh040727" target="_blank" rel="noopener noreferrer">
           <p><button>Read more</button></p>
         </a>
       </div>
