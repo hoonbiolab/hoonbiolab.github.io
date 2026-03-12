@@ -175,10 +175,10 @@ permalink: /docs/recent-news/
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
-<h2><button class="button">Lab Event</button> Celebration for the Science Paper by Seunghyun and Sanghyun!</h2>
+<h2><button class="button">Lab Event</button> Celebration for the Cancer Letters Paper by Seunghyun and Sanghyun!</h2>
 
 <p>
-We gathered to celebrate the remarkable achievement of <b>Seunghyun Kang</b> and <b>Sanghyun Kim, PhD</b>, whose dedication led to our latest publication in <b>Science</b>. It was a joyful moment for the entire lab to honor their hard work and this significant milestone. Congratulations to Seunghyun and Sanghyun!
+We gathered to celebrate the remarkable achievement of <b>Seunghyun Kang</b> and <b>Sanghyun Kim, PhD</b>, whose dedication led to our latest publication in <b>Cancer Letters</b>. It was a joyful moment for the entire lab to honor their hard work and this significant milestone. Congratulations to Seunghyun and Sanghyun!
 </p>
 
 <p><div style="font-style: italic">Posted on Feb 27, 2026</div></p>
