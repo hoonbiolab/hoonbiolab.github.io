@@ -175,6 +175,20 @@ permalink: /docs/recent-news/
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<h2><button class="button">Lab Event</button> Our ecDNA foundation model proposal selected for NVIDIA Academic Grant Program!</h2>
+
+<p>
+Our proposal on building an <b>ecDNA foundation model</b> has been selected for the <b>NVIDIA Academic Grant Program</b>, in collaboration with Prof. Se-Young Chun at SNU (ICL@SNU). NVIDIA will be providing 32,000 A100 GPU-hours to SNU in support of this project.
+</p>
+
+<p><div style="font-style: italic">Posted on Mar 17, 2026</div></p>
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="/assets/img/nvidia_logo.png" style="width: 100%; max-width: 400px; border-radius: 5px;">
+</div>
+
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
 <h2><button class="button">Lab Event</button> Celebration for the Cancer Letters Paper by Seunghyun and Sanghyun!</h2>
 
 <p>
