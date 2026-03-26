@@ -184,7 +184,7 @@ This study, co-first authored by <b>Jiwon Shon</b>, was published in <b>Theranos
 <p><div style="font-style: italic">Posted on Mar 26, 2026</div></p>
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="/assets/img/papers/2026_theranostics_jiwon.jpg" style="width: 48%; max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  <img src="/assets/img/papers/2026_theranostics_jiwon.jpg" style="width: 60%; max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
   <img src="/assets/img/papers/2026_theranostics_jiwon2.jpg" style="width: 48%; max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </div>
 
