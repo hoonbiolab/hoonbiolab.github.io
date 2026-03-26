@@ -178,18 +178,18 @@ permalink: /docs/recent-news/
 <h2><button class="button2">Paper</button> "Tailorable porous collagen hydrogels as a physiologically relevant platform for ecDNA-associated colorectal cancer research"</h2>
 
 <p>
-This study, co-first authored by <b>Jiwon Shon</b>, was published in <b>Theranostics</b>. The research team developed a novel 3D porous collagen-based hydrogel model that effectively mimics the tumor microenvironment. This platform overcomes the limitations of 2D cultures, successfully maintaining <b>extrachromosomal DNA (ecDNA)</b> structures and enhancing oncogenic behaviors like MYC expression. This reproducible model provides an ideal environment for long-term ecDNA research and future cancer studies.
+This study, co-first authored by <b>Jiwon Shon</b> with key contribution from <b>Yoonjoo Nam</b>, was published in <b>Theranostics</b>. The research team developed a novel 3D porous collagen-based hydrogel model that effectively mimics the tumor microenvironment (TME). Unlike conventional 2D cultures, this tailorable platform successfully maintains <b>extrachromosomal DNA (ecDNA)</b> structures and enhances aggressive tumor phenotypes. This reproducible model provides a powerful tool for long-term ecDNA research and future TME-related studies.
 </p>
 
 <p><div style="font-style: italic">Posted on Mar 26, 2026</div></p>
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="/assets/img/papers/2026_theranostics_jiwon.jpg" style="width: 60%; max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  <img src="/assets/img/papers/2026_theranostics_jiwon.jpg" style="width: 48%; max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
   <img src="/assets/img/papers/2026_theranostics_jiwon2.jpg" style="width: 48%; max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </div>
 
 <p>
->Jo, Shon et al. <b>Theranostics.</b> 2026. [Full text article](https://www.thno.org/v16p5240.html)
+>Jo, <b>Shon</b> et al. <b>Theranostics.</b> 2026. [Full text article](https://www.thno.org/v16p5240.html)
 </p>
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
