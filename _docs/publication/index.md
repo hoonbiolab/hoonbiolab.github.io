@@ -7,6 +7,7 @@ title: Publications
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=foxOEo4AAAAJ&hl=en) and [ORCiD](https://orcid.org/0000-0003-4244-6126).
 
 ## **Published**
+- Seoyul Jo<sup>*</sup>, __Jiwon Shon__<sup>*</sup>, Seohyeon An, __Yoonjoo Nam__, Dongwon Choi, Seungmi Lee, Hoigi Seo, Se Young Chun, __Hoon Kim__, GeunHyung Kim<sup>#</sup>, "Tailorable porous collagen hydrogels as a physiologically relevant platform for extrachromosomal DNA-associated colorectal cancer research", __Theranostics__, 2026 Mar.
 
 - Jung Won Park<sup>*</sup>, Jiehoon Kwak, […], __Hoon Kim__, Young Seok Ju, Seok-Gu Kang<sup>#</sup> , Jeong Ho Lee<sup>#</sup>, "IDH-mutant gliomas arise fromglial progenitor cells harboring theinitial driver mutation", __Science__, 2026 Jan.
   
