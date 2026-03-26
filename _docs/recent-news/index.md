@@ -183,9 +183,9 @@ This study, co-first authored by <b>Jiwon Shon</b> with key contribution from <b
 
 <p><div style="font-style: italic">Posted on Mar 26, 2026</div></p>
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="/assets/img/papers/2026_theranostics_jiwon.jpg" style="width: 48%; max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
-  <img src="/assets/img/papers/2026_theranostics_jiwon2.jpg" style="width: 48%; max-width: 450px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap; align-items: flex-start;">
+  <img src="/assets/img/papers/2026_theranostics_jiwon.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  <img src="/assets/img/papers/2026_theranostics_jiwon2.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </div>
 
 <p>
