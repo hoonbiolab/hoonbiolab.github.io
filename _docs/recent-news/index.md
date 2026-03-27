@@ -183,14 +183,12 @@ This study, co-first authored by <b>Jiwon Shon</b> with key contribution from <b
 
 <p><div style="font-style: italic">Posted on Mar 26, 2026</div></p>
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap; align-items: flex-start;">
-  <img src="/assets/img/papers/2026_theranostics_jiwon.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
-  <img src="/assets/img/papers/2026_theranostics_jiwon2.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap; align-items: flex-start; margin-bottom: 20px;">
+  <img id="myImg" src="/assets/img/papers/2026_theranostics_jiwon.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Theranostics Paper Figure 1">
+  <img src="/assets/img/papers/2026_theranostics_jiwon2.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Theranostics Paper Figure 2">
 </div>
 
-<p>
->Jo, <b>Shon</b> et al. <b>Theranostics.</b> 2026. [Full text article](https://www.thno.org/v16p5240.html)
-</p>
+> Jo, **Shon** et al. **Theranostics.** 2026. [Full text article](https://www.thno.org/v16p5240.html)
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
 
