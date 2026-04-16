@@ -182,7 +182,7 @@ permalink: /docs/recent-news/
 Boyoon has been honored with the KOBRA Travel Award (Global-TA), which supports her participation and presentation at the AACR Annual Meeting 2026 in San Diego, USA. Congratulations!!
 </p>
 <p><div style="font-style: italic">Posted on Mar 26, 2026</div></p>
-<img id="myImg" src="/assets/img/2026_kobra_award.png" style="width:100%;max-width:500px">
+<img id="myImg" src="/assets/img/2026_kobra_award.png" style="width:100%;max-width:250px">
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
 
