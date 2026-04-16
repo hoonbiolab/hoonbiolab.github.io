@@ -175,6 +175,17 @@ permalink: /docs/recent-news/
 <i class="far fa-newspaper"></i> Recent News
 </div></div>
 
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
+<h2><button class="button3">Award</button> Boyoon Kim has been awarded the KOBRA Travel Award to support her presentation at AACR 2026!</h2>
+<p>
+Boyoon has been honored with the KOBRA Travel Award (Global-TA), which supports her participation and presentation at the AACR Annual Meeting 2026 in San Diego, USA. Congratulations!!
+</p>
+<p><div style="font-style: italic">Posted on Mar 26, 2026</div></p>
+<img id="myImg" src="/assets/img/2026_kobra_award.png" style="width:100%;max-width:500px">
+
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
 <h2><button class="button2">Paper</button> "Tailorable porous collagen hydrogels as a physiologically relevant platform for ecDNA-associated colorectal cancer research"</h2>
 
 <p>
