@@ -177,8 +177,6 @@ permalink: /docs/recent-news/
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
 
-<hr style="border: 0.5px solid #eee; margin: 40px 0;">
-
 <h2><button class="button">Lab Event</button> Boyoon Kim presents at AACR 2026: A Milestone for our Lab!</h2>
 
 <p>
@@ -192,8 +190,8 @@ In the figures below, Boyoon is seen discussing her research with the <b>Executi
 <p><div style="font-style: italic">Posted on Apr 27, 2026</div></p>
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap; align-items: flex-start; margin-bottom: 20px;">
-  <img id="myImg" src="/assets/img/events/2026_aacr_boyoon1.png" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Discussion with Merck team">
-  <img src="/assets/img/events/2026_aacr_boyoon2.png" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="With Dr. Jens Luebeck">
+  <img id="myImg" src="/assets/img/2026_aacr_boyoon1.png" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Discussion with Merck team">
+  <img src="/assets/img/2026_aacr_boyoon2.png" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="With Dr. Jens Luebeck">
 </div>
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
