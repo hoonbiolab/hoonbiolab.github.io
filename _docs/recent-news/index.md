@@ -177,6 +177,27 @@ permalink: /docs/recent-news/
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
 
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
+<h2><button class="button">Lab Event</button> Boyoon Kim presents at AACR 2026: A Milestone for our Lab!</h2>
+
+<p>
+<b>Boyoon Kim</b> became the first student in our lab to present research work at the <b>AACR Annual Meeting 2026</b> in San Diego. Her poster presentation attracted significant attention from both industry and academia. 
+</p>
+
+<p>
+In the figures below, Boyoon is seen discussing her research with the <b>Executive Director of Merck</b> and his colleagues leading AI pharma research (left), and with <b>Dr. Jens Luebeck</b>, the developer of the <i>AmpliconSuite</i> pipeline (right). This was a fantastic opportunity to showcase our lab’s work on a global stage!
+</p>
+
+<p><div style="font-style: italic">Posted on Apr 27, 2026</div></p>
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap; align-items: flex-start; margin-bottom: 20px;">
+  <img id="myImg" src="/assets/img/events/2026_aacr_boyoon1.png" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Discussion with Merck team">
+  <img src="/assets/img/events/2026_aacr_boyoon2.png" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="With Dr. Jens Luebeck">
+</div>
+
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
 <h2><button class="button3">Award</button> Boyoon Kim has been awarded the KOBRA Travel Award to support her presentation at AACR 2026!</h2>
 <p>
 Boyoon has been honored with the KOBRA Travel Award (Global-TA), which supports her participation and presentation at the AACR Annual Meeting 2026 in San Diego, USA. Congratulations!!
