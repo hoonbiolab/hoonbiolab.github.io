@@ -46,7 +46,7 @@ Artificial Intelligence, Bioinformatics, Criminal Data Analytics
 ### **Education and Experience**
 
 **University College London**
-- BS, Crime and Security Science, 09/2025 ~ Current
+- BSc, Crime and Security Science, 09/2025 ~ Current
 
 **Sungkyunkwan University**
 - Undergraduate Intern, School of Pharmacy, 06/2026 ~ 08/2026
