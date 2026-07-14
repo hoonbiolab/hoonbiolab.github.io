@@ -116,7 +116,6 @@ img {
 }
 </style>
 
-
 <div class="center">
 <div style="font-weight: bold; font-size: 40px; color: #030303">
 Team Hoon
@@ -139,7 +138,6 @@ Principal Investigator
     </div>
 </div>
 
-
 <p></p>
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Research Professor
@@ -159,7 +157,6 @@ Research Professor
      </div>
   </div>
 </div>
-
 
 <p></p>
 <div style="font-weight:600; font-size: 30px; color: #030303">
@@ -298,33 +295,20 @@ Students
 
   <div class="column">
 <div class="card"><div class="img">
-    <img src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim" width="100%"></div>
-    <div class="container">
-    <h4><b>Hyesoo Kim</b></h4> 
-        <p>Undergraduate Intern</p>
-        <a href="{{ site.url }}/people/hyesoo_kim" target="_blank" rel="noopener noreferrer">
-    <p><button>Read more</button></p>
-   </a>
-   </div>
-   </div>
-  </div>
-</div>
-
-<p></p>
-<div class="row">
-  <div class="column">
-<div class="card"><div class="img">
     <img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="Hyeongjin Cho" width="100%"></div>
     <div class="container">
          <h4><b>Hyeongjin Cho, Pharm.D.</b></h4> 
     <p>Research Assistant</p>
      <a href="{{ site.url }}/people/hj_cho/" target="_blank" rel="noopener noreferrer">
     <p><button>Read more</button></p>
-  </a>
+ </a>
     </div>
     </div>
   </div>
+</div>
 
+<p></p>
+<div class="row">
   <div class="column">
     <div class="card">
       <div class="img">
@@ -339,10 +323,7 @@ Students
       </div>
     </div>
   </div>
-</div>
 
-<p></p>
-<div class="row">
   <div class="column">
     <div class="card">
       <div class="img">
@@ -352,6 +333,86 @@ Students
         <h4><b>Jongkyu Jang, Pharm. D.</b></h4> 
         <p>M.S. Candidate</p>
         <a href="{{ site.url }}/people/jk_jang/" target="_blank" rel="noopener noreferrer">
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p></p>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <div class="img">
+        <img src="{{ site.url }}/assets/img/people/jy_jang.jpg" alt="Yunjin Jang" width="100%">
+      </div>
+      <div class="container">
+        <h4><b>Yunjin Jang</b></h4> 
+        <p>M.S. Student</p>
+        <a href="{{ site.url }}/people/jy_jang" target="_blank" rel="noopener noreferrer">
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p></p>
+<div style="font-weight: 600; font-size: 30px; color: #030303">
+Interns
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card"><div class="img">
+      <img src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim" width="100%"></div>
+      <div class="container">
+        <h4><b>Hyesoo Kim</b></h4> 
+        <p>Undergraduate Intern</p>
+        <a href="{{ site.url }}/people/hyesoo_kim" target="_blank" rel="noopener noreferrer">
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card"><div class="img">
+      <img src="{{ site.url }}/assets/img/people/nayeon_kim.jpg" alt="Nayeon Kim" width="100%"></div>
+      <div class="container">
+        <h4><b>Nayeon Kim</b></h4> 
+        <p>Undergraduate Intern</p>
+        <a href="{{ site.url }}/people/nayeon_kim" target="_blank" rel="noopener noreferrer">
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p></p>
+<div class="row">
+  <div class="column">
+    <div class="card"><div class="img">
+      <img src="{{ site.url }}/assets/img/people/chanho_yang.jpg" alt="Chanho Yang" width="100%"></div>
+      <div class="container">
+        <h4><b>Chanho Yang</b></h4> 
+        <p>Undergraduate Intern</p>
+        <a href="{{ site.url }}/people/chanho_yang" target="_blank" rel="noopener noreferrer">
+          <p><button>Read more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card"><div class="img">
+      <img src="{{ site.url }}/assets/img/people/Soeun_lee.jpg" alt="Soeun Lee" width="100%"></div>
+      <div class="container">
+        <h4><b>Soeun Lee</b></h4> 
+        <p>Undergraduate Intern</p>
+        <a href="{{ site.url }}/people/Soeun_Lee" target="_blank" rel="noopener noreferrer">
           <p><button>Read more</button></p>
         </a>
       </div>
@@ -387,7 +448,6 @@ Alumni
 <div style="font-weight: 600; font-size: 30px; color: #030303">
 Former lab members
 </div>
-
 
 <div class="row">
   
@@ -428,7 +488,6 @@ Former lab members
   
 </div>
 
-
 <p></p>
 <div class="row">
   
@@ -462,7 +521,6 @@ Former lab members
   
 </div>
 
-
 <p></p>
 <div class="row">
   <div class="column">
@@ -491,7 +549,6 @@ Former lab members
    </div>
   </div>
 </div>
-
 
 <p></p>
 <div class="row">
