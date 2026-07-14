@@ -408,7 +408,7 @@ Interns
 
   <div class="column">
     <div class="card"><div class="img">
-      <img src="{{ site.url }}/assets/img/people/Soeun_lee.jpg" alt="Soeun Lee" width="100%"></div>
+      <img src="{{ site.url }}/assets/img/people/Soeun_Lee.jpg" alt="Soeun Lee" width="100%"></div>
       <div class="container">
         <h4><b>Soeun Lee</b></h4> 
         <p>Undergraduate Intern</p>
