@@ -177,6 +177,20 @@ permalink: /docs/recent-news/
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
 
+<h2><button class="button3">Scholarship</button> Hyunjeong has been awarded the Doctoral Excellence Scholarship (이공계 박사우수장학금) from KOSAF!</h2>
+
+<p>
+  <b>Hyunjeong</b> has been selected as a recipient of the <b>Doctoral Excellence Scholarship in Science and Engineering (박사우수장학금 - 이공계)</b> awarded by the <b>Korea Student Aid Foundation (KOSAF, 한국장학재단)</b>! Congratulations to Hyunjeong on this prestigious recognition and well-deserved support for her doctoral research!
+</p>
+
+<p style="font-style: italic;">Posted on Jul 21, 2026</p>
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img class="myImg" src="{{ site.baseurl }}/assets/img/2026_kosaf_hyunjeong.png" style="width:100%; max-width:500px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+</div>
+
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
 <h2><button class="button">Lab Event</button> Boyoon Kim presents at AACR 2026: A Milestone for our Lab!</h2>
 
 <p>
