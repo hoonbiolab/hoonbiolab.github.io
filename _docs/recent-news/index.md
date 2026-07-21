@@ -186,7 +186,7 @@ permalink: /docs/recent-news/
 <p style="font-style: italic;">Posted on Jul 21, 2026</p>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img class="myImg" src="{{ site.baseurl }}/assets/img/2026_kosaf_hyunjeong.png" style="width:100%; max-width:500px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  <img class="myImg" src="/assets/img/2026_kosaf_hyunjeong.png" style="width:100%; max-width:500px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </div>
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
