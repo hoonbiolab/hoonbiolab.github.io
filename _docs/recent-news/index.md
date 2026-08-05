@@ -177,6 +177,22 @@ permalink: /docs/recent-news/
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
 
+<h2><button class="button3">Award</button> Boyoon Kim has been awarded the Grand Prize (대상) in the SKKU Research Matters Plus Competition!</h2>
+
+<p>
+  <b>Boyoon Kim</b> has been honored with the <b>Grand Prize (대상)</b> at the 1st Graduate Research Achievement Competition+ (SKKU Research Matters Plus, 2026학년도 제1회 대학원 연구성과 경진대회+) for her outstanding research contribution! Huge congratulations to Boyoon on this prestigious achievement!!
+</p>
+
+<p style="font-style: italic;">Posted on Jul 31, 2026</p>
+
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img class="myImg" src="{{ site.baseurl }}/assets/img/2026_skku_award.png" style="width:100%; max-width:600px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="SKKU Research Matters Plus Award Announcement">
+</div>
+
+<p>> [SKKU Notice Link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=138820)</p>
+
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
 <h2><button class="button3">Scholarship</button> Hyunjeong has been awarded the Doctoral Excellence Scholarship (이공계 박사우수장학금) from KOSAF!</h2>
 
 <p>
