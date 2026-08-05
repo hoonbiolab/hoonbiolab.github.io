@@ -189,7 +189,7 @@ permalink: /docs/recent-news/
   <img class="myImg" src="{{ site.baseurl }}/assets/img/2026_skku_award.png" style="width:100%; max-width:600px; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="SKKU Research Matters Plus Award Announcement">
 </div>
 
-<p>> [SKKU Notice Link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=138820)</p>
+> [SKKU Notice Link](https://www.skku.edu/skku/campus/skk_comm/notice01.do?mode=view&articleNo=138820)
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
 
