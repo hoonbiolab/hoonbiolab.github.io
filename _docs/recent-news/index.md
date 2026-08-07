@@ -177,6 +177,40 @@ permalink: /docs/recent-news/
 
 <hr style="border: 0.5px solid #eee; margin: 40px 0;">
 
+<h2><button class="button2">Paper</button> "Extrachromosomal DNA in cancer: mechanics, functions, and therapeutic implications"</h2>
+
+<p>
+  A new review paper by <b>Boyoon Kim</b> has been published in <b>Signal Transduction and Targeted Therapy (STTT)</b>! This comprehensive review explores the mechanical properties, biological functions, and potential therapeutic implications of extrachromosomal DNA (ecDNA) in cancer. Congratulations to Boyoon on this impactful publication!
+</p>
+
+<p style="font-style: italic;">Posted on Aug 05, 2026</p>
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap; align-items: flex-start; margin-bottom: 20px;">
+  <img class="myImg" src="{{ site.baseurl }}/assets/img/papers/2026_sttt_boyoon1.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="STTT Paper Figure 1">
+  <img class="myImg" src="{{ site.baseurl }}/assets/img/papers/2026_sttt_boyoon2.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="STTT Paper Figure 2">
+</div>
+
+> **Kim** et al. **Signal Transduction and Targeted Therapy.** 2026. [Full text article](https://www.nature.com/articles/s41392-026-02845-8)
+
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
+<h2><button class="button2">Paper</button> "Single-cell resolution tracking of oncogenic ecDNA inheritance and structural variation"</h2>
+
+<p>
+  A new study co-authored by <b>Eunchae</b> has been published in <b>Experimental & Molecular Medicine (EMM)</b>! This research provides novel insights into ecDNA dynamics using single-cell resolution analysis. Congratulations to Eunchae and all co-authors on this great achievement!
+</p>
+
+<p style="font-style: italic;">Posted on Aug 01, 2026</p>
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: nowrap; align-items: flex-start; margin-bottom: 20px;">
+  <img class="myImg" src="{{ site.baseurl }}/assets/img/papers/2026_emm_eunchae1.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="EMM Paper Figure 1">
+  <img class="myImg" src="{{ site.baseurl }}/assets/img/papers/2026_emm_eunchae2.jpg" style="width: 48%; height: auto; border-radius: 5px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="EMM Paper Figure 2">
+</div>
+
+> **Eunchae** et al. **Experimental & Molecular Medicine.** 2026. [Full text article](https://www.nature.com/articles/s12276-026-01801-4)
+
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
 <h2><button class="button3">Award</button> Boyoon Kim has been awarded the Grand Prize (대상) in the SKKU Research Matters Plus Competition!</h2>
 
 <p>
