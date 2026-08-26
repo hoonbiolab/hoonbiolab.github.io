@@ -7,7 +7,7 @@ tags:
 categories: people
 published: true
 ---
-
+{% include person-style.html %}
 <style>
   .home-body{
     --ink:#101826; --ink-soft:#3A4456; --paper:#F5F4EE; --surface:#FFFFFF;
@@ -79,9 +79,6 @@ published: true
   <p class="team-group-title">Interns</p>
   <div class="person-grid">
     <a class="person-card" href="{{ site.url }}/people/hyesoo_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim"></div><div class="info"><h4>Hyesoo Kim</h4><p class="role">Undergraduate Intern</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/nayeon_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/nayeon_kim.jpg" alt="Nayeon Kim"></div><div class="info"><h4>Nayeon Kim</h4><p class="role">Undergraduate Intern</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/chanho_yang"><div class="photo"><img src="{{ site.url }}/assets/img/people/chanho_yang.jpg" alt="Chanho Yang"></div><div class="info"><h4>Chanho Yang</h4><p class="role">Undergraduate Intern</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/Soeun_Lee"><div class="photo"><img src="{{ site.url }}/assets/img/people/Soeun_Lee.jpg" alt="Soeun Lee"></div><div class="info"><h4>Soeun Lee</h4><p class="role">Undergraduate Intern</p></div></a>
   </div>
 </div>
 
@@ -95,6 +92,9 @@ published: true
 <div class="team-group">
   <p class="team-group-title">Former Lab Members</p>
   <div class="person-grid">
+    <a class="person-card" href="{{ site.url }}/people/nayeon_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/nayeon_kim.jpg" alt="Nayeon Kim"></div><div class="info"><h4>Nayeon Kim</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/chanho_yang"><div class="photo"><img src="{{ site.url }}/assets/img/people/chanho_yang.jpg" alt="Chanho Yang"></div><div class="info"><h4>Chanho Yang</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/Soeun_Lee"><div class="photo"><img src="{{ site.url }}/assets/img/people/Soeun_Lee.jpg" alt="Soeun Lee"></div><div class="info"><h4>Soeun Lee</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/prof_choi/"><div class="photo"><img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoonji Choi"></div><div class="info"><h4>Yoonji Choi, MD</h4><p class="role">Assoc. Prof., Korea Univ. College of Medicine</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/ys_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim"></div><div class="info"><h4>Yeonsik Kim</h4><p class="role">Korea Polytechnic University</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/yj_moon"><div class="photo"><img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon"></div><div class="info"><h4>Youngjin Moon</h4><p class="role">Jeonbuk National University</p></div></a>

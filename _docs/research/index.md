@@ -5,7 +5,7 @@ share-title: Hoon Lab | Research
 comments: false
 carbonads: false
 ---
-
+{% include person-style.html %}
 <style>
   .home-body{
     --ink:#101826; --ink-soft:#3A4456; --paper:#F5F4EE; --surface:#FFFFFF;

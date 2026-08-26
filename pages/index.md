@@ -5,6 +5,15 @@ permalink: /
 ---
 
 <style>
+  html, body{ font-size:16px !important; }
+  body > header.md-header,
+  body [data-md-component="header"],
+  body [data-md-component="navigation"],
+  body [data-md-component="toc"],
+  body .md-sidebar{ display:none !important; }
+  body .md-main__inner{ margin:0 !important; display:block !important; }
+  body .md-content, body .md-content__inner{ max-width:none !important; margin:0 !important; padding:0 !important; }
+
   .home-body{
     --ink:#101826;
     --ink-soft:#3A4456;
@@ -25,7 +34,8 @@ permalink: /
   .home-body *{ box-sizing:border-box; scroll-behavior:smooth; }
   .home-body .font-display{ font-family:'Fraunces',serif; }
   .home-body .font-mono{ font-family:'IBM Plex Mono',monospace; }
-  .home-body .wrap{ max-width:1120px; margin:0 auto; padding:0 24px; }
+  .home-body .wrap{ max-width:1320px; margin:0 auto; padding:0 40px; }
+  @media (max-width:640px){ .home-body .wrap{ padding:0 20px; } }
 
   .home-body .eyebrow{
     font-family:'IBM Plex Mono',monospace; font-size:.72rem; letter-spacing:.16em;
@@ -101,8 +111,12 @@ permalink: /
   .home-body section.tint{ background:var(--surface); }
   .home-body .section-head{ display:flex; justify-content:space-between; align-items:flex-end; gap:20px; margin-bottom:36px; flex-wrap:wrap; }
   .home-body .section-head h2{ font-family:'Fraunces',serif; font-weight:600; font-size:clamp(1.7rem,2.4vw,2.15rem); margin:8px 0 0; }
-  .home-body .section-link{ font-family:'IBM Plex Mono',monospace; font-size:.82rem; font-weight:600; text-decoration:none; color:var(--teal); white-space:nowrap; }
-  .home-body .section-link:hover{ color:var(--teal-deep); }
+  .home-body .section-link{
+    font-family:'IBM Plex Mono',monospace; font-size:.9rem; font-weight:700; text-decoration:none;
+    color:var(--teal); white-space:nowrap; background:var(--coral-soft); padding:9px 18px;
+    border-radius:999px; display:inline-block; transition:background .2s ease, color .2s ease;
+  }
+  .home-body .section-link:hover{ background:var(--teal); color:#fff; }
 
   .home-body .card{ background:var(--surface); border:1px solid var(--line); transition:transform .25s ease, box-shadow .25s ease, border-color .25s ease; border-radius:16px; }
   .home-body .card:hover{ transform:translateY(-3px); box-shadow:0 14px 30px -14px rgba(16,24,38,.18); border-color:#CFCABA; }
@@ -169,11 +183,15 @@ permalink: /
     border-radius:8px; width:100%;
   }
   .home-body .directory-person:hover{ background:var(--paper); }
+  .home-body .avatar-sm{ width:42px; height:42px; border-radius:50%; overflow:hidden; flex:none; background:linear-gradient(135deg, var(--teal), var(--teal-deep)); }
+  .home-body .avatar-sm img{ width:100%; height:100%; object-fit:cover; }
   .home-body .d-name{ display:block; font-size:.9rem; font-weight:600; color:var(--ink); }
   .home-body .d-role{ display:block; font-size:.76rem; color:var(--slate); margin-top:1px; }
 
   .home-body .pub-list{ display:flex; flex-direction:column; }
-  .home-body .pub-card{ padding:26px 0; border-top:1px solid var(--line); display:grid; grid-template-columns:148px 1fr; gap:24px; }
+  .home-body .pub-card{ padding:26px 0; border-top:1px solid var(--line); display:grid; grid-template-columns:148px 1fr; gap:24px; text-decoration:none; transition:background .2s ease; }
+  .home-body .pub-card:hover{ background:var(--surface); }
+  .home-body .pub-card .pub-title{ text-decoration:none; }
   .home-body .pub-card:last-child{ border-bottom:1px solid var(--line); }
   .home-body .pub-media{ width:148px; height:108px; border-radius:8px; overflow:hidden; border:1px solid var(--line); background:var(--paper); }
   .home-body .pub-media img{ width:100%; height:100%; object-fit:cover; }
@@ -267,30 +285,30 @@ permalink: /
 <nav class="site-nav" id="top">
   <div class="wrap">
     <a class="brand" href="#top">
-      <img src="{{ site.url }}/assets/img/logo/hoonlab-logo-navy-gold.png" alt="Hoon Lab logo" />
+      <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab logo" />
       <span class="brand-text"><strong>Hoon Lab</strong></span>
     </a>
     <ul class="nav-links">
-      <li><a href="#top" class="active">Home</a></li>
-      <li><a href="#news">News</a></li>
-      <li><a href="#team">Team</a></li>
-      <li><a href="#research">Research</a></li>
-      <li><a href="#publications">Publications</a></li>
+      <li><a href="{{ site.url }}/" class="active">Home</a></li>
+      <li><a href="{{ site.url }}/docs/recent-news/">News</a></li>
+      <li><a href="{{ site.url }}/docs/team/">Team</a></li>
+      <li><a href="{{ site.url }}/docs/research/">Research</a></li>
+      <li><a href="{{ site.url }}/docs/publication/">Publications</a></li>
       <li><a href="#positions">Positions</a></li>
-      <li><a href="#contact">Contact</a></li>
+      <li><a href="{{ site.url }}/docs/contact/">Contact</a></li>
     </ul>
     <a class="nav-cta" href="#contact">Join the lab</a>
     <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">&#9776;</button>
   </div>
 </nav>
 <div class="mobile-nav" id="mobile-nav">
-  <a href="#top">Home</a>
-  <a href="#news">News</a>
-  <a href="#team">Team</a>
-  <a href="#research">Research</a>
-  <a href="#publications">Publications</a>
+  <a href="{{ site.url }}/">Home</a>
+  <a href="{{ site.url }}/docs/recent-news/">News</a>
+  <a href="{{ site.url }}/docs/team/">Team</a>
+  <a href="{{ site.url }}/docs/research/">Research</a>
+  <a href="{{ site.url }}/docs/publication/">Publications</a>
   <a href="#positions">Positions</a>
-  <a href="#contact">Contact</a>
+  <a href="{{ site.url }}/docs/contact/">Contact</a>
 </div>
 
 <header class="hero">
@@ -392,7 +410,7 @@ permalink: /
   <div class="wrap">
     <div class="section-head">
       <div><span class="eyebrow">Who we are</span><h2>Team</h2></div>
-      <button class="section-link" id="team-directory-btn" style="background:none; border:none; cursor:pointer;">Learn more &rarr;</button>
+      <button class="section-link" id="team-directory-btn" style="border:none; cursor:pointer;">Meet everyone &rarr;</button>
     </div>
     <p style="color:var(--slate); font-size:.98rem; max-width:56ch; margin:-16px 0 32px;">Fifteen of us, working across bioinformatics, wet-lab biology, and computation. Click any name to visit their profile.</p>
 
@@ -487,33 +505,33 @@ permalink: /
       <a class="section-link" href="{{ site.url }}/docs/publication/">All publications &rarr;</a>
     </div>
     <div class="pub-list">
-      <div class="pub-card">
-        <div class="pub-media is-placeholder"><span>Cell Reports<br>Medicine</span></div>
+      <a class="pub-card" href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00237-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS266637912500237X%3Fshowall%3Dtrue" target="_blank">
+        <div class="pub-media"><img src="{{ site.url }}/assets/img/Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype.jpg" alt="Figure from Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy"></div>
         <div>
           <div class="pub-meta"><span class="pub-year">2025</span><span class="pub-journal">Cell Rep Med</span></div>
           <div class="pub-title">Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype</div>
           <span class="pub-authors">Seo ES, An S, Kim H, Kim JY, et al.</span>
           <p class="pub-summary">Breast cancer subtypes follow very different paths after chemotherapy given before surgery, leaving behind distinct patterns of residual disease &mdash; a step toward subtype-specific follow-up treatment.</p>
         </div>
-      </div>
-      <div class="pub-card">
-        <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-natgenet-2024-thumb.png" alt="Figure showing ecDNA amplification prevalence and change across cancer types, from Kim et al. Nature Genetics 2024"></div>
+      </a>
+      <a class="pub-card" href="https://www.nature.com/articles/s41588-024-01949-7" target="_blank">
+        <div class="pub-media"><img src="{{ site.url }}/assets/img/Mapping extrachromosomal DNA amplifications during cancer progression.png" alt="Figure showing ecDNA amplification prevalence and change across cancer types, from Kim et al. Nature Genetics 2024"></div>
         <div>
           <div class="pub-meta"><span class="pub-year">2024</span><span class="pub-journal">Nature Genetics</span></div>
           <div class="pub-title">Mapping extrachromosomal DNA amplifications during cancer progression</div>
           <span class="pub-authors">Kim H, Kim S, Wade T, Yeo E, An S, Ko J, Nam Y, Lee HY, Kang S, Chung H, Verhaak RGW</span>
           <p class="pub-summary">The first pan-cancer map of ecDNA amplification, showing these circular DNA structures are far more common than once thought &mdash; and that they predict worse outcomes as tumors advance.</p>
         </div>
-      </div>
-      <div class="pub-card">
-        <div class="pub-media is-placeholder"><span>Nature</span></div>
+      </a>
+      <a class="pub-card" href="https://www.nature.com/articles/s41586-023-05937-5" target="_blank">
+        <div class="pub-media"><img src="{{ site.url }}/assets/img/Extrachromosomal DNA in the cancerous transformation of Barrett’s oesophagus.png" alt="Figure from Extrachromosomal DNA in the cancerous transformation of Barrett's oesophagus"></div>
         <div>
           <div class="pub-meta"><span class="pub-year">2023</span><span class="pub-journal">Nature</span></div>
           <div class="pub-title">Extrachromosomal DNA in the cancerous transformation of Barrett's esophagus</div>
           <span class="pub-authors">Luebeck J, Ng AWT, Kim H, et al., Chang HY, Mischel PS</span>
           <p class="pub-summary">Extends ecDNA's reach beyond the cancers we usually study, showing it also drives the earliest steps of Barrett's esophagus turning cancerous.</p>
         </div>
-      </div>
+      </a>
     </div>
     <p style="margin-top:26px; font-size:.9rem; color:var(--slate);">Also on <a href="https://scholar.google.com/citations?user=foxOEo4AAAAJ&hl=en" target="_blank" style="color:var(--teal); font-weight:600;">Google Scholar</a> and <a href="https://orcid.org/0000-0003-4244-6126" target="_blank" style="color:var(--teal); font-weight:600;">ORCID</a>.</p>
   </div>
@@ -570,14 +588,14 @@ permalink: /
     </div>
     <div class="foot-row">
       <a class="brand" href="#top">
-        <img src="{{ site.url }}/assets/img/logo/hoonlab-logo-navy-gold.png" alt="Hoon Lab" />
+        <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab" />
         <span class="brand-text"><strong>Hoon Lab</strong></span>
       </a>
       <ul class="foot-links">
-        <li><a href="#news">News</a></li>
-        <li><a href="#team">Team</a></li>
-        <li><a href="#research">Research</a></li>
-        <li><a href="#publications">Publications</a></li>
+        <li><a href="{{ site.url }}/docs/recent-news/">News</a></li>
+        <li><a href="{{ site.url }}/docs/team/">Team</a></li>
+        <li><a href="{{ site.url }}/docs/research/">Research</a></li>
+        <li><a href="{{ site.url }}/docs/publication/">Publications</a></li>
         <li><a href="#positions">Positions</a></li>
       </ul>
       <span>&copy; 2026 Hoon Lab, SKKU.</span>
@@ -598,48 +616,50 @@ permalink: /
 <script>
   var TEAM_GROUPS = [
     { title: "Principal Investigator", people: [
-      { name:"Hoon Kim, PhD", role:"Associate Professor", url:"{{ site.url }}/people/prof.kim/" }
+      { name:"Hoon Kim, PhD", role:"Associate Professor", url:"{{ site.url }}/people/prof.kim/", img:"Profile-184998_Kim_H.jpg" }
     ]},
     { title: "Research Professor", people: [
-      { name:"Sanghyun Kim, PhD", role:"Research Professor", url:"{{ site.url }}/people/phd_Kim/" }
+      { name:"Sanghyun Kim, PhD", role:"Research Professor", url:"{{ site.url }}/people/phd_Kim/", img:"phd_kim.png" }
     ]},
     { title: "Students", people: [
-      { name:"Jaeho Jang, MS", role:"Research Assistant", url:"{{ site.url }}/people/jh_jang" },
-      { name:"Heesuk Chung, BS\u00b7BA", role:"Research Assistant", url:"{{ site.url }}/people/hs_chung/" },
-      { name:"Seunghyun Kang, BS", role:"Research Assistant", url:"{{ site.url }}/people/sk_kang" },
-      { name:"Yoonjoo Nam, BS", role:"Research Assistant", url:"{{ site.url }}/people/yj_nam" },
-      { name:"Eunchae Yeo, BS", role:"Research Assistant", url:"{{ site.url }}/people/ec_yeo" },
-      { name:"Jiwon Shon, BS", role:"Research Assistant", url:"{{ site.url }}/people/jw_shon" },
-      { name:"Hyunjeong Sun, MS", role:"Research Assistant", url:"{{ site.url }}/people/hj_sun" },
-      { name:"Boyoon Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/by_kim" },
-      { name:"Junghyun Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/jh_kim" },
-      { name:"Hyeongjin Cho, Pharm.D.", role:"Research Assistant", url:"{{ site.url }}/people/hj_cho/" },
-      { name:"Jueon Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/je_kim" },
-      { name:"Jongkyu Jang, Pharm.D.", role:"M.S. Candidate", url:"{{ site.url }}/people/jk_jang/" }
+      { name:"Jaeho Jang, MS", role:"Research Assistant", url:"{{ site.url }}/people/jh_jang", img:"jh_jang.jpg" },
+      { name:"Heesuk Chung, BS\u00b7BA", role:"Research Assistant", url:"{{ site.url }}/people/hs_chung/", img:"hs_jung.jpg" },
+      { name:"Seunghyun Kang, BS", role:"Research Assistant", url:"{{ site.url }}/people/sk_kang", img:"SeungHyun_Kang.png" },
+      { name:"Yoonjoo Nam, BS", role:"Research Assistant", url:"{{ site.url }}/people/yj_nam", img:"yj_nam.png" },
+      { name:"Eunchae Yeo, BS", role:"Research Assistant", url:"{{ site.url }}/people/ec_yeo", img:"ec_yeo.png" },
+      { name:"Jiwon Shon, BS", role:"Research Assistant", url:"{{ site.url }}/people/jw_shon", img:"jw_shon.png" },
+      { name:"Hyunjeong Sun, MS", role:"Research Assistant", url:"{{ site.url }}/people/hj_sun", img:"hj_sun.jpeg" },
+      { name:"Boyoon Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/by_kim", img:"by_kim.jpg" },
+      { name:"Junghyun Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/jh_kim", img:"jh_kim.png" },
+      { name:"Hyeongjin Cho, Pharm.D.", role:"Research Assistant", url:"{{ site.url }}/people/hj_cho/", img:"hj_cho.jpg" },
+      { name:"Jueon Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/je_kim", img:"je_kim.jpg" },
+      { name:"Jongkyu Jang, Pharm.D.", role:"M.S. Candidate", url:"{{ site.url }}/people/jk_jang/", img:"jk_jang.png" }
     ]},
     { title: "Interns", people: [
-      { name:"Hyesoo Kim", role:"Undergraduate Intern", url:"{{ site.url }}/people/hyesoo_kim" }
+      { name:"Hyesoo Kim", role:"Undergraduate Intern", url:"{{ site.url }}/people/hyesoo_kim", img:"hyesoo_kim.png" }
     ]},
     { title: "Alumni", people: [
-      { name:"Soyeon Kim, MS", role:"PhD Student, Wellcome Sanger Institute", url:"{{ site.url }}/people/sy_kim" }
+      { name:"Soyeon Kim, MS", role:"PhD Student, Wellcome Sanger Institute", url:"{{ site.url }}/people/sy_kim", img:"sy_kim.png" }
     ]},
     { title: "Former Lab Members", people: [
-      { name:"Nayeon Kim", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/nayeon_kim" },
-      { name:"Chanho Yang", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/chanho_yang" },
-      { name:"Soeun Lee", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/Soeun_Lee" },
-      { name:"Yoonji Choi, MD", role:"Associate Professor, Korea University College of Medicine", url:"{{ site.url }}/people/prof_choi/" },
-      { name:"Yeonsik Kim", role:"Korea Polytechnic University", url:"{{ site.url }}/people/ys_kim" },
-      { name:"Youngjin Moon", role:"Jeonbuk National University", url:"{{ site.url }}/people/yj_moon" },
-      { name:"Daeho Joe, BS", role:"Research Assistant", url:"{{ site.url }}/people/dh_joe" },
-      { name:"Junyong Ko", role:"Junior, SKKU", url:"{{ site.url }}/people/jy_ko" },
-      { name:"Hwayeon Lee", role:"Junior, UCSD", url:"{{ site.url }}/people/hy_lee" },
-      { name:"Seungjae Han", role:"Junior, Korea University", url:"{{ site.url }}/people/sj_han" },
-      { name:"Sepil An, BS", role:"Research Assistant", url:"{{ site.url }}/people/sp_an" },
-      { name:"Dongjoo Yoon, BA", role:"Research Assistant", url:"{{ site.url }}/people/dj_yoon" },
-      { name:"Dayoung Jeong", role:"Undergraduate Intern", url:"{{ site.url }}/people/dy_jeong" },
-      { name:"Seonghyun Jeon", role:"Undergraduate Intern", url:"{{ site.url }}/people/jsh040727" }
+      { name:"Nayeon Kim", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/nayeon_kim", img:"nayeon_kim.jpg" },
+      { name:"Chanho Yang", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/chanho_yang", img:"chanho_yang.jpg" },
+      { name:"Soeun Lee", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/Soeun_Lee", img:"Soeun_Lee.jpg" },
+      { name:"Yoonji Choi, MD", role:"Associate Professor, Korea University College of Medicine", url:"{{ site.url }}/people/prof_choi/", img:"prof_choi.png" },
+      { name:"Yeonsik Kim", role:"Korea Polytechnic University", url:"{{ site.url }}/people/ys_kim", img:"ys_kim.png" },
+      { name:"Youngjin Moon", role:"Jeonbuk National University", url:"{{ site.url }}/people/yj_moon", img:"yj_moon.png" },
+      { name:"Daeho Joe, BS", role:"Research Assistant", url:"{{ site.url }}/people/dh_joe", img:"dh_joe.png" },
+      { name:"Junyong Ko", role:"Junior, SKKU", url:"{{ site.url }}/people/jy_ko", img:"jy_ko.png" },
+      { name:"Hwayeon Lee", role:"Junior, UCSD", url:"{{ site.url }}/people/hy_lee", img:"hy_lee.jpg" },
+      { name:"Seungjae Han", role:"Junior, Korea University", url:"{{ site.url }}/people/sj_han", img:"sj_han.png" },
+      { name:"Sepil An, BS", role:"Research Assistant", url:"{{ site.url }}/people/sp_an", img:"sp_an.jpg" },
+      { name:"Dongjoo Yoon, BA", role:"Research Assistant", url:"{{ site.url }}/people/dj_yoon", img:"dj_yoon.png" },
+      { name:"Dayoung Jeong", role:"Undergraduate Intern", url:"{{ site.url }}/people/dy_jeong", img:"dy_jeong.jpg" },
+      { name:"Seonghyun Jeon", role:"Undergraduate Intern", url:"{{ site.url }}/people/jsh040727", img:"sj_han.jpg" }
     ]}
   ];
+
+  var IMG_BASE = "{{ site.url }}/assets/img/people/";
 
   function buildDirectory(){
     var html = '';
@@ -647,6 +667,7 @@ permalink: /
       html += '<div class="team-group"><p class="team-group-title">'+g.title+'</p><div class="directory-grid">';
       g.people.forEach(function(p){
         html += '<a class="directory-person" href="'+p.url+'" target="_blank">'
+              + '<span class="avatar-sm"><img src="'+IMG_BASE+p.img+'" alt="'+p.name+'"></span>'
               + '<span><span class="d-name">'+p.name+'</span><span class="d-role">'+p.role+'</span></span>'
               + '</a>';
       });
@@ -676,15 +697,6 @@ permalink: /
 </script>
 
 <script>
-  var sections = ['news','team','research','publications','positions','contact'].map(function(id){return document.getElementById(id);});
-  var links = document.querySelectorAll('.nav-links a');
-  function onScroll(){
-    var y = window.scrollY + 120; var current='top';
-    sections.forEach(function(s){ if (s && s.offsetTop <= y) current = s.id; });
-    links.forEach(function(a){ a.classList.toggle('active', a.getAttribute('href') === '#'+current); });
-  }
-  document.addEventListener('scroll', onScroll, {passive:true}); onScroll();
-
   var navToggle = document.getElementById('nav-toggle');
   var mobileNav = document.getElementById('mobile-nav');
   if (navToggle){
