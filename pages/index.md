@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <style>
-  html, body{ font-size:16px !important; }
+  html, body{ font-size:18px !important; }
   body > header.md-header,
   body [data-md-component="header"],
   body [data-md-component="navigation"],
@@ -112,11 +112,11 @@ permalink: /
   .home-body .section-head{ display:flex; justify-content:space-between; align-items:flex-end; gap:20px; margin-bottom:36px; flex-wrap:wrap; }
   .home-body .section-head h2{ font-family:'Fraunces',serif; font-weight:600; font-size:clamp(1.7rem,2.4vw,2.15rem); margin:8px 0 0; }
   .home-body .section-link{
-    font-family:'IBM Plex Mono',monospace; font-size:.9rem; font-weight:700; text-decoration:none;
-    color:var(--teal); white-space:nowrap; background:var(--coral-soft); padding:9px 18px;
-    border-radius:999px; display:inline-block; transition:background .2s ease, color .2s ease;
+    font-family:'IBM Plex Mono',monospace; font-size:1.02rem; font-weight:700; text-decoration:none;
+    color:var(--teal); white-space:nowrap; background:none; padding:0;
+    border-radius:0; display:inline-block; transition:color .2s ease;
   }
-  .home-body .section-link:hover{ background:var(--teal); color:#fff; }
+  .home-body .section-link:hover{ color:var(--teal-deep); text-decoration:underline; }
 
   .home-body .card{ background:var(--surface); border:1px solid var(--line); transition:transform .25s ease, box-shadow .25s ease, border-color .25s ease; border-radius:16px; }
   .home-body .card:hover{ transform:translateY(-3px); box-shadow:0 14px 30px -14px rgba(16,24,38,.18); border-color:#CFCABA; }
@@ -158,16 +158,18 @@ permalink: /
 
   .home-body .team-list{
     list-style:none; margin:0; padding:0;
-    display:grid; grid-template-columns:repeat(3,1fr); gap:2px;
-    border:1px solid var(--line); border-radius:12px; overflow:hidden; background:var(--line);
+    display:grid; grid-template-columns:repeat(3,1fr); gap:16px;
   }
-  .home-body .team-list li{ background:var(--surface); }
+  .home-body .team-list li{
+    background:var(--surface); border:1px solid var(--line); border-radius:14px; overflow:hidden;
+    transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+  }
+  .home-body .team-list li:hover{ transform:translateY(-2px); box-shadow:0 12px 26px -16px rgba(16,24,38,.22); border-color:#CFCABA; }
   .home-body .team-list a{
-    display:flex; flex-direction:column; gap:2px; padding:16px 18px; text-decoration:none;
+    display:flex; flex-direction:column; gap:3px; padding:18px 20px; text-decoration:none;
   }
-  .home-body .team-list a:hover{ background:var(--paper); }
-  .home-body .t-name{ font-family:'Fraunces',serif; font-weight:600; font-size:.98rem; color:var(--ink); }
-  .home-body .t-role{ font-family:'IBM Plex Mono',monospace; font-size:.72rem; color:var(--slate); }
+  .home-body .t-name{ font-family:'Fraunces',serif; font-weight:600; font-size:1.05rem; color:var(--ink); }
+  .home-body .t-role{ font-family:'IBM Plex Mono',monospace; font-size:.78rem; color:var(--slate); }
   @media (max-width:900px){ .home-body .team-list{ grid-template-columns:repeat(2,1fr); } }
   @media (max-width:560px){ .home-body .team-list{ grid-template-columns:1fr; } }
 
@@ -295,7 +297,7 @@ permalink: /
       <li><a href="{{ site.url }}/docs/research/">Research</a></li>
       <li><a href="{{ site.url }}/docs/publication/">Publications</a></li>
       <li><a href="#positions">Positions</a></li>
-      <li><a href="{{ site.url }}/docs/contact/">Contact</a></li>
+      <li><a href="{{ site.url }}/#contact">Contact</a></li>
     </ul>
     <a class="nav-cta" href="#contact">Join the lab</a>
     <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">&#9776;</button>
@@ -308,7 +310,7 @@ permalink: /
   <a href="{{ site.url }}/docs/research/">Research</a>
   <a href="{{ site.url }}/docs/publication/">Publications</a>
   <a href="#positions">Positions</a>
-  <a href="{{ site.url }}/docs/contact/">Contact</a>
+  <a href="{{ site.url }}/#contact">Contact</a>
 </div>
 
 <header class="hero">
@@ -410,7 +412,7 @@ permalink: /
   <div class="wrap">
     <div class="section-head">
       <div><span class="eyebrow">Who we are</span><h2>Team</h2></div>
-      <button class="section-link" id="team-directory-btn" style="border:none; cursor:pointer;">Meet everyone &rarr;</button>
+      <button class="section-link" id="team-directory-btn" style="border:none; background:none; cursor:pointer;">Meet everyone &rarr;</button>
     </div>
     <p style="color:var(--slate); font-size:.98rem; max-width:56ch; margin:-16px 0 32px;">Fifteen of us, working across bioinformatics, wet-lab biology, and computation. Click any name to visit their profile.</p>
 
@@ -506,7 +508,7 @@ permalink: /
     </div>
     <div class="pub-list">
       <a class="pub-card" href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00237-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS266637912500237X%3Fshowall%3Dtrue" target="_blank">
-        <div class="pub-media"><img src="{{ site.url }}/assets/img/Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype.jpg" alt="Figure from Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy"></div>
+        <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-cellrepmed-2025.jpg" alt="Figure from Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy"></div>
         <div>
           <div class="pub-meta"><span class="pub-year">2025</span><span class="pub-journal">Cell Rep Med</span></div>
           <div class="pub-title">Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype</div>
@@ -515,7 +517,7 @@ permalink: /
         </div>
       </a>
       <a class="pub-card" href="https://www.nature.com/articles/s41588-024-01949-7" target="_blank">
-        <div class="pub-media"><img src="{{ site.url }}/assets/img/Mapping extrachromosomal DNA amplifications during cancer progression.png" alt="Figure showing ecDNA amplification prevalence and change across cancer types, from Kim et al. Nature Genetics 2024"></div>
+        <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-natgenet-2024.png" alt="Figure showing ecDNA amplification prevalence and change across cancer types, from Kim et al. Nature Genetics 2024"></div>
         <div>
           <div class="pub-meta"><span class="pub-year">2024</span><span class="pub-journal">Nature Genetics</span></div>
           <div class="pub-title">Mapping extrachromosomal DNA amplifications during cancer progression</div>
@@ -524,7 +526,7 @@ permalink: /
         </div>
       </a>
       <a class="pub-card" href="https://www.nature.com/articles/s41586-023-05937-5" target="_blank">
-        <div class="pub-media"><img src="{{ site.url }}/assets/img/Extrachromosomal DNA in the cancerous transformation of Barrett’s oesophagus.png" alt="Figure from Extrachromosomal DNA in the cancerous transformation of Barrett's oesophagus"></div>
+        <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-nature-2023-barretts.png" alt="Figure from Extrachromosomal DNA in the cancerous transformation of Barrett's oesophagus"></div>
         <div>
           <div class="pub-meta"><span class="pub-year">2023</span><span class="pub-journal">Nature</span></div>
           <div class="pub-title">Extrachromosomal DNA in the cancerous transformation of Barrett's esophagus</div>
@@ -651,7 +653,7 @@ permalink: /
       { name:"Daeho Joe, BS", role:"Research Assistant", url:"{{ site.url }}/people/dh_joe", img:"dh_joe.png" },
       { name:"Junyong Ko", role:"Junior, SKKU", url:"{{ site.url }}/people/jy_ko", img:"jy_ko.png" },
       { name:"Hwayeon Lee", role:"Junior, UCSD", url:"{{ site.url }}/people/hy_lee", img:"hy_lee.jpg" },
-      { name:"Seungjae Han", role:"Junior, Korea University", url:"{{ site.url }}/people/sj_han", img:"sj_han.png" },
+      { name:"Seungjae Han", role:"Junior, Korea University", url:"{{ site.url }}/people/sj_han", img:"sj_han.jpeg" },
       { name:"Sepil An, BS", role:"Research Assistant", url:"{{ site.url }}/people/sp_an", img:"sp_an.jpg" },
       { name:"Dongjoo Yoon, BA", role:"Research Assistant", url:"{{ site.url }}/people/dj_yoon", img:"dj_yoon.png" },
       { name:"Dayoung Jeong", role:"Undergraduate Intern", url:"{{ site.url }}/people/dy_jeong", img:"dy_jeong.jpg" },
