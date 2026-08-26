@@ -1,12 +1,5 @@
 <style>
-  /* Force root font-size: the old theme sets html{font-size:62.5%} which
-     shrinks every rem-based measurement across our design. Reset it,
-     and push it slightly above 16px since even 16px still read small. */
   html, body{ font-size:18px !important; }
-
-  /* Hide every remnant of the old Material-for-MkDocs-style theme chrome
-     (top header, left sidebar, right table-of-contents sidebar, badges
-     injected by tags.html) on any page that includes this file. */
   body > header.md-header,
   body [data-md-component="header"],
   body [data-md-component="navigation"],
@@ -24,12 +17,11 @@
     --slate:#68707D; --line:#E4E1D6;
     background:var(--paper); color:var(--ink); font-family:'Inter',sans-serif;
     background-image:radial-gradient(circle, #DAD6C7 1px, transparent 1px); background-size:22px 22px;
+    min-height:100vh;
   }
   .home-body *{ box-sizing:border-box; }
   .home-body a{ color:var(--teal); }
 
-  /* Small fixed "back to home" pill for any page that doesn't carry the
-     full site nav (used on subpages until they get the full treatment). */
   .back-home-pill{
     position:fixed; top:16px; left:16px; z-index:60;
     display:inline-flex; align-items:center; gap:6px;
@@ -39,20 +31,35 @@
   }
   .back-home-pill:hover{ background:#0A4F49; }
 
-  .wrap{ max-width:760px; margin:0 auto; padding:56px 24px 72px; }
-  .eyebrow{ font-family:'IBM Plex Mono',monospace; font-size:.78rem; letter-spacing:.16em; text-transform:uppercase; color:var(--teal-deep); font-weight:600; }
-  h1{ font-family:'Fraunces',serif; font-weight:600; font-size:2.3rem; margin:10px 0 28px; }
-  .person-layout{ display:grid; grid-template-columns:220px 1fr; gap:36px; align-items:start; }
-  .person-photo{ width:100%; border-radius:12px; border:1px solid var(--line); object-fit:cover; aspect-ratio:4/5; }
-  .field{ margin-bottom:24px; }
-  .field-label{ font-family:'IBM Plex Mono',monospace; font-size:.76rem; letter-spacing:.1em; text-transform:uppercase; color:var(--teal-deep); font-weight:600; display:block; margin-bottom:8px; }
-  .field p{ margin:0 0 10px; font-size:1rem; color:var(--ink-soft); line-height:1.65; }
-  .field .org{ font-weight:600; color:var(--ink); }
-  .timeline{ display:flex; flex-direction:column; gap:16px; }
-  .timeline .step{ position:relative; padding-left:18px; }
-  .timeline .step::before{ content:""; position:absolute; left:0; top:6px; width:7px; height:7px; border-radius:50%; background:var(--coral); }
-  .step-when{ font-family:'IBM Plex Mono',monospace; font-size:.74rem; letter-spacing:.06em; text-transform:uppercase; color:var(--slate); display:block; }
-  .step-what{ font-weight:600; font-size:1rem; color:var(--ink); }
-  @media (max-width:640px){ .person-layout{ grid-template-columns:1fr; } }
+  /* Full-width profile template (used by every /people/ page) */
+  .profile-hero{ padding:72px 0 48px; text-align:center; border-bottom:1px solid var(--line); }
+  .profile-hero .outer{ max-width:1320px; margin:0 auto; padding:0 40px; }
+  .profile-photo{
+    width:230px; height:288px; object-fit:cover; border-radius:16px; border:1px solid var(--line);
+    margin:0 auto 26px; display:block; box-shadow:0 22px 50px -28px rgba(16,24,38,.3);
+  }
+  .profile-hero .eyebrow{
+    display:block; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:.8rem;
+    letter-spacing:.16em; text-transform:uppercase; color:var(--teal-deep); font-weight:600;
+  }
+  .profile-hero h1{ font-family:'Fraunces',serif; font-weight:600; font-size:2.7rem; margin:0; color:var(--ink); }
+
+  .profile-body{ padding:48px 0 96px; }
+  .profile-body .inner{ max-width:760px; margin:0 auto; padding:0 40px; }
+  .profile-field{ margin-bottom:0; padding:28px 0; border-top:1px solid var(--line); }
+  .profile-field:first-child{ border-top:none; padding-top:0; }
+  .profile-field-label{
+    font-family:'IBM Plex Mono',monospace; font-size:.78rem; letter-spacing:.1em; text-transform:uppercase;
+    color:var(--teal-deep); font-weight:600; display:block; margin-bottom:10px;
+  }
+  .profile-field p{ margin:0 0 12px; font-size:1.02rem; color:var(--ink-soft); line-height:1.7; }
+  .profile-field p:last-child{ margin-bottom:0; }
+  .profile-field .org{ font-weight:600; color:var(--ink); }
+  .profile-timeline{ display:flex; flex-direction:column; gap:20px; }
+  .profile-timeline .step{ position:relative; padding-left:20px; }
+  .profile-timeline .step::before{ content:""; position:absolute; left:0; top:7px; width:8px; height:8px; border-radius:50%; background:var(--coral); }
+  .profile-step-when{ font-family:'IBM Plex Mono',monospace; font-size:.76rem; letter-spacing:.06em; text-transform:uppercase; color:var(--slate); display:block; }
+  .profile-step-what{ font-weight:600; font-size:1.02rem; color:var(--ink); }
+  @media (max-width:640px){ .profile-hero h1{ font-size:2.1rem; } .profile-photo{ width:190px; height:238px; } }
 </style>
-<a class="back-home-pill" href="{{ site.url }}/">&larr; Hoon Lab</a>
+<a class="back-home-pill" href="{{ site.url }}/">&larr; Hoon Bio Lab</a>
