@@ -11,33 +11,18 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Junghyun Kim
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/jh_kim.png" width="480px" height="568px" alt="Junghyun Kim" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Research Assistant</span>
+  <h1>Junghyun Kim, BS</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Genomics, bioinformatics, precision medicine, translational research</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Sungkyunkwan University</span><br>Integrative Biotechnology, 03/2018 &ndash; 02/2022</p></div>
+    </div>
+  </div>
 </div>
-
-### **Research Interest**
-Genomics, Bioinformatics, Precision medicine, Translational research
-
-### **Education and Experience**
-
-**Sungkyunkwan University**
-- Integrative Biotechnology, 03/2018 ~ 02/2022
+</div>

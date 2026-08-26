@@ -11,37 +11,18 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Younghin Moon
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/yj_moon.png" width="480px" height="568px" alt="Youngjin Moon" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Former Lab Member</span>
+  <h1>Youngjin Moon</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon">
+    <div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Jeonbuk National University</span><br>BS, Electric Engineering &amp; Computer Science Minor, 02/2011 &ndash; 07/2017</p><p><span class="org">Junior Engineer</span><br>11/2017 &ndash; current</p></div>
+      <div class="field"><span class="field-label">Programming</span><p>C, C++</p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Education and Experience**
-
-**Jeonbuk National University**
-- BS, Electric Engineering &amp; Computer Science Minor, 02/2011 ~ 07/2017
-
-**Junior Engineer**
-- 11/2017 ~ current
-
-### **Experienced in programming**
-languages (C, C++) 
+</div>

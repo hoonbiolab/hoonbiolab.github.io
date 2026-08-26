@@ -11,35 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center {
-  text-align: center;
-}
-</style>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css" />
-
-<div class="center">
-  <div style="font-weight: bold; font-size: 40px;">About</div>
-  <div style="font-weight: bold; font-size: 32px;">Jongkyu Jang</div>
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">M.S. Candidate</span>
+  <h1>Jongkyu Jang, Pharm.D.</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/jk_jang.png" alt="Jongkyu Jang">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Bioinformatics, oncology, computer programming</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Sungkyunkwan University</span><br>B.S. in Pharmacy, College of Pharmacy, &ndash;2026/02<br>M.S. Candidate, Dept. of Biopharmaceutical Convergence, College of Pharmacy, 2026/03&ndash;</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:whdrb2149@gmail.com">whdrb2149@gmail.com</a></p></div>
+    </div>
+  </div>
 </div>
-
-<div class="center">
-  <img src="{{ site.url }}/assets/img/people/jk_jang.png" width="480px" height="568px" alt="Jongkyu Jang" />
 </div>
-
-### **Research Interest**
-Bioinformatics, Oncology, Computer programming
-
-### **Education and Experience**
-**Sungkyunkwan University**
-- B.S. in Pharmacy, College of Pharmacy, ~2026/02
-- M.S. Candidate, Dept. of Biopharmaceutical Convergence, College of Pharmacy, 2026/03~
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> whdrb2149@gmail.com

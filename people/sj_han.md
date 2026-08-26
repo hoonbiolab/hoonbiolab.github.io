@@ -11,42 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Seungjae Han
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/sj_han.png" width="480px" height="568px" alt="Seungjae Han" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Former Lab Member</span>
+  <h1>Seungjae Han</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/sj_han.png" alt="Seungjae Han">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Neuroscience, immune engineering, computer programming</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Korea University</span><br>Division of Biotechnology, 03/2022 &ndash; Current</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:jayhanbest@gmail.com">jayhanbest@gmail.com</a></p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Research Interest**
-Neuroscience, Immune Engineering, Computer programming
-
-### **Education and Experience**
-
-**Korea University**
-- Division of Biotechnology, 03/2022 ~ Current
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> jayhanbest@gmail.com
+</div>

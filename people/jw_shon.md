@@ -11,45 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Jiwon Shon
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/jw_shon.png" width="480px" height="568px" alt="Jiwon Shon" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Research Assistant</span>
+  <h1>Jiwon Shon, BS</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Immunology, bioinformatics, cancer genomics</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Ghent University, Global Campus</span><br>Molecular Biotechnology, 09/2017 &ndash; 08/2022</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:jwsohn92@gmail.com">jwsohn92@gmail.com</a></p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Research Interest**
-Immunology, Bioinformatics, Cancer genomics
-
-### **Education and Experience**
-
-**Ghent University, Global Campus**
-- Molecular Biotechnology, 09/2017 ~ 08/2022
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> jwsohn92@gmail.com 
-
-
-
+</div>

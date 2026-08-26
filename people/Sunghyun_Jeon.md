@@ -11,42 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Sunghyun Jeon
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/sj_han.jpg" width="413px" height="531px" alt="Sunghyun Jeon" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Former Lab Member</span>
+  <h1>Sunghyun Jeon</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/sj_han.jpg" alt="Sunghyun Jeon">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Epigenetics, oncology</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Sungkyunkwan University</span><br>School of Pharmacy, 03/2023 &ndash; Current</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:jsh040727@g.skku.edu">jsh040727@g.skku.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Research Interest**
-Epigenetics, oncology
-
-### **Education and Experience**
-
-**Sungkyunkwan University**
-- School of Pharmacy, 03/2023 ~ Current
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> jsh040727@g.skku.edu
+</div>

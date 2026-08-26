@@ -11,44 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Seunghyun Kang
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" width="480px" height="568px" alt="SeungHyun Kang" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Research Assistant</span>
+  <h1>Seunghyun Kang, BS</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Biochemistry, bioinformatics, cancer immunology, immunotherapy, drug discovery</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Calvin University, Grand Rapids, MI</span><br>BS, Biochemistry, 09/2013 &ndash; 05/2019</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:steve941101@gmail.com">steve941101@gmail.com</a></p></div>
+    </div>
+  </div>
 </div>
-
-### **Research Interest**
-Biochemistry, Bioinformatics, Cancer Immunology, Immunotherapy, Drug Discovery
-
-### **Education and Experience**
-
-**Calvin University, Grand Rapids MI.**
-- BS, Biochemistry, 09/2013 ~ 05/2019
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> steve941101@gmail.com
-
-
-
-
+</div>

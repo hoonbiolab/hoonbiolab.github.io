@@ -11,43 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Soeun Lee
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/Soeun_Lee.jpg" width="480px" height="568px" alt="Soeun Lee" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Former Lab Member &middot; Undergraduate Intern (until Aug 2026)</span>
+  <h1>Soeun Lee</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/Soeun_Lee.jpg" alt="Soeun Lee">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Bioinformatics, cancer genomics</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Sungkyunkwan University</span><br>Integrative Biotechnology, 03/2024 &ndash; Current<br>Undergraduate Intern, School of Pharmacy, 06/2026 &ndash; 08/2026</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:terari05@g.skku.edu">terari05@g.skku.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Research Interest**
-Bioinformatics, Cancer genomics
-
-### **Education and Experience**
-
-**Sungkyunkwan University**
-- Integrative Biotechnology, 03/2024 ~ Current
-- Undergraduate Intern, School of Pharmacy, 06/2026 ~ 08/2026
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> terari05@g.skku.edu
+</div>

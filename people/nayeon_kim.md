@@ -11,42 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center {
-  text-align: center;
-}
-</style>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css" />
-
-<div class="center">
-  <div style="font-weight: bold; font-size: 40px;">About</div>
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Former Lab Member &middot; Undergraduate Intern (until Aug 2026)</span>
+  <h1>Na Yeon Kim</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/nayeon_kim.jpg" alt="Na Yeon Kim">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Cancer genomics, bioinformatics, artificial intelligence</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Sungkyunkwan University</span><br>BS, Biological Science, 03/2024 &ndash; Current<br>Research Intern, 06/2026 &ndash; 08/14/2026</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:jenny00021@naver.com">jenny00021@naver.com</a></p></div>
+    </div>
+  </div>
 </div>
-
-<div class="center">
-  <div style="font-weight: bold; font-size: 32px;">Na Yeon Kim</div>
 </div>
-
-<div class="center">
-  <img src="{{ site.url }}/assets/img/people/nayeon_kim.jpg" width="480px" height="568px" alt="Na Yeon Kim" />
-</div>
-
-### **Research Interest**
-
-Cancer genomics, Bioinformatics, Artificial Intelligence
-
-### **Education and Experience**
-
-**Sungkyunkwan University**
-
-- BS, Biological Science, 03/2024 ~ Current
-- Research Intern, 06/2026 ~ 08/14/2026
-
-### **Contact**
-
-<i class="fa fa-paper-plane"></i> jenny00021@naver.com

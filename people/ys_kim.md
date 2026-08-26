@@ -11,37 +11,18 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Yeonsik Kim
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/ys_kim.png" width="480px" height="568px" alt="Yeonsik Kim" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Former Lab Member</span>
+  <h1>Yeonsik Kim</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim">
+    <div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Korea Polytechnic University</span><br>BS, Computer Engineering, 02/2008 &ndash; 02/2016</p><p><span class="org">Associate Research Engineer</span><br>04/2016 &ndash; current</p></div>
+      <div class="field"><span class="field-label">Programming</span><p>C, Java</p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Education and Experience**
-
-**Korea Polytechnic University**
-- BS, Computer Engineering, 02/2008 ~ 02/2016
-
-**Associate Research Engineer**
-- 04/2016 ~ current
-
-### **Experienced in programming**
-languages (C, Java) 
+</div>

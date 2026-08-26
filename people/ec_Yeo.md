@@ -11,42 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Eunchae Yeo
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/ec_yeo.png" width="480px" height="568px" alt="Eunchae Yeo" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Research Assistant</span>
+  <h1>Eunchae Yeo, BS</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Biomedical engineering, neuroscience, glioblastoma, cancer genomics</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Korea University</span><br>BS, Biomedical Engineering, 03/2011 &ndash; 08/2020</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:ecyeo@g.skku.edu">ecyeo@g.skku.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Research Interest**
-Biomedical Engineering, Neuroscience, Glioblastoma, Cancer genomics
-
-### **Education and Experience**
-
-**Korea University**
-- BS, Biomedical Engineering, 03/2011 ~ 08/2020
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> ecyeo@g.skku.edu
+</div>

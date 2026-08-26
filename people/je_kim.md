@@ -11,42 +11,19 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-JuEon Kim
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/je_kim.jpg" width="480px" height="568px" alt="Jueon Kim" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Research Assistant</span>
+  <h1>Jueon Kim, BS</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/je_kim.jpg" alt="Jueon Kim">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Multiomics, bioinformatics</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Sungkyunkwan University</span><br>BS, Integrative Biotechnology &amp; Bioinformatics, 02/2025</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:hellometto@g.skku.edu">hellometto@g.skku.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Research Interest**
-Multiomics, Bioinformatics
-
-### **Education and Experience**
-
-**Sungkyunkwan university **
-- BS, Integrative Biotechnology & Bioinformatics , 02/2025
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> hellometto@g.skku.edu
+</div>

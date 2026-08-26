@@ -11,44 +11,22 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Hyunjeong Sun
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" width="480px" height="568px" alt="Hyunjeong Sun"/>
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Research Assistant</span>
+  <h1>Hyunjeong Sun, MS</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyunjeong Sun">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Regulatory science, cancer genomics, bioinformatics</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span>
+        <p><span class="org">Jeonbuk National University</span><br>BS, Biology, 03/2017 &ndash; 02/2021<br>BA, History Education</p>
+        <p><span class="org">Sungkyunkwan University</span><br>MS, Pharmacy, 09/2021 &ndash; 02/2024</p>
+      </div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:guswjd6522@g.skku.edu">guswjd6522@g.skku.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-### **Research Interest**
-Regulatory Science, cancer genomic, bioinformatics
-
-### **Education and Experience**
-
-**Jeonbuk National University**
-- BS, Biology, 03/2017 ~ 02/2021
-- BA, History Education
-
-**Sungkyunkwan University**
-- MS, Pharmacy, 09/2021 ~ 02/2024
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> guswjd6522@g.skku.edu
+</div>

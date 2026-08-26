@@ -11,48 +11,22 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Heesuk Chung
-</div></div>
-
-
-<div class="center">
-<img src="{{ site.url }}/assets/img/people/hs_jung.jpg" width="480px" height="568px" alt="Heesuk Jung" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Research Assistant</span>
+  <h1>Heesuk Chung, BS&middot;BA</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Biochemistry, bioinformatics, biomedical data science, glioblastoma genomics/proteomics</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span>
+        <p><span class="org">Seoul National University</span><br>Master's program in Science &amp; Education, 07/2019 &ndash; 02/2021</p>
+        <p><span class="org">Chung-Ang University</span><br>BS, Chemistry, 09/2016 &ndash; 08/2019<br>BA, Business &amp; Economics, 03/2012 &ndash; 08/2019</p>
+      </div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:hadgie@g.skku.edu">hadgie@g.skku.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-### **Research Interest**
-Biochemistry, Bioinformatics, Biomedical data science, Glioblastoma genomics/proteomics
-
-### **Education and Experience**
-
-**Seoul National University**
-- Master program in Science & Education, 07/2019 ~ 02/2021
-
-**Chung-Ang University**
-- BS, Chemistry, 09/2016 ~ 08/2019
-- BA, Business & Economics, 03/2012 ~ 08/2019
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> hadgie@g.skku.edu
-
-
+</div>

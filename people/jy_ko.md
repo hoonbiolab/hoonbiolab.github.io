@@ -11,42 +11,18 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Junyong Ko
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/jy_ko.png" width="480px" height="568px" alt="Junyong Ko" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Former Lab Member</span>
+  <h1>Junyong Ko</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko">
+    <div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span><p><span class="org">Sungkyunkwan University</span><br>Electronic and Electrical Engineering, 03/2019 &ndash; Current<br>Experienced in Python, R, C, C++ and deep-learning modeling</p></div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:junyongi1@g.skku.edu">junyongi1@g.skku.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Education and Experience**
-
-**Sungkyunkwan University**
-- Electronic and Electrical Engineering, 03/2019 ~ Current
-- Experienced in programming languages (*Python, R, C, C++*) and deep-learning modeling.
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> junyongi1@g.skku.edu 
-
-
+</div>

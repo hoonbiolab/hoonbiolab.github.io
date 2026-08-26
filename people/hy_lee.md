@@ -11,45 +11,22 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css:
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Hwa Yeon Lee
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/hy_lee.jpg" width="480px" height="568px" alt="Hwa Yeon Lee" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Former Lab Member</span>
+  <h1>Hwa Yeon Lee</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwa Yeon Lee">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Precision medicine, bioinformatics</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span>
+        <p><span class="org">University of California, San Diego</span><br>BS, Biology with Specialization in Bioinformatics, 09/2018 &ndash;</p>
+        <p><span class="org">Northeastern University</span><br>BS, Pharmaceutical Sciences, 09/2016 &ndash; 05/2018</p>
+      </div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:hyl023@ucsd.edu">hyl023@ucsd.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-### **Research Interest**
-Precision medicine, Bioinformatics 
-
-### **Education and Experience**
-
-**University of California, San Diego.**
-- BS, Biology with Specialization in Bioinformatics, 09/2018 ~ 
-
-**Northeastern University.**
-- BS, in Pharmaceutical Sciences, 09/2016 ~ 05/2018
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> hyl023@ucsd.edu
-
-
+</div>

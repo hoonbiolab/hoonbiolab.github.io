@@ -11,51 +11,23 @@ show_meta: true
 comments: true
 mathjax: true
 noindex: false
-css: 
-  - /assets/css/imagehover.css
-  - /css/custom_home.css
 ---
-
-<style>
-.center{
-  text-align: center;
-}
-</style>  
-
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"
-  />
-
-
-<div class="center"><div style="font-weight: bold; font-size: 40px;">
-About</div></div>
-<div class="center"><div style="font-weight: bold; font-size: 32px;">
-Jaeho Jang
-</div></div>
-
-
-<div class="center">
-    <img src="{{ site.url }}/assets/img/people/jh_jang.jpg" width="480px" height="568px" alt="Jaeho Jang" />
+{% include person-style.html %}
+<div class="home-body">
+<div class="wrap">
+  <span class="eyebrow">Research Assistant</span>
+  <h1>Jaeho Jang, MS</h1>
+  <div class="person-layout">
+    <img class="person-photo" src="{{ site.url }}/assets/img/people/jh_jang.jpg" alt="Jaeho Jang">
+    <div>
+      <div class="field"><span class="field-label">Research Interest</span><p>Biology, bioinformatics, biomarker, cancer</p></div>
+      <div class="field"><span class="field-label">Education &amp; Experience</span>
+        <p><span class="org">JW Pharmaceutical</span><br>Research Scientist, 01/2013 &ndash; Current</p>
+        <p><span class="org">Seoul National University</span><br>Master's program in molecular medicine and biopharmaceutical science, 03/2010 &ndash; 02/2013</p>
+        <p><span class="org">Hanyang University</span><br>BS, Biology, 03/2003 &ndash; 02/2010</p>
+      </div>
+      <div class="field"><span class="field-label">Contact</span><p><i class="fa fa-paper-plane"></i> <a href="mailto:chamsae14@g.skku.edu">chamsae14@g.skku.edu</a></p></div>
+    </div>
+  </div>
 </div>
-
-
-### **Research Interest**
-Biology, Bioinformatics, Biomarker, Cancer
-
-### **Education and Experience**
-
-**JW Pharmaceutical**
-- Research Scientist, 01/2013 ~ current
-
-**Seoul National University**
-- Master program in molecular medicine and biopharmaceutical science, 03/2010 ~ 02/2013
-
-**Hanyang University**
-- BS, Biology, 03/2003 ~ 02/2010
-
-### **Contact**
-<i class="fa fa-paper-plane"></i> chamsae14@g.skku.edu
-
-
-
+</div>
