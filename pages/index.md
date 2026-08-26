@@ -47,9 +47,9 @@ permalink: /
     background:color-mix(in srgb, var(--paper) 90%, transparent);
     backdrop-filter:blur(10px); border-bottom:1px solid var(--line);
   }
-  .home-body .site-nav .wrap{ display:flex; align-items:center; justify-content:space-between; height:64px; }
+  .home-body .site-nav .wrap{ display:flex; align-items:center; justify-content:space-between; height:88px; }
   .home-body .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
-  .home-body .brand img{ height:30px; width:auto; }
+  .home-body .brand img{ height:60px; width:auto; }
   .home-body .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:var(--ink); display:block; }
   .home-body .nav-links{ display:flex; gap:28px; list-style:none; margin:0; padding:0; }
   .home-body .nav-links a{
@@ -219,7 +219,7 @@ permalink: /
   .home-body .contact-band h5{ font-family:'IBM Plex Mono',monospace; font-size:.74rem; letter-spacing:.1em; text-transform:uppercase; color:var(--coral); margin:0 0 12px; }
   .home-body .contact-band address, .home-body .contact-band .links{ font-style:normal; font-size:.95rem; color:rgba(255,255,255,.85); line-height:1.85; }
   .home-body .foot-row{ display:flex; justify-content:space-between; align-items:center; padding-top:22px; font-size:.82rem; color:rgba(255,255,255,.5); flex-wrap:wrap; gap:16px; }
-  .home-body .foot-row .brand img{ height:22px; }
+  .home-body .foot-row .brand img{ height:44px; }
   .home-body .foot-row .brand-text strong{ color:#fff; }
   .home-body .foot-links{ display:flex; gap:20px; list-style:none; margin:0; padding:0; flex-wrap:wrap; }
   .home-body .foot-links a{ color:rgba(255,255,255,.6); text-decoration:none; font-weight:600; }
@@ -287,8 +287,8 @@ permalink: /
 <nav class="site-nav" id="top">
   <div class="wrap">
     <a class="brand" href="#top">
-      <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab logo" />
-      <span class="brand-text"><strong>Hoon Lab</strong></span>
+      <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Bio Lab logo" />
+      <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
     </a>
     <ul class="nav-links">
       <li><a href="{{ site.url }}/" class="active">Home</a></li>
@@ -590,8 +590,8 @@ permalink: /
     </div>
     <div class="foot-row">
       <a class="brand" href="#top">
-        <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab" />
-        <span class="brand-text"><strong>Hoon Lab</strong></span>
+        <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Bio Lab" />
+        <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
       </a>
       <ul class="foot-links">
         <li><a href="{{ site.url }}/docs/recent-news/">News</a></li>
@@ -600,7 +600,7 @@ permalink: /
         <li><a href="{{ site.url }}/docs/publication/">Publications</a></li>
         <li><a href="#positions">Positions</a></li>
       </ul>
-      <span>&copy; 2026 Hoon Lab, SKKU.</span>
+      <span>&copy; 2026 Hoon Bio Lab, SKKU.</span>
     </div>
   </div>
 </footer>
