@@ -7,9 +7,10 @@
   body .md-sidebar,
   body .md-footer,
   h1 > .badge{ display:none !important; }
-  body .md-main__inner{ margin:0 !important; display:block !important; }
+  body .md-main__inner, body .md-main, body .md-grid, body .md-container{
+    display:block !important; max-width:none !important; margin:0 !important; padding:0 !important;
+  }
   body .md-content, body .md-content__inner{ max-width:none !important; margin:0 !important; padding:0 !important; }
-  body .md-container{ display:block !important; }
 
   .home-body{
     --ink:#101826; --ink-soft:#3A4456; --paper:#F5F4EE; --surface:#FFFFFF;
@@ -21,45 +22,117 @@
   }
   .home-body *{ box-sizing:border-box; }
   .home-body a{ color:var(--teal); }
-
-  .back-home-pill{
-    position:fixed; top:16px; left:16px; z-index:60;
-    display:inline-flex; align-items:center; gap:6px;
-    background:#101826; color:#fff; text-decoration:none;
-    font-family:'IBM Plex Mono',monospace; font-size:.8rem; font-weight:600;
-    padding:8px 14px; border-radius:999px; box-shadow:0 8px 20px -8px rgba(16,24,38,.4);
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace; font-size:.78rem; letter-spacing:.16em;
+    text-transform:uppercase; color:var(--teal-deep); font-weight:600;
   }
-  .back-home-pill:hover{ background:#0A4F49; }
+  .wide-wrap{ max-width:1320px; margin:0 auto; padding:0 40px; }
+  @media (max-width:640px){ .wide-wrap{ padding:0 20px; } }
 
-  /* Full-width profile template (used by every /people/ page) */
-  .profile-hero{ padding:72px 0 48px; text-align:center; border-bottom:1px solid var(--line); }
+  /* Shared site nav (bare selectors so it works whether or not it's
+     nested inside .home-body at the point the include is inserted) */
+  .site-nav{
+    position:sticky; top:0; z-index:50;
+    background:color-mix(in srgb, #F5F4EE 90%, transparent);
+    backdrop-filter:blur(10px); border-bottom:1px solid #E4E1D6;
+    font-family:'Inter',sans-serif;
+  }
+  .site-nav .wide-wrap{ display:flex; align-items:center; justify-content:space-between; height:88px; }
+  .site-nav .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
+  .site-nav .brand img{ height:60px; width:auto; }
+  .site-nav .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:#101826; display:block; }
+  .site-nav .nav-links{ display:flex; gap:28px; list-style:none; margin:0; padding:0; }
+  .site-nav .nav-links a{
+    text-decoration:none; font-size:.92rem; font-weight:600; color:#3A4456;
+    position:relative; padding-bottom:4px;
+  }
+  .site-nav .nav-links a::after{
+    content:""; position:absolute; left:0; bottom:0; width:0; height:2px;
+    background:#E2572B; transition:width .25s ease;
+  }
+  .site-nav .nav-links a:hover::after, .site-nav .nav-links a.active::after{ width:100%; }
+  .site-nav .nav-links a:hover, .site-nav .nav-links a.active{ color:#101826; }
+  .site-nav .nav-cta{
+    font-size:.85rem; font-weight:700; background:#101826; color:#fff;
+    padding:9px 16px; border-radius:999px; text-decoration:none;
+  }
+  .site-nav .nav-cta:hover{ background:#0A4F49; }
+  .nav-toggle{ display:none; background:none; border:none; font-size:1.4rem; cursor:pointer; color:#101826; }
+  .sub-mobile-nav{ display:none; flex-direction:column; gap:4px; padding:10px 24px 18px; border-bottom:1px solid #E4E1D6; background:#F5F4EE; }
+  .sub-mobile-nav.open{ display:flex; }
+  .sub-mobile-nav a{ padding:10px 0; font-weight:600; text-decoration:none; color:#3A4456; border-bottom:1px solid #E4E1D6; font-family:'Inter',sans-serif; }
+  @media (max-width:920px){ .site-nav .nav-links{ display:none; } .nav-toggle{ display:block; } }
+
+  /* Shared footer */
+  .contact-band{ background:#101826; color:#fff; padding:56px 0 32px; font-family:'Inter',sans-serif; }
+  .contact-band .foot-row{ display:flex; justify-content:space-between; align-items:center; font-size:.82rem; color:rgba(255,255,255,.5); flex-wrap:wrap; gap:16px; }
+  .contact-band .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
+  .contact-band .brand img{ height:44px; }
+  .contact-band .brand-text strong{ color:#fff; font-family:'Fraunces',serif; }
+  .contact-band .foot-links{ display:flex; gap:20px; list-style:none; margin:0; padding:0; flex-wrap:wrap; }
+  .contact-band .foot-links a{ color:rgba(255,255,255,.6); text-decoration:none; font-weight:600; }
+  .contact-band .foot-links a:hover{ color:#fff; }
+
+  /* Page hero band (title header on subpages) */
+  .page-hero{ padding:56px 0 40px; border-bottom:1px solid #E4E1D6; }
+  .page-hero h1{ font-family:'Fraunces',serif; font-weight:600; font-size:clamp(2rem,4vw,2.6rem); margin:10px 0 0; color:#101826; }
+
+  /* Person profile template (used by /people/ pages) */
+  .profile-hero{ padding:56px 0 48px; text-align:center; border-bottom:1px solid #E4E1D6; }
   .profile-hero .outer{ max-width:1320px; margin:0 auto; padding:0 40px; }
-  .profile-photo{
-    width:230px; height:288px; object-fit:cover; border-radius:16px; border:1px solid var(--line);
-    margin:0 auto 26px; display:block; box-shadow:0 22px 50px -28px rgba(16,24,38,.3);
-  }
-  .profile-hero .eyebrow{
-    display:block; margin-bottom:10px; font-family:'IBM Plex Mono',monospace; font-size:.8rem;
-    letter-spacing:.16em; text-transform:uppercase; color:var(--teal-deep); font-weight:600;
-  }
-  .profile-hero h1{ font-family:'Fraunces',serif; font-weight:600; font-size:2.7rem; margin:0; color:var(--ink); }
-
+  .profile-photo{ width:230px; height:288px; object-fit:cover; border-radius:16px; border:1px solid #E4E1D6; margin:0 auto 26px; display:block; box-shadow:0 22px 50px -28px rgba(16,24,38,.3); }
+  .profile-hero .eyebrow{ display:block; margin-bottom:10px; }
+  .profile-hero h1{ font-family:'Fraunces',serif; font-weight:600; font-size:2.7rem; margin:0; color:#101826; }
   .profile-body{ padding:48px 0 96px; }
   .profile-body .inner{ max-width:760px; margin:0 auto; padding:0 40px; }
-  .profile-field{ margin-bottom:0; padding:28px 0; border-top:1px solid var(--line); }
+  .profile-field{ padding:28px 0; border-top:1px solid #E4E1D6; }
   .profile-field:first-child{ border-top:none; padding-top:0; }
   .profile-field-label{
-    font-family:'IBM Plex Mono',monospace; font-size:.78rem; letter-spacing:.1em; text-transform:uppercase;
-    color:var(--teal-deep); font-weight:600; display:block; margin-bottom:10px;
+    font-family:'IBM Plex Mono',monospace; font-size:.76rem; letter-spacing:.1em; text-transform:uppercase;
+    color:#0A4F49; font-weight:600; display:block; margin-bottom:8px;
   }
-  .profile-field p{ margin:0 0 12px; font-size:1.02rem; color:var(--ink-soft); line-height:1.7; }
-  .profile-field p:last-child{ margin-bottom:0; }
-  .profile-field .org{ font-weight:600; color:var(--ink); }
-  .profile-timeline{ display:flex; flex-direction:column; gap:20px; }
-  .profile-timeline .step{ position:relative; padding-left:20px; }
-  .profile-timeline .step::before{ content:""; position:absolute; left:0; top:7px; width:8px; height:8px; border-radius:50%; background:var(--coral); }
-  .profile-step-when{ font-family:'IBM Plex Mono',monospace; font-size:.76rem; letter-spacing:.06em; text-transform:uppercase; color:var(--slate); display:block; }
-  .profile-step-what{ font-weight:600; font-size:1.02rem; color:var(--ink); }
-  @media (max-width:640px){ .profile-hero h1{ font-size:2.1rem; } .profile-photo{ width:190px; height:238px; } }
+  .profile-field p{ margin:0 0 10px; font-size:1rem; color:#3A4456; line-height:1.65; }
+  .profile-field .org{ font-weight:600; color:#101826; }
+  .profile-timeline{ display:flex; flex-direction:column; gap:16px; }
+  .profile-timeline .step{ position:relative; padding-left:18px; }
+  .profile-timeline .step::before{ content:""; position:absolute; left:0; top:6px; width:7px; height:7px; border-radius:50%; background:#E2572B; }
+  .profile-step-when{ font-family:'IBM Plex Mono',monospace; font-size:.74rem; letter-spacing:.06em; text-transform:uppercase; color:#68707D; display:block; }
+  .profile-step-what{ font-weight:600; font-size:1rem; color:#101826; }
+  @media (max-width:640px){ .profile-layout, .person-layout{ grid-template-columns:1fr; } }
 </style>
-<a class="back-home-pill" href="{{ site.url }}/">&larr; Hoon Bio Lab</a>
+
+<nav class="site-nav">
+  <div class="wide-wrap">
+    <a class="brand" href="{{ site.url }}/">
+      <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Bio Lab logo" />
+      <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="{{ site.url }}/">Home</a></li>
+      <li><a href="{{ site.url }}/docs/recent-news/" {% if page.url contains 'recent-news' %}class="active"{% endif %}>News</a></li>
+      <li><a href="{{ site.url }}/docs/team/" {% if page.url contains 'team' or page.url contains '/people/' %}class="active"{% endif %}>Team</a></li>
+      <li><a href="{{ site.url }}/docs/research/" {% if page.url contains 'research' %}class="active"{% endif %}>Research</a></li>
+      <li><a href="{{ site.url }}/docs/publication/" {% if page.url contains 'publication' %}class="active"{% endif %}>Publications</a></li>
+      <li><a href="{{ site.url }}/#positions">Positions</a></li>
+      <li><a href="{{ site.url }}/#contact">Contact</a></li>
+    </ul>
+    <a class="nav-cta" href="{{ site.url }}/#contact">Join the lab</a>
+    <button class="nav-toggle" id="sub-nav-toggle" aria-label="Toggle menu">&#9776;</button>
+  </div>
+</nav>
+<div class="sub-mobile-nav" id="sub-mobile-nav">
+  <a href="{{ site.url }}/">Home</a>
+  <a href="{{ site.url }}/docs/recent-news/">News</a>
+  <a href="{{ site.url }}/docs/team/">Team</a>
+  <a href="{{ site.url }}/docs/research/">Research</a>
+  <a href="{{ site.url }}/docs/publication/">Publications</a>
+  <a href="{{ site.url }}/#positions">Positions</a>
+  <a href="{{ site.url }}/#contact">Contact</a>
+</div>
+<script>
+  (function(){
+    var t = document.getElementById('sub-nav-toggle');
+    var m = document.getElementById('sub-mobile-nav');
+    if (t) t.addEventListener('click', function(){ m.classList.toggle('open'); });
+  })();
+</script>

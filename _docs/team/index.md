@@ -17,7 +17,7 @@ published: true
     background-image:radial-gradient(circle, #DAD6C7 1px, transparent 1px); background-size:22px 22px;
   }
   .home-body *{ box-sizing:border-box; }
-  .home-body .wrap{ max-width:1040px; margin:0 auto; padding:56px 24px 72px; }
+  .home-body .wrap{ max-width:1320px; margin:0 auto; padding:64px 40px 80px; }
   .home-body .eyebrow{ font-family:'IBM Plex Mono',monospace; font-size:.72rem; letter-spacing:.16em; text-transform:uppercase; color:var(--teal-deep); font-weight:600; }
   .home-body h1{ font-family:'Fraunces',serif; font-weight:600; font-size:clamp(2rem,4vw,2.6rem); margin:12px 0 8px; }
   .home-body > .wrap > p{ font-size:1rem; color:var(--slate); margin:0 0 48px; max-width:60ch; }
@@ -111,3 +111,4 @@ published: true
 
 </div>
 </div>
+{% include site-footer.html %}
