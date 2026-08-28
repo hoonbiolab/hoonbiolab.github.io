@@ -50,30 +50,29 @@ carbonads: false
 </div>
 
 <div class="research-block" id="characterization-of-extrachromosomal-dna">
-  <h2>Mechanisms &amp; Multiomic Characterization of ecDNA</h2>
-  <p>EcDNAs in cancer were first recognized through pioneering cytopathology studies by Arthur Spriggs over 50 years ago, yet how they drive tumorigenesis is still being uncovered. Building on our pan-cancer survey that found circular ecDNA in over 25 of 29 cancer types &mdash; far more common than the &lt;1% once assumed, and linked to significantly shorter patient survival &mdash; we draw on a broad toolkit to study it: long- and short-read whole-genome and exome sequencing, single-cell multiomics, FISH-based validation, and structural variant analysis, backed by <a href="https://github.com/AmpliconSuite" target="_blank">AmpliconSuite</a>, an end-to-end computational workflow we co-developed for detecting focal amplifications in cancer genomes. We're also tracking how ecDNA is inherited and restructured at single-cell resolution as tumors evolve, and synthesizing what's known about its mechanical properties, biological functions, and emerging therapeutic angles.</p>
-  <img src="{{ site.url }}/assets/img/res-pancan_aa.png" alt="Pan-cancer ecDNA survey figure">
+  <h2>ecDNA: Mechanics, Functions &amp; Therapeutic Implications</h2>
+  <p>Our most comprehensive synthesis to date, published in <em>Signal Transduction and Targeted Therapy</em>, brings together what we and the field now understand about the mechanical properties, biological functions, and emerging therapeutic angles of extrachromosomal DNA (ecDNA) in cancer &mdash; work that builds directly on our pan-cancer survey finding circular ecDNA in over 25 of 29 cancer types, far more common than the &lt;1% once assumed, and linked to significantly shorter patient survival. EcDNAs were first recognized through pioneering cytopathology studies by Arthur Spriggs over 50 years ago, yet how they drive tumorigenesis is still being uncovered. We study this with a broad toolkit: long- and short-read whole-genome and exome sequencing, single-cell multiomics, FISH-based validation, and structural variant analysis, backed by <a href="https://github.com/AmpliconSuite" target="_blank">AmpliconSuite</a>, an end-to-end computational workflow we co-developed for detecting focal amplifications in cancer genomes &mdash; including our latest work tracking how ecDNA is inherited and restructured at single-cell resolution as tumors evolve.</p>
+  <img src="{{ site.url }}/assets/img/res-singlecell-ecdna.png" alt="Single-cell tracking of oncogenic ecDNA inheritance and structural variation">
   <p class="pubs">Kim B et al. <em>Signal Transduction and Targeted Therapy</em>, 2026 &middot; Yeo E et al. <em>Experimental &amp; Molecular Medicine</em>, 2026 &middot; Kim H et al. <em>Nature Genetics</em>, 2024 &middot; Luebeck J et al. (AmpliconSuite) <em>Biorxiv</em>, 2024</p>
 </div>
 
 <div class="research-block" id="tumor-evolution-and-intratumoral-heterogeneity">
   <h2>Tumor Evolution &amp; Glioma Origin</h2>
   <p>Our computational and experimental analysis of glioblastoma patients and their derived model systems identified non-chromosomal ecDNA amplification as a driver of intratumor heterogeneity, providing direct evidence that extrachromosomal oncogene amplification accelerates tumor evolution. Using single-cell multimodal profiling &mdash; pairing DNA methylomes with transcriptomes &mdash; we've also identified epigenetic regulators of cellular plasticity under environmental stress. More recently, in collaboration with the Glioma Longitudinal AnalySiS (GLASS) consortium we co-founded, we helped trace IDH-mutant glioma back to the glial progenitor cells that first carry the driver mutation &mdash; clarifying how these tumors begin, not just how they progress.</p>
-  <img src="{{ site.url }}/assets/img/re-discord_ecdna.png" alt="ecDNA evolution figure">
+  <img src="{{ site.url }}/assets/img/res-idh-glioma.png" alt="IDH-mutant glioma arising from glial progenitor cells">
   <p class="pubs">Park JW et al. <em>Science</em>, 2026 &middot; GLASS Consortium (Varn et al.) <em>Cell</em>, 2022 &middot; Johnson KC et al. <em>Nature Genetics</em>, 2021</p>
 </div>
 
 <div class="research-block" id="biomedical-data-analysis-system-to-fight-diseases">
   <h2>ecDNA Across Cancer Types &amp; New Research Platforms</h2>
   <p>ecDNA's reach extends well beyond glioma. We've mapped its distinct molecular signatures and prognostic weight in gastric cancer, used spatial and genomic profiling to trace how breast cancer subtypes diverge after neoadjuvant chemotherapy, and shown that ecDNA also drives the earliest steps of Barrett's esophagus turning cancerous. To study these effects more faithfully than standard 2D culture allows, we're also building tailorable 3D collagen hydrogel platforms that better preserve ecDNA structures and tumor microenvironment biology for long-term study.</p>
-  <img src="{{ site.url }}/assets/img/pub-cellrepmed-2025.jpg" alt="Breast cancer residual disease figure">
+  <img src="{{ site.url }}/assets/img/res-hydrogel-platform.png" alt="Tailorable porous collagen hydrogel platform for ecDNA research">
   <p class="pubs">Kang S et al. <em>Cancer Letters</em>, 2026 &middot; Seo ES et al. <em>Cell Reports Medicine</em>, 2025 &middot; Jo S &amp; Shon J et al. <em>Theranostics</em>, 2026 &middot; Luebeck J et al. <em>Nature</em>, 2023</p>
 </div>
 
 <div class="research-block" id="machine-learning-applications-in-understanding-diseases">
   <h2>Computational Tools for Amplicon &amp; Structural Variant Analysis</h2>
   <p>Much of our work depends on computational infrastructure built to handle the scale and complexity of cancer genomics data. <a href="https://github.com/AmpliconSuite" target="_blank">AmpliconSuite</a>, which we co-developed with the Bafna and Mischel labs, is now used broadly across the field as an end-to-end workflow for detecting and reconstructing focal amplifications &mdash; including ecDNA &mdash; from sequencing data. This continues a longer-running interest in computational signatures of cancer biology: our earlier pan-cancer invasion-associated gene signature, identified from expression data across cancer types, was later used as a core signature in the winning model of the Sage Bionetworks&ndash;DREAM Breast Cancer Prognosis Challenge.</p>
-  <img src="{{ site.url }}/assets/img/res-stromal.png" alt="Computational cancer genomics figure">
   <p class="pubs">Luebeck J et al. (AmpliconSuite) <em>Biorxiv</em>, 2024</p>
 </div>
 
