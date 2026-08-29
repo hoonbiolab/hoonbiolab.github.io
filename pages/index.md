@@ -69,7 +69,7 @@ permalink: /
   .home-body .nav-cta:hover{ background:var(--teal-deep); }
   .home-body .nav-toggle{ display:none; background:none; border:none; font-size:1.4rem; cursor:pointer; color:var(--ink); }
   .home-body .mobile-nav{ display:none; flex-direction:column; gap:4px; padding:10px 24px 18px; border-bottom:1px solid var(--line); background:var(--paper); }
-  .home-body .mobile-nav.open{ display:flex; }
+  .home-body .mobile-nav.open{ display:flex; position:fixed; top:88px; left:0; right:0; z-index:49; max-height:calc(100vh - 88px); overflow-y:auto; }
   .home-body .mobile-nav a{ padding:10px 0; font-weight:600; text-decoration:none; color:var(--ink-soft); border-bottom:1px solid var(--line); }
   @media (max-width:920px){ .home-body .nav-links{ display:none; } .home-body .nav-toggle{ display:block; } }
 
@@ -287,7 +287,7 @@ permalink: /
 <nav class="site-nav" id="top">
   <div class="wrap">
     <a class="brand" href="#top">
-      <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Bio Lab logo" />
+      <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab logo" />
       <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
     </a>
     <ul class="nav-links">
@@ -419,15 +419,15 @@ permalink: /
     <ul class="team-list">
       <li><a href="{{ site.url }}/people/prof.kim/" target="_blank"><span class="t-name">Hoon Kim, PhD</span><span class="t-role">Principal Investigator</span></a></li>
       <li><a href="{{ site.url }}/people/phd_Kim/" target="_blank"><span class="t-name">Sanghyun Kim, PhD</span><span class="t-role">Research Professor</span></a></li>
-      <li><a href="{{ site.url }}/people/jh_jang" target="_blank"><span class="t-name">Jaeho Jang, MS</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/hs_chung/" target="_blank"><span class="t-name">Heesuk Chung, BS&middot;BA</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/sk_kang" target="_blank"><span class="t-name">Seunghyun Kang, BS</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/yj_nam" target="_blank"><span class="t-name">Yoonjoo Nam, BS</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/ec_yeo" target="_blank"><span class="t-name">Eunchae Yeo, BS</span><span class="t-role">Research Assistant</span></a></li>
-      <li><a href="{{ site.url }}/people/jw_shon" target="_blank"><span class="t-name">Jiwon Shon, BS</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/hj_sun" target="_blank"><span class="t-name">Hyunjeong Sun, MS</span><span class="t-role">Research Assistant</span></a></li>
-      <li><a href="{{ site.url }}/people/by_kim" target="_blank"><span class="t-name">Boyoon Kim, BS</span><span class="t-role">Research Assistant</span></a></li>
+      <li><a href="{{ site.url }}/people/jw_shon" target="_blank"><span class="t-name">Jiwon Shon, BS</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/jh_kim" target="_blank"><span class="t-name">Junghyun Kim, BS</span><span class="t-role">Research Assistant</span></a></li>
+      <li><a href="{{ site.url }}/people/by_kim" target="_blank"><span class="t-name">Boyoon Kim, BS</span><span class="t-role">Research Assistant</span></a></li>
+      <li><a href="{{ site.url }}/people/jh_jang" target="_blank"><span class="t-name">Jaeho Jang, MS</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/hj_cho/" target="_blank"><span class="t-name">Hyeongjin Cho, Pharm.D.</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/je_kim" target="_blank"><span class="t-name">Jueon Kim, BS</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/jk_jang/" target="_blank"><span class="t-name">Jongkyu Jang, Pharm.D.</span><span class="t-role">M.S. Candidate</span></a></li>
@@ -450,50 +450,50 @@ permalink: /
       </figure>
       <div class="research-lead-copy">
         <h3>&ldquo;Our lab is all about big data.&rdquo;</h3>
-        <p>A major cause of cancer treatment failure is the development of therapy resistance in tumors, which evolve by accumulating tumor-promoting mutations and modified chromosome structures. We address basic-science questions that inform diagnostic, prognostic, and therapeutic applications in personalized medicine, through computational and statistical analysis of biomolecular data &mdash; alongside collaborators across cancer biology, epigenetics, structural biology, bioimaging, tumor microenvironment research, and machine learning.</p>
+        <p>A major cause of cancer treatment failure is the development of therapy resistance in tumors, which evolve by accumulating tumor-promoting mutations and modified chromosome structures. Our lab addresses this through computational and statistical analysis of large-scale biomolecular data &mdash; centered on extrachromosomal DNA (ecDNA), work spanning long- and short-read sequencing, single-cell and spatial multiomics, FISH validation, and structural variant analysis, alongside collaborators across cancer biology, epigenetics, structural biology, bioimaging, and tumor microenvironment research.</p>
         <div class="tag-row">
-          <span class="tag">Tumor evolution</span>
           <span class="tag">Extrachromosomal DNA</span>
-          <span class="tag">Genomics</span>
-          <span class="tag">Mutational processes</span>
-          <span class="tag">Tumor microenvironment</span>
-          <span class="tag">Biomedical data systems</span>
-          <span class="tag">Machine learning</span>
-          <span class="tag">Neurodegenerative disease</span>
+          <span class="tag">Multiomics</span>
+          <span class="tag">Long- &amp; short-read sequencing</span>
+          <span class="tag">Structural variation</span>
+          <span class="tag">Spatial genomics</span>
+          <span class="tag">Tumor evolution</span>
+          <span class="tag">Glioma biology</span>
+          <span class="tag">Tumor microenvironment models</span>
         </div>
       </div>
     </div>
 
     <div class="research-grid research-grid--photo">
       <div class="research-card">
-        <img src="{{ site.url }}/assets/img/res-pancan_aa.png" alt="Pan-cancer ecDNA survey figure">
+        <img src="{{ site.url }}/assets/img/res-singlecell-ecdna.png" alt="Single-cell tracking of oncogenic ecDNA inheritance and structural variation">
         <div class="research-card-body">
-          <h3>Characterization of Extrachromosomal DNA</h3>
-          <p>Our pan-cancer survey of ecDNA across &gt;5,000 tumor genomes found circular ecDNA in over 25 of 29 cancer types &mdash; far more common than the &lt;1% once assumed &mdash; and linked to significantly shorter patient survival.</p>
+          <h3>ecDNA: Mechanics, Functions &amp; Therapeutic Implications</h3>
+          <p>Our most comprehensive synthesis to date on ecDNA's mechanical properties, biological functions, and therapeutic angles &mdash; building on our pan-cancer survey finding circular ecDNA in over 25 of 29 cancer types and our latest single-cell tracking of ecDNA inheritance.</p>
           <a href="{{ site.url }}/docs/research/#characterization-of-extrachromosomal-dna">Read more &rarr;</a>
         </div>
       </div>
       <div class="research-card">
-        <img src="{{ site.url }}/assets/img/re-discord_ecdna.png" alt="ecDNA evolution figure">
+        <img src="{{ site.url }}/assets/img/res-idh-glioma.png" alt="IDH-mutant glioma arising from glial progenitor cells">
         <div class="research-card-body">
-          <h3>Tumor Evolution &amp; Intratumoral Heterogeneity</h3>
-          <p>Analysis of glioblastoma patients and derived model systems identified non-chromosomal ecDNA amplification driving intratumor heterogeneity &mdash; direct evidence that extrachromosomal oncogene amplification accelerates tumor evolution.</p>
+          <h3>Tumor Evolution &amp; Glioma Origin</h3>
+          <p>From non-chromosomal ecDNA amplification driving intratumor heterogeneity to tracing IDH-mutant glioma back to the glial progenitor cells that first carry the driver mutation &mdash; with the GLASS consortium we co-founded.</p>
           <a href="{{ site.url }}/docs/research/#tumor-evolution-and-intratumoral-heterogeneity">Read more &rarr;</a>
         </div>
       </div>
       <div class="research-card">
-        <img src="{{ site.url }}/assets/img/re-longitudinal_analysis.png" alt="Glioma longitudinal analysis figure">
+        <img src="{{ site.url }}/assets/img/res-hydrogel-platform.png" alt="Tailorable porous collagen hydrogel platform for ecDNA research">
         <div class="research-card-body">
-          <h3>Biomedical Data Systems to Fight Disease</h3>
-          <p>Building on our TCGA-era genomic characterization work, we co-founded the Glioma Longitudinal AnalySiS (GLASS) consortium &mdash; 34+ institutions across 12 countries profiling glioma evolution over time.</p>
+          <h3>ecDNA Across Cancer Types &amp; New Research Platforms</h3>
+          <p>Mapping ecDNA in gastric and breast cancer and Barrett's esophagus, and building tailorable 3D collagen hydrogel platforms that better preserve ecDNA structures for long-term study.</p>
           <a href="{{ site.url }}/docs/research/#biomedical-data-analysis-system-to-fight-diseases">Read more &rarr;</a>
         </div>
       </div>
       <div class="research-card">
-        <img src="{{ site.url }}/assets/img/res-stromal.png" alt="Stromal gene signature figure">
+        <img src="{{ site.url }}/assets/img/hero-ecdna-nucleus.png" alt="Computational cancer genomics illustration">
         <div class="research-card-body">
-          <h3>Machine Learning for Disease Understanding</h3>
-          <p>From an early pan-cancer invasion signature &mdash; later used in the winning DREAM Breast Cancer Prognosis model &mdash; to current work on cancer-associated fibroblasts, we link molecular signatures to clinical outcomes.</p>
+          <h3>Computational Tools for Amplicon &amp; SV Analysis</h3>
+          <p>We co-developed AmpliconSuite, an end-to-end workflow now used broadly across the field for detecting and reconstructing focal amplifications &mdash; including ecDNA &mdash; from sequencing data.</p>
           <a href="{{ site.url }}/docs/research/#machine-learning-applications-in-understanding-diseases">Read more &rarr;</a>
         </div>
       </div>
@@ -590,7 +590,7 @@ permalink: /
     </div>
     <div class="foot-row">
       <a class="brand" href="#top">
-        <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Bio Lab" />
+        <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab" />
         <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
       </a>
       <ul class="foot-links">
@@ -624,15 +624,15 @@ permalink: /
       { name:"Sanghyun Kim, PhD", role:"Research Professor", url:"{{ site.url }}/people/phd_Kim/", img:"phd_kim.png" }
     ]},
     { title: "Students", people: [
-      { name:"Jaeho Jang, MS", role:"Research Assistant", url:"{{ site.url }}/people/jh_jang", img:"jh_jang.jpg" },
       { name:"Heesuk Chung, BS\u00b7BA", role:"Research Assistant", url:"{{ site.url }}/people/hs_chung/", img:"hs_jung.jpg" },
       { name:"Seunghyun Kang, BS", role:"Research Assistant", url:"{{ site.url }}/people/sk_kang", img:"SeungHyun_Kang.png" },
       { name:"Yoonjoo Nam, BS", role:"Research Assistant", url:"{{ site.url }}/people/yj_nam", img:"yj_nam.png" },
       { name:"Eunchae Yeo, BS", role:"Research Assistant", url:"{{ site.url }}/people/ec_yeo", img:"ec_yeo.png" },
-      { name:"Jiwon Shon, BS", role:"Research Assistant", url:"{{ site.url }}/people/jw_shon", img:"jw_shon.png" },
       { name:"Hyunjeong Sun, MS", role:"Research Assistant", url:"{{ site.url }}/people/hj_sun", img:"hj_sun.jpeg" },
-      { name:"Boyoon Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/by_kim", img:"by_kim.jpg" },
+      { name:"Jiwon Shon, BS", role:"Research Assistant", url:"{{ site.url }}/people/jw_shon", img:"jw_shon.png" },
       { name:"Junghyun Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/jh_kim", img:"jh_kim.png" },
+      { name:"Boyoon Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/by_kim", img:"by_kim.jpg" },
+      { name:"Jaeho Jang, MS", role:"Research Assistant", url:"{{ site.url }}/people/jh_jang", img:"jh_jang.jpg" },
       { name:"Hyeongjin Cho, Pharm.D.", role:"Research Assistant", url:"{{ site.url }}/people/hj_cho/", img:"hj_cho.jpg" },
       { name:"Jueon Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/je_kim", img:"je_kim.jpg" },
       { name:"Jongkyu Jang, Pharm.D.", role:"M.S. Candidate", url:"{{ site.url }}/people/jk_jang/", img:"jk_jang.png" }
@@ -644,20 +644,20 @@ permalink: /
       { name:"Soyeon Kim, MS", role:"PhD Student, Wellcome Sanger Institute", url:"{{ site.url }}/people/sy_kim", img:"sy_kim.png" }
     ]},
     { title: "Former Lab Members", people: [
-      { name:"Nayeon Kim", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/nayeon_kim", img:"nayeon_kim.jpg" },
-      { name:"Chanho Yang", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/chanho_yang", img:"chanho_yang.jpg" },
-      { name:"Soeun Lee", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/Soeun_Lee", img:"Soeun_Lee.jpg" },
-      { name:"Yoonji Choi, MD", role:"Associate Professor, Korea University College of Medicine", url:"{{ site.url }}/people/prof_choi/", img:"prof_choi.png" },
+      { name:"Junyong Ko", role:"Junior, SKKU", url:"{{ site.url }}/people/jy_ko", img:"jy_ko.png" },
+      { name:"Daeho Joe, BS", role:"Research Assistant", url:"{{ site.url }}/people/dh_joe", img:"dh_joe.png" },
       { name:"Yeonsik Kim", role:"Korea Polytechnic University", url:"{{ site.url }}/people/ys_kim", img:"ys_kim.png" },
       { name:"Youngjin Moon", role:"Jeonbuk National University", url:"{{ site.url }}/people/yj_moon", img:"yj_moon.png" },
-      { name:"Daeho Joe, BS", role:"Research Assistant", url:"{{ site.url }}/people/dh_joe", img:"dh_joe.png" },
-      { name:"Junyong Ko", role:"Junior, SKKU", url:"{{ site.url }}/people/jy_ko", img:"jy_ko.png" },
+      { name:"Dongjoo Yoon, BA", role:"Research Assistant", url:"{{ site.url }}/people/dj_yoon", img:"dj_yoon.png" },
+      { name:"Yoonji Choi, MD", role:"Associate Professor, Korea University College of Medicine", url:"{{ site.url }}/people/prof_choi/", img:"prof_choi.png" },
       { name:"Hwayeon Lee", role:"Junior, UCSD", url:"{{ site.url }}/people/hy_lee", img:"hy_lee.jpg" },
       { name:"Seungjae Han", role:"Junior, Korea University", url:"{{ site.url }}/people/sj_han", img:"sj_han.jpeg" },
       { name:"Sepil An, BS", role:"Research Assistant", url:"{{ site.url }}/people/sp_an", img:"sp_an.jpg" },
-      { name:"Dongjoo Yoon, BA", role:"Research Assistant", url:"{{ site.url }}/people/dj_yoon", img:"dj_yoon.png" },
       { name:"Dayoung Jeong", role:"Undergraduate Intern", url:"{{ site.url }}/people/dy_jeong", img:"dy_jeong.jpg" },
-      { name:"Seonghyun Jeon", role:"Undergraduate Intern", url:"{{ site.url }}/people/jsh040727", img:"sj_han.jpg" }
+      { name:"Seonghyun Jeon", role:"Undergraduate Intern", url:"{{ site.url }}/people/jsh040727", img:"sj_han.jpg" },
+      { name:"Nayeon Kim", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/nayeon_kim", img:"nayeon_kim.jpg" },
+      { name:"Chanho Yang", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/chanho_yang", img:"chanho_yang.jpg" },
+      { name:"Soeun Lee", role:"Former Undergraduate Intern (until Aug 2026)", url:"{{ site.url }}/people/Soeun_Lee", img:"Soeun_Lee.jpg" }
     ]}
   ];
 

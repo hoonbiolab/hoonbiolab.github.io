@@ -17,7 +17,9 @@ published: true
     background-image:radial-gradient(circle, #DAD6C7 1px, transparent 1px); background-size:22px 22px;
   }
   .home-body *{ box-sizing:border-box; }
+  .home-body{ overflow-x:hidden; }
   .home-body .wrap{ max-width:1320px; margin:0 auto; padding:64px 40px 80px; }
+  @media (max-width:640px){ .home-body .wrap{ padding:40px 20px 56px; } }
   .home-body .eyebrow{ font-family:'IBM Plex Mono',monospace; font-size:.72rem; letter-spacing:.16em; text-transform:uppercase; color:var(--teal-deep); font-weight:600; }
   .home-body h1{ font-family:'Fraunces',serif; font-weight:600; font-size:clamp(2rem,4vw,2.6rem); margin:12px 0 8px; }
   .home-body > .wrap > p{ font-size:1rem; color:var(--slate); margin:0 0 48px; max-width:60ch; }
@@ -60,15 +62,15 @@ published: true
 <div class="team-group">
   <p class="team-group-title">Students</p>
   <div class="person-grid">
-    <a class="person-card" href="{{ site.url }}/people/jh_jang"><div class="photo"><img src="{{ site.url }}/assets/img/people/jh_jang.jpg" alt="Jaeho Jang"></div><div class="info"><h4>Jaeho Jang, MS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/hs_chung/"><div class="photo"><img src="{{ site.url }}/assets/img/people/hs_jung.jpg" alt="Heesuk Chung"></div><div class="info"><h4>Heesuk Chung, BS&middot;BA</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/sk_kang"><div class="photo"><img src="{{ site.url }}/assets/img/people/SeungHyun_Kang.png" alt="Seunghyun Kang"></div><div class="info"><h4>Seunghyun Kang, BS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/yj_nam"><div class="photo"><img src="{{ site.url }}/assets/img/people/yj_nam.png" alt="Yoonjoo Nam"></div><div class="info"><h4>Yoonjoo Nam, BS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/ec_yeo"><div class="photo"><img src="{{ site.url }}/assets/img/people/ec_yeo.png" alt="Eunchae Yeo"></div><div class="info"><h4>Eunchae Yeo, BS</h4><p class="role">Research Assistant</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/jw_shon"><div class="photo"><img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon"></div><div class="info"><h4>Jiwon Shon, BS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/hj_sun"><div class="photo"><img src="{{ site.url }}/assets/img/people/hj_sun.jpeg" alt="Hyunjeong Sun"></div><div class="info"><h4>Hyunjeong Sun, MS</h4><p class="role">Research Assistant</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/by_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/by_kim.jpg" alt="Boyoon Kim"></div><div class="info"><h4>Boyoon Kim, BS</h4><p class="role">Research Assistant</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/jw_shon"><div class="photo"><img src="{{ site.url }}/assets/img/people/jw_shon.png" alt="Jiwon Shon"></div><div class="info"><h4>Jiwon Shon, BS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/jh_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/jh_kim.png" alt="Junghyun Kim"></div><div class="info"><h4>Junghyun Kim, BS</h4><p class="role">Research Assistant</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/by_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/by_kim.jpg" alt="Boyoon Kim"></div><div class="info"><h4>Boyoon Kim, BS</h4><p class="role">Research Assistant</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/jh_jang"><div class="photo"><img src="{{ site.url }}/assets/img/people/jh_jang.jpg" alt="Jaeho Jang"></div><div class="info"><h4>Jaeho Jang, MS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/hj_cho/"><div class="photo"><img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="Hyeongjin Cho"></div><div class="info"><h4>Hyeongjin Cho, Pharm.D.</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/je_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/je_kim.jpg" alt="Jueon Kim"></div><div class="info"><h4>Jueon Kim, BS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/jk_jang/"><div class="photo"><img src="{{ site.url }}/assets/img/people/jk_jang.png" alt="Jongkyu Jang"></div><div class="info"><h4>Jongkyu Jang, Pharm.D.</h4><p class="role">M.S. Candidate</p></div></a>
@@ -92,20 +94,20 @@ published: true
 <div class="team-group">
   <p class="team-group-title">Former Lab Members</p>
   <div class="person-grid">
-    <a class="person-card" href="{{ site.url }}/people/nayeon_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/nayeon_kim.jpg" alt="Nayeon Kim"></div><div class="info"><h4>Nayeon Kim</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/chanho_yang"><div class="photo"><img src="{{ site.url }}/assets/img/people/chanho_yang.jpg" alt="Chanho Yang"></div><div class="info"><h4>Chanho Yang</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/Soeun_Lee"><div class="photo"><img src="{{ site.url }}/assets/img/people/Soeun_Lee.jpg" alt="Soeun Lee"></div><div class="info"><h4>Soeun Lee</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/prof_choi/"><div class="photo"><img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoonji Choi"></div><div class="info"><h4>Yoonji Choi, MD</h4><p class="role">Assoc. Prof., Korea Univ. College of Medicine</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/jy_ko"><div class="photo"><img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko"></div><div class="info"><h4>Junyong Ko</h4><p class="role">Junior, SKKU</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/dh_joe"><div class="photo"><img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe"></div><div class="info"><h4>Daeho Joe, BS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/ys_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim"></div><div class="info"><h4>Yeonsik Kim</h4><p class="role">Korea Polytechnic University</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/yj_moon"><div class="photo"><img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon"></div><div class="info"><h4>Youngjin Moon</h4><p class="role">Jeonbuk National University</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/dh_joe"><div class="photo"><img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe"></div><div class="info"><h4>Daeho Joe, BS</h4><p class="role">Research Assistant</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/jy_ko"><div class="photo"><img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko"></div><div class="info"><h4>Junyong Ko</h4><p class="role">Junior, SKKU</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/dj_yoon"><div class="photo"><img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon"></div><div class="info"><h4>Dongjoo Yoon, BA</h4><p class="role">Research Assistant</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/prof_choi/"><div class="photo"><img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoonji Choi"></div><div class="info"><h4>Yoonji Choi, MD</h4><p class="role">Assoc. Prof., Korea Univ. College of Medicine</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/hy_lee"><div class="photo"><img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwayeon Lee"></div><div class="info"><h4>Hwayeon Lee</h4><p class="role">Junior, UCSD</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/sj_han"><div class="photo"><img src="{{ site.url }}/assets/img/people/sj_han.jpeg" alt="Seungjae Han"></div><div class="info"><h4>Seungjae Han</h4><p class="role">Junior, Korea University</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/sp_an"><div class="photo"><img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Sepil An"></div><div class="info"><h4>Sepil An, BS</h4><p class="role">Research Assistant</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/dj_yoon"><div class="photo"><img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon"></div><div class="info"><h4>Dongjoo Yoon, BA</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/dy_jeong"><div class="photo"><img src="{{ site.url }}/assets/img/people/dy_jeong.jpg" alt="Dayoung Jeong"></div><div class="info"><h4>Dayoung Jeong</h4><p class="role">Undergraduate Intern</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/jsh040727"><div class="photo"><img src="{{ site.url }}/assets/img/people/sj_han.jpg" alt="Seonghyun Jeon"></div><div class="info"><h4>Seonghyun Jeon</h4><p class="role">Undergraduate Intern</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/nayeon_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/nayeon_kim.jpg" alt="Nayeon Kim"></div><div class="info"><h4>Nayeon Kim</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/chanho_yang"><div class="photo"><img src="{{ site.url }}/assets/img/people/chanho_yang.jpg" alt="Chanho Yang"></div><div class="info"><h4>Chanho Yang</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/Soeun_Lee"><div class="photo"><img src="{{ site.url }}/assets/img/people/Soeun_Lee.jpg" alt="Soeun Lee"></div><div class="info"><h4>Soeun Lee</h4><p class="role">Undergraduate Intern (until Aug 2026)</p></div></a>
   </div>
 </div>
 

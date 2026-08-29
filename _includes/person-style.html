@@ -11,6 +11,7 @@
     display:block !important; max-width:none !important; margin:0 !important; padding:0 !important;
   }
   body .md-content, body .md-content__inner{ max-width:none !important; margin:0 !important; padding:0 !important; }
+  body{ overflow-x:hidden; }
 
   .home-body{
     --ink:#101826; --ink-soft:#3A4456; --paper:#F5F4EE; --surface:#FFFFFF;
@@ -18,7 +19,7 @@
     --slate:#68707D; --line:#E4E1D6;
     background:var(--paper); color:var(--ink); font-family:'Inter',sans-serif;
     background-image:radial-gradient(circle, #DAD6C7 1px, transparent 1px); background-size:22px 22px;
-    min-height:100vh;
+    min-height:100vh; overflow-x:hidden;
   }
   .home-body *{ box-sizing:border-box; }
   .home-body a{ color:var(--teal); }
@@ -59,9 +60,17 @@
   .site-nav .nav-cta:hover{ background:#0A4F49; }
   .nav-toggle{ display:none; background:none; border:none; font-size:1.4rem; cursor:pointer; color:#101826; }
   .sub-mobile-nav{ display:none; flex-direction:column; gap:4px; padding:10px 24px 18px; border-bottom:1px solid #E4E1D6; background:#F5F4EE; }
-  .sub-mobile-nav.open{ display:flex; }
+  .sub-mobile-nav.open{
+    display:flex; position:fixed; top:88px; left:0; right:0; z-index:49;
+    max-height:calc(100vh - 88px); overflow-y:auto;
+  }
   .sub-mobile-nav a{ padding:10px 0; font-weight:600; text-decoration:none; color:#3A4456; border-bottom:1px solid #E4E1D6; font-family:'Inter',sans-serif; }
   @media (max-width:920px){ .site-nav .nav-links{ display:none; } .nav-toggle{ display:block; } }
+  @media (max-width:640px){
+    .site-nav .brand img{ height:44px; }
+    .site-nav .wide-wrap{ height:72px; }
+    .sub-mobile-nav.open{ top:72px; max-height:calc(100vh - 72px); }
+  }
 
   /* Shared footer */
   .contact-band{ background:#101826; color:#fff; padding:56px 0 32px; font-family:'Inter',sans-serif; }
@@ -98,7 +107,12 @@
   .profile-timeline .step::before{ content:""; position:absolute; left:0; top:6px; width:7px; height:7px; border-radius:50%; background:#E2572B; }
   .profile-step-when{ font-family:'IBM Plex Mono',monospace; font-size:.74rem; letter-spacing:.06em; text-transform:uppercase; color:#68707D; display:block; }
   .profile-step-what{ font-weight:600; font-size:1rem; color:#101826; }
-  @media (max-width:640px){ .profile-layout, .person-layout{ grid-template-columns:1fr; } }
+  @media (max-width:640px){
+    .profile-layout, .person-layout{ grid-template-columns:1fr; }
+    .profile-hero .outer, .profile-body .inner{ padding:0 20px; }
+    .profile-photo{ width:180px; height:225px; }
+    .profile-hero h1{ font-size:2rem; }
+  }
 </style>
 
 <nav class="site-nav">
