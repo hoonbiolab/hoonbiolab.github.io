@@ -125,7 +125,7 @@
   @media (max-width:920px){ .home-body .nav-links{ display:none; } .home-body .nav-toggle{ display:block; } }
 
   .home-body .hero{ padding:80px 0 64px; }
-  .home-body .hero .wrap{ display:grid; grid-template-columns:1.1fr .9fr; gap:56px; align-items:center; }
+  .home-body .hero .wrap{ display:grid; grid-template-columns:1fr 1.1fr; gap:56px; align-items:center; }
   .home-body .hero h1{
     font-family:'Fraunces',serif; font-weight:600; font-size:clamp(2.4rem,4vw,3.4rem);
     line-height:1.08; margin:14px 0 0; color:var(--ink);
@@ -145,7 +145,7 @@
   .home-body .hero-stats div span{ font-family:'IBM Plex Mono',monospace; font-size:.68rem; letter-spacing:.06em; text-transform:uppercase; color:var(--slate); }
 
   .home-body .hero-carousel{
-    position:relative; width:100%; aspect-ratio:4/3; max-width:440px; margin:0 auto;
+    position:relative; width:100%; aspect-ratio:4/3; max-width:640px; margin:0 auto;
     border-radius:16px; overflow:hidden; border:1px solid var(--line);
     box-shadow:0 24px 60px -32px rgba(16,24,38,.3); background:var(--ink);
   }
@@ -157,6 +157,11 @@
   .home-body .hc-dots{ position:absolute; bottom:14px; left:0; right:0; display:flex; justify-content:center; gap:7px; }
   .home-body .hc-dot{ width:7px; height:7px; border-radius:50%; background:rgba(255,255,255,.4); transition:background .3s ease, transform .3s ease; }
   .home-body .hc-dot.is-active{ background:#fff; transform:scale(1.3); }
+  .home-body .hero-carousel-link{ text-align:center; margin:12px 0 0; }
+  .home-body .hero-carousel-link a{
+    font-family:'IBM Plex Mono',monospace; font-size:1.05rem; font-weight:700; text-decoration:none; color:var(--teal);
+  }
+  .home-body .hero-carousel-link a:hover{ color:var(--teal-deep); text-decoration:underline; }
 
   .home-body section{ padding:72px 0; border-top:1px solid var(--line); }
   .home-body section.tint{ background:var(--surface); }
@@ -402,11 +407,15 @@
       <img src="http://0.0.0.0:4000/assets/img/slideshow/summer_water_CBM.jpeg" alt="Hoon Lab summer water activity" class="hc-slide" />
       <img src="http://0.0.0.0:4000/assets/img/slideshow/240830_lab.png" alt="Hoon Lab group photo 2024" class="hc-slide" />
       <img src="http://0.0.0.0:4000/assets/img/slideshow/photo3.png" alt="Hoon Lab group photo" class="hc-slide" />
+      <img src="http://0.0.0.0:4000/assets/img/slideshow/group_picnic.jpg" alt="Hoon Lab outdoor group lunch" class="hc-slide" />
+      <img src="http://0.0.0.0:4000/assets/img/slideshow/group_dinner.jpg" alt="Hoon Lab group dinner" class="hc-slide" />
       <div class="hc-dots">
         <span class="hc-dot is-active"></span><span class="hc-dot"></span><span class="hc-dot"></span>
         <span class="hc-dot"></span><span class="hc-dot"></span><span class="hc-dot"></span><span class="hc-dot"></span>
+        <span class="hc-dot"></span><span class="hc-dot"></span>
       </div>
     </div>
+    <p class="hero-carousel-link"><a href="https://photos.app.goo.gl/EZKecBA7vkaF9Zrp9" target="_blank" rel="noopener">Additional lab photos &rarr;</a></p>
   </div>
 </header>
 
