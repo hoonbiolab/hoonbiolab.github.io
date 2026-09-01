@@ -306,7 +306,7 @@ permalink: /
   <div class="wrap">
     <a class="brand" href="#top">
       <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab logo" />
-      <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
+      <span class="brand-text"><strong>Hoon Lab</strong> at SKKU</span>
     </a>
     <ul class="nav-links">
       <li><a href="{{ site.url }}/" class="active">Home</a></li>
@@ -609,7 +609,7 @@ permalink: /
     <div class="foot-row">
       <a class="brand" href="#top">
         <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab" />
-        <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
+        <span class="brand-text"><strong>Hoon Lab</strong> at SKKU</span>
       </a>
       <ul class="foot-links">
         <li><a href="{{ site.url }}/docs/recent-news/">News</a></li>
@@ -618,7 +618,7 @@ permalink: /
         <li><a href="{{ site.url }}/docs/publication/">Publications</a></li>
         <li><a href="#positions">Positions</a></li>
       </ul>
-      <span>&copy; 2026 Hoon Bio Lab, SKKU.</span>
+      <span>&copy; 2026 Hoon Lab, SKKU.</span>
     </div>
   </div>
 </footer>
