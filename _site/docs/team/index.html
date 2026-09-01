@@ -194,11 +194,14 @@
   }
   .site-nav .nav-links a:hover::after, .site-nav .nav-links a.active::after{ width:100%; }
   .site-nav .nav-links a:hover, .site-nav .nav-links a.active{ color:#101826; }
-  .site-nav .nav-cta{
+  .site-nav .nav-cta,
+  .site-nav .nav-cta:link,
+  .site-nav .nav-cta:visited,
+  .site-nav .nav-cta:active{
     font-size:.85rem; font-weight:700; background:#101826; color:#fff;
-    padding:9px 16px; border-radius:999px; text-decoration:none;
+    padding:9px 16px; border-radius:999px; text-decoration:none; display:inline-block;
   }
-  .site-nav .nav-cta:hover{ background:#0A4F49; }
+  .site-nav .nav-cta:hover, .site-nav .nav-cta:focus-visible{ background:#0A4F49; color:#fff; }
   .nav-toggle{ display:none; background:none; border:none; font-size:1.4rem; cursor:pointer; color:#101826; }
   .sub-mobile-nav{ display:none; flex-direction:column; gap:4px; padding:10px 24px 18px; border-bottom:1px solid #E4E1D6; background:#F5F4EE; }
   .sub-mobile-nav.open{
@@ -271,7 +274,7 @@
       <li><a href="http://0.0.0.0:4000/#positions">Positions</a></li>
       <li><a href="http://0.0.0.0:4000/#contact">Contact</a></li>
     </ul>
-    <a class="nav-cta" href="http://0.0.0.0:4000/#contact">Join the lab</a>
+    <a class="nav-cta" href="http://0.0.0.0:4000/#positions">Join the lab</a>
     <button class="nav-toggle" id="sub-nav-toggle" aria-label="Toggle menu">&#9776;</button>
   </div>
 </nav>

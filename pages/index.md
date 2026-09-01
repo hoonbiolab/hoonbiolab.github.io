@@ -207,6 +207,10 @@ permalink: /
   .home-body .pub-meta{ display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:6px; }
   .home-body .pub-year{ font-family:'IBM Plex Mono',monospace; font-size:.95rem; color:var(--coral); font-weight:700; }
   .home-body .pub-journal{ font-family:'IBM Plex Mono',monospace; font-size:.72rem; letter-spacing:.04em; text-transform:uppercase; color:var(--slate); }
+  .home-body .pub-status-tag{
+    font-family:'IBM Plex Mono',monospace; font-size:.7rem; font-weight:700; letter-spacing:.04em; text-transform:uppercase;
+    background:#DCEFEA; color:#0F6E66; padding:.22rem .55rem; border-radius:999px;
+  }
   .home-body .pub-title{ font-family:'Fraunces',serif; font-weight:600; font-size:1.06rem; line-height:1.4; color:var(--ink); }
   .home-body .pub-authors{ display:block; font-size:.82rem; color:var(--slate); margin-top:4px; }
   .home-body .pub-summary{ margin:8px 0 0; font-size:.9rem; line-height:1.55; color:var(--slate); max-width:64ch; }
@@ -520,6 +524,15 @@ permalink: /
       <a class="section-link" href="{{ site.url }}/docs/publication/">All publications &rarr;</a>
     </div>
     <div class="pub-list">
+      <div class="pub-card">
+        <div class="pub-media is-placeholder"><span>AmpliconSuite<br>Nature Methods</span></div>
+        <div>
+          <div class="pub-meta"><span class="pub-status-tag">In Press</span><span class="pub-journal">Nature Methods</span></div>
+          <div class="pub-title">AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes</div>
+          <span class="pub-authors">Luebeck J, Huang E, et al., Kim S, Kim H, et al., Mesirov J, Bafna V</span>
+          <p class="pub-summary">An end-to-end computational workflow for detecting and reconstructing focal amplifications &mdash; including ecDNA &mdash; from sequencing data, now used broadly across the field.</p>
+        </div>
+      </div>
       <a class="pub-card" href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00237-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS266637912500237X%3Fshowall%3Dtrue" target="_blank">
         <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-cellrepmed-2025.jpg" alt="Figure from Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy"></div>
         <div>
