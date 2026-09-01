@@ -29,9 +29,9 @@ permalink: /docs/recent-news/
 <div class="news-list">
 <article class="news-item">
   <span class="tag tag--paper">Paper</span>
-  <h2>"Extrachromosomal DNA in cancer: mechanics, functions, and therapeutic implications"</h2>
+  <h2>RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model</h2>
   <p>
-  A new review paper by <b>Boyoon Kim</b> has been published in <b>Signal Transduction and Targeted Therapy (STTT)</b>! This comprehensive review explores the mechanical properties, biological functions, and potential therapeutic implications of extrachromosomal DNA (ecDNA) in cancer. Congratulations to Boyoon on this impactful publication!
+  A new paper co-first-authored by <b>Boyoon Kim</b> and Sujin Kim (Dankook University) has been published in <b>Signal Transduction and Targeted Therapy (STTT)</b>! The study shows that RAF1 amplification carried on extrachromosomal DNA (ecDNA) drives acquired erlotinib resistance in an EGFR-mutant non-small cell lung cancer model by reactivating MAPK signaling independently of EGFR. Congratulations to Boyoon on this collaborative publication!
 </p>
 
 <p class="posted-date">Posted on Aug 05, 2026</p>
@@ -41,14 +41,14 @@ permalink: /docs/recent-news/
   <img class="news-img" src="{{ site.url }}/assets/img/papers/2026_sttt_boyoon2.jpg" alt="STTT Paper Figure 2">
 </div>
 
-<p class="cite"><strong>Kim</strong> et al. <strong>Signal Transduction and Targeted Therapy.</strong> 2026. <a href="https://www.nature.com/articles/s41392-026-02845-8" target="_blank">Full text article</a></p>
+<p class="cite"><strong>Kim S, Kim B</strong>, et al. <strong>Signal Transduction and Targeted Therapy.</strong> 2026. <a href="https://www.nature.com/articles/s41392-026-02845-8" target="_blank">Full text article</a></p>
 </article>
 
 <article class="news-item">
   <span class="tag tag--paper">Paper</span>
-  <h2>"Single-cell resolution tracking of oncogenic ecDNA inheritance and structural variation"</h2>
+  <h2>Single-cell resolution tracking of Glioblastoma cell of origin</h2>
   <p>
-  A new study co-authored by <b>Eunchae</b> has been published in <b>Experimental & Molecular Medicine (EMM)</b>! This research provides novel insights into ecDNA dynamics using single-cell resolution analysis. Congratulations to Eunchae and all co-authors on this great achievement!
+  A new study co-first-authored by <b>Eunchae Yeo</b> has been published in <b>Experimental & Molecular Medicine (EMM)</b>! The study isolates and characterizes putative glioblastoma origin-like cells in the subventricular zone (SVZ), using single-cell profiling to trace the cellular origin of glioblastoma. Congratulations to Eunchae and all co-authors on this great achievement!
 </p>
 
 <p class="posted-date">Posted on Aug 01, 2026</p>
@@ -58,7 +58,7 @@ permalink: /docs/recent-news/
   <img class="news-img" src="{{ site.url }}/assets/img/papers/2026_emm_eunchae2.jpg" alt="EMM Paper Figure 2">
 </div>
 
-<p class="cite"><strong>Eunchae</strong> et al. <strong>Experimental & Molecular Medicine.</strong> 2026. <a href="https://www.nature.com/articles/s12276-026-01801-4" target="_blank">Full text article</a></p>
+<p class="cite">Oh HC, Choi RJ, Jo SY, <strong>Yeo E</strong>, et al. <strong>Experimental & Molecular Medicine.</strong> 2026. <a href="https://www.nature.com/articles/s12276-026-01801-4" target="_blank">Full text article</a></p>
 </article>
 
 <article class="news-item">

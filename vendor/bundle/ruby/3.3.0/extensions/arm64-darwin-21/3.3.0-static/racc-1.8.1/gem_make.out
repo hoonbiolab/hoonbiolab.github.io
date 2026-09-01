@@ -1,0 +1,19 @@
+current directory: /Users/hoonkim/Dropbox/Research_IT/GitHub/hoonbiolab.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/hoonkim/.rubies/ruby-3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/hoonkim/Dropbox/Research_IT/GitHub/hoonbiolab.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260901-71816-l18vxp sitelibdir\=./.gem.20260901-71816-l18vxp clean
+
+current directory: /Users/hoonkim/Dropbox/Research_IT/GitHub/hoonbiolab.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260901-71816-l18vxp sitelibdir\=./.gem.20260901-71816-l18vxp
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/hoonkim/Dropbox/Research_IT/GitHub/hoonbiolab.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260901-71816-l18vxp sitelibdir\=./.gem.20260901-71816-l18vxp install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260901-71816-l18vxp/racc
+
+current directory: /Users/hoonkim/Dropbox/Research_IT/GitHub/hoonbiolab.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260901-71816-l18vxp sitelibdir\=./.gem.20260901-71816-l18vxp clean
