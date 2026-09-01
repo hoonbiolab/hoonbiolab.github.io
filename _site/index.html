@@ -183,7 +183,9 @@
   .home-body .tag--grant{ background:#F5DDE7; color:#8A2F58; }
 
   .home-body .news-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
-  .home-body .news-card{ padding:24px; display:flex; flex-direction:column; gap:10px; }
+  .home-body .news-card{ padding:0; display:flex; flex-direction:column; overflow:hidden; }
+  .home-body .news-card-img{ width:100%; height:170px; object-fit:contain; display:block; background:var(--paper); padding:8px; }
+  .home-body .news-card-body{ padding:24px; display:flex; flex-direction:column; gap:10px; flex:1; }
   .home-body .news-card .news-date{ font-family:'IBM Plex Mono',monospace; font-size:.76rem; color:var(--slate); margin-left:8px; }
   .home-body .news-card h4{ font-family:'Fraunces',serif; font-weight:600; font-size:1.08rem; line-height:1.35; margin:0; }
   .home-body .news-card p{ font-size:.9rem; line-height:1.55; color:var(--slate); margin:0; }
@@ -411,57 +413,81 @@
       <a class="section-link" href="http://0.0.0.0:4000/docs/recent-news/">All news &rarr;</a>
     </div>
     <div class="news-grid">
-      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>
-        <h4>RAF1 ecDNA amplification drives acquired erlotinib resistance in lung cancer</h4>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/papers/2026_sttt_boyoon1.jpg" alt="" />
+      <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>        <h4>RAF1 ecDNA amplification drives acquired erlotinib resistance in lung cancer</h4>
         <p>A new study co-first-authored by Boyoon Kim, published in <em>Signal Transduction and Targeted Therapy</em>, shows RAF1 amplification carried on ecDNA drives acquired erlotinib resistance in an EGFR-mutant NSCLC model.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 1, 2026</span>
-        <h4>Single-cell resolution tracking of Glioblastoma cell of origin</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/papers/2026_emm_eunchae1.jpg" alt="" />
+      <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 1, 2026</span>        <h4>Single-cell resolution tracking of Glioblastoma cell of origin</h4>
         <p>Co-first-authored by Eunchae Yeo, published in <em>Experimental &amp; Molecular Medicine</em> &mdash; isolating and characterizing putative glioblastoma origin-like cells in the subventricular zone.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>
-        <h4>Boyoon Kim wins the Grand Prize at SKKU Research Matters Plus</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/2026_skku_award.png" alt="" />
+      <div class="news-card-body"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>        <h4>Boyoon Kim wins the Grand Prize at SKKU Research Matters Plus</h4>
         <p>Honored with the Grand Prize (대상) at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
-      </div>
+</div>
+          </div>
     </div>
 
     <div class="news-grid news-grid--more" id="more-news">
-      <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Jul 21, 2026</span>
-        <h4>Hyunjeong awarded the KOSAF Doctoral Excellence Scholarship</h4>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/2026_kosaf_hyunjeong.png" alt="" />
+      <div class="news-card-body"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Jul 21, 2026</span>        <h4>Hyunjeong awarded the KOSAF Doctoral Excellence Scholarship</h4>
         <p>Selected for the Doctoral Excellence Scholarship in Science and Engineering from the Korea Student Aid Foundation.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--event">Lab Event</span><span class="news-date">Apr 27, 2026</span>
-        <h4>Boyoon Kim presents at AACR 2026 &mdash; a lab milestone</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/2026_aacr_boyoon2.png" alt="" />
+      <div class="news-card-body"><span class="tag tag--event">Lab Event</span><span class="news-date">Apr 27, 2026</span>        <h4>Boyoon Kim presents at AACR 2026 &mdash; a lab milestone</h4>
         <p>Our first lab member to present at the AACR Annual Meeting, San Diego, drawing strong interest from academia and industry.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--award">Award</span><span class="news-date">Mar 26, 2026</span>
-        <h4>Boyoon Kim receives the KOBRA Travel Award</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/2026_kobra_award.png" alt="" />
+      <div class="news-card-body"><span class="tag tag--award">Award</span><span class="news-date">Mar 26, 2026</span>        <h4>Boyoon Kim receives the KOBRA Travel Award</h4>
         <p>The Global-TA award supported her participation and presentation at AACR 2026.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Mar 26, 2026</span>
-        <h4>Tailorable porous collagen hydrogels for ecDNA research</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/papers/2026_theranostics_jiwon.jpg" alt="" />
+      <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Mar 26, 2026</span>        <h4>Tailorable porous collagen hydrogels for ecDNA research</h4>
         <p>Co-first authored by Jiwon Shon, published in <em>Theranostics</em> &mdash; a 3D hydrogel platform that preserves ecDNA structures.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--grant">Lab Event</span><span class="news-date">Mar 17, 2026</span>
-        <h4>ecDNA foundation model proposal selected by NVIDIA</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/nvidia_logo.png" alt="" />
+      <div class="news-card-body"><span class="tag tag--grant">Lab Event</span><span class="news-date">Mar 17, 2026</span>        <h4>ecDNA foundation model proposal selected by NVIDIA</h4>
         <p>Selected for the NVIDIA Academic Grant Program with Prof. Se-Young Chun (SNU) &mdash; 32,000 A100 GPU-hours awarded.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Feb 2, 2026</span>
-        <h4>IDH-mutant gliomas arise from glial progenitor cells</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/papers/2026_science_ecdna.jpg" alt="" />
+      <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Feb 2, 2026</span>        <h4>IDH-mutant gliomas arise from glial progenitor cells</h4>
         <p>Published in <em>Science</em> &mdash; identifying glial progenitor cells as the cell of origin in IDH-mutant gliomas.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>
-        <h4>Yoonjoo awarded a National Research Foundation doctoral research grant</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/20250829-yoonjoo-scholarship.png" alt="" />
+      <div class="news-card-body"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>        <h4>Yoonjoo awarded a National Research Foundation doctoral research grant</h4>
         <p>Funds her PhD research into how ecDNA interacts with micronuclei as tumors acquire chemotherapy resistance.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>
-        <h4>Jueon awarded a National Research Foundation master's research grant</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/20250829-jueon-scholarship.png" alt="" />
+      <div class="news-card-body"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>        <h4>Jueon awarded a National Research Foundation master's research grant</h4>
         <p>Supports her single-cell multi-omics study of ecDNA in glioblastoma.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--event">Lab Event</span><span class="news-date">Jun 23, 2025</span>
-        <h4>Prof. Kim invited to present at ICBTRT 2025, Japan</h4>
+</div>
+          </div>
+      <div class="card news-card">
+      <img class="news-card-img" src="http://0.0.0.0:4000/assets/img/ICBTRT2025-20250623.JPG" alt="" />
+      <div class="news-card-body"><span class="tag tag--event">Lab Event</span><span class="news-date">Jun 23, 2025</span>        <h4>Prof. Kim invited to present at ICBTRT 2025, Japan</h4>
         <p>Presented our longitudinal characterization of ecDNA amplifications in adult glioma at the 24th International Conference on Brain Tumor Research and Therapy.</p>
-      </div>
+</div>
+          </div>
     </div>
     <div class="news-more-row"><button class="btn-more" id="more-news-btn">More News <span>+</span></button></div>
   </div>
