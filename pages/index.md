@@ -137,6 +137,8 @@ permalink: /
   .home-body .tag--grant{ background:#F5DDE7; color:#8A2F58; }
 
   .home-body .news-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
+  @media (max-width:920px){ .home-body .news-grid{ grid-template-columns:repeat(2,1fr); } }
+  @media (max-width:640px){ .home-body .news-grid{ grid-template-columns:1fr; } }
   .home-body .news-card{ padding:0; display:flex; flex-direction:column; overflow:hidden; }
   .home-body .news-card-img{ width:100%; height:170px; object-fit:contain; display:block; background:var(--paper); padding:8px; }
   .home-body .news-card-body{ padding:24px; display:flex; flex-direction:column; gap:10px; flex:1; }
