@@ -29,6 +29,21 @@ permalink: /docs/recent-news/
 <header class="page-hero"><div class="wide-wrap"><span class="eyebrow">Lab life</span><h1>Recent News</h1></div></header>
 <div class="wide-wrap" style="padding:48px 0 96px;">
 <div class="news-list">
+
+<article class="news-item">
+  <span class="tag tag--award">Award</span>
+  <h2>Jiwon Shon and Boyoon Kim awarded 1-month research training at the University of Basel, Switzerland!</h2>
+  <p>
+  <b>Jiwon Shon</b> and <b>Boyoon Kim</b> have been selected for the <b>2026 K-BTIP Global Bridge Training Program</b> (핵심인재 글로벌 브릿지 연수 프로그램) supported by the <b>Korea Health Industry Development Institute (KHIDI, 한국보건산업진흥원)</b>! They will participate in a 1-month research training program at the <b>University of Basel</b> in Switzerland. Congratulations to Jiwon and Boyoon on this wonderful opportunity!
+</p>
+
+<p class="posted-date">Posted on Sep 08, 2026</p>
+
+<div class="news-img-row">
+  <img class="news-img" src="{{ site.url }}/assets/img/26_global_bridge.png" alt="KHIDI Global Bridge Training Program Award Announcement">
+</div>
+</article>
+
 <article class="news-item">
   <span class="tag tag--paper">Paper</span>
   <h2>RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model</h2>
