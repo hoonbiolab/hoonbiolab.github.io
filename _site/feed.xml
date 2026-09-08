@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hoon Lab at Pharmacy, SKKU</title>
+    <title>Hoon Lab at SKKU</title>
     <description>Hoon lab at SKKU
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Sep 2026 09:25:05 -0500</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 09:25:05 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 21:53:43 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:53:43 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>

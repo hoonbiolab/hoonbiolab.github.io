@@ -21,6 +21,8 @@ permalink: /docs/recent-news/
   .tag--event{ background:#E6E3F5; color:#4B3F9E; }
   .tag--grant{ background:#F5DDE7; color:#8A2F58; }
   .tag--resource{ background:#DCEFEA; color:#0A4F49; }
+  .news-item .journal-emph{ color:#C2410C; font-weight:700; }
+  .news-item .award-emph{ color:#8A6A0A; font-weight:700; }
 </style>
 
 <div class="home-body">
@@ -31,7 +33,7 @@ permalink: /docs/recent-news/
   <span class="tag tag--paper">Paper</span>
   <h2>RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model</h2>
   <p>
-  A new paper co-first-authored by <b>Boyoon Kim</b> and Sujin Kim (Dankook University) has been published in <b>Signal Transduction and Targeted Therapy (STTT)</b>! The study shows that RAF1 amplification carried on extrachromosomal DNA (ecDNA) drives acquired erlotinib resistance in an EGFR-mutant non-small cell lung cancer model by reactivating MAPK signaling independently of EGFR. Congratulations to Boyoon on this collaborative publication!
+  A new paper co-first-authored by <b>Boyoon Kim</b> and Sujin Kim (Dankook University) has been published in <b class="journal-emph">Signal Transduction and Targeted Therapy (STTT)</b>! The study shows that RAF1 amplification carried on extrachromosomal DNA (ecDNA) drives acquired erlotinib resistance in an EGFR-mutant non-small cell lung cancer model by reactivating MAPK signaling independently of EGFR. Congratulations to Boyoon on this collaborative publication!
 </p>
 
 <p class="posted-date">Posted on Aug 05, 2026</p>
@@ -48,7 +50,7 @@ permalink: /docs/recent-news/
   <span class="tag tag--paper">Paper</span>
   <h2>Single-cell resolution tracking of Glioblastoma cell of origin</h2>
   <p>
-  A new study co-first-authored by <b>Eunchae Yeo</b> has been published in <b>Experimental & Molecular Medicine (EMM)</b>! The study isolates and characterizes putative glioblastoma origin-like cells in the subventricular zone (SVZ), using single-cell profiling to trace the cellular origin of glioblastoma. Congratulations to Eunchae and all co-authors on this great achievement!
+  A new study co-first-authored by <b>Eunchae Yeo</b> has been published in <b class="journal-emph">Experimental & Molecular Medicine (EMM)</b>! The study isolates and characterizes putative glioblastoma origin-like cells in the subventricular zone (SVZ), using single-cell profiling to trace the cellular origin of glioblastoma. Congratulations to Eunchae and all co-authors on this great achievement!
 </p>
 
 <p class="posted-date">Posted on Aug 01, 2026</p>
@@ -63,9 +65,9 @@ permalink: /docs/recent-news/
 
 <article class="news-item">
   <span class="tag tag--award">Award</span>
-  <h2>Boyoon Kim has been awarded the Grand Prize (대상) in the SKKU Research Matters Plus Competition!</h2>
+  <h2>Boyoon Kim has been awarded the <span class="award-emph">Grand Prize (대상)</span> in the SKKU Research Matters Plus Competition!</h2>
   <p>
-  <b>Boyoon Kim</b> has been honored with the <b>Grand Prize (대상)</b> at the 1st Graduate Research Achievement Competition+ (SKKU Research Matters Plus, 2026학년도 제1회 대학원 연구성과 경진대회+) for her outstanding research contribution! Huge congratulations to Boyoon on this prestigious achievement!!
+  <b>Boyoon Kim</b> has been honored with the <b class="award-emph">Grand Prize (대상)</b> at the 1st Graduate Research Achievement Competition+ (SKKU Research Matters Plus, 2026학년도 제1회 대학원 연구성과 경진대회+) for her outstanding research contribution! Huge congratulations to Boyoon on this prestigious achievement!!
 </p>
 
 <p class="posted-date">Posted on Jul 31, 2026</p>
@@ -81,7 +83,7 @@ permalink: /docs/recent-news/
   <span class="tag tag--scholarship">Scholarship</span>
   <h2>Hyunjeong has been awarded the Doctoral Excellence Scholarship (이공계 박사우수장학금) from KOSAF!</h2>
   <p>
-  <b>Hyunjeong</b> has been selected as a recipient of the <b>Doctoral Excellence Scholarship in Science and Engineering (박사우수장학금 - 이공계)</b> awarded by the <b>Korea Student Aid Foundation (KOSAF, 한국장학재단)</b>! Congratulations to Hyunjeong on this prestigious recognition and well-deserved support for her doctoral research!
+  <b>Hyunjeong</b> has been selected as a recipient of the <b class="award-emph">Doctoral Excellence Scholarship in Science and Engineering (박사우수장학금 - 이공계)</b> awarded by the <b>Korea Student Aid Foundation (KOSAF, 한국장학재단)</b>! Congratulations to Hyunjeong on this prestigious recognition and well-deserved support for her doctoral research!
 </p>
 
 <p class="posted-date">Posted on Jul 21, 2026</p>
@@ -112,9 +114,9 @@ In the figures below, Boyoon is seen discussing her research with the <b>Executi
 
 <article class="news-item">
   <span class="tag tag--award">Award</span>
-  <h2>Boyoon Kim has been awarded the KOBRA Travel Award to support her presentation at AACR 2026!</h2>
+  <h2>Boyoon Kim has been awarded the <span class="award-emph">KOBRA Travel Award</span> to support her presentation at AACR 2026!</h2>
   <p>
-Boyoon has been honored with the KOBRA Travel Award (Global-TA), which supports her participation and presentation at the AACR Annual Meeting 2026 in San Diego, USA. Congratulations!!
+Boyoon has been honored with the <b class="award-emph">KOBRA Travel Award (Global-TA)</b>, which supports her participation and presentation at the AACR Annual Meeting 2026 in San Diego, USA. Congratulations!!
 </p>
 <p class="posted-date">Posted on Mar 26, 2026</p>
 <img class="news-img" src="{{ site.url }}/assets/img/2026_kobra_award.png" alt="">
@@ -124,7 +126,7 @@ Boyoon has been honored with the KOBRA Travel Award (Global-TA), which supports 
   <span class="tag tag--paper">Paper</span>
   <h2>"Tailorable porous collagen hydrogels as a physiologically relevant platform for ecDNA-associated colorectal cancer research"</h2>
   <p>
-This study, co-first authored by <b>Jiwon Shon</b> with key contribution from <b>Yoonjoo Nam</b>, was published in <b>Theranostics</b>. The research team developed a novel 3D porous collagen-based hydrogel model that effectively mimics the tumor microenvironment (TME). Unlike conventional 2D cultures, this tailorable platform successfully maintains <b>extrachromosomal DNA (ecDNA)</b> structures and enhances aggressive tumor phenotypes. This reproducible model provides a powerful tool for long-term ecDNA research and future TME-related studies.
+This study, co-first authored by <b>Jiwon Shon</b> with key contribution from <b>Yoonjoo Nam</b>, was published in <b class="journal-emph">Theranostics</b>. The research team developed a novel 3D porous collagen-based hydrogel model that effectively mimics the tumor microenvironment (TME). Unlike conventional 2D cultures, this tailorable platform successfully maintains <b>extrachromosomal DNA (ecDNA)</b> structures and enhances aggressive tumor phenotypes. This reproducible model provides a powerful tool for long-term ecDNA research and future TME-related studies.
 </p>
 
 <p class="posted-date">Posted on Mar 26, 2026</p>

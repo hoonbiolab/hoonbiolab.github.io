@@ -146,6 +146,7 @@ permalink: /
   .home-body .news-card h4{ font-family:'Fraunces',serif; font-weight:600; font-size:1.08rem; line-height:1.35; margin:0; }
   .home-body .news-card p{ font-size:.9rem; line-height:1.55; color:var(--slate); margin:0; }
   .home-body .news-card .news-journal{ font-style:italic; font-weight:700; color:var(--coral); }
+  .home-body .news-card .news-award{ font-weight:700; color:var(--coral); }
   .home-body .news-grid--more{ display:none; margin-top:20px; }
   .home-body .news-grid--more.show{ display:grid; }
   .home-body .news-more-row{ text-align:center; margin-top:32px; }
@@ -393,8 +394,8 @@ permalink: /
           </div>
       <div class="card news-card">
       <img class="news-card-img" src="{{ site.url }}/assets/img/2026_skku_award.png" alt="">
-      <div class="news-card-body"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>        <h4>Boyoon Kim wins the Grand Prize at SKKU Research Matters Plus</h4>
-        <p>Honored with the Grand Prize (대상) at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
+      <div class="news-card-body"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>        <h4>Boyoon Kim wins the <span class="news-award">Grand Prize</span> at SKKU Research Matters Plus</h4>
+        <p>Honored with the <span class="news-award">Grand Prize (대상)</span> at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
 </div>
           </div>
     </div>
@@ -402,7 +403,7 @@ permalink: /
     <div class="news-grid news-grid--more" id="more-news">
       <div class="card news-card">
       <img class="news-card-img" src="{{ site.url }}/assets/img/2026_kosaf_hyunjeong.png" alt="">
-      <div class="news-card-body"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Jul 21, 2026</span>        <h4>Hyunjeong awarded the KOSAF Doctoral Excellence Scholarship</h4>
+      <div class="news-card-body"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Jul 21, 2026</span>        <h4>Hyunjeong awarded the <span class="news-award">KOSAF Doctoral Excellence Scholarship</span></h4>
         <p>Selected for the Doctoral Excellence Scholarship in Science and Engineering from the Korea Student Aid Foundation.</p>
 </div>
           </div>
@@ -414,7 +415,7 @@ permalink: /
           </div>
       <div class="card news-card">
       <img class="news-card-img" src="{{ site.url }}/assets/img/2026_kobra_award.png" alt="">
-      <div class="news-card-body"><span class="tag tag--award">Award</span><span class="news-date">Mar 26, 2026</span>        <h4>Boyoon Kim receives the KOBRA Travel Award</h4>
+      <div class="news-card-body"><span class="tag tag--award">Award</span><span class="news-date">Mar 26, 2026</span>        <h4>Boyoon Kim receives the <span class="news-award">KOBRA Travel Award</span></h4>
         <p>The Global-TA award supported her participation and presentation at AACR 2026.</p>
 </div>
           </div>
