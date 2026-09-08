@@ -381,6 +381,15 @@ permalink: /
     </div>
     <div class="news-grid">
       <div class="card news-card">
+              <img class="news-card-img" src="{{ site.url }}/assets/img/26_global_bridge.png" alt="University of Basel Training Award">
+              <div class="news-card-body">
+                <span class="tag tag--award">Award</span><span class="news-date">Sep 8, 2026</span>
+                <h4>Jiwon Shon and Boyoon Kim awarded 1-month training at Univ. of Basel</h4>
+                <p>Selected for the <b>2026 K-BTIP Global Bridge Training Program</b> supported by KHIDI to undergo 1-month research training at University of Basel, Switzerland.</p>
+              </div>
+            </div>
+
+      <div class="card news-card">
       <img class="news-card-img" src="{{ site.url }}/assets/img/papers/2026_sttt_boyoon1.jpg" alt="">
       <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>        <h4>RAF1 ecDNA amplification drives acquired erlotinib resistance in lung cancer</h4>
         <p>A new study co-first-authored by Boyoon Kim, published in <em class="news-journal">Signal Transduction and Targeted Therapy</em>, shows RAF1 amplification carried on ecDNA drives acquired erlotinib resistance in an EGFR-mutant NSCLC model.</p>
