@@ -401,12 +401,6 @@ permalink: /
         <p>Co-first-authored by Eunchae Yeo, published in <em class="news-journal">Experimental &amp; Molecular Medicine</em> &mdash; isolating and characterizing putative glioblastoma origin-like cells in the subventricular zone.</p>
 </div>
           </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/2026_skku_award.png" alt="">
-      <div class="news-card-body"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>        <h4>Boyoon Kim wins the <span class="news-award">Grand Prize</span> at SKKU Research Matters Plus</h4>
-        <p>Honored with the <span class="news-award">Grand Prize (대상)</span> at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
-</div>
-          </div>
     </div>
 
     <div class="news-grid news-grid--more" id="more-news">
