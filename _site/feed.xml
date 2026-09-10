@@ -6,9 +6,34 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Sep 2026 21:53:43 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2026 21:53:43 -0500</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 22:22:12 -0500</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:22:12 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/trophy.png&quot; height=&quot;20px&quot;&gt; Jiwon Shon and Boyoon Kim awarded 1-month research training at University of Basel, Switzerland!</title>
+        <description>&lt;p&gt;&lt;strong&gt;Jiwon Shon&lt;/strong&gt; and &lt;strong&gt;Boyoon Kim&lt;/strong&gt; have been selected for the &lt;strong&gt;2026 K-BTIP Global Bridge Training Program&lt;/strong&gt; (핵심인재 글로벌 브릿지 연수 프로그램) supported by the &lt;strong&gt;Korea Health Industry Development Institute (KHIDI, 한국보건산업진흥원)&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;They will participate in a 1-month research training program at the &lt;strong&gt;University of Basel&lt;/strong&gt; in Switzerland.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Jiwon and Boyoon on this wonderful achievement and exciting opportunity!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/2026/swiss-basel-training/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2026/swiss-basel-training/</guid>
+        
+        <category>news</category>
+        
+        <category>award</category>
+        
+        <category>j_shon</category>
+        
+        <category>b_kim</category>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>&lt;img src=&quot;/assets/img/events.png&quot; height=&quot;40px&quot;&gt; We celebrated JunYong's Birthday in our lab!!</title>
@@ -248,43 +273,6 @@
         <category>s_amin</category>
         
         <category>papers</category>
-        
-        
-        <category>publication</category>
-        
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Glioma evolution over time characterized</title>
-        <description>&lt;p&gt;Floris Barthel, Kevin Johnson are the lead authors on a new study on longitudinal analysis of glioma in adult patients, with contributions from many lab members. This is a first seminal study that leverages the &lt;a href=&quot;https://www.glass-consortium.org/data-resource/&quot;&gt;GLASS Data Resource&lt;/a&gt; and the first publication in collaboration with the GLASS Consortium. We identified multiple types of evolution and/or treatment associated changes in the glioma genome over time. This seminal work was published in &lt;a href=&quot;https://www.nature.com/articles/s41586-019-1775-1&quot;&gt;&lt;em&gt;Nature&lt;/em&gt;&lt;/a&gt;.&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Barthel FP, Johnson KC, Varn FS, Moskalik AD, Tanner G, Kocakavuk E, Anderson KJ, Abiola O, Aldape K, Alfaro KD, Alpar D, Amin SB, Ashley DM, Bandopadhayay P, Barnholtz-Sloan JS, Beroukhim R, Bock C, Brastianos PK, Brat DJ, Brodbelt AR, Bruns AF, Bulsara KR, Chakrabarty A, Chakravarti A, Chuang JH, Claus EB, Cochran EJ, Connelly J, Costello JF, Finocchiaro G, Fletcher MN, French PJ, Gan HK, Gilbert MR, Gould PV, Grimmer MR, Iavarone A, Ismail A, Jenkinson MD, Khasraw M, Kim H, Kouwenhoven MCM, LaViolette PS, Li M, Lichter P, Ligon KL, Lowman AK, Malta TM, Mazor T, McDonald KL, Molinaro AM, Nam DH, Nayyar N, Ng HK, Ngan CY, Niclou SP, Niers JM, Noushmehr H, Noorbakhsh J, Ormond DR, Park CK, Poisson LM, Rabadan R, Radlwimmer B, Rao G, Reifenberger G, Sa JK, Schuster M, Shaw BL, Short SC, Smitt PAS, Sloan AE, Smits M, Suzuki H, Tabatabai G, Van Meir EG, Watts C, Weller M, Wesseling P, Westerman BA, Widhalm G, Woehrer A, Yung WKA, Zadeh G, Huse JT, De Groot JF, Stead LF, Verhaak RGW; GLASS Consortium.&lt;/p&gt;
-
-&lt;p&gt;Longitudinal molecular trajectories of diffuse glioma in adults.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Nature&lt;/em&gt;. 2019 Dec;576(7785):112-120. doi: &lt;a href=&quot;https://doi.org/10.1038/s41586-019-1775-1&quot;&gt;10.1038/s41586-019-1775-1&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Nov 2019 00:00:00 -0600</pubDate>
-        <link>http://0.0.0.0:4000/2019/glioma-evolution-over-time-characterized/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2019/glioma-evolution-over-time-characterized/</guid>
-        
-        <category>GLASS</category>
-        
-        <category>longitudinal_data</category>
-        
-        <category>evolution</category>
-        
-        <category>glioma</category>
-        
-        <category>f_barthel</category>
-        
-        <category>k_johnson</category>
-        
-        <category>consortium</category>
-        
-        <category>news</category>
-        
-        <category>publications</category>
         
         
         <category>publication</category>

@@ -696,9 +696,9 @@ permalink: /
       { name:"Sepil An, BS", role:"Research Assistant, Pharmacy, Sungkyunkwan University", url:"{{ site.url }}/people/sp_an", img:"sp_an.jpg" },
       { name:"Dayoung Jeong", role:"Undergraduate Intern, Medicine, Sungkyunkwan University", url:"{{ site.url }}/people/dy_jeong", img:"dy_jeong.jpg" },
       { name:"Seonghyun Jeon", role:"Undergraduate Intern, Pharmacy, Sungkyunkwan University", url:"{{ site.url }}/people/jsh040727", img:"sj_han.jpg" },
-      { name:"Nayeon Kim", role:"Former Undergraduate Intern, Sungkyunkwan University (until Aug 2026)", url:"{{ site.url }}/people/nayeon_kim", img:"nayeon_kim.jpg" },
-      { name:"Chanho Yang", role:"Former Undergraduate Intern, University College London (until Aug 2026)", url:"{{ site.url }}/people/chanho_yang", img:"chanho_yang.jpg" },
-      { name:"Soeun Lee", role:"Former Undergraduate Intern, Sungkyunkwan University (until Aug 2026)", url:"{{ site.url }}/people/Soeun_Lee", img:"Soeun_Lee.jpg" }
+      { name:"Nayeon Kim", role:"Undergraduate Intern, Sungkyunkwan University", url:"{{ site.url }}/people/nayeon_kim", img:"nayeon_kim.jpg" },
+      { name:"Chanho Yang", role:"Undergraduate Intern, University College London", url:"{{ site.url }}/people/chanho_yang", img:"chanho_yang.jpg" },
+      { name:"Soeun Lee", role:"Undergraduate Intern, Sungkyunkwan University", url:"{{ site.url }}/people/Soeun_Lee", img:"Soeun_Lee.jpg" }
     ]}
   ];
 
