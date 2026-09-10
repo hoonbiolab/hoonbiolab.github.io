@@ -553,7 +553,7 @@ permalink: /
       <a class="pub-card" href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00237-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS266637912500237X%3Fshowall%3Dtrue" target="_blank">
         <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-cellrepmed-2025.jpg" alt="Figure from Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy"></div>
         <div>
-          <div class="pub-meta"><span class="pub-year">2025</span><span class="pub-journal">Cell Rep Med</span></div>
+          <div class="pub-meta"><span class="pub-year">2025</span><span class="pub-journal pub-journal--emphasis">Cell Rep Med</span></div>
           <div class="pub-title">Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype</div>
           <span class="pub-authors">Seo ES, An S, Kim H, Kim JY, et al.</span>
           <p class="pub-summary">Breast cancer subtypes follow very different paths after chemotherapy given before surgery, leaving behind distinct patterns of residual disease &mdash; a step toward subtype-specific follow-up treatment.</p>
@@ -562,7 +562,7 @@ permalink: /
       <a class="pub-card" href="https://www.nature.com/articles/s41588-024-01949-7" target="_blank">
         <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-natgenet-2024.png" alt="Figure showing ecDNA amplification prevalence and change across cancer types, from Kim et al. Nature Genetics 2024"></div>
         <div>
-          <div class="pub-meta"><span class="pub-year">2024</span><span class="pub-journal">Nature Genetics</span></div>
+          <div class="pub-meta"><span class="pub-year">2024</span><span class="pub-journal pub-journal--emphasis">Nature Genetics</span></div>
           <div class="pub-title">Mapping extrachromosomal DNA amplifications during cancer progression</div>
           <span class="pub-authors">Kim H, Kim S, Wade T, Yeo E, An S, Ko J, Nam Y, Lee HY, Kang S, Chung H, Verhaak RGW</span>
           <p class="pub-summary">The first pan-cancer map of ecDNA amplification, showing these circular DNA structures are far more common than once thought &mdash; and that they predict worse outcomes as tumors advance.</p>
@@ -571,7 +571,7 @@ permalink: /
       <a class="pub-card" href="https://www.nature.com/articles/s41586-023-05937-5" target="_blank">
         <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-nature-2023-barretts.png" alt="Figure from Extrachromosomal DNA in the cancerous transformation of Barrett's oesophagus"></div>
         <div>
-          <div class="pub-meta"><span class="pub-year">2023</span><span class="pub-journal">Nature</span></div>
+          <div class="pub-meta"><span class="pub-year">2023</span><span class="pub-journal pub-journal--emphasis">Nature</span></div>
           <div class="pub-title">Extrachromosomal DNA in the cancerous transformation of Barrett's esophagus</div>
           <span class="pub-authors">Luebeck J, Ng AWT, Kim H, et al., Chang HY, Mischel PS</span>
           <p class="pub-summary">Extends ecDNA's reach beyond the cancers we usually study, showing it also drives the earliest steps of Barrett's esophagus turning cancerous.</p>
