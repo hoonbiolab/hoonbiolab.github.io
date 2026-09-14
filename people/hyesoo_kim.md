@@ -17,7 +17,7 @@ noindex: false
   <header class="profile-hero">
     <div class="outer">
       <img class="profile-photo" src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim">
-      <span class="eyebrow">Undergraduate Intern</span>
+      <span class="eyebrow">Undergraduate Researcher</span>
       <h1>Hyesoo Kim</h1>
     </div>
   </header>

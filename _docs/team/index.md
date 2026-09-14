@@ -74,13 +74,7 @@ published: true
     <a class="person-card" href="{{ site.url }}/people/hj_cho/"><div class="photo"><img src="{{ site.url }}/assets/img/people/hj_cho.jpg" alt="Hyeongjin Cho"></div><div class="info"><h4>Hyeongjin Cho, Pharm.D.</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/je_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/je_kim.jpg" alt="Jueon Kim"></div><div class="info"><h4>Jueon Kim, BS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/jk_jang/"><div class="photo"><img src="{{ site.url }}/assets/img/people/jk_jang.png" alt="Jongkyu Jang"></div><div class="info"><h4>Jongkyu Jang, Pharm.D.</h4><p class="role">M.S. Candidate</p></div></a>
-  </div>
-</div>
-
-<div class="team-group">
-  <p class="team-group-title">Interns</p>
-  <div class="person-grid">
-    <a class="person-card" href="{{ site.url }}/people/hyesoo_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim"></div><div class="info"><h4>Hyesoo Kim</h4><p class="role">Undergraduate Intern</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/hyesoo_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/hyesoo_kim.png" alt="Hyesoo Kim"></div><div class="info"><h4>Hyesoo Kim</h4><p class="role">Undergraduate Researcher</p></div></a>
   </div>
 </div>
 
@@ -95,11 +89,12 @@ published: true
   <p class="team-group-title">Former Lab Members</p>
   <div class="person-grid">
     <a class="person-card" href="{{ site.url }}/people/jy_ko"><div class="photo"><img src="{{ site.url }}/assets/img/people/jy_ko.png" alt="Junyong Ko"></div><div class="info"><h4>Junyong Ko</h4><p class="role">Junior, SKKU</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/dh_joe"><div class="photo"><img src="{{ site.url }}/assets/img/people/dh_joe.png" alt="Daeho Joe"></div><div class="info"><h4>Daeho Joe, BS</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/ys_kim"><div class="photo"><img src="{{ site.url }}/assets/img/people/ys_kim.png" alt="Yeonsik Kim"></div><div class="info"><h4>Yeonsik Kim</h4><p class="role">Korea Polytechnic University</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/yj_moon"><div class="photo"><img src="{{ site.url }}/assets/img/people/yj_moon.png" alt="Youngjin Moon"></div><div class="info"><h4>Youngjin Moon</h4><p class="role">Jeonbuk National University</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/dj_yoon"><div class="photo"><img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon"></div><div class="info"><h4>Dongjoo Yoon, BA</h4><p class="role">Research Assistant, Gachon University</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/dj_yoon"><div class="photo"><img src="{{ site.url }}/assets/img/people/dj_yoon.png" alt="Dongjoo Yoon"></div><div class="info"><h4>Dongjoo Yoon, BA</h4><p class="role">Research Assistant</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/prof_choi/"><div class="photo"><img src="{{ site.url }}/assets/img/people/prof_choi.png" alt="Yoonji Choi"></div><div class="info"><h4>Yoonji Choi, MD</h4><p class="role">Assoc. Prof., Korea Univ. College of Medicine</p></div></a>
-    <a class="person-card" href="{{ site.url }}/people/hy_lee"><div class="photo"><img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwayeon Lee"></div><div class="info"><h4>Hwayeon Lee</h4><p class="role">Junior, University of California San Diego</p></div></a>
+    <a class="person-card" href="{{ site.url }}/people/hy_lee"><div class="photo"><img src="{{ site.url }}/assets/img/people/hy_lee.jpg" alt="Hwayeon Lee"></div><div class="info"><h4>Hwayeon Lee</h4><p class="role">Junior, UCSD</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/sj_han"><div class="photo"><img src="{{ site.url }}/assets/img/people/sj_han.jpeg" alt="Seungjae Han"></div><div class="info"><h4>Seungjae Han</h4><p class="role">Junior, Korea University</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/sp_an"><div class="photo"><img src="{{ site.url }}/assets/img/people/sp_an.jpg" alt="Sepil An"></div><div class="info"><h4>Sepil An, BS</h4><p class="role">Research Assistant, Pharmacy, Sungkyunkwan University</p></div></a>
     <a class="person-card" href="{{ site.url }}/people/dy_jeong"><div class="photo"><img src="{{ site.url }}/assets/img/people/dy_jeong.jpg" alt="Dayoung Jeong"></div><div class="info"><h4>Dayoung Jeong</h4><p class="role">Undergraduate Intern, Medicine, Sungkyunkwan University</p></div></a>
