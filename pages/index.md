@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Hoon Lab at SKKU"
+title: "Hoon Lab at Pharmacy, SKKU"
 permalink: /
 ---
 
@@ -74,7 +74,7 @@ permalink: /
   @media (max-width:920px){ .home-body .nav-links{ display:none; } .home-body .nav-toggle{ display:block; } }
 
   .home-body .hero{ padding:80px 0 64px; }
-  .home-body .hero .wrap{ display:grid; grid-template-columns:1fr 1.1fr; gap:56px; align-items:center; }
+  .home-body .hero .wrap{ display:grid; grid-template-columns:1.1fr .9fr; gap:56px; align-items:center; }
   .home-body .hero h1{
     font-family:'Fraunces',serif; font-weight:600; font-size:clamp(2.4rem,4vw,3.4rem);
     line-height:1.08; margin:14px 0 0; color:var(--ink);
@@ -94,7 +94,7 @@ permalink: /
   .home-body .hero-stats div span{ font-family:'IBM Plex Mono',monospace; font-size:.68rem; letter-spacing:.06em; text-transform:uppercase; color:var(--slate); }
 
   .home-body .hero-carousel{
-    position:relative; width:100%; aspect-ratio:4/3; max-width:640px; margin:0 auto;
+    position:relative; width:100%; aspect-ratio:4/3; max-width:440px; margin:0 auto;
     border-radius:16px; overflow:hidden; border:1px solid var(--line);
     box-shadow:0 24px 60px -32px rgba(16,24,38,.3); background:var(--ink);
   }
@@ -106,11 +106,6 @@ permalink: /
   .home-body .hc-dots{ position:absolute; bottom:14px; left:0; right:0; display:flex; justify-content:center; gap:7px; }
   .home-body .hc-dot{ width:7px; height:7px; border-radius:50%; background:rgba(255,255,255,.4); transition:background .3s ease, transform .3s ease; }
   .home-body .hc-dot.is-active{ background:#fff; transform:scale(1.3); }
-  .home-body .hero-carousel-link{ text-align:center; margin:12px 0 0; }
-  .home-body .hero-carousel-link a{
-    font-family:'IBM Plex Mono',monospace; font-size:1.05rem; font-weight:700; text-decoration:none; color:var(--teal);
-  }
-  .home-body .hero-carousel-link a:hover{ color:var(--teal-deep); text-decoration:underline; }
 
   .home-body section{ padding:72px 0; border-top:1px solid var(--line); }
   .home-body section.tint{ background:var(--surface); }
@@ -137,16 +132,10 @@ permalink: /
   .home-body .tag--grant{ background:#F5DDE7; color:#8A2F58; }
 
   .home-body .news-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:20px; }
-  @media (max-width:920px){ .home-body .news-grid{ grid-template-columns:repeat(2,1fr); } }
-  @media (max-width:640px){ .home-body .news-grid{ grid-template-columns:1fr; } }
-  .home-body .news-card{ padding:0; display:flex; flex-direction:column; overflow:hidden; }
-  .home-body .news-card-img{ width:100%; height:170px; object-fit:contain; display:block; background:var(--paper); padding:8px; }
-  .home-body .news-card-body{ padding:24px; display:flex; flex-direction:column; gap:10px; flex:1; }
+  .home-body .news-card{ padding:24px; display:flex; flex-direction:column; gap:10px; }
   .home-body .news-card .news-date{ font-family:'IBM Plex Mono',monospace; font-size:.76rem; color:var(--slate); margin-left:8px; }
   .home-body .news-card h4{ font-family:'Fraunces',serif; font-weight:600; font-size:1.08rem; line-height:1.35; margin:0; }
   .home-body .news-card p{ font-size:.9rem; line-height:1.55; color:var(--slate); margin:0; }
-  .home-body .news-card .news-journal{ font-style:italic; font-weight:700; color:var(--coral); }
-  .home-body .news-card .news-award{ font-weight:700; color:var(--coral); }
   .home-body .news-grid--more{ display:none; margin-top:20px; }
   .home-body .news-grid--more.show{ display:grid; }
   .home-body .news-more-row{ text-align:center; margin-top:32px; }
@@ -216,11 +205,6 @@ permalink: /
   .home-body .pub-meta{ display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:6px; }
   .home-body .pub-year{ font-family:'IBM Plex Mono',monospace; font-size:.95rem; color:var(--coral); font-weight:700; }
   .home-body .pub-journal{ font-family:'IBM Plex Mono',monospace; font-size:.72rem; letter-spacing:.04em; text-transform:uppercase; color:var(--slate); }
-  .home-body .pub-journal--emphasis{ font-size:.95rem; font-weight:700; color:var(--coral); letter-spacing:.02em; }
-  .home-body .pub-status-tag{
-    font-family:'IBM Plex Mono',monospace; font-size:.7rem; font-weight:700; letter-spacing:.04em; text-transform:uppercase;
-    background:#DCEFEA; color:#0F6E66; padding:.22rem .55rem; border-radius:999px;
-  }
   .home-body .pub-title{ font-family:'Fraunces',serif; font-weight:600; font-size:1.06rem; line-height:1.4; color:var(--ink); }
   .home-body .pub-authors{ display:block; font-size:.82rem; color:var(--slate); margin-top:4px; }
   .home-body .pub-summary{ margin:8px 0 0; font-size:.9rem; line-height:1.55; color:var(--slate); max-width:64ch; }
@@ -256,20 +240,13 @@ permalink: /
   .home-body .step-detail{ font-size:.86rem; color:var(--slate); margin-top:2px; line-height:1.5; }
   .home-body .modal-plain p{ font-size:.92rem; color:var(--slate); line-height:1.6; margin:0 0 12px; }
 
-  .home-body .research-lead{ display:grid; grid-template-columns:1fr; gap:32px; align-items:start; margin-bottom:44px; }
+  .home-body .research-lead{ display:grid; grid-template-columns:.85fr 1.15fr; gap:40px; align-items:start; margin-bottom:44px; }
   .home-body .research-lead-figure{
     background:var(--surface); border:1px solid var(--line); border-radius:12px; overflow:hidden;
     box-shadow:0 20px 48px -28px rgba(16,24,38,.28);
   }
   .home-body .research-lead-figure img{ display:block; width:100%; }
-  .home-body .research-lead-figure .sub-figure-title{
-    padding:24px 20px 14px; font-family:'Inter',sans-serif; font-weight:700; font-size:1.3rem; color:#1B2A6B;
-    text-align:center; border-top:1px solid var(--line); background:var(--surface); position:relative; margin:0;
-  }
-  .home-body .research-lead-figure .sub-figure-title::after{
-    content:""; display:block; width:100%; height:1px; background:#B9BFD6; margin:10px auto 0;
-  }
-  .home-body .research-lead-figure .sub-figure-title + img{ border-top:none; }
+  .home-body .research-lead-figure img + img{ border-top:1px solid var(--line); }
   .home-body .research-lead-figure figcaption{
     padding:12px 16px; border-top:1px solid var(--line); background:var(--paper);
     font-family:'IBM Plex Mono',monospace; font-size:.74rem; line-height:1.5; color:var(--slate); margin:0;
@@ -311,7 +288,7 @@ permalink: /
   <div class="wrap">
     <a class="brand" href="#top">
       <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab logo" />
-      <span class="brand-text"><strong>Hoon Lab</strong> at SKKU</span>
+      <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
     </a>
     <ul class="nav-links">
       <li><a href="{{ site.url }}/" class="active">Home</a></li>
@@ -322,7 +299,7 @@ permalink: /
       <li><a href="#positions">Positions</a></li>
       <li><a href="{{ site.url }}/#contact">Contact</a></li>
     </ul>
-    <a class="nav-cta" href="#positions" id="join-lab-btn">Join the lab</a>
+    <a class="nav-cta" href="#contact">Join the lab</a>
     <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">&#9776;</button>
   </div>
 </nav>
@@ -361,15 +338,11 @@ permalink: /
       <img src="{{ site.url }}/assets/img/slideshow/summer_water_CBM.jpeg" alt="Hoon Lab summer water activity" class="hc-slide">
       <img src="{{ site.url }}/assets/img/slideshow/240830_lab.png" alt="Hoon Lab group photo 2024" class="hc-slide">
       <img src="{{ site.url }}/assets/img/slideshow/photo3.png" alt="Hoon Lab group photo" class="hc-slide">
-      <img src="{{ site.url }}/assets/img/slideshow/group_picnic.jpg" alt="Hoon Lab outdoor group lunch" class="hc-slide">
-      <img src="{{ site.url }}/assets/img/slideshow/group_dinner.jpg" alt="Hoon Lab group dinner" class="hc-slide">
       <div class="hc-dots">
         <span class="hc-dot is-active"></span><span class="hc-dot"></span><span class="hc-dot"></span>
         <span class="hc-dot"></span><span class="hc-dot"></span><span class="hc-dot"></span><span class="hc-dot"></span>
-        <span class="hc-dot"></span><span class="hc-dot"></span>
       </div>
     </div>
-    <p class="hero-carousel-link"><a href="https://photos.app.goo.gl/EZKecBA7vkaF9Zrp9" target="_blank" rel="noopener">Additional lab photos &rarr;</a></p>
   </div>
 </header>
 
@@ -423,84 +396,57 @@ permalink: /
       <a class="section-link" href="{{ site.url }}/docs/recent-news/">All news &rarr;</a>
     </div>
     <div class="news-grid">
-      <div class="card news-card">
-              <img class="news-card-img" src="{{ site.url }}/assets/img/26_global_bridge.png" alt="University of Basel Training Award">
-              <div class="news-card-body">
-                <span class="tag tag--award">Award</span><span class="news-date">Sep 8, 2026</span>
-                <h4>Jiwon Shon and Boyoon Kim awarded 1-month training at Univ. of Basel</h4>
-                <p>Selected for the <b>2026 K-BTIP Global Bridge Training Program</b> supported by KHIDI to undergo 1-month research training at University of Basel, Switzerland.</p>
-              </div>
-            </div>
-
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/papers/2026_sttt_boyoon1.jpg" alt="">
-      <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>        <h4>RAF1 ecDNA amplification drives acquired erlotinib resistance in lung cancer</h4>
-        <p>A new study co-first-authored by Boyoon Kim, published in <em class="news-journal">Signal Transduction and Targeted Therapy</em>, shows RAF1 amplification carried on ecDNA drives acquired erlotinib resistance in an EGFR-mutant NSCLC model.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/papers/2026_emm_eunchae1.jpg" alt="">
-      <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 1, 2026</span>        <h4>Single-cell resolution tracking of Glioblastoma cell of origin</h4>
-        <p>Co-first-authored by Eunchae Yeo, published in <em class="news-journal">Experimental &amp; Molecular Medicine</em> &mdash; isolating and characterizing putative glioblastoma origin-like cells in the subventricular zone.</p>
-</div>
-          </div>
+      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>
+        <h4>"Extrachromosomal DNA in cancer: mechanics, functions, and therapeutic implications"</h4>
+        <p>A new review by Boyoon Kim, published in <em>Signal Transduction and Targeted Therapy</em>, exploring the mechanics, functions, and therapeutic implications of ecDNA.</p>
+      </div>
+      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 1, 2026</span>
+        <h4>Single-cell resolution tracking of oncogenic ecDNA inheritance</h4>
+        <p>Co-authored by Eunchae, published in <em>Experimental &amp; Molecular Medicine</em> &mdash; novel insight into ecDNA dynamics via single-cell analysis.</p>
+      </div>
+      <div class="card news-card"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>
+        <h4>Boyoon Kim wins the Grand Prize at SKKU Research Matters Plus</h4>
+        <p>Honored with the Grand Prize (대상) at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
+      </div>
     </div>
 
     <div class="news-grid news-grid--more" id="more-news">
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/2026_kosaf_hyunjeong.png" alt="">
-      <div class="news-card-body"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Jul 21, 2026</span>        <h4>Hyunjeong awarded the <span class="news-award">KOSAF Doctoral Excellence Scholarship</span></h4>
+      <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Jul 21, 2026</span>
+        <h4>Hyunjeong awarded the KOSAF Doctoral Excellence Scholarship</h4>
         <p>Selected for the Doctoral Excellence Scholarship in Science and Engineering from the Korea Student Aid Foundation.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/2026_aacr_boyoon2.png" alt="">
-      <div class="news-card-body"><span class="tag tag--event">Lab Event</span><span class="news-date">Apr 27, 2026</span>        <h4>Boyoon Kim presents at AACR 2026 &mdash; a lab milestone</h4>
+      </div>
+      <div class="card news-card"><span class="tag tag--event">Lab Event</span><span class="news-date">Apr 27, 2026</span>
+        <h4>Boyoon Kim presents at AACR 2026 &mdash; a lab milestone</h4>
         <p>Our first lab member to present at the AACR Annual Meeting, San Diego, drawing strong interest from academia and industry.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/2026_kobra_award.png" alt="">
-      <div class="news-card-body"><span class="tag tag--award">Award</span><span class="news-date">Mar 26, 2026</span>        <h4>Boyoon Kim receives the <span class="news-award">KOBRA Travel Award</span></h4>
+      </div>
+      <div class="card news-card"><span class="tag tag--award">Award</span><span class="news-date">Mar 26, 2026</span>
+        <h4>Boyoon Kim receives the KOBRA Travel Award</h4>
         <p>The Global-TA award supported her participation and presentation at AACR 2026.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/papers/2026_theranostics_jiwon.jpg" alt="">
-      <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Mar 26, 2026</span>        <h4>Tailorable porous collagen hydrogels for ecDNA research</h4>
-        <p>Co-first authored by Jiwon Shon, published in <em class="news-journal">Theranostics</em> &mdash; a 3D hydrogel platform that preserves ecDNA structures.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/nvidia_logo.png" alt="">
-      <div class="news-card-body"><span class="tag tag--grant">Lab Event</span><span class="news-date">Mar 17, 2026</span>        <h4>ecDNA foundation model proposal selected by NVIDIA</h4>
+      </div>
+      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Mar 26, 2026</span>
+        <h4>Tailorable porous collagen hydrogels for ecDNA research</h4>
+        <p>Co-first authored by Jiwon Shon, published in <em>Theranostics</em> &mdash; a 3D hydrogel platform that preserves ecDNA structures.</p>
+      </div>
+      <div class="card news-card"><span class="tag tag--grant">Lab Event</span><span class="news-date">Mar 17, 2026</span>
+        <h4>ecDNA foundation model proposal selected by NVIDIA</h4>
         <p>Selected for the NVIDIA Academic Grant Program with Prof. Se-Young Chun (SNU) &mdash; 32,000 A100 GPU-hours awarded.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/papers/2026_science_ecdna.jpg" alt="">
-      <div class="news-card-body"><span class="tag tag--paper">Paper</span><span class="news-date">Feb 2, 2026</span>        <h4>IDH-mutant gliomas arise from glial progenitor cells</h4>
-        <p>Published in <em class="news-journal">Science</em> &mdash; identifying glial progenitor cells as the cell of origin in IDH-mutant gliomas.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/20250829-yoonjoo-scholarship.png" alt="">
-      <div class="news-card-body"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>        <h4>Yoonjoo awarded a National Research Foundation doctoral research grant</h4>
+      </div>
+      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Feb 2, 2026</span>
+        <h4>IDH-mutant gliomas arise from glial progenitor cells</h4>
+        <p>Published in <em>Science</em> &mdash; identifying glial progenitor cells as the cell of origin in IDH-mutant gliomas.</p>
+      </div>
+      <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>
+        <h4>Yoonjoo awarded a National Research Foundation doctoral research grant</h4>
         <p>Funds her PhD research into how ecDNA interacts with micronuclei as tumors acquire chemotherapy resistance.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/20250829-jueon-scholarship.png" alt="">
-      <div class="news-card-body"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>        <h4>Jueon awarded a National Research Foundation master's research grant</h4>
+      </div>
+      <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>
+        <h4>Jueon awarded a National Research Foundation master's research grant</h4>
         <p>Supports her single-cell multi-omics study of ecDNA in glioblastoma.</p>
-</div>
-          </div>
-      <div class="card news-card">
-      <img class="news-card-img" src="{{ site.url }}/assets/img/ICBTRT2025-20250623.JPG" alt="">
-      <div class="news-card-body"><span class="tag tag--event">Lab Event</span><span class="news-date">Jun 23, 2025</span>        <h4>Prof. Kim invited to present at ICBTRT 2025, Japan</h4>
+      </div>
+      <div class="card news-card"><span class="tag tag--event">Lab Event</span><span class="news-date">Jun 23, 2025</span>
+        <h4>Prof. Kim invited to present at ICBTRT 2025, Japan</h4>
         <p>Presented our longitudinal characterization of ecDNA amplifications in adult glioma at the 24th International Conference on Brain Tumor Research and Therapy.</p>
-</div>
-          </div>
+      </div>
     </div>
     <div class="news-more-row"><button class="btn-more" id="more-news-btn">More News <span>+</span></button></div>
   </div>
@@ -527,9 +473,74 @@ permalink: /
       <li><a href="{{ site.url }}/people/jh_jang" target="_blank"><span class="t-name">Jaeho Jang, MS</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/hj_cho/" target="_blank"><span class="t-name">Hyeongjin Cho, Pharm.D.</span><span class="t-role">Research Assistant</span></a></li>
       <li><a href="{{ site.url }}/people/je_kim" target="_blank"><span class="t-name">Jueon Kim, BS</span><span class="t-role">Research Assistant</span></a></li>
+      <li><a href="{{ site.url }}/people/hyesoo_kim" target="_blank"><span class="t-name">Hyesoo Kim</span><span class="t-role">Undergraduate Researcher</span></a></li>
       <li><a href="{{ site.url }}/people/jk_jang/" target="_blank"><span class="t-name">Jongkyu Jang, Pharm.D.</span><span class="t-role">M.S. Candidate</span></a></li>
-      <li><a href="{{ site.url }}/people/hyesoo_kim" target="_blank"><span class="t-name">Hyesoo Kim</span><span class="t-role">Undergraduate Intern</span></a></li>
     </ul>
+  </div>
+</section>
+<section id="research">
+  <div class="wrap">
+    <div class="section-head">
+      <div><span class="eyebrow">What we study</span><h2>Research</h2></div>
+      <a class="section-link" href="{{ site.url }}/docs/research/">Full research page &rarr;</a>
+    </div>
+
+    <div class="research-lead">
+      <figure class="research-lead-figure">
+        <img src="{{ site.url }}/assets/img/hero-ecdna-nucleus.png" alt="Illustration of extrachromosomal DNA (ecDNA) alongside chromosomal DNA inside a cancer cell nucleus">
+        <img src="{{ site.url }}/assets/img/pub-natgenet-2024-thumb.png" alt="Diagram of ecDNA prevalence changing from primary to advanced cancer across cancer types">
+        <figcaption>What ecDNA is, and where it takes hold as cancer advances &mdash; Kim et al., <em>Nature Genetics</em>, 2024</figcaption>
+      </figure>
+      <div class="research-lead-copy">
+        <h3>&ldquo;Our lab is all about big data.&rdquo;</h3>
+        <p>A major cause of cancer treatment failure is the development of therapy resistance in tumors, which evolve by accumulating tumor-promoting mutations and modified chromosome structures. Our lab addresses this through computational and statistical analysis of large-scale biomolecular data &mdash; centered on extrachromosomal DNA (ecDNA), work spanning long- and short-read sequencing, single-cell and spatial multiomics, FISH validation, and structural variant analysis, alongside collaborators across cancer biology, epigenetics, structural biology, bioimaging, and tumor microenvironment research.</p>
+        <div class="tag-row">
+          <span class="tag">Extrachromosomal DNA</span>
+          <span class="tag">Multiomics</span>
+          <span class="tag">Long- &amp; short-read sequencing</span>
+          <span class="tag">Structural variation</span>
+          <span class="tag">Spatial genomics</span>
+          <span class="tag">Tumor evolution</span>
+          <span class="tag">Glioma biology</span>
+          <span class="tag">Tumor microenvironment models</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="research-grid research-grid--photo">
+      <div class="research-card">
+        <img src="{{ site.url }}/assets/img/res-singlecell-ecdna.png" alt="Single-cell tracking of oncogenic ecDNA inheritance and structural variation">
+        <div class="research-card-body">
+          <h3>ecDNA: Mechanics, Functions &amp; Therapeutic Implications</h3>
+          <p>Our most comprehensive synthesis to date on ecDNA's mechanical properties, biological functions, and therapeutic angles &mdash; building on our pan-cancer survey finding circular ecDNA in over 25 of 29 cancer types and our latest single-cell tracking of ecDNA inheritance.</p>
+          <a href="{{ site.url }}/docs/research/#characterization-of-extrachromosomal-dna">Read more &rarr;</a>
+        </div>
+      </div>
+      <div class="research-card">
+        <img src="{{ site.url }}/assets/img/res-idh-glioma.png" alt="IDH-mutant glioma arising from glial progenitor cells">
+        <div class="research-card-body">
+          <h3>Tumor Evolution &amp; Glioma Origin</h3>
+          <p>From non-chromosomal ecDNA amplification driving intratumor heterogeneity to tracing IDH-mutant glioma back to the glial progenitor cells that first carry the driver mutation &mdash; with the GLASS consortium we co-founded.</p>
+          <a href="{{ site.url }}/docs/research/#tumor-evolution-and-intratumoral-heterogeneity">Read more &rarr;</a>
+        </div>
+      </div>
+      <div class="research-card">
+        <img src="{{ site.url }}/assets/img/res-hydrogel-platform.png" alt="Tailorable porous collagen hydrogel platform for ecDNA research">
+        <div class="research-card-body">
+          <h3>ecDNA Across Cancer Types &amp; New Research Platforms</h3>
+          <p>Mapping ecDNA in gastric and breast cancer and Barrett's esophagus, and building tailorable 3D collagen hydrogel platforms that better preserve ecDNA structures for long-term study.</p>
+          <a href="{{ site.url }}/docs/research/#biomedical-data-analysis-system-to-fight-diseases">Read more &rarr;</a>
+        </div>
+      </div>
+      <div class="research-card">
+        <img src="{{ site.url }}/assets/img/hero-ecdna-nucleus.png" alt="Computational cancer genomics illustration">
+        <div class="research-card-body">
+          <h3>Computational Tools for Amplicon &amp; SV Analysis</h3>
+          <p>We co-developed AmpliconSuite, an end-to-end workflow now used broadly across the field for detecting and reconstructing focal amplifications &mdash; including ecDNA &mdash; from sequencing data.</p>
+          <a href="{{ site.url }}/docs/research/#machine-learning-applications-in-understanding-diseases">Read more &rarr;</a>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 <section id="publications">
@@ -539,15 +550,6 @@ permalink: /
       <a class="section-link" href="{{ site.url }}/docs/publication/">All publications &rarr;</a>
     </div>
     <div class="pub-list">
-      <div class="pub-card">
-        <div class="pub-media is-placeholder"><span>AmpliconSuite<br>Nature Methods</span></div>
-        <div>
-          <div class="pub-meta"><span class="pub-status-tag">In Press</span><span class="pub-journal pub-journal--emphasis">Nature Methods</span></div>
-          <div class="pub-title">AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes</div>
-          <span class="pub-authors">Luebeck J, Huang E, et al., Kim S, Kim H, et al., Mesirov J, Bafna V</span>
-          <p class="pub-summary">An end-to-end computational workflow for detecting and reconstructing focal amplifications &mdash; including ecDNA &mdash; from sequencing data, now used broadly across the field.</p>
-        </div>
-      </div>
       <a class="pub-card" href="https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00237-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS266637912500237X%3Fshowall%3Dtrue" target="_blank">
         <div class="pub-media"><img src="{{ site.url }}/assets/img/pub-cellrepmed-2025.jpg" alt="Figure from Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy"></div>
         <div>
@@ -579,6 +581,20 @@ permalink: /
     <p style="margin-top:26px; font-size:.9rem; color:var(--slate);">Also on <a href="https://scholar.google.com/citations?user=foxOEo4AAAAJ&hl=en" target="_blank" style="color:var(--teal); font-weight:600;">Google Scholar</a> and <a href="https://orcid.org/0000-0003-4244-6126" target="_blank" style="color:var(--teal); font-weight:600;">ORCID</a>.</p>
   </div>
 </section>
+<section id="positions">
+  <div class="wrap">
+    <div class="section-head">
+      <div><span class="eyebrow">We're hiring</span><h2>Open Positions</h2></div>
+    </div>
+    <div class="positions-card">
+      <img src="{{ site.url }}/assets/img/2026_CBM-20251229.jpg" alt="Hoon Lab recruitment notice for Computational Biomedicine positions">
+      <div class="positions-body">
+        <p>Interested in joining us? Reach out with your CV and a line about what draws you to computational cancer genomics &mdash; we'd love to hear from you.</p>
+        <a class="btn btn-primary" href="mailto:wisekh6@gmail.com">Email the lab</a>
+      </div>
+    </div>
+  </div>
+</section>
 <section class="tint">
   <div class="wrap">
     <p class="eyebrow" style="margin-bottom:20px;">Collaborators &amp; support</p>
@@ -607,6 +623,9 @@ permalink: /
       <div>
         <h5>Reach us</h5>
         <div class="links">
+          <a href="mailto:wisekh6@gmail.com">wisekh6@gmail.com</a><br>
+          <a href="tel:+12124448121">+1-212-444-8121</a><br>
+          <span style="opacity:.6; font-size:.85rem;">Administrative support</span><br>
           <a href="mailto:wisekh@skku.edu">wisekh@skku.edu</a><br>
           <a href="tel:+82312907709">+82-31-290-7709</a>
         </div>
@@ -615,7 +634,7 @@ permalink: /
     <div class="foot-row">
       <a class="brand" href="#top">
         <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab" />
-        <span class="brand-text"><strong>Hoon Lab</strong> at SKKU</span>
+        <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
       </a>
       <ul class="foot-links">
         <li><a href="{{ site.url }}/docs/recent-news/">News</a></li>
@@ -624,27 +643,11 @@ permalink: /
         <li><a href="{{ site.url }}/docs/publication/">Publications</a></li>
         <li><a href="#positions">Positions</a></li>
       </ul>
-      <span>&copy; 2026 Hoon Lab, SKKU.</span>
+      <span>&copy; 2026 Hoon Bio Lab, SKKU.</span>
     </div>
   </div>
 </footer>
 
-<div class="modal-overlay" id="join-lab-modal">
-  <div class="modal-box" style="max-width:440px;">
-    <button class="modal-close" data-close>&times;</button>
-    <span class="eyebrow">We're hiring</span>
-    <h3>Join the lab</h3>
-    <p class="modal-plain">Reach out with your CV and a line about what draws you to computational cancer genomics: Hoon Kim (<a href="mailto:wisekh@skku.edu" style="color:var(--teal); font-weight:600;">wisekh@skku.edu</a>)</p>
-  </div>
-</div>
-<div class="modal-overlay" id="email-modal">
-  <div class="modal-box" style="max-width:420px;">
-    <button class="modal-close" data-close>&times;</button>
-    <span class="eyebrow">Get in touch</span>
-    <h3>Hoon Kim</h3>
-    <p class="modal-plain"><a href="mailto:wisekh@skku.edu" style="color:var(--teal); font-weight:600;">wisekh@skku.edu</a></p>
-  </div>
-</div>
 <div class="modal-overlay" id="team-directory">
   <div class="modal-box" style="max-width:640px;">
     <button class="modal-close" data-close>&times;</button>
@@ -675,21 +678,20 @@ permalink: /
       { name:"Jaeho Jang, MS", role:"Research Assistant", url:"{{ site.url }}/people/jh_jang", img:"jh_jang.jpg" },
       { name:"Hyeongjin Cho, Pharm.D.", role:"Research Assistant", url:"{{ site.url }}/people/hj_cho/", img:"hj_cho.jpg" },
       { name:"Jueon Kim, BS", role:"Research Assistant", url:"{{ site.url }}/people/je_kim", img:"je_kim.jpg" },
-      { name:"Jongkyu Jang, Pharm.D.", role:"M.S. Candidate", url:"{{ site.url }}/people/jk_jang/", img:"jk_jang.png" }
-    ]},
-    { title: "Interns", people: [
-      { name:"Hyesoo Kim", role:"Undergraduate Intern", url:"{{ site.url }}/people/hyesoo_kim", img:"hyesoo_kim.png" }
+      { name:"Jongkyu Jang, Pharm.D.", role:"M.S. Candidate", url:"{{ site.url }}/people/jk_jang/", img:"jk_jang.png" },
+      { name:"Hyesoo Kim", role:"Undergraduate Researcher", url:"{{ site.url }}/people/hyesoo_kim", img:"hyesoo_kim.png" }
     ]},
     { title: "Alumni", people: [
       { name:"Soyeon Kim, MS", role:"PhD Student, Wellcome Sanger Institute", url:"{{ site.url }}/people/sy_kim", img:"sy_kim.png" }
     ]},
     { title: "Former Lab Members", people: [
       { name:"Junyong Ko", role:"Junior, SKKU", url:"{{ site.url }}/people/jy_ko", img:"jy_ko.png" },
+      { name:"Daeho Joe, BS", role:"Research Assistant", url:"{{ site.url }}/people/dh_joe", img:"dh_joe.png" },
       { name:"Yeonsik Kim", role:"Korea Polytechnic University", url:"{{ site.url }}/people/ys_kim", img:"ys_kim.png" },
       { name:"Youngjin Moon", role:"Jeonbuk National University", url:"{{ site.url }}/people/yj_moon", img:"yj_moon.png" },
-      { name:"Dongjoo Yoon, BA", role:"Research Assistant, Gachon University", url:"{{ site.url }}/people/dj_yoon", img:"dj_yoon.png" },
+      { name:"Dongjoo Yoon, BA", role:"Research Assistant", url:"{{ site.url }}/people/dj_yoon", img:"dj_yoon.png" },
       { name:"Yoonji Choi, MD", role:"Associate Professor, Korea University College of Medicine", url:"{{ site.url }}/people/prof_choi/", img:"prof_choi.png" },
-      { name:"Hwayeon Lee", role:"Junior, University of California San Diego", url:"{{ site.url }}/people/hy_lee", img:"hy_lee.jpg" },
+      { name:"Hwayeon Lee", role:"Junior, UCSD", url:"{{ site.url }}/people/hy_lee", img:"hy_lee.jpg" },
       { name:"Seungjae Han", role:"Junior, Korea University", url:"{{ site.url }}/people/sj_han", img:"sj_han.jpeg" },
       { name:"Sepil An, BS", role:"Research Assistant, Pharmacy, Sungkyunkwan University", url:"{{ site.url }}/people/sp_an", img:"sp_an.jpg" },
       { name:"Dayoung Jeong", role:"Undergraduate Intern, Medicine, Sungkyunkwan University", url:"{{ site.url }}/people/dy_jeong", img:"dy_jeong.jpg" },
@@ -720,17 +722,6 @@ permalink: /
 
   var teamDirBtn = document.getElementById('team-directory-btn');
   if (teamDirBtn) teamDirBtn.addEventListener('click', function(){ document.getElementById('team-directory').classList.add('open'); });
-
-  var emailModalBtn = document.getElementById('email-modal-btn');
-  if (emailModalBtn) emailModalBtn.addEventListener('click', function(){ document.getElementById('email-modal').classList.add('open'); });
-
-  var joinLabBtn = document.getElementById('join-lab-btn');
-  if (joinLabBtn) joinLabBtn.addEventListener('click', function(e){
-    if (!document.getElementById('positions')){
-      e.preventDefault();
-      document.getElementById('join-lab-modal').classList.add('open');
-    }
-  });
 </script>
 
 <script>
