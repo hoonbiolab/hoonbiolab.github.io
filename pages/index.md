@@ -373,6 +373,49 @@ permalink: /
   </div>
 </header>
 
+<section id="positions">
+  <div class="wrap">
+    <div class="section-head">
+      <div><span class="eyebrow">We're hiring</span><h2>Open Positions</h2></div>
+    </div>
+    <div class="positions-card">
+      <img src="{{ site.url }}/assets/img/2026_CBM-20251229.jpg" alt="Hoon Lab recruitment notice for Computational Biomedicine positions">
+      <div class="positions-body">
+        <p>Interested in joining us? Reach out with your CV and a line about what draws you to computational cancer genomics &mdash; we'd love to hear from you.</p>
+        <button class="btn btn-primary" id="email-modal-btn" style="border:none; cursor:pointer;">Email the lab</button>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="research">
+  <div class="wrap">
+    <div class="section-head">
+      <div><span class="eyebrow">What we study</span><h2>Research</h2></div>
+      <a class="section-link" href="{{ site.url }}/docs/research/">Full research page &rarr;</a>
+    </div>
+
+    <div class="research-lead">
+      <figure class="research-lead-figure">
+        <img src="{{ site.url }}/assets/img/ecdna_evo_preview.png" alt="Uneven segregation of ecDNA during cell division driving increased intratumoral heterogeneity">
+        <figcaption>What&rsquo;s extrachromosomal DNA (ecDNA)?</figcaption>
+      </figure>
+      <div class="research-lead-copy">
+        <h3>&ldquo;Our lab is all about big data.&rdquo;</h3>
+        <p>A major cause of cancer treatment failure is the development of therapy resistance in tumors, which evolve by accumulating tumor-promoting mutations and modified chromosome structures. Our lab addresses this through computational and statistical analysis of large-scale biomolecular data &mdash; centered on extrachromosomal DNA (ecDNA), work spanning long- and short-read sequencing, single-cell and spatial multiomics, FISH validation, and structural variant analysis, alongside collaborators across cancer biology, epigenetics, structural biology, bioimaging, and tumor microenvironment research.</p>
+        <div class="tag-row">
+          <span class="tag">Extrachromosomal DNA</span>
+          <span class="tag">Multiomics</span>
+          <span class="tag">Long- &amp; short-read sequencing</span>
+          <span class="tag">Structural variation</span>
+          <span class="tag">Spatial genomics</span>
+          <span class="tag">Tumor evolution</span>
+          <span class="tag">Glioma biology</span>
+          <span class="tag">Tumor microenvironment models</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <section id="news" class="tint">
   <div class="wrap">
     <div class="section-head">
@@ -462,20 +505,6 @@ permalink: /
     <div class="news-more-row"><button class="btn-more" id="more-news-btn">More News <span>+</span></button></div>
   </div>
 </section>
-<section id="positions">
-  <div class="wrap">
-    <div class="section-head">
-      <div><span class="eyebrow">We're hiring</span><h2>Open Positions</h2></div>
-    </div>
-    <div class="positions-card">
-      <img src="{{ site.url }}/assets/img/2026_CBM-20251229.jpg" alt="Hoon Lab recruitment notice for Computational Biomedicine positions">
-      <div class="positions-body">
-        <p>Interested in joining us? Reach out with your CV and a line about what draws you to computational cancer genomics &mdash; we'd love to hear from you.</p>
-        <button class="btn btn-primary" id="email-modal-btn" style="border:none; cursor:pointer;">Email the lab</button>
-      </div>
-    </div>
-  </div>
-</section>
 <section id="team" class="tint">
   <div class="wrap">
     <div class="section-head">
@@ -501,37 +530,6 @@ permalink: /
       <li><a href="{{ site.url }}/people/jk_jang/" target="_blank"><span class="t-name">Jongkyu Jang, Pharm.D.</span><span class="t-role">M.S. Candidate</span></a></li>
       <li><a href="{{ site.url }}/people/hyesoo_kim" target="_blank"><span class="t-name">Hyesoo Kim</span><span class="t-role">Undergraduate Intern</span></a></li>
     </ul>
-  </div>
-</section>
-<section id="research">
-  <div class="wrap">
-    <div class="section-head">
-      <div><span class="eyebrow">What we study</span><h2>Research</h2></div>
-      <a class="section-link" href="{{ site.url }}/docs/research/">Full research page &rarr;</a>
-    </div>
-
-    <div class="research-lead">
-      <figure class="research-lead-figure">
-        <img src="{{ site.url }}/assets/img/20260901-HL-lab-research_area.png" alt="Illustration of extrachromosomal DNA (ecDNA) alongside chromosomal DNA inside a cancer cell nucleus">
-        <p class="sub-figure-title">ecDNA Prevalence Across Multiple Cancer Types</p>
-        <img src="{{ site.url }}/assets/img/20240926-NatGenet-ecDNA_freq.png" alt="Diagram of ecDNA prevalence changing from primary to advanced cancer across cancer types">
-        <figcaption>What ecDNA is, and where it takes hold as cancer advances &mdash; Kim et al., <em>Nature Genetics</em>, 2024</figcaption>
-      </figure>
-      <div class="research-lead-copy">
-        <h3>&ldquo;Our lab is all about big data.&rdquo;</h3>
-        <p>A major cause of cancer treatment failure is the development of therapy resistance in tumors, which evolve by accumulating tumor-promoting mutations and modified chromosome structures. Our lab addresses this through computational and statistical analysis of large-scale biomolecular data &mdash; centered on extrachromosomal DNA (ecDNA), work spanning long- and short-read sequencing, single-cell and spatial multiomics, FISH validation, and structural variant analysis, alongside collaborators across cancer biology, epigenetics, structural biology, bioimaging, and tumor microenvironment research.</p>
-        <div class="tag-row">
-          <span class="tag">Extrachromosomal DNA</span>
-          <span class="tag">Multiomics</span>
-          <span class="tag">Long- &amp; short-read sequencing</span>
-          <span class="tag">Structural variation</span>
-          <span class="tag">Spatial genomics</span>
-          <span class="tag">Tumor evolution</span>
-          <span class="tag">Glioma biology</span>
-          <span class="tag">Tumor microenvironment models</span>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 <section id="publications">

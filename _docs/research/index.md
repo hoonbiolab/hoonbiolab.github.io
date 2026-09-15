@@ -29,6 +29,7 @@ carbonads: false
   .home-body .research-block p{ font-size:1.02rem; line-height:1.8; color:var(--slate); max-width:820px; }
   .home-body .research-block .pubs{ font-size:.88rem; color:var(--teal-deep); margin-top:10px; }
   .home-body .research-block .journal-cite{ color:var(--coral); font-weight:700; }
+  .home-body .research-block .fig-title{ font-family:'IBM Plex Mono',monospace; font-weight:700; font-size:1rem; letter-spacing:.03em; text-transform:uppercase; color:var(--teal-deep); max-width:820px; margin:18px 0 -6px; }
   .home-body a{ color:var(--teal); }
 </style>
 
@@ -52,7 +53,10 @@ carbonads: false
 
 <div class="research-block" id="characterization-of-extrachromosomal-dna">
   <h2>ecDNA: Mechanics, Functions &amp; Therapeutic Implications</h2>
-  <p>Our most comprehensive synthesis to date brings together what we and the field now understand about the mechanical properties, biological functions, and emerging therapeutic angles of extrachromosomal DNA (ecDNA) in cancer &mdash; work that builds directly on our pan-cancer survey finding circular ecDNA in over 25 of 29 cancer types, far more common than the &lt;1% once assumed, and linked to significantly shorter patient survival (<a href="https://www.nature.com/articles/s41588-024-01949-7" target="_blank">Kim et al., <span class="journal-cite">Nature Genetics, 2024</span></a>). EcDNAs were first recognized through pioneering cytopathology studies by Arthur Spriggs over 50 years ago, yet how they drive tumorigenesis is still being uncovered. We study this with a broad toolkit: long- and short-read whole-genome and exome sequencing, single-cell multiomics, FISH-based validation, and structural variant analysis, backed by <a href="https://github.com/AmpliconSuite" target="_blank">AmpliconSuite</a>, an end-to-end computational workflow we co-developed for detecting focal amplifications in cancer genomes.</p>
+  <p>Our most comprehensive synthesis to date brings together what we and the field now understand about the mechanical properties, biological functions, and emerging therapeutic angles of extrachromosomal DNA (ecDNA) in cancer &mdash; work that builds directly on our pan-cancer survey finding circular ecDNA in over 25 of 29 cancer types, far more common than the &lt;1% once assumed, and linked to significantly shorter patient survival (<a href="https://www.nature.com/articles/s41588-020-0678-2" target="_blank">Kim et al., <span class="journal-cite">Nature Genetics, 2020</span></a>; <a href="https://www.nature.com/articles/s41588-024-01949-7" target="_blank">Kim et al., <span class="journal-cite">Nature Genetics, 2024</span></a>). EcDNAs were first recognized through pioneering cytopathology studies by Arthur Spriggs over 50 years ago, yet how they drive tumorigenesis is still being uncovered. We study this with a broad toolkit: long- and short-read whole-genome and exome sequencing, single-cell multiomics, FISH-based validation, and structural variant analysis, backed by <a href="https://github.com/AmpliconSuite" target="_blank">AmpliconSuite</a>, an end-to-end computational workflow we co-developed for detecting focal amplifications in cancer genomes.</p>
+  <p class="fig-title">What&rsquo;s extrachromosomal DNA (ecDNA)?</p>
+  <img src="{{ site.url }}/assets/img/ecdna_evo_preview.png" alt="Uneven segregation of ecDNA during cell division driving increased intratumoral heterogeneity">
+  <p class="fig-title">ecDNA prevalence across tumor types</p>
   <img src="{{ site.url }}/assets/img/res-pancan_aa.png" alt="Pan-cancer prevalence of circular, BFB, heavily-rearranged, and linear focal amplifications across 29 cancer types">
 </div>
 
