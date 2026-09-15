@@ -5,7 +5,7 @@ permalink: /docs/recent-news/
 ---
 {% include person-style.html %}
 <style>
-  .news-list{ max-width:820px; margin:0 auto; padding:0 40px; }
+  .news-list{ max-width:1320px; margin:0 auto; padding:0 40px; }
   .news-item{ padding:40px 0; border-top:1px solid #E4E1D6; }
   .news-item:first-child{ border-top:none; padding-top:0; }
   .news-item h2{ font-family:'Fraunces',serif; font-weight:600; font-size:1.5rem; margin:10px 0 16px; color:#101826; line-height:1.35; }
@@ -14,7 +14,7 @@ permalink: /docs/recent-news/
   .news-item .cite{ font-size:.92rem; color:#3A4456; background:#F5F4EE; border-left:3px solid #0F6E66; padding:12px 16px; margin:16px 0; }
   .news-img-row{ display:flex; gap:12px; flex-wrap:wrap; margin:16px 0; }
   .news-img{ flex:1 1 260px; max-width:100%; border-radius:8px; border:1px solid #E4E1D6; }
-  .tag{ font-family:'IBM Plex Mono',monospace; font-size:.7rem; letter-spacing:.04em; padding:.22rem .6rem; border-radius:999px; display:inline-block; }
+  .tag{ font-family:'IBM Plex Mono',monospace; font-size:1.15rem; font-weight:700; letter-spacing:.04em; padding:.36rem 1rem; border-radius:999px; display:inline-block; }
   .tag--paper{ background:#F7E4DC; color:#9C3A19; }
   .tag--award{ background:#FCEFC7; color:#8A6A0A; }
   .tag--scholarship{ background:#DCEFEA; color:#0F6E66; }

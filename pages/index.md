@@ -1,11 +1,12 @@
 ---
 layout: home
-title: "Hoon Lab at Pharmacy, SKKU"
+title: "Hoon Lab at SKKU"
 permalink: /
 ---
 
 <style>
   html, body{ font-size:18px !important; }
+  html{ overflow-y:scroll; scrollbar-gutter:stable; }
   body > header.md-header,
   body [data-md-component="header"],
   body [data-md-component="navigation"],
@@ -74,7 +75,7 @@ permalink: /
   @media (max-width:920px){ .home-body .nav-links{ display:none; } .home-body .nav-toggle{ display:block; } }
 
   .home-body .hero{ padding:80px 0 64px; }
-  .home-body .hero .wrap{ display:grid; grid-template-columns:1.1fr .9fr; gap:56px; align-items:center; }
+  .home-body .hero .wrap{ display:grid; grid-template-columns:1fr 1.1fr; gap:56px; align-items:center; }
   .home-body .hero h1{
     font-family:'Fraunces',serif; font-weight:600; font-size:clamp(2.4rem,4vw,3.4rem);
     line-height:1.08; margin:14px 0 0; color:var(--ink);
@@ -85,7 +86,8 @@ permalink: /
   .home-body .hero .lede{ margin-top:20px; max-width:44ch; font-size:1.12rem; color:var(--slate); line-height:1.6; }
   .home-body .hero-actions{ display:flex; gap:14px; margin-top:30px; flex-wrap:wrap; }
   .home-body .btn{ display:inline-flex; align-items:center; gap:8px; text-decoration:none; padding:12px 22px; border-radius:999px; font-weight:700; font-size:.95rem; transition:transform .15s ease; }
-  .home-body .btn-primary{ background:var(--teal); color:#fff; }
+  .home-body .btn-primary{ background:var(--teal); color:#fff; -webkit-appearance:none; appearance:none; }
+  .home-body button.btn-primary{ color:#fff !important; }
   .home-body .btn-primary:hover{ background:var(--teal-deep); }
   .home-body .btn-ghost{ background:transparent; color:var(--ink); border:1.5px solid var(--line); }
   .home-body .btn-ghost:hover{ border-color:var(--ink); }
@@ -94,7 +96,7 @@ permalink: /
   .home-body .hero-stats div span{ font-family:'IBM Plex Mono',monospace; font-size:.68rem; letter-spacing:.06em; text-transform:uppercase; color:var(--slate); }
 
   .home-body .hero-carousel{
-    position:relative; width:100%; aspect-ratio:4/3; max-width:440px; margin:0 auto;
+    position:relative; width:100%; aspect-ratio:4/3; max-width:640px; margin:0 auto;
     border-radius:16px; overflow:hidden; border:1px solid var(--line);
     box-shadow:0 24px 60px -32px rgba(16,24,38,.3); background:var(--ink);
   }
@@ -126,6 +128,9 @@ permalink: /
     padding:.2rem .55rem; border-radius:999px; display:inline-block;
   }
   .home-body .tag--paper{ background:var(--coral-soft); color:#9C3A19; }
+  .home-body .news-card .journal-emph{ color:#C2410C; font-weight:700; }
+  .home-body .news-card .award-emph{ color:#8A6A0A; font-weight:700; }
+  .home-body .news-card .ecdna-emph{ color:var(--teal-deep); font-weight:700; }
   .home-body .tag--award{ background:#FCEFC7; color:#8A6A0A; }
   .home-body .tag--scholarship{ background:#DCEFEA; color:#0F6E66; }
   .home-body .tag--event{ background:#E6E3F5; color:#4B3F9E; }
@@ -205,6 +210,7 @@ permalink: /
   .home-body .pub-meta{ display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:6px; }
   .home-body .pub-year{ font-family:'IBM Plex Mono',monospace; font-size:.95rem; color:var(--coral); font-weight:700; }
   .home-body .pub-journal{ font-family:'IBM Plex Mono',monospace; font-size:.72rem; letter-spacing:.04em; text-transform:uppercase; color:var(--slate); }
+  .home-body .pub-journal--emphasis{ font-size:.92rem; color:#C2410C; font-weight:700; }
   .home-body .pub-title{ font-family:'Fraunces',serif; font-weight:600; font-size:1.06rem; line-height:1.4; color:var(--ink); }
   .home-body .pub-authors{ display:block; font-size:.82rem; color:var(--slate); margin-top:4px; }
   .home-body .pub-summary{ margin:8px 0 0; font-size:.9rem; line-height:1.55; color:var(--slate); max-width:64ch; }
@@ -240,8 +246,9 @@ permalink: /
   .home-body .step-detail{ font-size:.86rem; color:var(--slate); margin-top:2px; line-height:1.5; }
   .home-body .modal-plain p{ font-size:.92rem; color:var(--slate); line-height:1.6; margin:0 0 12px; }
 
-  .home-body .research-lead{ display:grid; grid-template-columns:.85fr 1.15fr; gap:40px; align-items:start; margin-bottom:44px; }
+  .home-body .research-lead{ display:flex; flex-direction:column; gap:32px; margin-bottom:44px; }
   .home-body .research-lead-figure{
+    width:100%; margin:0 auto;
     background:var(--surface); border:1px solid var(--line); border-radius:12px; overflow:hidden;
     box-shadow:0 20px 48px -28px rgba(16,24,38,.28);
   }
@@ -254,7 +261,6 @@ permalink: /
   .home-body .research-lead-copy h3{ font-family:'Fraunces',serif; font-weight:600; font-size:1.5rem; margin:0 0 14px; }
   .home-body .research-lead-copy p{ font-size:.95rem; line-height:1.65; color:var(--slate); margin:0 0 20px; }
   .home-body .tag-row{ display:flex; flex-wrap:wrap; gap:8px; }
-  @media (max-width:900px){ .home-body .research-lead{ grid-template-columns:1fr; } }
 
   .home-body .research-grid--photo{ display:grid; grid-template-columns:repeat(2,1fr); gap:24px; background:none; border:none; }
   .home-body .research-grid--photo .research-card{ background:var(--surface); border:1px solid var(--line); border-radius:14px; overflow:hidden; padding:0; display:block; }
@@ -266,13 +272,12 @@ permalink: /
   @media (max-width:760px){ .home-body .research-grid--photo{ grid-template-columns:1fr; } }
 
   .home-body .positions-card{
-    display:grid; grid-template-columns:.85fr 1.15fr; gap:0; background:var(--surface); border:1px solid var(--line);
+    display:flex; flex-direction:column; background:var(--surface); border:1px solid var(--line);
     border-radius:14px; overflow:hidden; box-shadow:0 20px 48px -28px rgba(16,24,38,.28);
   }
-  .home-body .positions-card img{ display:block; width:100%; height:100%; object-fit:cover; }
+  .home-body .positions-card img{ display:block; width:100%; height:auto; object-fit:cover; }
   .home-body .positions-body{ padding:32px; display:flex; flex-direction:column; justify-content:center; gap:18px; }
   .home-body .positions-body p{ font-size:1rem; line-height:1.6; color:var(--slate); margin:0; }
-  @media (max-width:760px){ .home-body .positions-card{ grid-template-columns:1fr; } }
   .home-body .collab-strip{ display:flex; flex-wrap:wrap; gap:14px 28px; }
   .home-body .collab-strip span{
     font-family:'IBM Plex Mono',monospace; font-size:.82rem; font-weight:600; color:var(--ink-soft);
@@ -288,7 +293,7 @@ permalink: /
   <div class="wrap">
     <a class="brand" href="#top">
       <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab logo" />
-      <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
+      <span class="brand-text"><strong>Hoon Lab</strong> at SKKU</span>
     </a>
     <ul class="nav-links">
       <li><a href="{{ site.url }}/" class="active">Home</a></li>
@@ -296,11 +301,10 @@ permalink: /
       <li><a href="{{ site.url }}/docs/team/">Team</a></li>
       <li><a href="{{ site.url }}/docs/research/">Research</a></li>
       <li><a href="{{ site.url }}/docs/publication/">Publications</a></li>
-      <li><a href="#positions">Positions</a></li>
-      <li><a href="{{ site.url }}/#contact">Contact</a></li>
+      <li><a href="{{ site.url }}/docs/positions/">Open Positions</a></li>
+      <li><a href="{{ site.url }}/docs/contact/">Contact</a></li>
     </ul>
-    <a class="nav-cta" href="#contact">Join the lab</a>
-    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">&#9776;</button>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">&#9776;</button>
   </div>
 </nav>
 <div class="mobile-nav" id="mobile-nav">
@@ -309,8 +313,8 @@ permalink: /
   <a href="{{ site.url }}/docs/team/">Team</a>
   <a href="{{ site.url }}/docs/research/">Research</a>
   <a href="{{ site.url }}/docs/publication/">Publications</a>
-  <a href="#positions">Positions</a>
-  <a href="{{ site.url }}/#contact">Contact</a>
+  <a href="{{ site.url }}/docs/positions/">Open Positions</a>
+  <a href="{{ site.url }}/docs/contact/">Contact</a>
 </div>
 
 <header class="hero">
@@ -338,11 +342,15 @@ permalink: /
       <img src="{{ site.url }}/assets/img/slideshow/summer_water_CBM.jpeg" alt="Hoon Lab summer water activity" class="hc-slide">
       <img src="{{ site.url }}/assets/img/slideshow/240830_lab.png" alt="Hoon Lab group photo 2024" class="hc-slide">
       <img src="{{ site.url }}/assets/img/slideshow/photo3.png" alt="Hoon Lab group photo" class="hc-slide">
+      <img src="{{ site.url }}/assets/img/slideshow/group_picnic.jpg" alt="Hoon Lab group picnic" class="hc-slide">
+      <img src="{{ site.url }}/assets/img/slideshow/group_dinner.jpg" alt="Hoon Lab group dinner" class="hc-slide">
       <div class="hc-dots">
         <span class="hc-dot is-active"></span><span class="hc-dot"></span><span class="hc-dot"></span>
         <span class="hc-dot"></span><span class="hc-dot"></span><span class="hc-dot"></span><span class="hc-dot"></span>
+        <span class="hc-dot"></span><span class="hc-dot"></span>
       </div>
     </div>
+    <p style="text-align:center; margin-top:12px; font-size:.85rem;"><a href="https://photos.app.goo.gl/EZKecBA7vkaF9Zrp9" target="_blank" rel="noopener">Additional lab photos &rarr;</a></p>
   </div>
 </header>
 
@@ -397,16 +405,16 @@ permalink: /
     </div>
     <div class="news-grid">
       <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>
-        <h4>"Extrachromosomal DNA in cancer: mechanics, functions, and therapeutic implications"</h4>
-        <p>A new review by Boyoon Kim, published in <em>Signal Transduction and Targeted Therapy</em>, exploring the mechanics, functions, and therapeutic implications of ecDNA.</p>
+        <h4>RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model</h4>
+        <p>Co-first-authored by Boyoon Kim, published in <em class="journal-emph">Signal Transduction and Targeted Therapy</em> &mdash; RAF1 amplification on <span class="ecdna-emph">ecDNA</span> drives acquired erlotinib resistance by reactivating MAPK signaling independently of EGFR.</p>
       </div>
       <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 1, 2026</span>
-        <h4>Single-cell resolution tracking of oncogenic ecDNA inheritance</h4>
-        <p>Co-authored by Eunchae, published in <em>Experimental &amp; Molecular Medicine</em> &mdash; novel insight into ecDNA dynamics via single-cell analysis.</p>
+        <h4>Single-cell resolution tracking of Glioblastoma cell of origin</h4>
+        <p>Co-first-authored by Eunchae Yeo, published in <em class="journal-emph">Experimental &amp; Molecular Medicine</em> &mdash; isolating and characterizing putative glioblastoma origin-like cells in the subventricular zone via single-cell profiling.</p>
       </div>
       <div class="card news-card"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>
         <h4>Boyoon Kim wins the Grand Prize at SKKU Research Matters Plus</h4>
-        <p>Honored with the Grand Prize (대상) at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
+        <p>Honored with the <span class="award-emph">Grand Prize (대상)</span> at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
       </div>
     </div>
 
@@ -425,27 +433,27 @@ permalink: /
       </div>
       <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Mar 26, 2026</span>
         <h4>Tailorable porous collagen hydrogels for ecDNA research</h4>
-        <p>Co-first authored by Jiwon Shon, published in <em>Theranostics</em> &mdash; a 3D hydrogel platform that preserves ecDNA structures.</p>
+        <p>Co-first authored by Jiwon Shon, published in <em class="journal-emph">Theranostics</em> &mdash; a 3D hydrogel platform that preserves <span class="ecdna-emph">ecDNA</span> structures.</p>
       </div>
       <div class="card news-card"><span class="tag tag--grant">Lab Event</span><span class="news-date">Mar 17, 2026</span>
-        <h4>ecDNA foundation model proposal selected by NVIDIA</h4>
+        <h4><span class="ecdna-emph">ecDNA</span> foundation model proposal selected by NVIDIA</h4>
         <p>Selected for the NVIDIA Academic Grant Program with Prof. Se-Young Chun (SNU) &mdash; 32,000 A100 GPU-hours awarded.</p>
       </div>
       <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Feb 2, 2026</span>
         <h4>IDH-mutant gliomas arise from glial progenitor cells</h4>
-        <p>Published in <em>Science</em> &mdash; identifying glial progenitor cells as the cell of origin in IDH-mutant gliomas.</p>
+        <p>Published in <em class="journal-emph">Science</em> &mdash; identifying glial progenitor cells as the cell of origin in IDH-mutant gliomas.</p>
       </div>
       <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>
         <h4>Yoonjoo awarded a National Research Foundation doctoral research grant</h4>
-        <p>Funds her PhD research into how ecDNA interacts with micronuclei as tumors acquire chemotherapy resistance.</p>
+        <p>Funds her PhD research into how <span class="ecdna-emph">ecDNA</span> interacts with micronuclei as tumors acquire chemotherapy resistance.</p>
       </div>
       <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Sep 1, 2025</span>
         <h4>Jueon awarded a National Research Foundation master's research grant</h4>
-        <p>Supports her single-cell multi-omics study of ecDNA in glioblastoma.</p>
+        <p>Supports her single-cell multi-omics study of <span class="ecdna-emph">ecDNA</span> in glioblastoma.</p>
       </div>
       <div class="card news-card"><span class="tag tag--event">Lab Event</span><span class="news-date">Jun 23, 2025</span>
         <h4>Prof. Kim invited to present at ICBTRT 2025, Japan</h4>
-        <p>Presented our longitudinal characterization of ecDNA amplifications in adult glioma at the 24th International Conference on Brain Tumor Research and Therapy.</p>
+        <p>Presented our longitudinal characterization of <span class="ecdna-emph">ecDNA</span> amplifications in adult glioma at the 24th International Conference on Brain Tumor Research and Therapy.</p>
       </div>
     </div>
     <div class="news-more-row"><button class="btn-more" id="more-news-btn">More News <span>+</span></button></div>
@@ -476,71 +484,6 @@ permalink: /
       <li><a href="{{ site.url }}/people/hyesoo_kim" target="_blank"><span class="t-name">Hyesoo Kim</span><span class="t-role">Undergraduate Researcher</span></a></li>
       <li><a href="{{ site.url }}/people/jk_jang/" target="_blank"><span class="t-name">Jongkyu Jang, Pharm.D.</span><span class="t-role">M.S. Candidate</span></a></li>
     </ul>
-  </div>
-</section>
-<section id="research">
-  <div class="wrap">
-    <div class="section-head">
-      <div><span class="eyebrow">What we study</span><h2>Research</h2></div>
-      <a class="section-link" href="{{ site.url }}/docs/research/">Full research page &rarr;</a>
-    </div>
-
-    <div class="research-lead">
-      <figure class="research-lead-figure">
-        <img src="{{ site.url }}/assets/img/hero-ecdna-nucleus.png" alt="Illustration of extrachromosomal DNA (ecDNA) alongside chromosomal DNA inside a cancer cell nucleus">
-        <img src="{{ site.url }}/assets/img/pub-natgenet-2024-thumb.png" alt="Diagram of ecDNA prevalence changing from primary to advanced cancer across cancer types">
-        <figcaption>What ecDNA is, and where it takes hold as cancer advances &mdash; Kim et al., <em>Nature Genetics</em>, 2024</figcaption>
-      </figure>
-      <div class="research-lead-copy">
-        <h3>&ldquo;Our lab is all about big data.&rdquo;</h3>
-        <p>A major cause of cancer treatment failure is the development of therapy resistance in tumors, which evolve by accumulating tumor-promoting mutations and modified chromosome structures. Our lab addresses this through computational and statistical analysis of large-scale biomolecular data &mdash; centered on extrachromosomal DNA (ecDNA), work spanning long- and short-read sequencing, single-cell and spatial multiomics, FISH validation, and structural variant analysis, alongside collaborators across cancer biology, epigenetics, structural biology, bioimaging, and tumor microenvironment research.</p>
-        <div class="tag-row">
-          <span class="tag">Extrachromosomal DNA</span>
-          <span class="tag">Multiomics</span>
-          <span class="tag">Long- &amp; short-read sequencing</span>
-          <span class="tag">Structural variation</span>
-          <span class="tag">Spatial genomics</span>
-          <span class="tag">Tumor evolution</span>
-          <span class="tag">Glioma biology</span>
-          <span class="tag">Tumor microenvironment models</span>
-        </div>
-      </div>
-    </div>
-
-    <div class="research-grid research-grid--photo">
-      <div class="research-card">
-        <img src="{{ site.url }}/assets/img/res-singlecell-ecdna.png" alt="Single-cell tracking of oncogenic ecDNA inheritance and structural variation">
-        <div class="research-card-body">
-          <h3>ecDNA: Mechanics, Functions &amp; Therapeutic Implications</h3>
-          <p>Our most comprehensive synthesis to date on ecDNA's mechanical properties, biological functions, and therapeutic angles &mdash; building on our pan-cancer survey finding circular ecDNA in over 25 of 29 cancer types and our latest single-cell tracking of ecDNA inheritance.</p>
-          <a href="{{ site.url }}/docs/research/#characterization-of-extrachromosomal-dna">Read more &rarr;</a>
-        </div>
-      </div>
-      <div class="research-card">
-        <img src="{{ site.url }}/assets/img/res-idh-glioma.png" alt="IDH-mutant glioma arising from glial progenitor cells">
-        <div class="research-card-body">
-          <h3>Tumor Evolution &amp; Glioma Origin</h3>
-          <p>From non-chromosomal ecDNA amplification driving intratumor heterogeneity to tracing IDH-mutant glioma back to the glial progenitor cells that first carry the driver mutation &mdash; with the GLASS consortium we co-founded.</p>
-          <a href="{{ site.url }}/docs/research/#tumor-evolution-and-intratumoral-heterogeneity">Read more &rarr;</a>
-        </div>
-      </div>
-      <div class="research-card">
-        <img src="{{ site.url }}/assets/img/res-hydrogel-platform.png" alt="Tailorable porous collagen hydrogel platform for ecDNA research">
-        <div class="research-card-body">
-          <h3>ecDNA Across Cancer Types &amp; New Research Platforms</h3>
-          <p>Mapping ecDNA in gastric and breast cancer and Barrett's esophagus, and building tailorable 3D collagen hydrogel platforms that better preserve ecDNA structures for long-term study.</p>
-          <a href="{{ site.url }}/docs/research/#biomedical-data-analysis-system-to-fight-diseases">Read more &rarr;</a>
-        </div>
-      </div>
-      <div class="research-card">
-        <img src="{{ site.url }}/assets/img/hero-ecdna-nucleus.png" alt="Computational cancer genomics illustration">
-        <div class="research-card-body">
-          <h3>Computational Tools for Amplicon &amp; SV Analysis</h3>
-          <p>We co-developed AmpliconSuite, an end-to-end workflow now used broadly across the field for detecting and reconstructing focal amplifications &mdash; including ecDNA &mdash; from sequencing data.</p>
-          <a href="{{ site.url }}/docs/research/#machine-learning-applications-in-understanding-diseases">Read more &rarr;</a>
-        </div>
-      </div>
-    </div>
   </div>
 </section>
 <section id="publications">
@@ -581,20 +524,6 @@ permalink: /
     <p style="margin-top:26px; font-size:.9rem; color:var(--slate);">Also on <a href="https://scholar.google.com/citations?user=foxOEo4AAAAJ&hl=en" target="_blank" style="color:var(--teal); font-weight:600;">Google Scholar</a> and <a href="https://orcid.org/0000-0003-4244-6126" target="_blank" style="color:var(--teal); font-weight:600;">ORCID</a>.</p>
   </div>
 </section>
-<section id="positions">
-  <div class="wrap">
-    <div class="section-head">
-      <div><span class="eyebrow">We're hiring</span><h2>Open Positions</h2></div>
-    </div>
-    <div class="positions-card">
-      <img src="{{ site.url }}/assets/img/2026_CBM-20251229.jpg" alt="Hoon Lab recruitment notice for Computational Biomedicine positions">
-      <div class="positions-body">
-        <p>Interested in joining us? Reach out with your CV and a line about what draws you to computational cancer genomics &mdash; we'd love to hear from you.</p>
-        <a class="btn btn-primary" href="mailto:wisekh6@gmail.com">Email the lab</a>
-      </div>
-    </div>
-  </div>
-</section>
 <section class="tint">
   <div class="wrap">
     <p class="eyebrow" style="margin-bottom:20px;">Collaborators &amp; support</p>
@@ -623,9 +552,6 @@ permalink: /
       <div>
         <h5>Reach us</h5>
         <div class="links">
-          <a href="mailto:wisekh6@gmail.com">wisekh6@gmail.com</a><br>
-          <a href="tel:+12124448121">+1-212-444-8121</a><br>
-          <span style="opacity:.6; font-size:.85rem;">Administrative support</span><br>
           <a href="mailto:wisekh@skku.edu">wisekh@skku.edu</a><br>
           <a href="tel:+82312907709">+82-31-290-7709</a>
         </div>
@@ -634,19 +560,28 @@ permalink: /
     <div class="foot-row">
       <a class="brand" href="#top">
         <img src="{{ site.url }}/assets/img/hoonlab_logo.png" alt="Hoon Lab" />
-        <span class="brand-text"><strong>Hoon Bio Lab</strong></span>
+        <span class="brand-text"><strong>Hoon Lab</strong> at SKKU</span>
       </a>
       <ul class="foot-links">
         <li><a href="{{ site.url }}/docs/recent-news/">News</a></li>
         <li><a href="{{ site.url }}/docs/team/">Team</a></li>
         <li><a href="{{ site.url }}/docs/research/">Research</a></li>
         <li><a href="{{ site.url }}/docs/publication/">Publications</a></li>
-        <li><a href="#positions">Positions</a></li>
+        <li><a href="{{ site.url }}/docs/positions/">Open Positions</a></li>
       </ul>
-      <span>&copy; 2026 Hoon Bio Lab, SKKU.</span>
+      <span>&copy; 2026 Hoon Lab, SKKU.</span>
     </div>
   </div>
 </footer>
+
+<div class="modal-overlay" id="email-modal">
+  <div class="modal-box" style="max-width:420px; text-align:center;">
+    <button class="modal-close" data-close>&times;</button>
+    <span class="eyebrow">Get in touch</span>
+    <h3>Hoon Kim</h3>
+    <p>Email: <a href="mailto:wisekh@skku.edu">wisekh@skku.edu</a></p>
+  </div>
+</div>
 
 <div class="modal-overlay" id="team-directory">
   <div class="modal-box" style="max-width:640px;">
@@ -722,6 +657,9 @@ permalink: /
 
   var teamDirBtn = document.getElementById('team-directory-btn');
   if (teamDirBtn) teamDirBtn.addEventListener('click', function(){ document.getElementById('team-directory').classList.add('open'); });
+
+  var emailModalBtn = document.getElementById('email-modal-btn');
+  if (emailModalBtn) emailModalBtn.addEventListener('click', function(){ document.getElementById('email-modal').classList.add('open'); });
 </script>
 
 <script>

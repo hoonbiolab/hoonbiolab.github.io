@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Contact</title>
-  <meta name="description" content=" Follow @wisekh6 for lab updates and information related to our research.">
+  <meta name="description" content="                  Hoon Lab at SKKU              Home      News      Team      Research      Publications      Open Positions      Contact            &#9776; ...">
   <meta name="author" content="Hoon Lab">
   <meta name="theme-color" content="grey">    
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
@@ -18,7 +18,7 @@
 
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-  <link rel="canonical" href="http://0.0.0.0:4000/docs/contact/index">
+  <link rel="canonical" href="http://0.0.0.0:4000/docs/contact/">
   <link rel="alternate" type="application/rss+xml" title="Hoon Lab at SKKU" href="http://0.0.0.0:4000/feed.xml">
   <meta name="lang:clipboard.copy" content="Copy to clipboard">      
   <meta name="lang:clipboard.copied" content="Copied to clipboard">
@@ -139,59 +139,227 @@
                 <div id="md-container-pancakes">
                 <div class="md-content"> 
     <article class="md-content__inner md-typeset">
-    <p><i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/wisekh6" title="Follow @wisekh6" alt="Follow @wisekh6">@wisekh6</a> for lab updates and information related to our research.</p>
+    <style>
+  *, *::before, *::after{ box-sizing:border-box; }
+  html, body{ font-size:18px !important; }
+  html{ overflow-y:scroll; scrollbar-gutter:stable; }
+  body > header.md-header,
+  body [data-md-component="header"],
+  body [data-md-component="navigation"],
+  body [data-md-component="toc"],
+  body .md-sidebar,
+  body .md-footer,
+  h1 > .badge{ display:none !important; }
+  body .md-main__inner, body .md-main, body .md-grid, body .md-container{
+    display:block !important; max-width:none !important; margin:0 !important; padding:0 !important;
+  }
+  body .md-content, body .md-content__inner{ max-width:none !important; margin:0 !important; padding:0 !important; }
+  body .md-content__inner:before, body .md-content__inner:after{ content:none !important; display:none !important; }
+  body{ overflow-x:hidden; }
 
-<h2 id="correspondence"><strong>Correspondence</strong></h2>
+  .home-body{
+    --ink:#101826; --ink-soft:#3A4456; --paper:#F5F4EE; --surface:#FFFFFF;
+    --teal:#0F6E66; --teal-deep:#0A4F49; --coral:#E2572B; --coral-soft:#F7E4DC;
+    --slate:#68707D; --line:#E4E1D6;
+    background:var(--paper); color:var(--ink); font-family:'Inter',sans-serif;
+    background-image:radial-gradient(circle, #DAD6C7 1px, transparent 1px); background-size:22px 22px;
+    min-height:100vh; overflow-x:hidden;
+  }
+  .home-body *{ box-sizing:border-box; }
+  .home-body a{ color:var(--teal); }
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace; font-size:.78rem; letter-spacing:.16em;
+    text-transform:uppercase; color:var(--teal-deep); font-weight:600;
+  }
+  .wide-wrap{ max-width:1320px; margin:0 auto; padding:0 40px; }
+  @media (max-width:640px){ .wide-wrap{ padding:0 20px; } }
 
-<p>Hoon Kim, PhD</p>
+  /* Shared site nav (bare selectors so it works whether or not it's
+     nested inside .home-body at the point the include is inserted) */
+  .site-nav{
+    position:sticky; top:0; z-index:50;
+    background:color-mix(in srgb, #F5F4EE 90%, transparent);
+    backdrop-filter:blur(10px); border-bottom:1px solid #E4E1D6;
+    font-family:'Inter',sans-serif;
+  }
+  .site-nav .wide-wrap{ display:flex; align-items:center; justify-content:space-between; height:88px; }
+  .site-nav .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
+  .site-nav .brand img{ height:60px; width:auto; }
+  .site-nav .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:#101826; display:block; }
+  .site-nav .brand-text{ color:#101826; font-size:1rem; }
+  .site-nav .nav-links{ display:flex; gap:28px; list-style:none; margin:0; padding:0; }
+  .site-nav .nav-links li{ margin:0; padding:0; }
+  .site-nav .nav-links a{
+    text-decoration:none; font-size:.92rem; font-weight:600; color:#3A4456;
+    position:relative; padding-bottom:4px;
+  }
+  .site-nav .nav-links a::after{
+    content:""; position:absolute; left:0; bottom:0; width:0; height:2px;
+    background:#E2572B; transition:width .25s ease;
+  }
+  .site-nav .nav-links a:hover::after, .site-nav .nav-links a.active::after{ width:100%; }
+  .site-nav .nav-links a:hover, .site-nav .nav-links a.active{ color:#101826; }
+  .site-nav .nav-cta,
+  .site-nav .nav-cta:link,
+  .site-nav .nav-cta:visited,
+  .site-nav .nav-cta:active{
+    font-size:.85rem; font-weight:700; background:#101826; color:#fff;
+    padding:9px 16px; border-radius:999px; text-decoration:none; display:inline-block;
+  }
+  .site-nav .nav-cta:hover, .site-nav .nav-cta:focus-visible{ background:#0A4F49; color:#fff; }
+  .nav-toggle{ display:none; background:none; border:none; font-size:1.4rem; cursor:pointer; color:#101826; }
+  .sub-mobile-nav{ display:none; flex-direction:column; gap:4px; padding:10px 24px 18px; border-bottom:1px solid #E4E1D6; background:#F5F4EE; }
+  .sub-mobile-nav.open{
+    display:flex; position:fixed; top:88px; left:0; right:0; z-index:49;
+    max-height:calc(100vh - 88px); overflow-y:auto;
+  }
+  .sub-mobile-nav a{ padding:10px 0; font-weight:600; text-decoration:none; color:#3A4456; border-bottom:1px solid #E4E1D6; font-family:'Inter',sans-serif; }
+  @media (max-width:920px){ .site-nav .nav-links{ display:none; } .nav-toggle{ display:block; } }
+  @media (max-width:640px){
+    .site-nav .brand img{ height:44px; }
+    .site-nav .wide-wrap{ height:72px; }
+    .sub-mobile-nav.open{ top:72px; max-height:calc(100vh - 72px); }
+  }
 
-<p>Associate Professor<br />
-Biomedical Convergence  <br />
-Dept. of Pharmacy  <br />
-Sungkyunkwan Univ      <br />
-Seobu-ro, Jangan-gu, Suwon-si  <br />
-Gyeonggi-do, South Korea, 16419</p>
+  /* Shared footer */
+  .contact-band{ background:#101826; color:#fff; padding:56px 0 32px; font-family:'Inter',sans-serif; }
+  .contact-band .foot-row{ display:flex; justify-content:space-between; align-items:center; font-size:.82rem; color:rgba(255,255,255,.5); flex-wrap:wrap; gap:16px; }
+  .contact-band .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
+  .contact-band .brand img{ height:44px; }
+  .contact-band .brand-text strong{ color:#fff; font-family:'Fraunces',serif; }
+  .contact-band .brand-text{ color:rgba(255,255,255,.7); font-size:1rem; }
+  .contact-band .foot-links{ display:flex; gap:20px; list-style:none; margin:0; padding:0; flex-wrap:wrap; }
+  .contact-band .foot-links li{ margin:0; padding:0; }
+  .contact-band .foot-links a{ color:rgba(255,255,255,.6); text-decoration:none; font-weight:600; }
+  .contact-band .foot-links a:hover{ color:#fff; }
 
-<p><i class="fa fa-phone"></i> +1-212-444-8121<br />
-<i class="fa fa-paper-plane"></i> <a href="mailto:wisekh6@gmail.com">wisekh6@gmail.com</a><br />
-<i class="fa fa-twitter"></i> <a href="https://twitter.com/intent/tweet?via=&amp;hashtags=website" target="_blank" title="Tweet Hoon Kim">Tweet Hoon Kim</a></p>
+  /* Page hero band (title header on subpages) */
+  .page-hero{ padding:56px 0 40px; border-bottom:1px solid #E4E1D6; }
+  .page-hero h1{ font-family:'Fraunces',serif; font-weight:600; font-size:clamp(2rem,4vw,2.6rem); margin:10px 0 0; color:#101826; }
 
-<h2 id="administrative-support"><strong>Administrative Support</strong></h2>
+  /* Person profile template (used by /people/ pages) */
+  .profile-hero{ padding:56px 0 48px; text-align:center; border-bottom:1px solid #E4E1D6; }
+  .profile-hero .outer{ max-width:1320px; margin:0 auto; padding:0 40px; }
+  .profile-photo{ width:230px; height:288px; object-fit:cover; border-radius:16px; border:1px solid #E4E1D6; margin:0 auto 26px; display:block; box-shadow:0 22px 50px -28px rgba(16,24,38,.3); }
+  .profile-hero .eyebrow{ display:block; margin-bottom:10px; }
+  .profile-hero h1{ font-family:'Fraunces',serif; font-weight:600; font-size:2.7rem; margin:0; color:#101826; }
+  .profile-body{ padding:48px 0 96px; }
+  .profile-body .inner{ max-width:760px; margin:0 auto; padding:0 40px; }
+  .profile-field{ padding:28px 0; border-top:1px solid #E4E1D6; }
+  .profile-field:first-child{ border-top:none; padding-top:0; }
+  .profile-field-label{
+    font-family:'IBM Plex Mono',monospace; font-size:.76rem; letter-spacing:.1em; text-transform:uppercase;
+    color:#0A4F49; font-weight:600; display:block; margin-bottom:8px;
+  }
+  .profile-field p{ margin:0 0 10px; font-size:1rem; color:#3A4456; line-height:1.65; }
+  .profile-field .org{ font-weight:600; color:#101826; }
+  .profile-timeline{ display:flex; flex-direction:column; gap:16px; }
+  .profile-timeline .step{ position:relative; padding-left:18px; }
+  .profile-timeline .step::before{ content:""; position:absolute; left:0; top:6px; width:7px; height:7px; border-radius:50%; background:#E2572B; }
+  .profile-step-when{ font-family:'IBM Plex Mono',monospace; font-size:.74rem; letter-spacing:.06em; text-transform:uppercase; color:#68707D; display:block; }
+  .profile-step-what{ font-weight:600; font-size:1rem; color:#101826; }
+  @media (max-width:640px){
+    .profile-layout, .person-layout{ grid-template-columns:1fr; }
+    .profile-hero .outer, .profile-body .inner{ padding:0 20px; }
+    .profile-photo{ width:180px; height:225px; }
+    .profile-hero h1{ font-size:2rem; }
+  }
+</style>
 
-<p><i class="fa fa-phone"></i> +82-031-290-7709
-<i class="fa fa-paper-plane"></i> <a href="mailto:wisekh@skku.edu">wisekh@skku.edu</a></p>
-
-<!-- Open Positions, if any, will populate here -->
-
-<div class="row">
-<div id="accordion col-sm-12"><hr class="small" /></div>
-<div id="accordion col-sm-12">
-<div id="accordion">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</div></div>
+<nav class="site-nav">
+  <div class="wide-wrap">
+    <a class="brand" href="http://0.0.0.0:4000/">
+      <img src="http://0.0.0.0:4000/assets/img/hoonlab_logo.png" alt="Hoon Lab at SKKU logo" />
+      <span class="brand-text"><strong>Hoon Lab</strong> at SKKU</span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="http://0.0.0.0:4000/">Home</a></li>
+      <li><a href="http://0.0.0.0:4000/docs/recent-news/">News</a></li>
+      <li><a href="http://0.0.0.0:4000/docs/team/">Team</a></li>
+      <li><a href="http://0.0.0.0:4000/docs/research/">Research</a></li>
+      <li><a href="http://0.0.0.0:4000/docs/publication/">Publications</a></li>
+      <li><a href="http://0.0.0.0:4000/docs/positions/">Open Positions</a></li>
+      <li><a href="http://0.0.0.0:4000/docs/contact/" class="active">Contact</a></li>
+    </ul>
+        <button class="nav-toggle" id="sub-nav-toggle" aria-label="Toggle menu">&#9776;</button>
+  </div>
+</nav>
+<div class="sub-mobile-nav" id="sub-mobile-nav">
+  <a href="http://0.0.0.0:4000/">Home</a>
+  <a href="http://0.0.0.0:4000/docs/recent-news/">News</a>
+  <a href="http://0.0.0.0:4000/docs/team/">Team</a>
+  <a href="http://0.0.0.0:4000/docs/research/">Research</a>
+  <a href="http://0.0.0.0:4000/docs/publication/">Publications</a>
+  <a href="http://0.0.0.0:4000/docs/positions/">Open Positions</a>
+  <a href="http://0.0.0.0:4000/docs/contact/">Contact</a>
 </div>
-
 <script>
-$(function() {
-  $( "#accordion" ).accordion({
-      heightStyle: "content"
-  });
-});
+  (function(){
+    var t = document.getElementById('sub-nav-toggle');
+    var m = document.getElementById('sub-mobile-nav');
+    if (t) t.addEventListener('click', function(){ m.classList.toggle('open'); });
+  })();
 </script>
 
+<style>
+  .contact-band{ background:#101826; color:#fff; padding:64px 40px 48px; }
+  .contact-band .wrap{ max-width:1320px; margin:0 auto; }
+  .contact-grid{ display:grid; grid-template-columns:1.2fr 1fr 1fr; gap:36px; padding-bottom:32px; border-bottom:1px solid rgba(255,255,255,.14); }
+  .contact-band .eyebrow{ font-family:'IBM Plex Mono',monospace; font-size:.74rem; letter-spacing:.1em; text-transform:uppercase; color:#E2572B; }
+  .contact-band h2{ color:#fff; font-family:'Fraunces',serif; font-weight:600; font-size:1.75rem; margin:8px 0 0; }
+  .contact-band p{ color:rgba(255,255,255,.7); font-size:.95rem; }
+  .contact-band a{ color:#fff; }
+  .contact-band h5{ font-family:'IBM Plex Mono',monospace; font-size:.74rem; letter-spacing:.1em; text-transform:uppercase; color:#E2572B; margin:0 0 12px; }
+  .contact-band address, .contact-band .links{ font-style:normal; font-size:.95rem; color:rgba(255,255,255,.85); line-height:1.85; }
+  .foot-row{ display:flex; justify-content:space-between; align-items:center; padding-top:22px; font-size:.82rem; color:rgba(255,255,255,.5); flex-wrap:wrap; gap:16px; }
+  .foot-row .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
+  .foot-row .brand img{ height:44px; }
+  .foot-row .brand-text strong{ color:#fff; font-family:'Fraunces',serif; font-size:1.05rem; display:block; }
+  .foot-row .brand-text{ font-size:1rem; }
+  .foot-links{ display:flex; gap:20px; list-style:none; margin:0; padding:0; flex-wrap:wrap; }
+  .foot-links li{ margin:0; padding:0; }
+  .foot-links a{ color:rgba(255,255,255,.6); text-decoration:none; font-weight:600; }
+  .foot-links a:hover{ color:#fff; }
+  @media (max-width:920px){ .contact-grid{ grid-template-columns:1fr; gap:26px; } }
+</style>
+
+<div class="home-body">
+<footer class="contact-band" id="contact">
+  <div class="wrap">
+    <div class="contact-grid">
+      <div>
+        <span class="eyebrow">Get in touch</span><h2>Contact</h2>
+        <p>Follow <a href="https://twitter.com/wisekh6">@wisekh6</a> for lab updates, or reach out about openings and collaborations.</p>
+      </div>
+      <div>
+        <h5>Correspondence</h5>
+        <address>Hoon Kim, PhD<br />Associate Professor<br />Biomedical Convergence, Dept. of Pharmacy<br />Sungkyunkwan University<br />Seobu-ro, Jangan-gu, Suwon-si<br />Gyeonggi-do, South Korea, 16419</address>
+      </div>
+      <div>
+        <h5>Reach us</h5>
+        <div class="links">
+          <a href="mailto:wisekh@skku.edu">wisekh@skku.edu</a><br />
+          <a href="tel:+82312907709">+82-31-290-7709</a>
+        </div>
+      </div>
+    </div>
+    <div class="foot-row">
+      <a class="brand" href="http://0.0.0.0:4000/">
+        <img src="http://0.0.0.0:4000/assets/img/hoonlab_logo.png" alt="Hoon Lab" />
+        <span class="brand-text"><strong>Hoon Lab</strong> at SKKU</span>
+      </a>
+      <ul class="foot-links">
+        <li><a href="http://0.0.0.0:4000/docs/recent-news/">News</a></li>
+        <li><a href="http://0.0.0.0:4000/docs/team/">Team</a></li>
+        <li><a href="http://0.0.0.0:4000/docs/research/">Research</a></li>
+        <li><a href="http://0.0.0.0:4000/docs/publication/">Publications</a></li>
+        <li><a href="http://0.0.0.0:4000/docs/positions/">Open Positions</a></li>
+      </ul>
+      <span>&copy; 2026 Hoon Lab, SKKU.</span>
+    </div>
+  </div>
+</footer>
+</div>
 
     <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"

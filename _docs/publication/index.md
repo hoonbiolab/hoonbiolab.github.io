@@ -5,7 +5,7 @@ permalink: /docs/publication/
 ---
 {% include person-style.html %}
 <style>
-  .pub-list-wrap{ max-width:1100px; margin:0 auto; padding:0 40px; }
+  .pub-list-wrap{ max-width:1320px; margin:0 auto; padding:0 40px; }
   .pub-list-wrap .lede{ font-size:1.1rem; color:#3A4456; margin:0 0 40px; }
   .pub-list-wrap .lede a{ color:#0F6E66; font-weight:600; }
   .pub-entry-card{

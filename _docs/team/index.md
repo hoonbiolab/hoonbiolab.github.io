@@ -20,9 +20,10 @@ published: true
   .home-body{ overflow-x:hidden; }
   .home-body .wrap{ max-width:1320px; margin:0 auto; padding:64px 40px 80px; }
   @media (max-width:640px){ .home-body .wrap{ padding:40px 20px 56px; } }
+  @media (max-width:900px){ .home-body > .wrap > p{ white-space:normal; } }
   .home-body .eyebrow{ font-family:'IBM Plex Mono',monospace; font-size:.72rem; letter-spacing:.16em; text-transform:uppercase; color:var(--teal-deep); font-weight:600; }
   .home-body h1{ font-family:'Fraunces',serif; font-weight:600; font-size:clamp(2rem,4vw,2.6rem); margin:12px 0 8px; }
-  .home-body > .wrap > p{ font-size:1rem; color:var(--slate); margin:0 0 48px; max-width:60ch; }
+  .home-body > .wrap > p{ font-size:1rem; color:var(--slate); margin:0 0 48px; max-width:none; white-space:nowrap; }
   .home-body .team-group{ margin-bottom:48px; }
   .home-body .team-group-title{
     font-family:'IBM Plex Mono',monospace; font-size:.78rem; letter-spacing:.12em; text-transform:uppercase;

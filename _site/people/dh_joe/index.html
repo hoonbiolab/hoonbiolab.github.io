@@ -141,7 +141,9 @@
                 <div class="md-content"> 
     <article class="md-content__inner md-typeset">
     <style>
+  *, *::before, *::after{ box-sizing:border-box; }
   html, body{ font-size:18px !important; }
+  html{ overflow-y:scroll; scrollbar-gutter:stable; }
   body > header.md-header,
   body [data-md-component="header"],
   body [data-md-component="navigation"],
@@ -153,6 +155,7 @@
     display:block !important; max-width:none !important; margin:0 !important; padding:0 !important;
   }
   body .md-content, body .md-content__inner{ max-width:none !important; margin:0 !important; padding:0 !important; }
+  body .md-content__inner:before, body .md-content__inner:after{ content:none !important; display:none !important; }
   body{ overflow-x:hidden; }
 
   .home-body{
@@ -184,7 +187,9 @@
   .site-nav .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
   .site-nav .brand img{ height:60px; width:auto; }
   .site-nav .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:#101826; display:block; }
+  .site-nav .brand-text{ color:#101826; font-size:1rem; }
   .site-nav .nav-links{ display:flex; gap:28px; list-style:none; margin:0; padding:0; }
+  .site-nav .nav-links li{ margin:0; padding:0; }
   .site-nav .nav-links a{
     text-decoration:none; font-size:.92rem; font-weight:600; color:#3A4456;
     position:relative; padding-bottom:4px;
@@ -223,7 +228,9 @@
   .contact-band .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
   .contact-band .brand img{ height:44px; }
   .contact-band .brand-text strong{ color:#fff; font-family:'Fraunces',serif; }
+  .contact-band .brand-text{ color:rgba(255,255,255,.7); font-size:1rem; }
   .contact-band .foot-links{ display:flex; gap:20px; list-style:none; margin:0; padding:0; flex-wrap:wrap; }
+  .contact-band .foot-links li{ margin:0; padding:0; }
   .contact-band .foot-links a{ color:rgba(255,255,255,.6); text-decoration:none; font-weight:600; }
   .contact-band .foot-links a:hover{ color:#fff; }
 
@@ -272,11 +279,10 @@
       <li><a href="http://0.0.0.0:4000/docs/team/" class="active">Team</a></li>
       <li><a href="http://0.0.0.0:4000/docs/research/">Research</a></li>
       <li><a href="http://0.0.0.0:4000/docs/publication/">Publications</a></li>
-      <li><a href="http://0.0.0.0:4000/#positions">Positions</a></li>
-      <li><a href="http://0.0.0.0:4000/#contact">Contact</a></li>
+      <li><a href="http://0.0.0.0:4000/docs/positions/">Open Positions</a></li>
+      <li><a href="http://0.0.0.0:4000/docs/contact/">Contact</a></li>
     </ul>
-    <a class="nav-cta" href="http://0.0.0.0:4000/#positions">Join the lab</a>
-    <button class="nav-toggle" id="sub-nav-toggle" aria-label="Toggle menu">&#9776;</button>
+        <button class="nav-toggle" id="sub-nav-toggle" aria-label="Toggle menu">&#9776;</button>
   </div>
 </nav>
 <div class="sub-mobile-nav" id="sub-mobile-nav">
@@ -285,8 +291,8 @@
   <a href="http://0.0.0.0:4000/docs/team/">Team</a>
   <a href="http://0.0.0.0:4000/docs/research/">Research</a>
   <a href="http://0.0.0.0:4000/docs/publication/">Publications</a>
-  <a href="http://0.0.0.0:4000/#positions">Positions</a>
-  <a href="http://0.0.0.0:4000/#contact">Contact</a>
+  <a href="http://0.0.0.0:4000/docs/positions/">Open Positions</a>
+  <a href="http://0.0.0.0:4000/docs/contact/">Contact</a>
 </div>
 <script>
   (function(){
