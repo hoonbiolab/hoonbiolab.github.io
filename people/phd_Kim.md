@@ -44,7 +44,7 @@ noindex: false
       </div>
       <div class="profile-field">
         <span class="profile-field-label">Contact</span>
-        <p><i class="fa fa-paper-plane"></i> <a href="mailto:sammooya@gmail.com">sammooya@gmail.com</a></p>
+        <p><i class="fa fa-paper-plane"></i> <a href="mailto:welkin33@skku.edu">sammooya@gmail.com</a></p>
       </div>
     </div>
   </div>
