@@ -32,15 +32,15 @@ noindex: false
       </div>
       <div class="profile-field">
         <span class="profile-field-label">Positions</span>
-        <p>KAIST Dept. of Physics Postdoc (2009); Weizmann Institute of Science, Dept. of Materials and Interfaces Postdoc, Rehovot, Israel (2009&ndash;2012); Research Consultant, Weizmann (2012&ndash;2014); KAIST Dept. of Bio and Brain Engineering Postdoc (2014); KAIST Research Assistant Professor, Systems Biology (2014&ndash;2015); CHA University, Dept. of Biomedical Science Research Assistant Professor, Bioinformatics (2019&ndash;Present)</p>
+        <p>Weizmann Institute of Science (Israel), Dept. of Materials and Interfaces, Postdoc. (2009&ndash;2012)<br>KAIST, Dept. of Bio and Brain Engineering, Postdoc (2014)<br>KAIST, Dept. of Bio and Brain Engineering, Research Assistant Professor (2014&ndash;2015)<br>CHA University, Dept. of Biomedical Science Research, Assistant Professor (2019&ndash;2022)<br>SKKU, Computational Biomedicine Lab, Research Assistant Professor (2022&ndash;present)</p>
       </div>
       <div class="profile-field">
-        <span class="profile-field-label">Techniques</span>
-        <p>Fluorescence Correlation Spectroscopy (FCS), confocal microscopy, FLIM, FRAP, live cell imaging, mammalian cell culture, gene transfection, and core molecular biology methods.</p>
+        <span class="profile-field-label">Research Interests</span>
+        <p>Cancer Genomics, Genomic structural rearrangements, DNA repair, Cell division error, EcDNA, Cell biology befriends soft matter physics</p>
       </div>
       <div class="profile-field">
         <span class="profile-field-label">Selected Publications</span>
-        <p>Kim S, Hwang S. G-Quadruplex Matters in Tissue-Specific Tumorigenesis by BRCA1 Deficiency. <em>Genes</em> 2022.<br>Kim S, Hwang S. Preclinical Drug Response Metric Based on Cellular Response Phenotype. <em>Pharmaceuticals</em> 2021.<br>Kim S, et al. Surface Plasmon Resonance Imaging Reveals Multiple Binding Modes of VirE2 to ssDNA. <em>Nucleic Acids Res.</em> 2015.</p>
+        <p>Kang S, &hellip; Kim S*, Kim H*, Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer. <em>Cancer Letters</em> 2026. (*corresponding author)<br>Kim S, Hwang S. G-Quadruplex Matters in Tissue-Specific Tumorigenesis by BRCA1 Deficiency. <em>Genes</em> 2022.<br>Kim S*, Hwang S. Preclinical Drug Response Metric Based on Cellular Response Phenotype. <em>Pharmaceuticals</em> 2021. (*corresponding author)</p>
       </div>
       <div class="profile-field">
         <span class="profile-field-label">Contact</span>
