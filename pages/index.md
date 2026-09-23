@@ -404,25 +404,29 @@ permalink: /
       <a class="section-link" href="{{ site.url }}/docs/recent-news/">All news &rarr;</a>
     </div>
     <div class="news-grid">
-      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>
-        <h4>RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model</h4>
-        <p>Co-first-authored by Boyoon Kim, published in <em class="journal-emph">Signal Transduction and Targeted Therapy</em> &mdash; RAF1 amplification on <span class="ecdna-emph">ecDNA</span> drives acquired erlotinib resistance by reactivating MAPK signaling independently of EGFR.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 1, 2026</span>
-        <h4>Single-cell resolution tracking of Glioblastoma cell of origin</h4>
-        <p>Co-first-authored by Eunchae Yeo, published in <em class="journal-emph">Experimental &amp; Molecular Medicine</em> &mdash; isolating and characterizing putative glioblastoma origin-like cells in the subventricular zone via single-cell profiling.</p>
-      </div>
-      <div class="card news-card"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>
-        <h4>Boyoon Kim wins the Grand Prize at SKKU Research Matters Plus</h4>
-        <p>Honored with the <span class="award-emph">Grand Prize (대상)</span> at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
-      </div>
-    </div>
-
-    <div class="news-grid news-grid--more" id="more-news">
-      <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Jul 21, 2026</span>
-        <h4>Hyunjeong awarded the KOSAF Doctoral Excellence Scholarship</h4>
-        <p>Selected for the Doctoral Excellence Scholarship in Science and Engineering from the Korea Student Aid Foundation.</p>
-      </div>
+          <div class="card news-card"><span class="tag tag--grant">Grant</span><span class="news-date">Sep 23, 2026</span>
+            <h4>Seunghyun (Steve) Kang secured a travel grant for EACR 2026</h4>
+            <p>Awarded a travel grant for the EACR Conference in Berlin (Nov 3–5, 2026) on Chromosomes in Crisis.</p>
+          </div>
+          <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>
+            <h4>RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model</h4>
+            <p>Co-first-authored by Boyoon Kim, published in <em class="journal-emph">Signal Transduction and Targeted Therapy</em> &mdash; RAF1 amplification on <span class="ecdna-emph">ecDNA</span> drives acquired erlotinib resistance by reactivating MAPK signaling independently of EGFR.</p>
+          </div>
+          <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 1, 2026</span>
+            <h4>Single-cell resolution tracking of Glioblastoma cell of origin</h4>
+            <p>Co-first-authored by Eunchae Yeo, published in <em class="journal-emph">Experimental &amp; Molecular Medicine</em> &mdash; isolating and characterizing putative glioblastoma origin-like cells in the subventricular zone via single-cell profiling.</p>
+          </div>
+        </div>
+    
+        <div class="news-grid news-grid--more" id="more-news">
+          <div class="card news-card"><span class="tag tag--award">Award</span><span class="news-date">Jul 31, 2026</span>
+            <h4>Boyoon Kim wins the Grand Prize at SKKU Research Matters Plus</h4>
+            <p>Honored with the <span class="award-emph">Grand Prize (대상)</span> at the 1st Graduate Research Achievement Competition+ for her outstanding research contribution.</p>
+          </div>
+          <div class="card news-card"><span class="tag tag--scholarship">Scholarship</span><span class="news-date">Jul 21, 2026</span>
+            <h4>Hyunjeong awarded the KOSAF Doctoral Excellence Scholarship</h4>
+            <p>Selected for the Doctoral Excellence Scholarship in Science and Engineering from the Korea Student Aid Foundation.</p>
+          </div>
       <div class="card news-card"><span class="tag tag--event">Lab Event</span><span class="news-date">Apr 27, 2026</span>
         <h4>Boyoon Kim presents at AACR 2026 &mdash; a lab milestone</h4>
         <p>Our first lab member to present at the AACR Annual Meeting, San Diego, drawing strong interest from academia and industry.</p>
