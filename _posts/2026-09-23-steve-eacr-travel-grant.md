@@ -15,7 +15,7 @@ comments: true
 show_meta: true
 ---
 
-**Seunghyun (Steve) Kang** has been awarded a travel grant to attend the upcoming **EACR Conference: Chromosomes in Crisis: From Chromosomal Instability to Catastrophes in Cancer Genomes**!
+**Seunghyun Kang** has been awarded a travel grant to attend the upcoming **EACR Conference: Chromosomes in Crisis: From Chromosomal Instability to Catastrophes in Cancer Genomes**!
 
 He will be participating in the conference held in **Berlin, Germany** from **November 3 to 5, 2026**. 
 
