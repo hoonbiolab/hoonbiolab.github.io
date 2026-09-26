@@ -17,8 +17,8 @@ permalink: /docs/contact/
   .foot-row{ display:flex; justify-content:space-between; align-items:center; padding-top:22px; font-size:.82rem; color:rgba(255,255,255,.5); flex-wrap:wrap; gap:16px; }
   .foot-row .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
   .foot-row .brand img{ height:44px; }
-  .foot-row .brand-text strong{ color:#fff; font-family:'Fraunces',serif; font-size:1.05rem; display:block; }
-  .foot-row .brand-text{ font-size:1rem; }
+  .foot-row .brand-text strong{ color:#fff; font-family:'Fraunces',serif; font-size:1.05rem; display:block; line-height:1.2; }
+  .foot-row .brand-text{ font-size:1rem; line-height:1.2; }
   .foot-links{ display:flex; gap:20px; list-style:none; margin:0; padding:0; flex-wrap:wrap; }
   .foot-links li{ margin:0; padding:0; }
   .foot-links a{ color:rgba(255,255,255,.6); text-decoration:none; font-weight:600; }

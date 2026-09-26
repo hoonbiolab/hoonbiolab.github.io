@@ -51,7 +51,8 @@ permalink: /
   .home-body .site-nav .wrap{ display:flex; align-items:center; justify-content:space-between; height:88px; }
   .home-body .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
   .home-body .brand img{ height:60px; width:auto; }
-  .home-body .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:var(--ink); display:block; }
+  .home-body .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:var(--ink); display:block; line-height:1.2; }
+  .home-body .brand-text{ line-height:1.2; }
   .home-body .nav-links{ display:flex; gap:28px; list-style:none; margin:0; padding:0; }
   .home-body .nav-links a{
     text-decoration:none; font-size:.92rem; font-weight:600; color:var(--ink-soft);
