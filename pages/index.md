@@ -406,7 +406,7 @@ permalink: /
     <div class="news-grid">
           <div class="card news-card"><span class="tag tag--grant">Grant</span><span class="news-date">Sep 23, 2026</span>
             <h4>Seunghyun Kang secured a travel grant for EACR 2026</h4>
-            <p>Awarded a travel grant for the EACR Conference in Berlin (Nov 3–5, 2026) on Chromosomes in Crisis.</p>
+            <p>Awarded a <span class="award-emph">travel grant for the EACR Conference</span> in Berlin (Nov 3–5, 2026) on Chromosomes in Crisis.</p>
           </div>
           <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>
             <h4>RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model</h4>
