@@ -6,7 +6,7 @@ permalink: /
 
 <style>
   html, body{ font-size:18px !important; }
-  html{ overflow-y:scroll; scrollbar-gutter:stable; }
+  @media (pointer:fine){ html{ overflow-y:scroll; scrollbar-gutter:stable; } }
   body > header.md-header,
   body [data-md-component="header"],
   body [data-md-component="navigation"],
