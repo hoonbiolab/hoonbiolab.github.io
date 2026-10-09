@@ -409,6 +409,10 @@ permalink: /
             <h4>Seunghyun Kang secured a travel grant for EACR 2026</h4>
             <p>Awarded a <span class="award-emph">travel grant for the EACR Conference</span> in Berlin (Nov 3–5, 2026) on Chromosomes in Crisis.</p>
           </div>
+          <div class="card news-card"><span class="tag tag--award">Award</span><span class="news-date">Sep 8, 2026</span>
+            <h4>Jiwon Shon and Boyoon Kim awarded 1-month research training at the University of Basel, Switzerland</h4>
+            <p>Selected for the <span class="award-emph">2026 K-BTIP Global Bridge Training Program</span>, supported by KHIDI, for a 1-month research training program at the University of Basel.</p>
+          </div>
           <div class="card news-card"><span class="tag tag--paper">Paper</span><span class="news-date">Aug 5, 2026</span>
             <h4>RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model</h4>
             <p>Co-first-authored by Boyoon Kim, published in <em class="journal-emph">Signal Transduction and Targeted Therapy</em> &mdash; RAF1 amplification on <span class="ecdna-emph">ecDNA</span> drives acquired erlotinib resistance by reactivating MAPK signaling independently of EGFR.</p>
