@@ -33,11 +33,11 @@ noindex: false
       <div class="profile-field">
         <span class="profile-field-label">Path</span>
         <div class="profile-timeline">
-          <div class="step"><span class="profile-step-when">2021 &mdash; Present</span><span class="profile-step-what">Associate Professor, School of Pharmacy, Sungkyunkwan University (SKKU)</span></div>
-          <div class="step"><span class="profile-step-when">Previously</span><span class="profile-step-what">Senior Research Scientist, The Jackson Laboratory for Genomic Medicine (JAX), Farmington, CT</span></div>
-          <div class="step"><span class="profile-step-when">From 2011</span><span class="profile-step-what">Postdoc &rarr; Research Faculty, MD Anderson Cancer Center, Houston, USA (Advisor: Dr. Roel Verhaak)</span></div>
-          <div class="step"><span class="profile-step-when">PhD</span><span class="profile-step-what">Electrical Engineering, Columbia University, New York, USA (Thesis: Selection of Disease&ndash;Associated Gene Sets) (Advisor: Dr. Dimitris Anastassiou)</span></div>
-          <div class="step"><span class="profile-step-when">Earlier</span><span class="profile-step-what">MSc, Electrical Engineering&ndash;Systems, University of Michigan, Ann Arbor. BS, Genetic Engineering (Life Science), Korea University, Seoul.</span></div>
+          <div class="step"><span class="profile-step-when">2021 &mdash; Present</span><span class="profile-step-what">Associate Professor, <em>School of Pharmacy, Sungkyunkwan University (SKKU)</em></span></div>
+          <div class="step"><span class="profile-step-when">Previously</span><span class="profile-step-what">Senior Research Scientist, <em>The Jackson Laboratory for Genomic Medicine (JAX), Farmington, CT, USA</em></span></div>
+          <div class="step"><span class="profile-step-when">From 2011</span><span class="profile-step-what">Postdoc &rarr; Research Faculty, <em>MD Anderson Cancer Center, Houston, USA</em> (Advisor: Dr. Roel Verhaak)</span></div>
+          <div class="step"><span class="profile-step-when">PhD</span><span class="profile-step-what">Electrical Engineering, <em>Columbia University, New York, USA</em><br>(Thesis: Selection of Disease&ndash;Associated Gene Sets)<br>(Advisor: Dr. Dimitris Anastassiou)</span></div>
+          <div class="step"><span class="profile-step-when">Earlier</span><span class="profile-step-what">MSc, Electrical Engineering&ndash;Systems, <em>University of Michigan, Ann Arbor, MI, USA</em><br>BS, Genetic Engineering (Life Science), Korea University, Seoul.</span></div>
         </div>
       </div>
       <div class="profile-field">
