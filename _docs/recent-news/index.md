@@ -31,6 +31,23 @@ permalink: /docs/recent-news/
 <div class="news-list">
 
 <article class="news-item">
+  <span class="tag tag--paper">Paper</span>
+  <h2>"AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes" published in Nature Methods!</h2>
+  <p>
+  A new paper co-authored by <b>Soyeon Kim</b> and <b>Hoon Kim</b> has been published in <b class="journal-emph">Nature Methods</b>! The study introduces <i>AmpliconSuite</i>, an end-to-end computational workflow for detecting and analyzing focal amplifications, including extrachromosomal DNA (ecDNA), in cancer genomes. Congratulations to Soyeon and all co-authors on this outstanding achievement!
+  </p>
+
+  <p class="posted-date">Posted on Oct 24, 2026</p>
+
+  <div class="news-img-row">
+    <img class="news-img" src="{{ site.url }}/assets/img/papers/2026_naturemethods_soyeon1.jpg" alt="Nature Methods Paper Figure 1">
+    <img class="news-img" src="{{ site.url }}/assets/img/papers/2026_naturemethods_soyeon2.jpg" alt="Nature Methods Paper Figure 2">
+  </div>
+
+  <p class="cite">Luebeck J, Huang E, [...], <strong>Kim S</strong>, <strong>Kim H</strong>, et al. <strong>Nature Methods.</strong> 2026. <a href="https://www.nature.com/articles/s41592-026-03264-x" target="_blank">Full text article</a></p>
+</article>
+
+<article class="news-item">
   <span class="tag tag--grant">Grant</span>
   <h2>Seunghyun Kang secured a travel grant for the EACR 2026 Conference in Berlin!</h2>
   <p>
