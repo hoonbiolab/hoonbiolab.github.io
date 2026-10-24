@@ -40,8 +40,8 @@ permalink: /docs/recent-news/
   <p class="posted-date">Posted on Oct 24, 2026</p>
 
   <div class="news-img-row">
-    <img class="news-img" src="{{ site.url }}/assets/img/papers/2026_naturemethods_soyeon1.jpg" alt="Nature Methods Paper Figure 1">
-    <img class="news-img" src="{{ site.url }}/assets/img/papers/2026_naturemethods_soyeon2.jpg" alt="Nature Methods Paper Figure 2">
+    <img class="news-img" src="{{ site.url }}/assets/img/2026_naturemethods_soyeon1.jpg" alt="Nature Methods Paper Figure 1">
+    <img class="news-img" src="{{ site.url }}/assets/img/2026_naturemethods_soyeon2.jpg" alt="Nature Methods Paper Figure 2">
   </div>
 
   <p class="cite">Luebeck J, Huang E, [...], <strong>Kim S</strong>, <strong>Kim H</strong>, et al. <strong>Nature Methods.</strong> 2026. <a href="https://www.nature.com/articles/s41592-026-03264-x" target="_blank">Full text article</a></p>
