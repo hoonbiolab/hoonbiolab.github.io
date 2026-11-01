@@ -27,7 +27,7 @@ permalink: /docs/positions/
 <div class="positions-wrap">
 
 <div class="positions-card">
-  <img src="{{ site.url }}/assets/img/2026_CBM-20251229.jpg" alt="Hoon Lab recruitment notice for Computational Biomedicine positions">
+  <img src="{{ site.url }}/assets/img/2026_CBM-20261031.jpg" alt="Hoon Lab recruitment notice for Computational Biomedicine positions">
   <div class="positions-body">
     <p>Interested in joining us? Reach out with your CV and a line about what draws you to computational cancer genomics &mdash; we'd love to hear from you.</p>
     <a class="btn-primary" href="mailto:wisekh@skku.edu">Email the lab</a>

@@ -139,10 +139,12 @@
                 <div id="md-container-pancakes">
                 <div class="md-content"> 
     <article class="md-content__inner md-typeset">
-    <style>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&amp;family=Inter:wght@400;500;600;700&amp;family=IBM+Plex+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet" />
+
+<style>
   *, *::before, *::after{ box-sizing:border-box; }
   html, body{ font-size:18px !important; }
-  html{ overflow-y:scroll; scrollbar-gutter:stable; }
+  @media (pointer:fine){ html{ overflow-y:scroll; scrollbar-gutter:stable; } }
   body > header.md-header,
   body [data-md-component="header"],
   body [data-md-component="navigation"],
@@ -185,13 +187,14 @@
   .site-nav .wide-wrap{ display:flex; align-items:center; justify-content:space-between; height:88px; }
   .site-nav .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
   .site-nav .brand img{ height:60px; width:auto; }
-  .site-nav .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:#101826; display:block; }
-  .site-nav .brand-text{ color:#101826; font-size:1rem; }
+  .site-nav .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:#101826; display:block; line-height:1.2; }
+  .site-nav .brand-text{ color:#101826; font-size:1rem; line-height:1.2; }
   .site-nav .nav-links{ display:flex; gap:28px; list-style:none; margin:0; padding:0; }
-  .site-nav .nav-links li{ margin:0; padding:0; }
+  .site-nav .nav-links li{ margin:0; padding:0; line-height:1.2; font-size:.92rem; }
+  .site-nav .wide-wrap{ line-height:1.2; }
   .site-nav .nav-links a{
     text-decoration:none; font-size:.92rem; font-weight:600; color:#3A4456;
-    position:relative; padding-bottom:4px;
+    position:relative; padding-bottom:4px; line-height:1.2;
   }
   .site-nav .nav-links a::after{
     content:""; position:absolute; left:0; bottom:0; width:0; height:2px;
@@ -226,8 +229,8 @@
   .contact-band .foot-row{ display:flex; justify-content:space-between; align-items:center; font-size:.82rem; color:rgba(255,255,255,.5); flex-wrap:wrap; gap:16px; }
   .contact-band .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
   .contact-band .brand img{ height:44px; }
-  .contact-band .brand-text strong{ color:#fff; font-family:'Fraunces',serif; }
-  .contact-band .brand-text{ color:rgba(255,255,255,.7); font-size:1rem; }
+  .contact-band .brand-text strong{ color:#fff; font-family:'Fraunces',serif; line-height:1.2; }
+  .contact-band .brand-text{ color:rgba(255,255,255,.7); font-size:1rem; line-height:1.2; }
   .contact-band .foot-links{ display:flex; gap:20px; list-style:none; margin:0; padding:0; flex-wrap:wrap; }
   .contact-band .foot-links li{ margin:0; padding:0; }
   .contact-band .foot-links a{ color:rgba(255,255,255,.6); text-decoration:none; font-weight:600; }
@@ -258,6 +261,7 @@
   .profile-timeline .step::before{ content:""; position:absolute; left:0; top:6px; width:7px; height:7px; border-radius:50%; background:#E2572B; }
   .profile-step-when{ font-family:'IBM Plex Mono',monospace; font-size:.74rem; letter-spacing:.06em; text-transform:uppercase; color:#68707D; display:block; }
   .profile-step-what{ font-weight:600; font-size:1rem; color:#101826; }
+  .profile-step-what em{ font-weight:400; font-style:italic; }
   @media (max-width:640px){
     .profile-layout, .person-layout{ grid-template-columns:1fr; }
     .profile-hero .outer, .profile-body .inner{ padding:0 20px; }
@@ -333,12 +337,12 @@
 <div class="pub-list-wrap">
 <p class="lede">Also on <a href="https://scholar.google.com/citations?user=foxOEo4AAAAJ&amp;hl=en" target="_blank">Google Scholar</a> and <a href="https://orcid.org/0000-0003-4244-6126" target="_blank">ORCID</a>.</p>
 <div class="pub-list-wrap-cards">
-<div class="pub-entry-card pub-entry-card--noimg"><div class="pub-entry-text"><span class="pub-status-tag">In Press</span> Jens Luebeck, Edwin Huang, […], <strong>Soyeon Kim</strong>, <strong>Hoon Kim</strong>, […], Jill Mesirov, Vineet Bafna. "AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes", <strong class="pub-journal-emph">Nature Methods</strong>, in press.</div></div>
+<div class="pub-entry-card pub-entry-card--noimg"><div class="pub-entry-text">Jens Luebeck, Edwin Huang, […], <strong>Soyeon Kim</strong>, <strong>Hoon Kim</strong>, […], Jill Mesirov, Vineet Bafna. "<a href="https://www.nature.com/articles/s41592-026-03264-x" target="_blank">AmpliconSuite: an end-to-end workflow for analyzing focal amplifications in cancer genomes</a>", <strong class="pub-journal-emph">Nature Methods</strong>, 2026.</div></div>
 <div class="pub-entry-card"><div class="pub-entry-media"><img src="http://0.0.0.0:4000/assets/img/papers/2026_sttt_boyoon1.jpg" alt="" /></div><div class="pub-entry-text">Sujin Kim*, <strong>Boyoon Kim</strong>*, Ahjin Lim, Jeonghee Cho#, <strong>Hoon Kim</strong>#, "RAF1 extrachromosomal DNA amplification confers acquired erlotinib resistance in a non-small cell lung cancer cell model", <strong class="pub-journal-emph">Signal Transduction and Targeted Therapy</strong>, 2026 Aug.</div></div>
 <div class="pub-entry-card"><div class="pub-entry-media"><img src="http://0.0.0.0:4000/assets/img/papers/2026_emm_eunchae1.jpg" alt="" /></div><div class="pub-entry-text">Hyeong-Cheol Oh*, Ran Joo Choi*, Se-Young Jo*, <strong>Eunchae Yeo</strong>*, [...], <strong>Hoon Kim</strong>, [...], Seok-Gu Kang#, "Putative glioblastoma origin-like cells in the subventricular zone: isolation and characterization", <strong class="pub-journal-emph">Experimental &amp; Molecular Medicine</strong>, 2026 Aug.</div></div>
 <div class="pub-entry-card"><div class="pub-entry-media"><img src="http://0.0.0.0:4000/assets/img/papers/2026_theranostics_jiwon.jpg" alt="" /></div><div class="pub-entry-text">Seoyul Jo*, <strong>Jiwon Shon</strong>*, Seohyeon An, <strong>Yoonjoo Nam</strong>, Dongwon Choi, Seungmi Lee, Hoigi Seo, Se Young Chun, <strong>Hoon Kim</strong>, GeunHyung Kim#, "Tailorable porous collagen hydrogels as a physiologically relevant platform for extrachromosomal DNA-associated colorectal cancer research", <strong class="pub-journal-emph">Theranostics</strong>, 2026 Mar.</div></div>
 <div class="pub-entry-card"><div class="pub-entry-media"><img src="http://0.0.0.0:4000/assets/img/papers/2026_science_ecdna.jpg" alt="" /></div><div class="pub-entry-text">Jung Won Park*, Jiehoon Kwak, […], <strong>Hoon Kim</strong>, Young Seok Ju, Seok-Gu Kang# , Jeong Ho Lee#, "IDH-mutant gliomas arise from glial progenitor cells harboring the initial driver mutation", <strong class="pub-journal-emph">Science</strong>, 2026 Jan.</div></div>
-<div class="pub-entry-card pub-entry-card--noimg"><div class="pub-entry-text"><strong>Seunghyun Kang</strong>*, […], <strong>Soyeon Kim</strong>, […], <strong>Sepil An</strong>, […], <strong>Hyeongjin Cho</strong>, [...], <strong>Sanghyun Kim</strong># ,[...], Hoon Kim#, "Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer", <strong class="pub-journal-emph">Cancer Letters</strong>, 2026 Feb.</div></div>
+<div class="pub-entry-card"><div class="pub-entry-media"><img src="http://0.0.0.0:4000/assets/img/papers/20251229-steve_paper.jpg" alt="" /></div><div class="pub-entry-text"><strong>Seunghyun Kang</strong>*, […], <strong>Soyeon Kim</strong>, […], <strong>Sepil An</strong>, […], <strong>Hyeongjin Cho</strong>, [...], <strong>Sanghyun Kim</strong># ,[...], Hoon Kim#, "Extrachromosomal DNA amplifications exhibit distinct molecular characteristics and prognostic implications in gastric cancer", <strong class="pub-journal-emph">Cancer Letters</strong>, 2026 Feb.</div></div>
 <div class="pub-entry-card"><div class="pub-entry-media"><img src="http://0.0.0.0:4000/assets/img/pub-cellrepmed-2025.jpg" alt="" /></div><div class="pub-entry-text">Eun Seop Seo*, […], <strong>Sepil An</strong>, […], <strong>Hoon Kim</strong>#, […], Ji-Yeon Kim#, "Spatial and genomic profiling of residual breast cancer after neoadjuvant chemotherapy unveil divergent fates for each breast cancer subtype", <strong class="pub-journal-emph">Cell Rep Med</strong>, 2025 May.</div></div>
 <div class="pub-entry-card"><div class="pub-entry-media"><img src="http://0.0.0.0:4000/assets/img/pub-natgenet-2024.png" alt="" /></div><div class="pub-entry-text"><strong>Hoon Kim</strong>#, <strong>Soyeon Kim</strong>*, Taylor Wade, <strong>Eunchae Yeo</strong>, […], <strong>Sepil An</strong>, <strong>Junyong Ko</strong>, <strong>Yoonjoo Nam</strong>, <strong>Hwa Yeon Lee</strong>, <strong>Seunghyun Kang</strong>, <strong>Heesuk Chung</strong>, […], Roel G. W. Verhaak#, "Mapping extrachromosomal DNA amplifications during cancer progression", <strong class="pub-journal-emph">Nature Genetics</strong>, 2024 November.</div></div>
 <div class="pub-entry-card"><div class="pub-entry-media"><img src="http://0.0.0.0:4000/assets/img/pub-nature-2023-barretts.png" alt="" /></div><div class="pub-entry-text">Jens Luebeck, Alvin Wei Tian Ng, […], <strong>Hoon Kim</strong>, […], Howard Y. Chang, Paul S. Mischel. "Extrachromosomal DNA in the cancerous transformation of Barrett's esophagus", <strong class="pub-journal-emph">Nature</strong>, 2023 April.</div></div>

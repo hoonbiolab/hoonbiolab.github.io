@@ -37,6 +37,11 @@ permalink: /
   .home-body .font-mono{ font-family:'IBM Plex Mono',monospace; }
   .home-body .wrap{ max-width:1320px; margin:0 auto; padding:0 40px; }
   @media (max-width:640px){ .home-body .wrap{ padding:0 20px; } }
+  @media (max-width:640px){
+    .home-body .brand img{ height:44px; }
+    .home-body .site-nav .wrap{ height:72px; }
+    .home-body .mobile-nav.open{ top:72px; max-height:calc(100vh - 72px); }
+  }
 
   .home-body .eyebrow{
     font-family:'IBM Plex Mono',monospace; font-size:.72rem; letter-spacing:.16em;
@@ -54,16 +59,17 @@ permalink: /
   .home-body .brand-text strong{ font-family:'Fraunces',serif; font-size:1.05rem; color:var(--ink); display:block; line-height:1.2; }
   .home-body .brand-text{ line-height:1.2; }
   .home-body .nav-links{ display:flex; gap:28px; list-style:none; margin:0; padding:0; }
+  .home-body .nav-links li{ margin:0; padding:0; line-height:1.2; font-size:.92rem; }
   .home-body .nav-links a{
-    text-decoration:none; font-size:.92rem; font-weight:600; color:var(--ink-soft);
+    text-decoration:none; font-size:.92rem; font-weight:600; color:#3A4456;
     position:relative; padding-bottom:4px;
   }
   .home-body .nav-links a::after{
     content:""; position:absolute; left:0; bottom:0; width:0; height:2px;
-    background:var(--coral); transition:width .25s ease;
+    background:#E2572B; transition:width .25s ease;
   }
   .home-body .nav-links a:hover::after, .home-body .nav-links a.active::after{ width:100%; }
-  .home-body .nav-links a:hover, .home-body .nav-links a.active{ color:var(--ink); }
+  .home-body .nav-links a:hover, .home-body .nav-links a.active{ color:#101826; }
   .home-body .nav-cta{
     font-size:.85rem; font-weight:700; background:var(--ink); color:#fff;
     padding:9px 16px; border-radius:999px; text-decoration:none;
@@ -361,7 +367,7 @@ permalink: /
       <div><span class="eyebrow">We're hiring</span><h2>Open Positions</h2></div>
     </div>
     <div class="positions-card">
-      <img src="{{ site.url }}/assets/img/2026_CBM-20251229.jpg" alt="Hoon Lab recruitment notice for Computational Biomedicine positions">
+      <img src="{{ site.url }}/assets/img/2026_CBM-20261031.jpg" alt="Hoon Lab recruitment notice for Computational Biomedicine positions">
       <div class="positions-body">
         <p>Interested in joining us? Reach out with your CV and a line about what draws you to computational cancer genomics &mdash; we'd love to hear from you.</p>
         <button class="btn btn-primary" id="email-modal-btn" style="border:none; cursor:pointer;">Email the lab</button>

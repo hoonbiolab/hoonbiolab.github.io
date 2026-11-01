@@ -6,9 +6,38 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Sep 2026 22:26:14 -0500</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 22:26:14 -0500</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 01:37:13 -0600</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:37:13 -0600</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>&lt;img src=&quot;/assets/img/trophy.png&quot; height=&quot;20px&quot;&gt; Seunghyun (Steve) Kang awarded Travel Grant for EACR 2026 Conference!</title>
+        <description>&lt;p&gt;&lt;strong&gt;Seunghyun Kang&lt;/strong&gt; has been awarded a travel grant to attend the upcoming &lt;strong&gt;EACR Conference: Chromosomes in Crisis: From Chromosomal Instability to Catastrophes in Cancer Genomes&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;He will be participating in the conference held in &lt;strong&gt;Berlin, Germany&lt;/strong&gt; from &lt;strong&gt;November 3 to 5, 2026&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Steve on securing this travel grant!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://eacr.org/conference/chromosomesincrisis2026/index&quot; target=&quot;_blank&quot;&gt;Conference Info Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2026_eacr_steve.png&quot; alt=&quot;EACR Travel Grant&quot; style=&quot;max-width: 50%; border-radius: 8px; border: 1px solid #E4E1D6;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/2026/steve-eacr-travel-grant/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2026/steve-eacr-travel-grant/</guid>
+        
+        <category>news</category>
+        
+        <category>award</category>
+        
+        <category>grant</category>
+        
+        <category>s_kang</category>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>&lt;img src=&quot;/assets/img/trophy.png&quot; height=&quot;20px&quot;&gt; Jiwon Shon and Boyoon Kim awarded 1-month research training at University of Basel, Switzerland!</title>
@@ -224,53 +253,6 @@
         <category>ICGC</category>
         
         <category>news</category>
-        
-        <category>papers</category>
-        
-        
-        <category>publication</category>
-        
-      </item>
-    
-      <item>
-        <title>&lt;img src=&quot;/assets/img/paper.png&quot; height=&quot;20px&quot;&gt; Learning from spontaneous gliomas in companion dogs</title>
-        <description>&lt;p&gt;Our paper focusing on comparative oncology of cross-species gliomas is out today in &lt;em&gt;Cancer Cell&lt;/em&gt;. Dogs get spontaneous tumors similar to humans in an immuno-competent environment. &lt;!--more--&gt; We sought to trace molecular life history of gliomas across two species, i.e., to identify common set of somatic alterations and underlying evolutionary conserved mutational processes. We also queried age-related impact on development of glioma in canines vs. human pediatric and adult patients of glioma to show if canine gliomas resemble more of human pediatric or adult gliomas.&lt;/p&gt;
-
-&lt;p&gt;We performed genomic, epigenomic, and transcriptomic characterization of sporadic glioma in dogs (n=83), and compared those to available genomic profiling of patients of human pediatric and adult gliomas. Canine gliomas were marked by &lt;strong&gt;significantly lower somatic mutation burden&lt;/strong&gt; than human adult gliomas but similar to human pediatric gliomas. Despite lower somatic mutation burden, gliomas across canine and human pediatric and adult patients were marked by presence of recurrent, hot-spot, somatic mutations in known glioma drivers like PDGFRA, PIK3CA, and IDH1, suggesting &lt;strong&gt;convergent evolution of cross-species gliomas&lt;/strong&gt;. Overall, gliomas in dogs, despite their prevalence in adult dogs, &lt;strong&gt;resembled human pediatric gliomas by mutational burden and DNA methylation&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Comparative oncology of spontaneous cancer in companion dogs can yield not only insights into evolutionary origins of cancer but also provide strong rationale to conduct parallel clinical trials in immuno-competent companion dogs for potential benefits to both, humans and their best friend!&lt;/p&gt;
-
-&lt;p&gt;For more, please &lt;a href=&quot;https://authors.elsevier.com/a/1aYXc_YwcvlkVR&quot;&gt;read our paper here&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We also provide companion website, &lt;a href=&quot;https://canineglioma.verhaaklab.com&quot;&gt;https://canineglioma.verhaaklab.com&lt;/a&gt;, that hosts extended methods and code to generate figures.&lt;/p&gt;
-
-&lt;p&gt;Samirkumar B. Amin, Kevin J. Anderson, C. Elizabeth Boudreau, Emmanuel Martinez-Ledesma, Emre Kocakavuk, Kevin C. Johnson, Floris P. Barthel, Frederick S. Varn, Cynthia Kassab, Xiaoyang Ling, Hoon Kim, Mary Barter, Ching C. Lau, Chew Yee Ngan, Margaret Chapman, Jennifer W. Koehler, James P. Long, Andrew D. Miller, C. Ryan Miller, Brian F. Porter, Daniel R. Rissi, Christina Mazcko, Amy K. LeBlanc, Peter J. Dickinson, Rebecca A. Packer, Amanda R. Taylor, John H. Rossmeisl Jr, Kevin D. Woolard, Amy B. Heimberger, Jonathan M. Levine, Roel G. W. Verhaak.&lt;/p&gt;
-
-&lt;p&gt;Comparative Molecular Life History of Spontaneous Canine and Human Gliomas.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Cancer Cell&lt;/em&gt; 2020;37:243–57.e7. doi: &lt;a href=&quot;https://doi.org/10.1016/j.ccell.2020.01.004&quot;&gt;10.1016/j.ccell.2020.01.004&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Full text link is provided by the publisher and valid until March 31, 2020. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 10 Feb 2020 00:00:00 -0600</pubDate>
-        <link>http://0.0.0.0:4000/2020/learning-from-spontaneous-gliomas-in-companion-dogs/</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/2020/learning-from-spontaneous-gliomas-in-companion-dogs/</guid>
-        
-        <category>evolution</category>
-        
-        <category>comparative_oncology</category>
-        
-        <category>canine</category>
-        
-        <category>glioma</category>
-        
-        <category>LifeHistory</category>
-        
-        <category>s_amin</category>
         
         <category>papers</category>
         
